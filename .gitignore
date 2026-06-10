@@ -1,0 +1,19 @@
+# Závislosti
+node_modules/
+.pnp
+.pnp.js
+
+# Build výstupy
+.next/
+out/
+dist/
+
+# Prostředí – NIKDY necommitovat!
+.env
+.env.local
+.env.*.local
+
+# Různé
+.DS_Store
+*.pem
+.vercel
