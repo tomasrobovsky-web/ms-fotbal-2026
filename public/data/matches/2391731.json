@@ -1,0 +1,115 @@
+{
+  "id": "2391731",
+  "events": [
+    {
+      "minute": 28,
+      "type": "goal",
+      "team": "a",
+      "player": "John McGinn",
+      "assist": ""
+    },
+    {
+      "minute": 39,
+      "type": "yellow",
+      "team": "h",
+      "player": "Jean-Ricner Bellegarde"
+    },
+    {
+      "minute": 46,
+      "type": "yellow",
+      "team": "a",
+      "player": "Aaron Hickey"
+    },
+    {
+      "minute": 61,
+      "type": "sub",
+      "team": "h",
+      "player": "Louicius Deedson",
+      "off": "Josué Casimir"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Ben Gannon-Doak",
+      "off": "Ryan Christie"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "",
+      "xi": [],
+      "bench": []
+    },
+    "away": {
+      "form": "2-1-2",
+      "xi": [
+        {
+          "name": "Andrew Robertson",
+          "num": 3,
+          "pos": "DF",
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Grant Hanley",
+          "num": 5,
+          "pos": "DF",
+          "club": "Hibernian"
+        },
+        {
+          "name": "Lawrence Shankland",
+          "num": 20,
+          "pos": "FW",
+          "club": "Rangers"
+        },
+        {
+          "name": "John McGinn",
+          "num": 7,
+          "pos": "MF",
+          "club": "Aston Villa"
+        },
+        {
+          "name": "Che Adams",
+          "num": 10,
+          "pos": "FW",
+          "club": "Torino"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        2,
+        2
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        15,
+        9
+      ],
+      [
+        "Střely mimo",
+        9,
+        5
+      ],
+      [
+        "Zblokované",
+        4,
+        2
+      ],
+      [
+        "Střely ve vápně",
+        8,
+        8
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:36.111Z"
+}

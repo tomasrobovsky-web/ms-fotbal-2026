@@ -1,0 +1,114 @@
+{
+  "id": "2461104",
+  "events": [
+    {
+      "minute": 11,
+      "type": "yellow",
+      "team": "h",
+      "player": "Alistair Johnston"
+    },
+    {
+      "minute": 21,
+      "type": "goal",
+      "team": "a",
+      "player": "Jovo Lukić",
+      "assist": "Sead Kolašinac"
+    },
+    {
+      "minute": 45,
+      "type": "yellow",
+      "team": "a",
+      "player": "Ermedin Demirović"
+    },
+    {
+      "minute": 45,
+      "type": "yellow",
+      "team": "a",
+      "player": "Jovo Lukić"
+    },
+    {
+      "minute": 53,
+      "type": "yellow",
+      "team": "h",
+      "player": "Luc de Fougerolles"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Stephen Eustáquio",
+          "num": 7,
+          "pos": "MF",
+          "club": "Los Angeles FC"
+        },
+        {
+          "name": "Maxime Crépeau",
+          "num": 16,
+          "pos": "GK",
+          "club": "Orlando City"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "2-1",
+      "xi": [
+        {
+          "name": "Sead Kolašinac",
+          "num": 5,
+          "pos": "DF",
+          "club": "Atalanta"
+        },
+        {
+          "name": "Nikola Katić",
+          "num": 18,
+          "pos": "DF",
+          "club": "Schalke 04"
+        },
+        {
+          "name": "Ermedin Demirović",
+          "num": 10,
+          "pos": "FW",
+          "club": "Stuttgart"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        4,
+        3
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        12,
+        8
+      ],
+      [
+        "Střely mimo",
+        5,
+        4
+      ],
+      [
+        "Zblokované",
+        3,
+        1
+      ],
+      [
+        "Střely ve vápně",
+        9,
+        5
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:29.855Z"
+}

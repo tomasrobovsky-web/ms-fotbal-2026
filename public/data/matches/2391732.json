@@ -1,0 +1,114 @@
+{
+  "id": "2391732",
+  "events": [
+    {
+      "minute": 16,
+      "type": "yellow",
+      "team": "h",
+      "player": "Mahmud Abunada"
+    },
+    {
+      "minute": 17,
+      "type": "goal",
+      "team": "a",
+      "player": "Breel Embolo",
+      "assist": ""
+    },
+    {
+      "minute": 23,
+      "type": "yellow",
+      "team": "h",
+      "player": "Jassem Gaber"
+    },
+    {
+      "minute": 42,
+      "type": "yellow",
+      "team": "a",
+      "player": "Denis Zakaria"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "h",
+      "player": "Jassem Gaber",
+      "off": "Karim Boudiaf"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "",
+      "xi": [],
+      "bench": []
+    },
+    "away": {
+      "form": "3-1-1",
+      "xi": [
+        {
+          "name": "Ricardo Rodriguez",
+          "num": 13,
+          "pos": "DF",
+          "club": "Real Betis"
+        },
+        {
+          "name": "Granit Xhaka",
+          "num": 10,
+          "pos": "DF",
+          "club": "Sunderland"
+        },
+        {
+          "name": "Manuel Akanji",
+          "num": 5,
+          "pos": "DF",
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Breel Embolo",
+          "num": 7,
+          "pos": "FW",
+          "club": "Rennes"
+        },
+        {
+          "name": "Remo Freuler",
+          "num": 8,
+          "pos": "MF",
+          "club": "Bologna"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        4,
+        7
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        7,
+        25
+      ],
+      [
+        "Střely mimo",
+        3,
+        9
+      ],
+      [
+        "Zblokované",
+        0,
+        9
+      ],
+      [
+        "Střely ve vápně",
+        5,
+        18
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:34.515Z"
+}

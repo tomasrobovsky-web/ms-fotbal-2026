@@ -1,0 +1,117 @@
+{
+  "id": "2391728",
+  "events": [
+    {
+      "minute": 9,
+      "type": "goal",
+      "team": "h",
+      "player": "Julián Quiñones",
+      "assist": "Érik Lira"
+    },
+    {
+      "minute": 17,
+      "type": "yellow",
+      "team": "a",
+      "player": "Teboho Mokoena"
+    },
+    {
+      "minute": 23,
+      "type": "yellow",
+      "team": "h",
+      "player": "Brian Gutiérrez"
+    },
+    {
+      "minute": 49,
+      "type": "red",
+      "team": "a",
+      "player": "Sphephelo Sithole"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "a",
+      "player": "Lyle Foster",
+      "off": "Thalente Mbatha"
+    }
+  ],
+  "reds": {
+    "a": true
+  },
+  "lineups": {
+    "home": {
+      "form": "2-2",
+      "xi": [
+        {
+          "name": "Raúl Jiménez",
+          "num": 9,
+          "pos": "FW",
+          "club": "Fulham"
+        },
+        {
+          "name": "Álvaro Fidalgo",
+          "num": 8,
+          "pos": "MF",
+          "club": "Real Betis"
+        },
+        {
+          "name": "Julián Quiñones",
+          "num": 16,
+          "pos": "FW",
+          "club": "Al-Qadsiah"
+        },
+        {
+          "name": "Brian Gutiérrez",
+          "num": 26,
+          "pos": "MF",
+          "club": "CD Guadalajara"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Aubrey Modiba",
+          "num": 6,
+          "pos": "DF",
+          "club": "Mamelodi Sundowns"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        4,
+        2
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        16,
+        3
+      ],
+      [
+        "Střely mimo",
+        7,
+        1
+      ],
+      [
+        "Zblokované",
+        5,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        9,
+        1
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:26.676Z"
+}

@@ -1,8 +1,11 @@
-export default function ZapasyPage() {
-  return (
-    <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Zápasy</h1>
-      <p className="text-gray-400">Načítání zápasů…</p>
-    </div>
-  );
+import { getMatches } from "@/lib/schedule";
+import { getGroups } from "@/lib/standings";
+import ZapasyClient from "@/components/ZapasyClient";
+
+// Čte se za běhu, aby se po `npm run init-data` projevila nová data bez rebuildu.
+export const dynamic = "force-dynamic";
+
+export default async function ZapasyPage() {
+  const [matches, groups] = await Promise.all([getMatches(), getGroups()]);
+  return <ZapasyClient matches={matches} groups={groups} />;
 }

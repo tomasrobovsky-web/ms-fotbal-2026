@@ -1,0 +1,118 @@
+{
+  "id": "2391733",
+  "events": [
+    {
+      "minute": 6,
+      "type": "goal",
+      "team": "h",
+      "player": "Felix Nmecha",
+      "assist": "Florian Wirtz"
+    },
+    {
+      "minute": 21,
+      "type": "goal",
+      "team": "a",
+      "player": "Livano Comenencia",
+      "assist": ""
+    },
+    {
+      "minute": 38,
+      "type": "goal",
+      "team": "h",
+      "player": "Nico Schlotterbeck",
+      "assist": "Nathaniel Brown"
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "h",
+      "player": "Kai Havertz",
+      "assist": ""
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Sontje Hansen",
+      "off": "Jeremy Antonisse"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "1-1",
+      "xi": [
+        {
+          "name": "Manuel Neuer",
+          "num": 1,
+          "pos": "GK",
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Jonathan Tah",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Leroy Sané",
+          "num": 19,
+          "pos": "FW",
+          "club": "Galatasaray"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Leandro Bacuna",
+          "num": 10,
+          "pos": "DF",
+          "club": "Iğdır"
+        },
+        {
+          "name": "Riechedly Bazoer",
+          "num": 23,
+          "pos": "DF",
+          "club": "Konyaspor"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        12,
+        2
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        26,
+        8
+      ],
+      [
+        "Střely mimo",
+        6,
+        6
+      ],
+      [
+        "Zblokované",
+        8,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        21,
+        4
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:37.664Z"
+}

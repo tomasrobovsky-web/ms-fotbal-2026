@@ -1,0 +1,117 @@
+{
+  "id": "2461106",
+  "events": [
+    {
+      "minute": 7,
+      "type": "goal",
+      "team": "h",
+      "player": "Yasin Ayari",
+      "assist": ""
+    },
+    {
+      "minute": 30,
+      "type": "goal",
+      "team": "h",
+      "player": "Alexander Isak",
+      "assist": "Viktor Gyökeres"
+    },
+    {
+      "minute": 43,
+      "type": "goal",
+      "team": "a",
+      "player": "Omar Rekik",
+      "assist": "Hannibal Mejbri"
+    },
+    {
+      "minute": 54,
+      "type": "yellow",
+      "team": "a",
+      "player": "Rani Khedira"
+    },
+    {
+      "minute": 59,
+      "type": "goal",
+      "team": "h",
+      "player": "Viktor Gyökeres",
+      "assist": "Alexander Isak"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "1-1",
+      "xi": [
+        {
+          "name": "Kristoffer Nordfeldt",
+          "num": 23,
+          "pos": "GK",
+          "club": "AIK"
+        },
+        {
+          "name": "Victor Lindelöf",
+          "num": 3,
+          "pos": "DF",
+          "club": "Aston Villa"
+        },
+        {
+          "name": "Alexander Isak",
+          "num": 9,
+          "pos": "FW",
+          "club": "Liverpool"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Ellyes Skhiri",
+          "num": 17,
+          "pos": "DF",
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Rani Khedira",
+          "num": 13,
+          "pos": "DF",
+          "club": "Union Berlin"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        7,
+        2
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        13,
+        6
+      ],
+      [
+        "Střely mimo",
+        3,
+        3
+      ],
+      [
+        "Zblokované",
+        3,
+        1
+      ],
+      [
+        "Střely ve vápně",
+        9,
+        2
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T10:11:22.005Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "2391729",
+  "events": [
+    {
+      "minute": 7,
+      "type": "goal",
+      "team": "h",
+      "player": "Damián Bobadilla",
+      "assist": ""
+    },
+    {
+      "minute": 10,
+      "type": "yellow",
+      "team": "a",
+      "player": "Juan José Cáceres"
+    },
+    {
+      "minute": 28,
+      "type": "goal",
+      "team": "h",
+      "player": "Folarin Balogun",
+      "assist": ""
+    },
+    {
+      "minute": 31,
+      "type": "goal",
+      "team": "h",
+      "player": "Folarin Balogun",
+      "assist": "Christian Pulisic"
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "h",
+      "player": "Folarin Balogun",
+      "assist": "Malik Tillman"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "2-1",
+      "xi": [
+        {
+          "name": "Tim Ream",
+          "num": 13,
+          "pos": "DF",
+          "club": "Charlotte FC"
+        },
+        {
+          "name": "Antonee Robinson",
+          "num": 5,
+          "pos": "DF",
+          "club": "Fulham"
+        },
+        {
+          "name": "Christian Pulisic",
+          "num": 10,
+          "pos": "FW",
+          "club": "AC Milan"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "1-1",
+      "xi": [
+        {
+          "name": "Antonio Sanabria",
+          "num": 9,
+          "pos": "FW",
+          "club": "Cremonese"
+        },
+        {
+          "name": "Gustavo Gómez",
+          "num": 15,
+          "pos": "DF",
+          "club": "Palmeiras"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        6,
+        1
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        16,
+        9
+      ],
+      [
+        "Střely mimo",
+        6,
+        3
+      ],
+      [
+        "Zblokované",
+        4,
+        5
+      ],
+      [
+        "Střely ve vápně",
+        13,
+        4
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:31.411Z"
+}

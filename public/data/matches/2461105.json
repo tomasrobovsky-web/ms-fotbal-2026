@@ -1,0 +1,118 @@
+{
+  "id": "2461105",
+  "events": [
+    {
+      "minute": 27,
+      "type": "goal",
+      "team": "h",
+      "player": "Nestory Irankunda",
+      "assist": "Paul Okon-Engstler"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Barış Alper Yılmaz",
+      "off": "Kenan Yıldız"
+    },
+    {
+      "minute": 61,
+      "type": "sub",
+      "team": "h",
+      "player": "Nestory Irankunda",
+      "off": "Nishan Velupillay"
+    },
+    {
+      "minute": 62,
+      "type": "sub",
+      "team": "a",
+      "player": "Orkun Kökçü",
+      "off": "Yunus Akgün"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "h",
+      "player": "Mohamed Touré",
+      "off": "Tete Yengi"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Cameron Burgess",
+          "num": 21,
+          "pos": "DF",
+          "club": "Swansea City"
+        },
+        {
+          "name": "Harry Souttar",
+          "num": 19,
+          "pos": "DF",
+          "club": "Leicester City"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Hakan Çalhanoğlu",
+          "num": 10,
+          "pos": "DF",
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Uğurcan Çakır",
+          "num": 23,
+          "pos": "GK",
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Abdülkerim Bardakcı",
+          "num": 14,
+          "pos": "DF",
+          "club": "Galatasaray"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        4,
+        8
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        9,
+        30
+      ],
+      [
+        "Střely mimo",
+        4,
+        10
+      ],
+      [
+        "Zblokované",
+        1,
+        12
+      ],
+      [
+        "Střely ve vápně",
+        6,
+        14
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:24:46.475Z"
+}

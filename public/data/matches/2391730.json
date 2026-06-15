@@ -1,0 +1,116 @@
+{
+  "id": "2391730",
+  "events": [
+    {
+      "minute": 21,
+      "type": "goal",
+      "team": "a",
+      "player": "Ismael Saibari",
+      "assist": "Brahim Díaz"
+    },
+    {
+      "minute": 32,
+      "type": "goal",
+      "team": "h",
+      "player": "Vinícius Júnior",
+      "assist": "Bruno Guimarães"
+    },
+    {
+      "minute": 37,
+      "type": "yellow",
+      "team": "h",
+      "player": "Casemiro"
+    },
+    {
+      "minute": 43,
+      "type": "yellow",
+      "team": "h",
+      "player": "Roger Ibañez"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Roger Ibañez",
+      "off": "Danilo"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "3-1",
+      "xi": [
+        {
+          "name": "Casemiro",
+          "num": 5,
+          "pos": "DF",
+          "club": "Manchester United"
+        },
+        {
+          "name": "Douglas Santos",
+          "num": 16,
+          "pos": "DF",
+          "club": "Zenit Saint Petersburg"
+        },
+        {
+          "name": "Marquinhos",
+          "num": 4,
+          "pos": "DF",
+          "club": "Paris SG"
+        },
+        {
+          "name": "Vinícius Júnior",
+          "num": 7,
+          "pos": "FW",
+          "club": "Real Madrid"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Brahim Díaz",
+          "num": 10,
+          "pos": "FW",
+          "club": "Real Madrid"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        4,
+        2
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        12,
+        12
+      ],
+      [
+        "Střely mimo",
+        4,
+        4
+      ],
+      [
+        "Zblokované",
+        4,
+        6
+      ],
+      [
+        "Střely ve vápně",
+        9,
+        6
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:32.962Z"
+}

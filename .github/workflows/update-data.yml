@@ -1,0 +1,49 @@
+name: Update MS 2026 data
+
+# Periodicky obnoví data (rozpis, tabulky, detaily zápasů, zprávy) a commitne
+# změny do public/data — Vercel se pak sám re-deployne.
+# Pozn.: GitHub cron je „best-effort", minimální interval 5 min a může se zpozdit.
+# Pro plná data (sestavy/statistiky) přidej repo secret THESPORTSDB_KEY (premium).
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Refresh dat z TheSportsDB
+        env:
+          FORCE_REFRESH: "1"
+          THESPORTSDB_KEY: ${{ secrets.THESPORTSDB_KEY }}
+        run: node scripts/launch-refresh.js
+
+      - name: Commit změn v public/data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "Žádné změny dat — nic ke commitu."
+          else
+            git commit -m "chore(data): automatická aktualizace MS 2026 [skip ci]"
+            git push
+          fi

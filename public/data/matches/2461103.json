@@ -1,0 +1,118 @@
+{
+  "id": "2461103",
+  "events": [
+    {
+      "minute": 59,
+      "type": "goal",
+      "team": "a",
+      "player": "Ladislav Krejčí",
+      "assist": "Vladimír Coufal"
+    },
+    {
+      "minute": 62,
+      "type": "sub",
+      "team": "h",
+      "player": "Jae-sung Lee",
+      "off": "Hee-chan Hwang"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "a",
+      "player": "Pavel Šulc",
+      "off": "Adam Hložek"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "a",
+      "player": "Patrik Schick",
+      "off": "Tomáš Chorý"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "a",
+      "player": "Lukáš Provod",
+      "off": "Michal Sadílek"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "1-1",
+      "xi": [
+        {
+          "name": "Heung-min Son",
+          "num": 7,
+          "pos": "FW",
+          "club": "Los Angeles FC"
+        },
+        {
+          "name": "Kang-in Lee",
+          "num": 19,
+          "pos": "MF",
+          "club": "Paris SG"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "2-1",
+      "xi": [
+        {
+          "name": "Patrik Schick",
+          "num": 10,
+          "pos": "FW",
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Tomáš Souček",
+          "num": 22,
+          "pos": "DF",
+          "club": "West Ham United"
+        },
+        {
+          "name": "Vladimír Coufal",
+          "num": 5,
+          "pos": "DF",
+          "club": "Hoffenheim"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        6,
+        4
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        15,
+        8
+      ],
+      [
+        "Střely mimo",
+        5,
+        4
+      ],
+      [
+        "Zblokované",
+        4,
+        1
+      ],
+      [
+        "Střely ve vápně",
+        10,
+        5
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:28.236Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2391734",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "1-2-1",
+      "xi": [
+        {
+          "name": "Seko Fofana",
+          "num": 6,
+          "pos": "MF",
+          "club": "FC Porto"
+        },
+        {
+          "name": "Franck Kessié",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Ghislain Konan",
+          "num": 3,
+          "pos": "DF",
+          "club": "Gil Vicente"
+        },
+        {
+          "name": "Nicolas Pépé",
+          "num": 19,
+          "pos": "FW",
+          "club": "Villarreal"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "",
+      "xi": [
+        {
+          "name": "Enner Valencia",
+          "num": 13,
+          "pos": "FW",
+          "club": "Pachuca"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "Na branku",
+        1,
+        0
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        6,
+        6
+      ],
+      [
+        "Střely mimo",
+        2,
+        6
+      ],
+      [
+        "Zblokované",
+        3,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        3,
+        1
+      ]
+    ]
+  },
+  "source": "thesportsdb-v1",
+  "updatedAt": "2026-06-15T01:21:39.236Z"
+}
