@@ -205,7 +205,7 @@ const STAT_MAP = {
   'Ball Possession': { label: 'Držení %', group: 'donut', order: 1 },
   'Shots on Goal': { label: 'Na branku', group: 'donut', order: 2 },
   'Passes %': { label: 'Přesnost %', group: 'donut', order: 3 },
-  'Passes Accurate': { label: 'Přesné přihr.', group: 'bar', order: 13 },
+  'Passes accurate': { label: 'Přesné přihr.', group: 'bar', order: 13 },
   'Corner Kicks': { label: 'Rohy', group: 'donut', order: 4 },
   'Fouls': { label: 'Fauly', group: 'donut', order: 5 },
   'Total Shots': { label: 'Střely celkem', group: 'bar', order: 6 },

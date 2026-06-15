@@ -1,9 +1,361 @@
 {
   "id": "2391735",
-  "events": [],
+  "events": [
+    {
+      "minute": 51,
+      "type": "goal",
+      "team": "h",
+      "player": "Virgil van Dijk",
+      "assist": "Ryan Gravenberch"
+    },
+    {
+      "minute": 57,
+      "type": "goal",
+      "team": "a",
+      "player": "Keito Nakamura",
+      "assist": "Takefusa Kubo"
+    },
+    {
+      "minute": 61,
+      "type": "yellow",
+      "team": "h",
+      "player": "Crysencio Summerville"
+    },
+    {
+      "minute": 64,
+      "type": "goal",
+      "team": "h",
+      "player": "Crysencio Summerville",
+      "assist": "Ryan Gravenberch"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "a",
+      "player": "Daizen Maeda",
+      "off": "Junya Itō"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Donyell Malen",
+      "off": "Memphis Depay"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Crysencio Summerville",
+      "off": "Teun Koopmeiners"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Tijjani Reijnders",
+      "off": "Quinten Timber"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Tsuyoshi Watanabe",
+      "off": "Takehiro Tomiyasu"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Takefusa Kubo",
+      "off": "Kōki Ogawa"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Ritsu Dōan",
+      "off": "Yukinari Sugawara"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "h",
+      "player": "Ryan Gravenberch",
+      "off": "Nathan Aké"
+    },
+    {
+      "minute": 83,
+      "type": "yellow",
+      "team": "h",
+      "player": "Memphis Depay"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "a",
+      "player": "Ayase Ueda",
+      "off": "Kento Shiogai"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "Cody Gakpo",
+      "off": "Brian Brobbey"
+    },
+    {
+      "minute": 89,
+      "type": "goal",
+      "team": "a",
+      "player": "Daichi Kamada",
+      "assist": "Kōki Ogawa"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "h",
+      "player": "Micky van de Ven"
+    }
+  ],
   "reds": {},
-  "lineups": null,
-  "stats": null,
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:23:13.844Z"
+  "lineups": {
+    "home": {
+      "form": "3-4-3",
+      "xi": [
+        {
+          "name": "Virgil van Dijk",
+          "num": 4,
+          "pos": "DF",
+          "club": "Liverpool"
+        },
+        {
+          "name": "Donyell Malen",
+          "num": 18,
+          "pos": "FW",
+          "club": "Roma"
+        },
+        {
+          "name": "Cody Gakpo",
+          "num": 11,
+          "pos": "FW",
+          "club": "Liverpool"
+        },
+        {
+          "name": "Denzel Dumfries",
+          "num": 22,
+          "pos": "MF",
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Frenkie de Jong",
+          "num": 21,
+          "pos": "MF",
+          "club": "Barcelona"
+        },
+        {
+          "name": "Crysencio Summerville",
+          "num": 24,
+          "pos": "FW",
+          "club": "West Ham United"
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "num": 8,
+          "pos": "MF",
+          "club": "Liverpool"
+        },
+        {
+          "name": "Tijjani Reijnders",
+          "num": 14,
+          "pos": "MF",
+          "club": "Manchester City"
+        },
+        {
+          "name": "Bart Verbruggen",
+          "num": 1,
+          "pos": "GK",
+          "club": "Brighton and Hove Albion"
+        },
+        {
+          "name": "Micky van de Ven",
+          "num": 15,
+          "pos": "DF",
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Jan Paul van Hecke",
+          "num": 6,
+          "pos": "DF",
+          "club": "Brighton and Hove Albion"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-1-5",
+      "xi": [
+        {
+          "name": "Daichi Kamada",
+          "num": 15,
+          "pos": "MF",
+          "club": "Crystal Palace"
+        },
+        {
+          "name": "Takefusa Kubo",
+          "num": 8,
+          "pos": "FW",
+          "club": "Real Sociedad"
+        },
+        {
+          "name": "Keito Nakamura",
+          "num": 13,
+          "pos": "FW",
+          "club": "Stade de Reims"
+        },
+        {
+          "name": "Ritsu Dōan",
+          "num": 10,
+          "pos": "FW",
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Shōgo Taniguchi",
+          "num": 3,
+          "pos": "DF",
+          "club": "Sint-Truiden"
+        },
+        {
+          "name": "Tsuyoshi Watanabe",
+          "num": 16,
+          "pos": "DF",
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Ayase Ueda",
+          "num": 18,
+          "pos": "FW",
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Zion Suzuki",
+          "num": 1,
+          "pos": "GK",
+          "club": "Parma"
+        },
+        {
+          "name": "Daizen Maeda",
+          "num": 11,
+          "pos": "FW",
+          "club": "Celtic"
+        },
+        {
+          "name": "Hiroki Itō",
+          "num": 21,
+          "pos": "DF",
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Kaishū Sano",
+          "num": 24,
+          "pos": "DF",
+          "club": "Mainz"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0.79,
+        0.54
+      ],
+      [
+        "Držení %",
+        60,
+        40
+      ],
+      [
+        "Na branku",
+        6,
+        3
+      ],
+      [
+        "Přesnost %",
+        88,
+        84
+      ],
+      [
+        "Rohy",
+        5,
+        4
+      ],
+      [
+        "Fauly",
+        7,
+        7
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        10,
+        10
+      ],
+      [
+        "Střely mimo",
+        3,
+        6
+      ],
+      [
+        "Zblokované",
+        1,
+        1
+      ],
+      [
+        "Střely ve vápně",
+        10,
+        6
+      ],
+      [
+        "Střely zvenku",
+        0,
+        4
+      ],
+      [
+        "Přihrávky",
+        525,
+        342
+      ],
+      [
+        "Ofsajdy",
+        1,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        464,
+        287
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        4
+      ],
+      [
+        "Žluté karty",
+        3,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:28.417Z"
 }

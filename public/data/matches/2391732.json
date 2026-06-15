@@ -32,17 +32,147 @@
       "team": "h",
       "player": "Jassem Gaber",
       "off": "Karim Boudiaf"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "h",
+      "player": "Yusuf Abdurisag",
+      "off": "Ahmed Alaaeldin"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "a",
+      "player": "Dan Ndoye",
+      "off": "Johan Manzambi"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "a",
+      "player": "Michel Aebischer",
+      "off": "Fabian Rieder"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "h",
+      "player": "Assim Madibo",
+      "off": "Mohamed Al-Mannai"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "a",
+      "player": "Rubén Vargas",
+      "off": "Zeki Amdouni"
+    },
+    {
+      "minute": 88,
+      "type": "sub",
+      "team": "h",
+      "player": "Edmilson Junior",
+      "off": "Hassan Al-Haydos"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "a",
+      "player": "Ricardo Rodriguez",
+      "off": "Miro Muheim"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "a",
+      "player": "Remo Freuler",
+      "off": "Ardon Jashari"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Boualem Khoukhi",
+      "assist": "Homam Ahmed"
     }
   ],
   "reds": {},
   "lineups": {
     "home": {
-      "form": "",
-      "xi": [],
+      "form": "7-3",
+      "xi": [
+        {
+          "name": "Boualem Khoukhi",
+          "num": 16,
+          "pos": "DF",
+          "club": "Al-Sadd"
+        },
+        {
+          "name": "Pedro Miguel",
+          "num": 2,
+          "pos": "DF",
+          "club": "Al-Sadd"
+        },
+        {
+          "name": "Edmilson Junior",
+          "num": 8,
+          "pos": "FW",
+          "club": "Al-Duhail"
+        },
+        {
+          "name": "Akram Afif",
+          "num": 11,
+          "pos": "FW",
+          "club": "Al-Sadd"
+        },
+        {
+          "name": "Homam Ahmed",
+          "num": 14,
+          "pos": "DF",
+          "club": "Cultural Leonesa"
+        },
+        {
+          "name": "Jassem Gaber",
+          "num": 5,
+          "pos": "DF",
+          "club": "Al-Rayyan"
+        },
+        {
+          "name": "Assim Madibo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Al-Wakrah"
+        },
+        {
+          "name": "Yusuf Abdurisag",
+          "num": 15,
+          "pos": "FW",
+          "club": "Al-Wakrah"
+        },
+        {
+          "name": "Ayoub Al-Oui",
+          "num": 13,
+          "pos": "DF",
+          "club": "Al-Gharafa"
+        },
+        {
+          "name": "Mahmud Abunada",
+          "num": 1,
+          "pos": "GK",
+          "club": "Al-Rayyan"
+        },
+        {
+          "name": "Issa Laye",
+          "num": 4,
+          "pos": "DF",
+          "club": "Al-Arabi"
+        }
+      ],
       "bench": []
     },
     "away": {
-      "form": "3-1-1",
+      "form": "5-2-3",
       "xi": [
         {
           "name": "Ricardo Rodriguez",
@@ -73,6 +203,42 @@
           "num": 8,
           "pos": "MF",
           "club": "Bologna"
+        },
+        {
+          "name": "Rubén Vargas",
+          "num": 17,
+          "pos": "FW",
+          "club": "Sevilla"
+        },
+        {
+          "name": "Denis Zakaria",
+          "num": 6,
+          "pos": "DF",
+          "club": "Monaco"
+        },
+        {
+          "name": "Nico Elvedi",
+          "num": 4,
+          "pos": "DF",
+          "club": "Borussia Mönchengladbach"
+        },
+        {
+          "name": "Michel Aebischer",
+          "num": 20,
+          "pos": "MF",
+          "club": "Pisa"
+        },
+        {
+          "name": "Gregor Kobel",
+          "num": 1,
+          "pos": "GK",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Dan Ndoye",
+          "num": 11,
+          "pos": "FW",
+          "club": "Nottingham Forest"
         }
       ],
       "bench": []
@@ -81,9 +247,34 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        0.76,
+        3.15
+      ],
+      [
+        "Držení %",
+        32,
+        68
+      ],
+      [
         "Na branku",
         4,
         7
+      ],
+      [
+        "Přesnost %",
+        71,
+        91
+      ],
+      [
+        "Rohy",
+        3,
+        9
+      ],
+      [
+        "Fauly",
+        12,
+        11
       ]
     ],
     "bars": [
@@ -106,9 +297,44 @@
         "Střely ve vápně",
         5,
         18
+      ],
+      [
+        "Střely zvenku",
+        2,
+        7
+      ],
+      [
+        "Přihrávky",
+        275,
+        569
+      ],
+      [
+        "Ofsajdy",
+        0,
+        1
+      ],
+      [
+        "Přesné přihr.",
+        196,
+        516
+      ],
+      [
+        "Zákroky brankáře",
+        5,
+        3
+      ],
+      [
+        "Žluté karty",
+        2,
+        1
+      ],
+      [
+        "Červené karty",
+        0,
+        0
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:21:34.515Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:19.217Z"
 }

@@ -1,10 +1,105 @@
 {
   "id": "2391734",
-  "events": [],
+  "events": [
+    {
+      "minute": 28,
+      "type": "yellow",
+      "team": "h",
+      "player": "Seko Fofana"
+    },
+    {
+      "minute": 38,
+      "type": "yellow",
+      "team": "h",
+      "player": "Franck Kessié"
+    },
+    {
+      "minute": 40,
+      "type": "yellow",
+      "team": "h",
+      "player": "Guéla Doué"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "a",
+      "player": "Alan Minda",
+      "off": "Nilson Angulo"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "h",
+      "player": "Elye Wahi",
+      "off": "Ange-Yoan Bonny"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "h",
+      "player": "Bazoumana Touré",
+      "off": "Amad Diallo"
+    },
+    {
+      "minute": 62,
+      "type": "sub",
+      "team": "a",
+      "player": "John Yeboah",
+      "off": "Angelo Preciado Quiñónez"
+    },
+    {
+      "minute": 62,
+      "type": "sub",
+      "team": "a",
+      "player": "Alan Franco",
+      "off": "Jackson Porozo"
+    },
+    {
+      "minute": 73,
+      "type": "yellow",
+      "team": "a",
+      "player": "Jackson Porozo"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "h",
+      "player": "Nicolas Pépé",
+      "off": "Christ Inao Oulaï"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "h",
+      "player": "Seko Fofana",
+      "off": "Ibrahim Sangaré"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "a",
+      "player": "Enner Valencia",
+      "off": "Kevin Rodríguez"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "h",
+      "player": "Guéla Doué",
+      "off": "Odilon Kossounou"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Amad Diallo",
+      "assist": "Wilfried Singo"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
-      "form": "1-2-1",
+      "form": "4-2-4",
       "xi": [
         {
           "name": "Seko Fofana",
@@ -29,18 +124,120 @@
           "num": 19,
           "pos": "FW",
           "club": "Villarreal"
+        },
+        {
+          "name": "Wilfried Singo",
+          "num": 5,
+          "pos": "DF",
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Elye Wahi",
+          "num": 12,
+          "pos": "FW",
+          "club": "Nice"
+        },
+        {
+          "name": "Emmanuel Agbadou",
+          "num": 20,
+          "pos": "DF",
+          "club": "Beşiktaş"
+        },
+        {
+          "name": "Yahia Fofana",
+          "num": 1,
+          "pos": "GK",
+          "club": "Rizespor"
+        },
+        {
+          "name": "Guéla Doué",
+          "num": 17,
+          "pos": "DF",
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Bazoumana Touré",
+          "num": 24,
+          "pos": "FW",
+          "club": "Hoffenheim"
+        },
+        {
+          "name": "Yan Diomande",
+          "num": 11,
+          "pos": "FW",
+          "club": "RB Leipzig"
         }
       ],
       "bench": []
     },
     "away": {
-      "form": "",
+      "form": "4-2-4",
       "xi": [
         {
           "name": "Enner Valencia",
           "num": 13,
           "pos": "FW",
           "club": "Pachuca"
+        },
+        {
+          "name": "John Yeboah",
+          "num": 9,
+          "pos": "FW",
+          "club": "Venezia"
+        },
+        {
+          "name": "Moisés Caicedo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Chelsea"
+        },
+        {
+          "name": "Piero Hincapié",
+          "num": 3,
+          "pos": "DF",
+          "club": "Arsenal"
+        },
+        {
+          "name": "Alan Franco",
+          "num": 21,
+          "pos": "MF",
+          "club": "Atlético Mineiro"
+        },
+        {
+          "name": "Hernán Galíndez",
+          "num": 1,
+          "pos": "GK",
+          "club": "Huracán"
+        },
+        {
+          "name": "Gonzalo Plata",
+          "num": 19,
+          "pos": "FW",
+          "club": "Flamengo"
+        },
+        {
+          "name": "Pedro Vite",
+          "num": 15,
+          "pos": "MF",
+          "club": "Pumas UNAM"
+        },
+        {
+          "name": "Willian Pacho",
+          "num": 6,
+          "pos": "DF",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Alan Minda",
+          "num": 14,
+          "pos": "FW",
+          "club": "Atlético Mineiro"
+        },
+        {
+          "name": "Joel Ordóñez",
+          "num": 4,
+          "pos": "DF",
+          "club": "Club Brugge"
         }
       ],
       "bench": []
@@ -49,34 +246,94 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        1.52,
+        1.01
+      ],
+      [
+        "Držení %",
+        48,
+        52
+      ],
+      [
         "Na branku",
-        1,
-        0
+        4,
+        1
+      ],
+      [
+        "Přesnost %",
+        84,
+        85
+      ],
+      [
+        "Rohy",
+        3,
+        5
+      ],
+      [
+        "Fauly",
+        10,
+        13
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        6,
-        6
+        15,
+        12
       ],
       [
         "Střely mimo",
-        2,
-        6
+        8,
+        8
       ],
       [
         "Zblokované",
         3,
-        0
+        3
       ],
       [
         "Střely ve vápně",
+        8,
+        5
+      ],
+      [
+        "Střely zvenku",
+        7,
+        7
+      ],
+      [
+        "Přihrávky",
+        470,
+        492
+      ],
+      [
+        "Ofsajdy",
+        0,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        397,
+        419
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        3
+      ],
+      [
+        "Žluté karty",
         3,
         1
+      ],
+      [
+        "Červené karty",
+        0,
+        0
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:21:39.236Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:26.082Z"
 }

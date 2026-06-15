@@ -32,14 +32,102 @@
       "team": "a",
       "player": "Lyle Foster",
       "off": "Thalente Mbatha"
+    },
+    {
+      "minute": 61,
+      "type": "sub",
+      "team": "a",
+      "player": "Jayden Adams",
+      "off": "Themba Zwane"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "h",
+      "player": "Álvaro Fidalgo",
+      "off": "Gilberto Mora"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "h",
+      "player": "Brian Gutiérrez",
+      "off": "Luis Chávez"
+    },
+    {
+      "minute": 67,
+      "type": "goal",
+      "team": "h",
+      "player": "Raúl Jiménez",
+      "assist": "Roberto Alvarado"
+    },
+    {
+      "minute": 74,
+      "type": "yellow",
+      "team": "a",
+      "player": "Nkosinathi Sibisi"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "h",
+      "player": "Raúl Jiménez",
+      "off": "Armando González"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "h",
+      "player": "Érik Lira",
+      "off": "Edson Álvarez"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "a",
+      "player": "Aubrey Modiba",
+      "off": "Oswin Appollis"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "a",
+      "player": "Iqraam Rayners",
+      "off": "Evidence Makgopa"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "h",
+      "player": "Julián Quiñones",
+      "off": "Alexis Vega"
+    },
+    {
+      "minute": 82,
+      "type": "yellow",
+      "team": "a",
+      "player": "Themba Zwane"
+    },
+    {
+      "minute": 84,
+      "type": "red",
+      "team": "a",
+      "player": "Themba Zwane"
+    },
+    {
+      "minute": 90,
+      "type": "red",
+      "team": "h",
+      "player": "César Montes"
     }
   ],
   "reds": {
-    "a": true
+    "a": true,
+    "h": true
   },
   "lineups": {
     "home": {
-      "form": "2-2",
+      "form": "5-2-3",
       "xi": [
         {
           "name": "Raúl Jiménez",
@@ -64,18 +152,120 @@
           "num": 26,
           "pos": "MF",
           "club": "CD Guadalajara"
+        },
+        {
+          "name": "Jesús Gallardo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Toluca"
+        },
+        {
+          "name": "Johan Vásquez",
+          "num": 5,
+          "pos": "DF",
+          "club": "Genoa"
+        },
+        {
+          "name": "César Montes",
+          "num": 3,
+          "pos": "DF",
+          "club": "Lokomotiv Moscow"
+        },
+        {
+          "name": "Roberto Alvarado",
+          "num": 25,
+          "pos": "FW",
+          "club": "CD Guadalajara"
+        },
+        {
+          "name": "Israel Reyes",
+          "num": 15,
+          "pos": "DF",
+          "club": "América"
+        },
+        {
+          "name": "Érik Lira",
+          "num": 6,
+          "pos": "DF",
+          "club": "Cruz Azul"
+        },
+        {
+          "name": "Raúl Rangel",
+          "num": 1,
+          "pos": "GK",
+          "club": "CD Guadalajara"
         }
       ],
       "bench": []
     },
     "away": {
-      "form": "",
+      "form": "5-3-2",
       "xi": [
         {
           "name": "Aubrey Modiba",
           "num": 6,
           "pos": "DF",
           "club": "Mamelodi Sundowns"
+        },
+        {
+          "name": "Lyle Foster",
+          "num": 9,
+          "pos": "FW",
+          "club": "Burnley"
+        },
+        {
+          "name": "Sphephelo Sithole",
+          "num": 13,
+          "pos": "MF",
+          "club": "Tondela"
+        },
+        {
+          "name": "Ronwen Williams",
+          "num": 1,
+          "pos": "GK",
+          "club": "Mamelodi Sundowns"
+        },
+        {
+          "name": "Khuliso Mudau",
+          "num": 20,
+          "pos": "DF",
+          "club": "Mamelodi Sundowns"
+        },
+        {
+          "name": "Teboho Mokoena",
+          "num": 4,
+          "pos": "MF",
+          "club": "Mamelodi Sundowns"
+        },
+        {
+          "name": "Ime Okon",
+          "num": 21,
+          "pos": "DF",
+          "club": "Hannover"
+        },
+        {
+          "name": "Jayden Adams",
+          "num": 23,
+          "pos": "MF",
+          "club": "Mamelodi Sundowns"
+        },
+        {
+          "name": "Iqraam Rayners",
+          "num": 15,
+          "pos": "FW",
+          "club": "Mamelodi Sundowns"
+        },
+        {
+          "name": "Nkosinathi Sibisi",
+          "num": 19,
+          "pos": "DF",
+          "club": "Orlando Pirates"
+        },
+        {
+          "name": "Mbekezeli Mbokazi",
+          "num": 14,
+          "pos": "DF",
+          "club": "Chicago Fire"
         }
       ],
       "bench": []
@@ -84,9 +274,34 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        1.41,
+        0.07
+      ],
+      [
+        "Držení %",
+        61,
+        39
+      ],
+      [
         "Na branku",
         4,
         2
+      ],
+      [
+        "Přesnost %",
+        90,
+        81
+      ],
+      [
+        "Rohy",
+        3,
+        1
+      ],
+      [
+        "Fauly",
+        12,
+        11
       ]
     ],
     "bars": [
@@ -109,9 +324,44 @@
         "Střely ve vápně",
         9,
         1
+      ],
+      [
+        "Střely zvenku",
+        7,
+        2
+      ],
+      [
+        "Přihrávky",
+        520,
+        335
+      ],
+      [
+        "Ofsajdy",
+        1,
+        1
+      ],
+      [
+        "Přesné přihr.",
+        467,
+        272
+      ],
+      [
+        "Zákroky brankáře",
+        2,
+        2
+      ],
+      [
+        "Žluté karty",
+        1,
+        2
+      ],
+      [
+        "Červené karty",
+        1,
+        2
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:21:26.676Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:07.546Z"
 }

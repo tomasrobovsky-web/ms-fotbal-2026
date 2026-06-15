@@ -24,7 +24,7 @@ const { readJSON, updateMeta, DATA_DIR } = require('./lib/store');
 const { transformTimeline, transformLineup, transformStats } = require('./lib/transform');
 
 const MATCHES_DIR = path.join(DATA_DIR, 'matches');
-const CALL_DELAY_MS = 2100; // free limit = 30 req/min → ~1 request / 2,1 s
+const CALL_DELAY_MS = 700; // premium limit = 100 req/min → ~1 request / 0,7 s
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 

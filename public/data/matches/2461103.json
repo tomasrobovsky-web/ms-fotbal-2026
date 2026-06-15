@@ -35,12 +35,74 @@
       "team": "a",
       "player": "Lukáš Provod",
       "off": "Michal Sadílek"
+    },
+    {
+      "minute": 67,
+      "type": "goal",
+      "team": "h",
+      "player": "In-beom Hwang",
+      "assist": "Kang-in Lee"
+    },
+    {
+      "minute": 69,
+      "type": "sub",
+      "team": "h",
+      "player": "Tae-seok Lee",
+      "off": "Ji-sung Eom"
+    },
+    {
+      "minute": 69,
+      "type": "sub",
+      "team": "h",
+      "player": "Heung-min Son",
+      "off": "Hyeon-gyu Oh"
+    },
+    {
+      "minute": 77,
+      "type": "goal",
+      "team": "a",
+      "player": "Tomáš Souček",
+      "assist": ""
+    },
+    {
+      "minute": 80,
+      "type": "goal",
+      "team": "h",
+      "player": "Hyeon-gyu Oh",
+      "assist": "In-beom Hwang"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "h",
+      "player": "In-beom Hwang",
+      "off": "Jin-gyu Kim"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "h",
+      "player": "Seung-ho Paik",
+      "off": "Jin-seob Park"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "a",
+      "player": "Alexandr Sojka",
+      "off": "Mojmír Chytil"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "h",
+      "player": "Gi-hyuk Lee"
     }
   ],
   "reds": {},
   "lineups": {
     "home": {
-      "form": "1-1",
+      "form": "6-3-1",
       "xi": [
         {
           "name": "Heung-min Son",
@@ -53,12 +115,66 @@
           "num": 19,
           "pos": "MF",
           "club": "Paris SG"
+        },
+        {
+          "name": "Jae-sung Lee",
+          "num": 10,
+          "pos": "MF",
+          "club": "Mainz"
+        },
+        {
+          "name": "Seung-ho Paik",
+          "num": 8,
+          "pos": "MF",
+          "club": "Birmingham City"
+        },
+        {
+          "name": "In-beom Hwang",
+          "num": 6,
+          "pos": "DF",
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Seung-gyu Kim",
+          "num": 1,
+          "pos": "GK",
+          "club": "FC Tokyo"
+        },
+        {
+          "name": "Min-jae Kim",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Young-woo Seol",
+          "num": 22,
+          "pos": "DF",
+          "club": "Crvena Zvezda"
+        },
+        {
+          "name": "Gi-hyuk Lee",
+          "num": 3,
+          "pos": "DF",
+          "club": "Gangwon FC"
+        },
+        {
+          "name": "Tae-seok Lee",
+          "num": 13,
+          "pos": "DF",
+          "club": "Austria Vienna"
+        },
+        {
+          "name": "Han-beom Lee",
+          "num": 2,
+          "pos": "DF",
+          "club": "FC Midtjylland"
         }
       ],
       "bench": []
     },
     "away": {
-      "form": "2-1",
+      "form": "6-2-2",
       "xi": [
         {
           "name": "Patrik Schick",
@@ -77,6 +193,54 @@
           "num": 5,
           "pos": "DF",
           "club": "Hoffenheim"
+        },
+        {
+          "name": "Lukáš Provod",
+          "num": 17,
+          "pos": "FW",
+          "club": "Slavia Prague"
+        },
+        {
+          "name": "Jaroslav Zelený",
+          "num": 20,
+          "pos": "DF",
+          "club": "Sparta Prague"
+        },
+        {
+          "name": "Matěj Kovář",
+          "num": 1,
+          "pos": "GK",
+          "club": "PSV Eindhoven"
+        },
+        {
+          "name": "Ladislav Krejčí",
+          "num": 7,
+          "pos": "DF",
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "name": "Robin Hranáč",
+          "num": 4,
+          "pos": "DF",
+          "club": "Hoffenheim"
+        },
+        {
+          "name": "Pavel Šulc",
+          "num": 15,
+          "pos": "MF",
+          "club": "Lyon"
+        },
+        {
+          "name": "Štěpán Chaloupek",
+          "num": 6,
+          "pos": "DF",
+          "club": "Slavia Prague"
+        },
+        {
+          "name": "Alexandr Sojka",
+          "num": 24,
+          "pos": "MF",
+          "club": "Viktoria Plzeň"
         }
       ],
       "bench": []
@@ -85,9 +249,34 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        2,
+        0.84
+      ],
+      [
+        "Držení %",
+        62,
+        38
+      ],
+      [
         "Na branku",
         6,
         4
+      ],
+      [
+        "Přesnost %",
+        87,
+        71
+      ],
+      [
+        "Rohy",
+        4,
+        5
+      ],
+      [
+        "Fauly",
+        9,
+        16
       ]
     ],
     "bars": [
@@ -110,9 +299,44 @@
         "Střely ve vápně",
         10,
         5
+      ],
+      [
+        "Střely zvenku",
+        5,
+        3
+      ],
+      [
+        "Přihrávky",
+        542,
+        323
+      ],
+      [
+        "Ofsajdy",
+        2,
+        2
+      ],
+      [
+        "Přesné přihr.",
+        469,
+        228
+      ],
+      [
+        "Zákroky brankáře",
+        3,
+        4
+      ],
+      [
+        "Žluté karty",
+        1,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:21:28.236Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:10.132Z"
 }

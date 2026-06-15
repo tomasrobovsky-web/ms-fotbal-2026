@@ -35,12 +35,67 @@
       "team": "h",
       "player": "Mohamed Touré",
       "off": "Tete Yengi"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "h",
+      "player": "Jacob Italiano",
+      "off": "Jason Geria"
+    },
+    {
+      "minute": 75,
+      "type": "goal",
+      "team": "h",
+      "player": "Connor Metcalfe",
+      "assist": ""
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "İsmail Yüksek",
+      "off": "Salih Özcan"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "Zeki Çelik",
+      "off": "Mert Müldür"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "h",
+      "player": "Jordan Bos",
+      "off": "Aziz Behich"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "h",
+      "player": "Paul Okon-Engstler",
+      "off": "Jackson Irvine"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Kerem Aktürkoğlu",
+      "off": "Deniz Gül"
+    },
+    {
+      "minute": 86,
+      "type": "yellow",
+      "team": "a",
+      "player": "Yunus Akgün"
     }
   ],
   "reds": {},
   "lineups": {
     "home": {
-      "form": "",
+      "form": "7-1-2",
       "xi": [
         {
           "name": "Cameron Burgess",
@@ -53,12 +108,66 @@
           "num": 19,
           "pos": "DF",
           "club": "Leicester City"
+        },
+        {
+          "name": "Mohamed Touré",
+          "num": 9,
+          "pos": "FW",
+          "club": "Norwich City"
+        },
+        {
+          "name": "Connor Metcalfe",
+          "num": 8,
+          "pos": "MF",
+          "club": "St Pauli"
+        },
+        {
+          "name": "Jordan Bos",
+          "num": 5,
+          "pos": "DF",
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Nestory Irankunda",
+          "num": 17,
+          "pos": "FW",
+          "club": "Watford"
+        },
+        {
+          "name": "Alessandro Circati",
+          "num": 3,
+          "pos": "DF",
+          "club": "Parma"
+        },
+        {
+          "name": "Jacob Italiano",
+          "num": 4,
+          "pos": "DF",
+          "club": "Grazer AK"
+        },
+        {
+          "name": "Aiden O'Neill",
+          "num": 13,
+          "pos": "DF",
+          "club": "New York City FC"
+        },
+        {
+          "name": "Patrick Beach",
+          "num": 18,
+          "pos": "GK",
+          "club": "Melbourne City"
+        },
+        {
+          "name": "Paul Okon-Engstler",
+          "num": 24,
+          "pos": "DF",
+          "club": "Sydney FC"
         }
       ],
       "bench": []
     },
     "away": {
-      "form": "",
+      "form": "6-2-2",
       "xi": [
         {
           "name": "Hakan Çalhanoğlu",
@@ -77,6 +186,54 @@
           "num": 14,
           "pos": "DF",
           "club": "Galatasaray"
+        },
+        {
+          "name": "Merih Demiral",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Zeki Çelik",
+          "num": 2,
+          "pos": "DF",
+          "club": "Roma"
+        },
+        {
+          "name": "Orkun Kökçü",
+          "num": 6,
+          "pos": "MF",
+          "club": "Beşiktaş"
+        },
+        {
+          "name": "Ferdi Kadıoğlu",
+          "num": 20,
+          "pos": "DF",
+          "club": "Brighton and Hove Albion"
+        },
+        {
+          "name": "Kerem Aktürkoğlu",
+          "num": 7,
+          "pos": "FW",
+          "club": "Fenerbahçe"
+        },
+        {
+          "name": "İsmail Yüksek",
+          "num": 16,
+          "pos": "DF",
+          "club": "Fenerbahçe"
+        },
+        {
+          "name": "Arda Güler",
+          "num": 8,
+          "pos": "MF",
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Barış Alper Yılmaz",
+          "num": 21,
+          "pos": "FW",
+          "club": "Galatasaray"
         }
       ],
       "bench": []
@@ -85,9 +242,34 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        0.77,
+        1.33
+      ],
+      [
+        "Držení %",
+        28,
+        72
+      ],
+      [
         "Na branku",
         4,
         8
+      ],
+      [
+        "Přesnost %",
+        75,
+        90
+      ],
+      [
+        "Rohy",
+        5,
+        8
+      ],
+      [
+        "Fauly",
+        12,
+        4
       ]
     ],
     "bars": [
@@ -110,9 +292,44 @@
         "Střely ve vápně",
         6,
         14
+      ],
+      [
+        "Střely zvenku",
+        3,
+        16
+      ],
+      [
+        "Přihrávky",
+        270,
+        707
+      ],
+      [
+        "Ofsajdy",
+        1,
+        3
+      ],
+      [
+        "Přesné přihr.",
+        202,
+        638
+      ],
+      [
+        "Zákroky brankáře",
+        8,
+        2
+      ],
+      [
+        "Žluté karty",
+        0,
+        1
+      ],
+      [
+        "Červené karty",
+        0,
+        0
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:24:46.475Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:30.686Z"
 }

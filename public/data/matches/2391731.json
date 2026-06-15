@@ -33,17 +33,138 @@
       "team": "a",
       "player": "Ben Gannon-Doak",
       "off": "Ryan Christie"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Aaron Hickey",
+      "off": "Nathan Patterson"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Che Adams",
+      "off": "Lyndon Dykes"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "h",
+      "player": "Wilson Isidor",
+      "off": "Lenny Joseph"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "John McGinn",
+      "off": "Findlay Curtis"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Lawrence Shankland",
+      "off": "Kenny McLean"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "Ruben Providence",
+      "off": "Yassin Fortune"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "a",
+      "player": "Findlay Curtis"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "a",
+      "player": "Kenny McLean"
     }
   ],
   "reds": {},
   "lineups": {
     "home": {
-      "form": "",
-      "xi": [],
+      "form": "5-1-4",
+      "xi": [
+        {
+          "name": "Johny Placide",
+          "num": 1,
+          "pos": "GK",
+          "club": "Bastia"
+        },
+        {
+          "name": "Hannes Delcroix",
+          "num": 5,
+          "pos": "DF",
+          "club": "Lugano"
+        },
+        {
+          "name": "Jean-Ricner Bellegarde",
+          "num": 10,
+          "pos": "MF",
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "name": "Frantzdy Pierrot",
+          "num": 20,
+          "pos": "FW",
+          "club": "Rizespor"
+        },
+        {
+          "name": "Carlens Arcus",
+          "num": 2,
+          "pos": "DF",
+          "club": "Angers"
+        },
+        {
+          "name": "Ruben Providence",
+          "num": 15,
+          "pos": "FW",
+          "club": "Almere City"
+        },
+        {
+          "name": "Wilson Isidor",
+          "num": 18,
+          "pos": "FW",
+          "club": "Sunderland"
+        },
+        {
+          "name": "Danley Jean Jacques",
+          "num": 17,
+          "pos": "DF",
+          "club": "Philadelphia Union"
+        },
+        {
+          "name": "Louicius Deedson",
+          "num": 11,
+          "pos": "FW",
+          "club": "FC Dallas"
+        },
+        {
+          "name": "Ricardo Adé",
+          "num": 4,
+          "pos": "DF",
+          "club": "LDU Quito"
+        },
+        {
+          "name": "Martin Expérience",
+          "num": 8,
+          "pos": "DF",
+          "club": "Nancy Lorraine"
+        }
+      ],
       "bench": []
     },
     "away": {
-      "form": "2-1-2",
+      "form": "5-2-3",
       "xi": [
         {
           "name": "Andrew Robertson",
@@ -74,6 +195,42 @@
           "num": 10,
           "pos": "FW",
           "club": "Torino"
+        },
+        {
+          "name": "Angus Gunn",
+          "num": 1,
+          "pos": "GK",
+          "club": "Nottingham Forest"
+        },
+        {
+          "name": "Lewis Ferguson",
+          "num": 19,
+          "pos": "MF",
+          "club": "Bologna"
+        },
+        {
+          "name": "Scott McTominay",
+          "num": 4,
+          "pos": "DF",
+          "club": "Napoli"
+        },
+        {
+          "name": "Aaron Hickey",
+          "num": 2,
+          "pos": "DF",
+          "club": "Brentford"
+        },
+        {
+          "name": "Jack Hendry",
+          "num": 13,
+          "pos": "DF",
+          "club": "Al-Ettifaq"
+        },
+        {
+          "name": "Ben Gannon-Doak",
+          "num": 17,
+          "pos": "FW",
+          "club": "Bournemouth"
         }
       ],
       "bench": []
@@ -82,9 +239,34 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        1.21,
+        1.07
+      ],
+      [
+        "Držení %",
+        54,
+        46
+      ],
+      [
         "Na branku",
         2,
         2
+      ],
+      [
+        "Přesnost %",
+        85,
+        82
+      ],
+      [
+        "Rohy",
+        4,
+        3
+      ],
+      [
+        "Fauly",
+        23,
+        21
       ]
     ],
     "bars": [
@@ -107,9 +289,44 @@
         "Střely ve vápně",
         8,
         8
+      ],
+      [
+        "Střely zvenku",
+        7,
+        1
+      ],
+      [
+        "Přihrávky",
+        431,
+        373
+      ],
+      [
+        "Ofsajdy",
+        3,
+        1
+      ],
+      [
+        "Přesné přihr.",
+        367,
+        306
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        2
+      ],
+      [
+        "Žluté karty",
+        1,
+        3
+      ],
+      [
+        "Červené karty",
+        0,
+        0
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:21:36.111Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:21.492Z"
 }

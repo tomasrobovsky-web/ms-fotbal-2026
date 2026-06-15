@@ -35,12 +35,89 @@
       "team": "a",
       "player": "Sontje Hansen",
       "off": "Jeremy Antonisse"
+    },
+    {
+      "minute": 47,
+      "type": "goal",
+      "team": "h",
+      "player": "Jamal Musiala",
+      "assist": "Joshua Kimmich"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Jamal Musiala",
+      "off": "Deniz Undav"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "a",
+      "player": "Jürgen Locadia",
+      "off": "Jearl Margaritha"
+    },
+    {
+      "minute": 68,
+      "type": "goal",
+      "team": "h",
+      "player": "Nathaniel Brown",
+      "assist": "Deniz Undav"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "h",
+      "player": "Jonathan Tah",
+      "off": "Antonio Rüdiger"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "h",
+      "player": "Felix Nmecha",
+      "off": "Leon Goretzka"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "h",
+      "player": "Nathaniel Brown",
+      "off": "David Raum"
+    },
+    {
+      "minute": 78,
+      "type": "goal",
+      "team": "h",
+      "player": "Deniz Undav",
+      "assist": "Joshua Kimmich"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Tahith Chong",
+      "off": "Gervane Kastaneer"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Joshua Kimmich",
+      "off": "Waldemar Anton"
+    },
+    {
+      "minute": 88,
+      "type": "goal",
+      "team": "h",
+      "player": "Kai Havertz",
+      "assist": "Deniz Undav"
     }
   ],
   "reds": {},
   "lineups": {
     "home": {
-      "form": "1-1",
+      "form": "5-3-2",
       "xi": [
         {
           "name": "Manuel Neuer",
@@ -59,12 +136,60 @@
           "num": 19,
           "pos": "FW",
           "club": "Galatasaray"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "num": 6,
+          "pos": "DF",
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "num": 15,
+          "pos": "DF",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Kai Havertz",
+          "num": 7,
+          "pos": "FW",
+          "club": "Arsenal"
+        },
+        {
+          "name": "Florian Wirtz",
+          "num": 17,
+          "pos": "MF",
+          "club": "Liverpool"
+        },
+        {
+          "name": "Jamal Musiala",
+          "num": 10,
+          "pos": "MF",
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Felix Nmecha",
+          "num": 23,
+          "pos": "MF",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "num": 18,
+          "pos": "DF",
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Aleksandar Pavlović",
+          "num": 5,
+          "pos": "DF",
+          "club": "Bayern Munich"
         }
       ],
       "bench": []
     },
     "away": {
-      "form": "",
+      "form": "6-2-2",
       "xi": [
         {
           "name": "Leandro Bacuna",
@@ -77,6 +202,60 @@
           "num": 23,
           "pos": "DF",
           "club": "Konyaspor"
+        },
+        {
+          "name": "Eloy Room",
+          "num": 1,
+          "pos": "GK",
+          "club": "Miami FC"
+        },
+        {
+          "name": "Tahith Chong",
+          "num": 21,
+          "pos": "MF",
+          "club": "Luton Town"
+        },
+        {
+          "name": "Sherel Floranus",
+          "num": 5,
+          "pos": "DF",
+          "club": "PEC Zwolle"
+        },
+        {
+          "name": "Juninho Bacuna",
+          "num": 7,
+          "pos": "MF",
+          "club": "Gaziantep"
+        },
+        {
+          "name": "Armando Obispo",
+          "num": 18,
+          "pos": "DF",
+          "club": "PSV Eindhoven"
+        },
+        {
+          "name": "Jürgen Locadia",
+          "num": 9,
+          "pos": "FW",
+          "club": "Miami FC"
+        },
+        {
+          "name": "Sontje Hansen",
+          "num": 12,
+          "pos": "FW",
+          "club": "Middlesbrough"
+        },
+        {
+          "name": "Livano Comenencia",
+          "num": 8,
+          "pos": "DF",
+          "club": "Zürich"
+        },
+        {
+          "name": "Deveron Fonville",
+          "num": 24,
+          "pos": "DF",
+          "club": "NEC Nijmegen"
         }
       ],
       "bench": []
@@ -85,9 +264,34 @@
   "stats": {
     "donuts": [
       [
+        "xG",
+        3.9,
+        0.4
+      ],
+      [
+        "Držení %",
+        65,
+        35
+      ],
+      [
         "Na branku",
         12,
         2
+      ],
+      [
+        "Přesnost %",
+        87,
+        82
+      ],
+      [
+        "Rohy",
+        8,
+        1
+      ],
+      [
+        "Fauly",
+        18,
+        10
       ]
     ],
     "bars": [
@@ -110,9 +314,44 @@
         "Střely ve vápně",
         21,
         4
+      ],
+      [
+        "Střely zvenku",
+        5,
+        4
+      ],
+      [
+        "Přihrávky",
+        630,
+        336
+      ],
+      [
+        "Ofsajdy",
+        0,
+        1
+      ],
+      [
+        "Přesné přihr.",
+        548,
+        276
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        4
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
       ]
     ]
   },
-  "source": "thesportsdb-v1",
-  "updatedAt": "2026-06-15T01:21:37.664Z"
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T17:13:23.761Z"
 }
