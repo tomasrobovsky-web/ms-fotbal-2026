@@ -133,67 +133,89 @@
           "name": "Raúl Jiménez",
           "num": 9,
           "pos": "FW",
-          "club": "Fulham"
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w4chsd1757070949.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
         },
         {
           "name": "Álvaro Fidalgo",
           "num": 8,
           "pos": "MF",
-          "club": "Real Betis"
+          "club": "Real Betis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hcx8an1750328188.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
         },
         {
           "name": "Julián Quiñones",
           "num": 16,
           "pos": "FW",
-          "club": "Al-Qadsiah"
+          "club": "Al-Qadsiah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ol1x961719501112.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png"
         },
         {
           "name": "Brian Gutiérrez",
           "num": 26,
           "pos": "MF",
-          "club": "CD Guadalajara"
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ardabg1766490164.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
         },
         {
           "name": "Jesús Gallardo",
           "num": 23,
           "pos": "DF",
-          "club": "Toluca"
+          "club": "Toluca",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/syauia1776427423.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y64wy91523913186.png"
         },
         {
           "name": "Johan Vásquez",
           "num": 5,
           "pos": "DF",
-          "club": "Genoa"
+          "club": "Genoa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7q4sks1758997735.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png"
         },
         {
           "name": "César Montes",
           "num": 3,
           "pos": "DF",
-          "club": "Lokomotiv Moscow"
+          "club": "Lokomotiv Moscow",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hfmpbv1754726674.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tuyrur1473452310.png"
         },
         {
           "name": "Roberto Alvarado",
           "num": 25,
           "pos": "FW",
-          "club": "CD Guadalajara"
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dup2qf1630164554.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
         },
         {
           "name": "Israel Reyes",
           "num": 15,
           "pos": "DF",
-          "club": "América"
+          "club": "América",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gopczi1750327134.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png"
         },
         {
           "name": "Érik Lira",
           "num": 6,
           "pos": "DF",
-          "club": "Cruz Azul"
+          "club": "Cruz Azul",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qflanz1780401683.png",
+          "clubLogo": "https://www.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png"
         },
         {
           "name": "Raúl Rangel",
           "num": 1,
           "pos": "GK",
-          "club": "CD Guadalajara"
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b3xv161780401837.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
         }
       ],
       "bench": []
@@ -205,67 +227,89 @@
           "name": "Aubrey Modiba",
           "num": 6,
           "pos": "DF",
-          "club": "Mamelodi Sundowns"
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nh3ddz1750874984.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
         },
         {
           "name": "Lyle Foster",
           "num": 9,
           "pos": "FW",
-          "club": "Burnley"
+          "club": "Burnley",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0fo5fd1757174497.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
         },
         {
           "name": "Sphephelo Sithole",
           "num": 13,
           "pos": "MF",
-          "club": "Tondela"
+          "club": "Tondela",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nb9i241779972658.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o7nqff1628856081.png"
         },
         {
           "name": "Ronwen Williams",
           "num": 1,
           "pos": "GK",
-          "club": "Mamelodi Sundowns"
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kd7edx1750875629.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
         },
         {
           "name": "Khuliso Mudau",
           "num": 20,
           "pos": "DF",
-          "club": "Mamelodi Sundowns"
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ods0zi1750875546.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
         },
         {
           "name": "Teboho Mokoena",
           "num": 4,
           "pos": "MF",
-          "club": "Mamelodi Sundowns"
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3dq0ds1750874921.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
         },
         {
           "name": "Ime Okon",
           "num": 21,
           "pos": "DF",
-          "club": "Hannover"
+          "club": "Hannover",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4p86da1773070885.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png"
         },
         {
           "name": "Jayden Adams",
           "num": 23,
           "pos": "MF",
-          "club": "Mamelodi Sundowns"
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q8api81750874993.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
         },
         {
           "name": "Iqraam Rayners",
           "num": 15,
           "pos": "FW",
-          "club": "Mamelodi Sundowns"
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/49juqb1750875069.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
         },
         {
           "name": "Nkosinathi Sibisi",
           "num": 19,
           "pos": "DF",
-          "club": "Orlando Pirates"
+          "club": "Orlando Pirates",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m45e0b1777992147.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y6dbv61583616330.png"
         },
         {
           "name": "Mbekezeli Mbokazi",
           "num": 14,
           "pos": "DF",
-          "club": "Chicago Fire"
+          "club": "Chicago Fire",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s5f84y1779972076.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png"
         }
       ],
       "bench": []
@@ -363,5 +407,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:07.546Z"
+  "updatedAt": "2026-06-15T18:49:53.575Z"
 }

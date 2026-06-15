@@ -96,6 +96,16 @@ async function fetchSquad(teamId) {
   return d?.player ?? [];
 }
 
+// Lookup klubu (kvůli logu/odznaku). Premium → v2, jinak v1. Vrací jeden tým nebo null.
+async function fetchTeam(teamId) {
+  if (IS_PREMIUM) {
+    const d = await apiFetch(`/lookup/team/${teamId}`, { premium: true });
+    return firstArray(d, ['teams', 'lookup', 'results'])[0] ?? null;
+  }
+  const d = await apiFetch(`/lookupteam.php?id=${teamId}`);
+  return d?.teams?.[0] ?? null;
+}
+
 // ── Detail zápasu: timeline / lineup / stats ─────────────────────────────────
 // Free klíč (v1) → max 5 položek. Premium klíč → v2, plná data. Funkce vrací pole
 // záznamů normalizované na shodný tvar bez ohledu na verzi.
@@ -140,6 +150,7 @@ module.exports = {
   fetchStandings,
   fetchEventDetail,
   fetchSquad,
+  fetchTeam,
   fetchTimeline,
   fetchLineup,
   fetchStats,

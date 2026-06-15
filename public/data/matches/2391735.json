@@ -127,67 +127,89 @@
           "name": "Virgil van Dijk",
           "num": 4,
           "pos": "DF",
-          "club": "Liverpool"
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9cxf2q1757087742.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
         },
         {
           "name": "Donyell Malen",
           "num": 18,
           "pos": "FW",
-          "club": "Roma"
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t2xdih1777708654.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
         },
         {
           "name": "Cody Gakpo",
           "num": 11,
           "pos": "FW",
-          "club": "Liverpool"
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
         },
         {
           "name": "Denzel Dumfries",
           "num": 22,
           "pos": "MF",
-          "club": "Inter Milan"
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1hd7ox1759408866.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
         },
         {
           "name": "Frenkie de Jong",
           "num": 21,
           "pos": "MF",
-          "club": "Barcelona"
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b8k6611726510284.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
         },
         {
           "name": "Crysencio Summerville",
           "num": 24,
           "pos": "FW",
-          "club": "West Ham United"
+          "club": "West Ham United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b51rjk1756984653.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
         },
         {
           "name": "Ryan Gravenberch",
           "num": 8,
           "pos": "MF",
-          "club": "Liverpool"
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4f7y1o1757088226.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
         },
         {
           "name": "Tijjani Reijnders",
           "num": 14,
           "pos": "MF",
-          "club": "Manchester City"
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
         },
         {
           "name": "Bart Verbruggen",
           "num": 1,
           "pos": "GK",
-          "club": "Brighton and Hove Albion"
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5ak40b1756999759.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
         },
         {
           "name": "Micky van de Ven",
           "num": 15,
           "pos": "DF",
-          "club": "Tottenham Hotspur"
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
         },
         {
           "name": "Jan Paul van Hecke",
           "num": 6,
           "pos": "DF",
-          "club": "Brighton and Hove Albion"
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/37rw1u1756994375.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
         }
       ],
       "bench": []
@@ -199,67 +221,89 @@
           "name": "Daichi Kamada",
           "num": 15,
           "pos": "MF",
-          "club": "Crystal Palace"
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xajscx1761492482.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
         },
         {
           "name": "Takefusa Kubo",
           "num": 8,
           "pos": "FW",
-          "club": "Real Sociedad"
+          "club": "Real Sociedad",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bb8sw01762709094.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
         },
         {
           "name": "Keito Nakamura",
           "num": 13,
           "pos": "FW",
-          "club": "Stade de Reims"
+          "club": "Stade de Reims",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rvg6ub1678454947.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png"
         },
         {
           "name": "Ritsu Dōan",
           "num": 10,
           "pos": "FW",
-          "club": "Eintracht Frankfurt"
+          "club": "Eintracht Frankfurt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6526j01762287692.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
         },
         {
           "name": "Shōgo Taniguchi",
           "num": 3,
           "pos": "DF",
-          "club": "Sint-Truiden"
+          "club": "Sint-Truiden",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jo3sz21767196242.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qww8ap1534620441.png"
         },
         {
           "name": "Tsuyoshi Watanabe",
           "num": 16,
           "pos": "DF",
-          "club": "Feyenoord"
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qv35e31758189015.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
         },
         {
           "name": "Ayase Ueda",
           "num": 18,
           "pos": "FW",
-          "club": "Feyenoord"
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5ezc8v1758188908.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
         },
         {
           "name": "Zion Suzuki",
           "num": 1,
           "pos": "GK",
-          "club": "Parma"
+          "club": "Parma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
         },
         {
           "name": "Daizen Maeda",
           "num": 11,
           "pos": "FW",
-          "club": "Celtic"
+          "club": "Celtic",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oohjhs1777019949.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
         },
         {
           "name": "Hiroki Itō",
           "num": 21,
           "pos": "DF",
-          "club": "Bayern Munich"
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9jngzv1756409131.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
         },
         {
           "name": "Kaishū Sano",
           "num": 24,
           "pos": "DF",
-          "club": "Mainz"
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fkpbew1763558803.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
         }
       ],
       "bench": []
@@ -357,5 +401,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:28.417Z"
+  "updatedAt": "2026-06-15T18:51:51.812Z"
 }

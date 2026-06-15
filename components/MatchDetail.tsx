@@ -34,19 +34,24 @@ function avatarLetters(name: string): string {
 
 // ── Karta hráče (Sestavy) ────────────────────────────────────────────────────
 function PlayerCard({
-  name, num, pos, club, teamColor, subMinute,
+  name, num, pos, club, teamColor, subMinute, photo, clubLogo,
 }: {
   name: string; num?: number | string | null; pos: PlayerPos; club: string;
-  teamColor: string; subMinute?: number | null;
+  teamColor: string; subMinute?: number | null; photo?: string | null; clubLogo?: string | null;
 }) {
   const p = POS[pos];
   return (
     <div style={{ ...panel({ borderRadius: 15 }), display: "flex", alignItems: "center", gap: 12, padding: "9px 12px" }}>
       <div style={{ position: "relative", flex: "0 0 auto" }}>
-        <div style={{ width: 46, height: 46, borderRadius: "50%", overflow: "hidden",
+        <div style={{ position: "relative", width: 46, height: 46, borderRadius: "50%", overflow: "hidden",
           background: `linear-gradient(150deg, ${teamColor}cc, ${teamColor}44)`, display: "grid", placeItems: "center",
           boxShadow: `0 0 0 1.5px ${teamColor}99, 0 0 14px ${teamColor}66` }}>
           <span style={{ fontSize: 16, fontWeight: 800, color: "#fff", letterSpacing: .5 }}>{avatarLetters(name)}</span>
+          {photo && (
+            <img src={photo} alt="" loading="lazy"
+              onError={(e) => { e.currentTarget.style.display = "none"; }}
+              style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
+          )}
         </div>
         {subMinute != null ? (
           <span style={{ position: "absolute", bottom: -2, right: -3, width: 18, height: 18, borderRadius: 9,
@@ -75,8 +80,16 @@ function PlayerCard({
         </div>
         {club && (
           <div style={{ display: "flex", alignItems: "center", gap: 7, marginTop: 4 }}>
-            <span style={{ width: 16, height: 16, borderRadius: 4, flex: "0 0 auto", display: "grid", placeItems: "center",
-              fontSize: 6.5, fontWeight: 800, color: "#fff", background: `hsl(${crestHue(club)} 42% 34%)` }}>{crestInitials(club)}</span>
+            <span style={{ position: "relative", width: 16, height: 16, borderRadius: 4, flex: "0 0 auto", overflow: "hidden",
+              display: "grid", placeItems: "center",
+              fontSize: 6.5, fontWeight: 800, color: "#fff", background: `hsl(${crestHue(club)} 42% 34%)` }}>
+              {crestInitials(club)}
+              {clubLogo && (
+                <img src={clubLogo} alt="" loading="lazy"
+                  onError={(e) => { e.currentTarget.style.display = "none"; }}
+                  style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
+              )}
+            </span>
             <span style={{ fontSize: 12, color: "#9aa0aa", fontWeight: 500, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{club}</span>
           </div>
         )}
@@ -279,7 +292,7 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
 
       <div style={{ display: "flex", flexDirection: "column", gap: 7 }}>
         {data.xi.map((p: XIPlayer, i) => (
-          <PlayerCard key={i} name={p.name} num={p.num} pos={p.pos} club={p.club} teamColor={tc} />
+          <PlayerCard key={i} name={p.name} num={p.num} pos={p.pos} club={p.club} teamColor={tc} photo={p.photo} clubLogo={p.clubLogo} />
         ))}
       </div>
 
@@ -300,7 +313,7 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
           </div>
           <div style={{ display: "flex", flexDirection: "column", gap: 7 }}>
             {activeSubs.map((bp, i) => (
-              <PlayerCard key={`sub-${i}`} name={bp.name} pos={bp.pos} club={bp.club} teamColor={tc} subMinute={bp.minute} />
+              <PlayerCard key={`sub-${i}`} name={bp.name} pos={bp.pos} club={bp.club} teamColor={tc} subMinute={bp.minute} photo={bp.photo} clubLogo={bp.clubLogo} />
             ))}
           </div>
         </>
@@ -327,7 +340,7 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
           {showBench && (
             <div style={{ display: "flex", flexDirection: "column", gap: 7, marginTop: 8 }}>
               {inactiveBench.map((bp: BenchPlayer, i) => (
-                <PlayerCard key={`bench-${i}`} name={bp.name} num="—" pos={bp.pos} club={bp.club} teamColor={tc} />
+                <PlayerCard key={`bench-${i}`} name={bp.name} num="—" pos={bp.pos} club={bp.club} teamColor={tc} photo={bp.photo} clubLogo={bp.clubLogo} />
               ))}
             </div>
           )}

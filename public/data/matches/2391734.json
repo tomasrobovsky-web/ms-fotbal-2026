@@ -105,67 +105,89 @@
           "name": "Seko Fofana",
           "num": 6,
           "pos": "MF",
-          "club": "FC Porto"
+          "club": "FC Porto",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hu70nu1766137589.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png"
         },
         {
           "name": "Franck Kessié",
           "num": 8,
           "pos": "MF",
-          "club": "Al-Ahli"
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wcmpma1771663848.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
         },
         {
           "name": "Ghislain Konan",
           "num": 3,
           "pos": "DF",
-          "club": "Gil Vicente"
+          "club": "Gil Vicente",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rj1ph21608638246.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png"
         },
         {
           "name": "Nicolas Pépé",
           "num": 19,
           "pos": "FW",
-          "club": "Villarreal"
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xeui221762889301.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
         },
         {
           "name": "Wilfried Singo",
           "num": 5,
           "pos": "DF",
-          "club": "Galatasaray"
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
         },
         {
           "name": "Elye Wahi",
           "num": 12,
           "pos": "FW",
-          "club": "Nice"
+          "club": "Nice",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uuqh371762287642.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png"
         },
         {
           "name": "Emmanuel Agbadou",
           "num": 20,
           "pos": "DF",
-          "club": "Beşiktaş"
+          "club": "Beşiktaş",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwlqq91756975538.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
         },
         {
           "name": "Yahia Fofana",
           "num": 1,
           "pos": "GK",
-          "club": "Rizespor"
+          "club": "Rizespor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/np4wf61765835758.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t7senr1657195719.png"
         },
         {
           "name": "Guéla Doué",
           "num": 17,
           "pos": "DF",
-          "club": "Strasbourg"
+          "club": "Strasbourg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l18qe01766402363.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png"
         },
         {
           "name": "Bazoumana Touré",
           "num": 24,
           "pos": "FW",
-          "club": "Hoffenheim"
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/sf2uwx1763494642.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
         },
         {
           "name": "Yan Diomande",
           "num": 11,
           "pos": "FW",
-          "club": "RB Leipzig"
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
         }
       ],
       "bench": []
@@ -177,67 +199,89 @@
           "name": "Enner Valencia",
           "num": 13,
           "pos": "FW",
-          "club": "Pachuca"
+          "club": "Pachuca",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gplbd81668544491.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/k9duyw1747334895.png"
         },
         {
           "name": "John Yeboah",
           "num": 9,
           "pos": "FW",
-          "club": "Venezia"
+          "club": "Venezia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2qvbyn1780328386.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png"
         },
         {
           "name": "Moisés Caicedo",
           "num": 23,
           "pos": "DF",
-          "club": "Chelsea"
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u3feyy1757002398.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
         },
         {
           "name": "Piero Hincapié",
           "num": 3,
           "pos": "DF",
-          "club": "Arsenal"
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7dltx01769330396.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
         },
         {
           "name": "Alan Franco",
           "num": 21,
           "pos": "MF",
-          "club": "Atlético Mineiro"
+          "club": "Atlético Mineiro",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d4dtcf1763755226.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
         },
         {
           "name": "Hernán Galíndez",
           "num": 1,
           "pos": "GK",
-          "club": "Huracán"
+          "club": "Huracán",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i7jwvi1763739794.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png"
         },
         {
           "name": "Gonzalo Plata",
           "num": 19,
           "pos": "FW",
-          "club": "Flamengo"
+          "club": "Flamengo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/sdclx01751003063.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
         },
         {
           "name": "Pedro Vite",
           "num": 15,
           "pos": "MF",
-          "club": "Pumas UNAM"
+          "club": "Pumas UNAM",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vnl09k1780328438.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png"
         },
         {
           "name": "Willian Pacho",
           "num": 6,
           "pos": "DF",
-          "club": "Paris Saint-Germain"
+          "club": "Paris Saint-Germain",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/73q3q11766335492.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
         },
         {
           "name": "Alan Minda",
           "num": 14,
           "pos": "FW",
-          "club": "Atlético Mineiro"
+          "club": "Atlético Mineiro",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7ejsp81767799895.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
         },
         {
           "name": "Joel Ordóñez",
           "num": 4,
           "pos": "DF",
-          "club": "Club Brugge"
+          "club": "Club Brugge",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7te4j61767634434.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png"
         }
       ],
       "bench": []
@@ -335,5 +379,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:26.082Z"
+  "updatedAt": "2026-06-15T18:51:45.760Z"
 }

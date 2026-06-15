@@ -167,6 +167,8 @@ function lineupRowToPlayer(raw) {
     num: raw.intSquadNumber != null && raw.intSquadNumber !== '' ? parseInt(raw.intSquadNumber, 10) : null,
     pos: positionGroup(safe(raw, 'strPosition', '')),
     club: safe(raw, 'strTeam', '') || '',
+    photo: safe(raw, 'strCutout', null),     // fotka hráče (v2 lineup)
+    clubId: safe(raw, 'idTeam', '') || '',   // dočasné – backfill přepíše na clubLogo
   };
 }
 
@@ -182,7 +184,7 @@ function transformLineup(rows) {
     const isSub = raw.strSubstitute === 'Yes' || raw.strSubstitute === '1';
     const player = lineupRowToPlayer(raw);
     if (!player.name) continue;
-    if (isSub) out[side].bench.push({ name: player.name, pos: player.pos, club: player.club });
+    if (isSub) out[side].bench.push({ name: player.name, pos: player.pos, club: player.club, photo: player.photo, clubId: player.clubId });
     else out[side].xi.push(player);
   }
   out.home.form = deriveFormation(out.home.xi);

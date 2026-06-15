@@ -19,14 +19,46 @@ const path = require('path');
 const { loadEnv } = require('./lib/env');
 loadEnv();
 
-const { fetchTimeline, fetchLineup, fetchStats, IS_PREMIUM } = require('./lib/api');
-const { readJSON, updateMeta, DATA_DIR } = require('./lib/store');
+const { fetchTimeline, fetchLineup, fetchStats, fetchTeam, IS_PREMIUM } = require('./lib/api');
+const { readJSON, writeJSON, updateMeta, DATA_DIR } = require('./lib/store');
 const { transformTimeline, transformLineup, transformStats } = require('./lib/transform');
 
 const MATCHES_DIR = path.join(DATA_DIR, 'matches');
 const CALL_DELAY_MS = 700; // premium limit = 100 req/min → ~1 request / 0,7 s
+const CLUBS_FILE = 'clubs.json'; // cache log klubů: { [idTeam]: { name, logo } }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+// ── Cache log klubů ──────────────────────────────────────────────────────────
+// Logo klubu není v sestavě – dohledává se lookupem týmu podle idTeam. Cachujeme
+// napříč zápasy (clubs.json), takže každý klub se stáhne jen jednou.
+let clubCache = {};
+let clubCacheDirty = false;
+
+async function ensureClubLogo(clubId, clubName) {
+  if (!clubId) return null;
+  if (Object.prototype.hasOwnProperty.call(clubCache, clubId)) {
+    return clubCache[clubId]?.logo ?? null;
+  }
+  let logo = null;
+  try {
+    const team = await fetchTeam(clubId);
+    const b = team && (team.strBadge || team.strTeamBadge);
+    logo = (b && b !== 'null' && b !== '') ? b : null;
+  } catch { logo = null; }
+  clubCache[clubId] = { name: clubName || '', logo };
+  clubCacheDirty = true;
+  await sleep(CALL_DELAY_MS); // šetři rate-limit jen u nového klubu
+  return logo;
+}
+
+// Doplní hráčům clubLogo (z cache/lookup) a odstraní dočasné clubId.
+async function enrichSide(side) {
+  for (const p of [...side.xi, ...side.bench]) {
+    p.clubLogo = await ensureClubLogo(p.clubId, p.club);
+    delete p.clubId;
+  }
+}
 
 function isFinished(status) {
   const s = String(status || '').toUpperCase();
@@ -72,6 +104,11 @@ async function buildDetail(match) {
   const hasLineups = lineups.home.xi.length > 0 || lineups.away.xi.length > 0;
   const hasStats = stats.donuts.length > 0 || stats.bars.length > 0;
 
+  if (hasLineups) {
+    await enrichSide(lineups.home);
+    await enrichSide(lineups.away);
+  }
+
   return {
     id,
     events,
@@ -93,6 +130,8 @@ async function main() {
     console.warn('⚠️  schedule.json je prázdný — spusť nejdřív: npm run init-data');
     return;
   }
+
+  clubCache = readJSON(CLUBS_FILE) ?? {};
 
   const targets = schedule.filter((m) => isFinished(m.status) || isLive(m.status));
   console.log(`📋 ${targets.length} odehraných/živých zápasů ke zpracování\n`);
@@ -126,6 +165,8 @@ async function main() {
     }
     await sleep(CALL_DELAY_MS);
   }
+
+  if (clubCacheDirty) writeJSON(CLUBS_FILE, clubCache);
 
   updateMeta({
     lastBackfill: new Date().toISOString(),

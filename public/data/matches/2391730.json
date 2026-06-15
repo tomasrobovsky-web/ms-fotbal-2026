@@ -107,67 +107,89 @@
           "name": "Casemiro",
           "num": 5,
           "pos": "DF",
-          "club": "Manchester United"
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ydr3j41766826524.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
         },
         {
           "name": "Douglas Santos",
           "num": 16,
           "pos": "DF",
-          "club": "Zenit Saint Petersburg"
+          "club": "Zenit Saint Petersburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w5w8j71692197353.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pyxdjx1534866416.png"
         },
         {
           "name": "Marquinhos",
           "num": 4,
           "pos": "DF",
-          "club": "Paris SG"
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7x9gtl1766335348.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
         },
         {
           "name": "Vinícius Júnior",
           "num": 7,
           "pos": "FW",
-          "club": "Real Madrid"
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
         },
         {
           "name": "Raphinha",
           "num": 11,
           "pos": "FW",
-          "club": "Barcelona"
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w94spe1726510018.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
         },
         {
           "name": "Alisson Becker",
           "num": 1,
           "pos": "GK",
-          "club": "Liverpool"
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8amq961757087569.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
         },
         {
           "name": "Lucas Paquetá",
           "num": 20,
           "pos": "MF",
-          "club": "Flamengo"
+          "club": "Flamengo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wz75kq1770378434.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
         },
         {
           "name": "Roger Ibañez",
           "num": 24,
           "pos": "DF",
-          "club": "Al-Ahli"
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v5oj711771663666.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
         },
         {
           "name": "Bruno Guimarães",
           "num": 8,
           "pos": "DF",
-          "club": "Newcastle United"
+          "club": "Newcastle United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
         },
         {
           "name": "Gabriel Magalhães",
           "num": 3,
           "pos": "DF",
-          "club": "Arsenal"
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trz5x71769331076.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
         },
         {
           "name": "Igor Thiago",
           "num": 25,
           "pos": "FW",
-          "club": "Brentford"
+          "club": "Brentford",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/irs8wu1765971888.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
         }
       ],
       "bench": []
@@ -179,67 +201,89 @@
           "name": "Brahim Díaz",
           "num": 10,
           "pos": "FW",
-          "club": "Real Madrid"
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/civrzg1733653256.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
         },
         {
           "name": "Achraf Hakimi",
           "num": 2,
           "pos": "DF",
-          "club": "Paris SG"
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oqu69c1766335243.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
         },
         {
           "name": "Issa Diop",
           "num": 14,
           "pos": "DF",
-          "club": "Fulham"
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e758ud1757070461.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
         },
         {
           "name": "Noussair Mazraoui",
           "num": 3,
           "pos": "DF",
-          "club": "Manchester United"
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/o58oaq1766826898.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
         },
         {
           "name": "Bono",
           "num": 1,
           "pos": "GK",
-          "club": "Al-Hilal"
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u0pjgc1658436080.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
         },
         {
           "name": "Azzedine Ounahi",
           "num": 8,
           "pos": "MF",
-          "club": "Girona"
+          "club": "Girona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bqjrxp1762457280.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png"
         },
         {
           "name": "Chadi Riad",
           "num": 18,
           "pos": "DF",
-          "club": "Crystal Palace"
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/euw1zp1766828464.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
         },
         {
           "name": "Ismael Saibari",
           "num": 11,
           "pos": "MF",
-          "club": "PSV Eindhoven"
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3y277g1764595447.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
         },
         {
           "name": "Bilal El Khannous",
           "num": 23,
           "pos": "MF",
-          "club": "Stuttgart"
+          "club": "Stuttgart",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ii2jau1763586312.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png"
         },
         {
           "name": "Neil El Aynaoui",
           "num": 24,
           "pos": "MF",
-          "club": "Roma"
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wbm4lk1758815430.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
         },
         {
           "name": "Ayyoub Bouaddi",
           "num": 6,
           "pos": "MF",
-          "club": "Lille"
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g1bppf1766077416.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
         }
       ],
       "bench": []
@@ -337,5 +381,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:16.958Z"
+  "updatedAt": "2026-06-15T18:50:54.505Z"
 }

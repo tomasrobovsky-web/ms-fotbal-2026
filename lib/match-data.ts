@@ -81,8 +81,8 @@ export type GroupData = {
 };
 
 export type PlayerPos = "GK" | "DF" | "MF" | "FW";
-export type XIPlayer = { name: string; num: number | null; pos: PlayerPos; club: string };
-export type BenchPlayer = { name: string; pos: PlayerPos; club: string };
+export type XIPlayer = { name: string; num: number | null; pos: PlayerPos; club: string; photo?: string | null; clubLogo?: string | null };
+export type BenchPlayer = { name: string; pos: PlayerPos; club: string; photo?: string | null; clubLogo?: string | null };
 export type Lineup = { form: string; xi: XIPlayer[]; bench: BenchPlayer[] };
 export type TeamLineups = { home: Lineup; away: Lineup };
 export type MatchStats = {

@@ -125,67 +125,89 @@
           "name": "Stephen Eustáquio",
           "num": 7,
           "pos": "MF",
-          "club": "Los Angeles FC"
+          "club": "Los Angeles FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4q6t9d1778157858.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
         },
         {
           "name": "Maxime Crépeau",
           "num": 16,
           "pos": "GK",
-          "club": "Orlando City"
+          "club": "Orlando City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tm8isx1766759820.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
         },
         {
           "name": "Jonathan David",
           "num": 10,
           "pos": "FW",
-          "club": "Juventus"
+          "club": "Juventus",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
         },
         {
           "name": "Tajon Buchanan",
           "num": 17,
           "pos": "FW",
-          "club": "Villarreal"
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ar6mwv1762888718.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
         },
         {
           "name": "Liam Millar",
           "num": 11,
           "pos": "FW",
-          "club": "Hull City"
+          "club": "Hull City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i9obah1761922181.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
         },
         {
           "name": "Richie Laryea",
           "num": 22,
           "pos": "DF",
-          "club": "Toronto FC"
+          "club": "Toronto FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/milfrs1766575517.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png"
         },
         {
           "name": "Alistair Johnston",
           "num": 2,
           "pos": "DF",
-          "club": "Celtic"
+          "club": "Celtic",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g6eohm1701350643.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
         },
         {
           "name": "Ismaël Koné",
           "num": 8,
           "pos": "MF",
-          "club": "Sassuolo"
+          "club": "Sassuolo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kiabdn1764106047.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png"
         },
         {
           "name": "Tani Oluwaseyi",
           "num": 12,
           "pos": "FW",
-          "club": "Villarreal"
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6kcri81762889021.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
         },
         {
           "name": "Derek Cornelius",
           "num": 13,
           "pos": "DF",
-          "club": "Marseille"
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8ifr0w1777017367.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
         },
         {
           "name": "Luc de Fougerolles",
           "num": 4,
           "pos": "DF",
-          "club": "Dender"
+          "club": "Dender",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/phdusb1767621327.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/r4ihc61654884430.png"
         }
       ],
       "bench": []
@@ -197,67 +219,89 @@
           "name": "Sead Kolašinac",
           "num": 5,
           "pos": "DF",
-          "club": "Atalanta"
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ae2jmk1695157289.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
         },
         {
           "name": "Nikola Katić",
           "num": 18,
           "pos": "DF",
-          "club": "Schalke 04"
+          "club": "Schalke 04",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tnvi3o1773611092.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png"
         },
         {
           "name": "Ermedin Demirović",
           "num": 10,
           "pos": "FW",
-          "club": "Stuttgart"
+          "club": "Stuttgart",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hvuj8v1763586169.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png"
         },
         {
           "name": "Nikola Vasilj",
           "num": 1,
           "pos": "GK",
-          "club": "St Pauli"
+          "club": "St Pauli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/85qp2e1763567779.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png"
         },
         {
           "name": "Esmir Bajraktarević",
           "num": 20,
           "pos": "MF",
-          "club": "PSV Eindhoven"
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/896xbs1764594499.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
         },
         {
           "name": "Amar Dedić",
           "num": 7,
           "pos": "DF",
-          "club": "Benfica"
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3qhv951758216357.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
         },
         {
           "name": "Benjamin Tahirović",
           "num": 6,
           "pos": "DF",
-          "club": "Brøndby"
+          "club": "Brøndby",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wrr6m21765376681.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywswyw1473535498.png"
         },
         {
           "name": "Ivan Bašić",
           "num": 13,
           "pos": "MF",
-          "club": "Astana"
+          "club": "Astana",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/247gi31726000720.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/p74kfi1772124582.png"
         },
         {
           "name": "Jovo Lukić",
           "num": 25,
           "pos": "FW",
-          "club": "Universitatea Cluj"
+          "club": "Universitatea Cluj",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/finvmi1721292254.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fn9rwv1579794565.png"
         },
         {
           "name": "Amar Memić",
           "num": 15,
           "pos": "MF",
-          "club": "Viktoria Plzeň"
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bcyk9s1779017172.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
         },
         {
           "name": "Tarik Muharemović",
           "num": 4,
           "pos": "DF",
-          "club": "Sassuolo"
+          "club": "Sassuolo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zrpkc31764106120.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png"
         }
       ],
       "bench": []
@@ -355,5 +399,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:12.398Z"
+  "updatedAt": "2026-06-15T18:50:26.267Z"
 }

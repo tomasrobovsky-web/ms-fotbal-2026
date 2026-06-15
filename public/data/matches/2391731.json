@@ -98,67 +98,89 @@
           "name": "Johny Placide",
           "num": 1,
           "pos": "GK",
-          "club": "Bastia"
+          "club": "Bastia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v6gt5k1779018079.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mv09b91754278549.png"
         },
         {
           "name": "Hannes Delcroix",
           "num": 5,
           "pos": "DF",
-          "club": "Lugano"
+          "club": "Lugano",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/if7dpw1757174383.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2kh2if1567615581.png"
         },
         {
           "name": "Jean-Ricner Bellegarde",
           "num": 10,
           "pos": "MF",
-          "club": "Wolverhampton Wanderers"
+          "club": "Wolverhampton Wanderers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i0niw51756975825.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
         },
         {
           "name": "Frantzdy Pierrot",
           "num": 20,
           "pos": "FW",
-          "club": "Rizespor"
+          "club": "Rizespor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bh9xgn1779134027.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t7senr1657195719.png"
         },
         {
           "name": "Carlens Arcus",
           "num": 2,
           "pos": "DF",
-          "club": "Angers"
+          "club": "Angers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2e5idv1765913925.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png"
         },
         {
           "name": "Ruben Providence",
           "num": 15,
           "pos": "FW",
-          "club": "Almere City"
+          "club": "Almere City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/meoa7o1728505560.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qhxtg31579206207.png"
         },
         {
           "name": "Wilson Isidor",
           "num": 18,
           "pos": "FW",
-          "club": "Sunderland"
+          "club": "Sunderland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x53hzm1757073049.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
         },
         {
           "name": "Danley Jean Jacques",
           "num": 17,
           "pos": "DF",
-          "club": "Philadelphia Union"
+          "club": "Philadelphia Union",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ms0fhw1778670096.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png"
         },
         {
           "name": "Louicius Deedson",
           "num": 11,
           "pos": "FW",
-          "club": "FC Dallas"
+          "club": "FC Dallas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nkwjba1766513552.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vxy8xy1602103187.png"
         },
         {
           "name": "Ricardo Adé",
           "num": 4,
           "pos": "DF",
-          "club": "LDU Quito"
+          "club": "LDU Quito",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v6ilf71779017873.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png"
         },
         {
           "name": "Martin Expérience",
           "num": 8,
           "pos": "DF",
-          "club": "Nancy Lorraine"
+          "club": "Nancy Lorraine",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/k0rxbd1779119711.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ve39pj1547899643.png"
         }
       ],
       "bench": []
@@ -170,67 +192,89 @@
           "name": "Andrew Robertson",
           "num": 3,
           "pos": "DF",
-          "club": "Tottenham Hotspur"
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t0yil51757088652.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
         },
         {
           "name": "Grant Hanley",
           "num": 5,
           "pos": "DF",
-          "club": "Hibernian"
+          "club": "Hibernian",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2zn65k1695292590.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qjys3z1684928969.png"
         },
         {
           "name": "Lawrence Shankland",
           "num": 20,
           "pos": "FW",
-          "club": "Rangers"
+          "club": "Rangers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dxju9b1718014808.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png"
         },
         {
           "name": "John McGinn",
           "num": 7,
           "pos": "MF",
-          "club": "Aston Villa"
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/keq4991756987159.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
         },
         {
           "name": "Che Adams",
           "num": 10,
           "pos": "FW",
-          "club": "Torino"
+          "club": "Torino",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fiwc2j1758813462.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png"
         },
         {
           "name": "Angus Gunn",
           "num": 1,
           "pos": "GK",
-          "club": "Nottingham Forest"
+          "club": "Nottingham Forest",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7mdhk31757163014.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
         },
         {
           "name": "Lewis Ferguson",
           "num": 19,
           "pos": "MF",
-          "club": "Bologna"
+          "club": "Bologna",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/84eiy01758896812.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
         },
         {
           "name": "Scott McTominay",
           "num": 4,
           "pos": "DF",
-          "club": "Napoli"
+          "club": "Napoli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b7truo1762288079.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
         },
         {
           "name": "Aaron Hickey",
           "num": 2,
           "pos": "DF",
-          "club": "Brentford"
+          "club": "Brentford",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1yk2ty1765972080.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
         },
         {
           "name": "Jack Hendry",
           "num": 13,
           "pos": "DF",
-          "club": "Al-Ettifaq"
+          "club": "Al-Ettifaq",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tnn81g1631793532.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m272h51694761970.png"
         },
         {
           "name": "Ben Gannon-Doak",
           "num": 17,
           "pos": "FW",
-          "club": "Bournemouth"
+          "club": "Bournemouth",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b5u6q81757018206.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
         }
       ],
       "bench": []
@@ -328,5 +372,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:21.492Z"
+  "updatedAt": "2026-06-15T18:51:24.448Z"
 }

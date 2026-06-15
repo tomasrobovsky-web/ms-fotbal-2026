@@ -101,67 +101,89 @@
           "name": "Cameron Burgess",
           "num": 21,
           "pos": "DF",
-          "club": "Swansea City"
+          "club": "Swansea City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/maa37o1761234599.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png"
         },
         {
           "name": "Harry Souttar",
           "num": 19,
           "pos": "DF",
-          "club": "Leicester City"
+          "club": "Leicester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/219opn1761861817.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png"
         },
         {
           "name": "Mohamed Touré",
           "num": 9,
           "pos": "FW",
-          "club": "Norwich City"
+          "club": "Norwich City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/chv5eq1780308514.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
         },
         {
           "name": "Connor Metcalfe",
           "num": 8,
           "pos": "MF",
-          "club": "St Pauli"
+          "club": "St Pauli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8xb0sq1756311214.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png"
         },
         {
           "name": "Jordan Bos",
           "num": 5,
           "pos": "DF",
-          "club": "Feyenoord"
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u0rnwo1758189333.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
         },
         {
           "name": "Nestory Irankunda",
           "num": 17,
           "pos": "FW",
-          "club": "Watford"
+          "club": "Watford",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyliux1761216493.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png"
         },
         {
           "name": "Alessandro Circati",
           "num": 3,
           "pos": "DF",
-          "club": "Parma"
+          "club": "Parma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6lkqvz1759779806.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
         },
         {
           "name": "Jacob Italiano",
           "num": 4,
           "pos": "DF",
-          "club": "Grazer AK"
+          "club": "Grazer AK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i6ol421769372005.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/43rocv1750352978.png"
         },
         {
           "name": "Aiden O'Neill",
           "num": 13,
           "pos": "DF",
-          "club": "New York City FC"
+          "club": "New York City FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/28x1kl1778529144.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png"
         },
         {
           "name": "Patrick Beach",
           "num": 18,
           "pos": "GK",
-          "club": "Melbourne City"
+          "club": "Melbourne City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/eoiezy1748713226.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rkeqme1603301840.png"
         },
         {
           "name": "Paul Okon-Engstler",
           "num": 24,
           "pos": "DF",
-          "club": "Sydney FC"
+          "club": "Sydney FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x7oiku1765623798.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png"
         }
       ],
       "bench": []
@@ -173,67 +195,89 @@
           "name": "Hakan Çalhanoğlu",
           "num": 10,
           "pos": "DF",
-          "club": "Inter Milan"
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hw8uxm1759408821.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
         },
         {
           "name": "Uğurcan Çakır",
           "num": 23,
           "pos": "GK",
-          "club": "Galatasaray"
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/c98xoe1769177452.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
         },
         {
           "name": "Abdülkerim Bardakcı",
           "num": 14,
           "pos": "DF",
-          "club": "Galatasaray"
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uncf0f1769178149.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
         },
         {
           "name": "Merih Demiral",
           "num": 3,
           "pos": "DF",
-          "club": "Al-Ahli"
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mqjb7n1777237989.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
         },
         {
           "name": "Zeki Çelik",
           "num": 2,
           "pos": "DF",
-          "club": "Roma"
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b8hg8o1758816005.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
         },
         {
           "name": "Orkun Kökçü",
           "num": 6,
           "pos": "MF",
-          "club": "Beşiktaş"
+          "club": "Beşiktaş",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zrp45u1769170024.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
         },
         {
           "name": "Ferdi Kadıoğlu",
           "num": 20,
           "pos": "DF",
-          "club": "Brighton and Hove Albion"
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/enrtu21756994489.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
         },
         {
           "name": "Kerem Aktürkoğlu",
           "num": 7,
           "pos": "FW",
-          "club": "Fenerbahçe"
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ix8aeh1769179066.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
         },
         {
           "name": "İsmail Yüksek",
           "num": 16,
           "pos": "DF",
-          "club": "Fenerbahçe"
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yl8ono1724846159.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
         },
         {
           "name": "Arda Güler",
           "num": 8,
           "pos": "MF",
-          "club": "Real Madrid"
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwnog21768499165.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
         },
         {
           "name": "Barış Alper Yılmaz",
           "num": 21,
           "pos": "FW",
-          "club": "Galatasaray"
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bmtzkn1717532810.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
         }
       ],
       "bench": []
@@ -331,5 +375,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T17:13:30.686Z"
+  "updatedAt": "2026-06-15T18:52:00.511Z"
 }
