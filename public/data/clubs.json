@@ -271,6 +271,10 @@
     "name": "Eintracht Frankfurt",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
   },
+  "133822": {
+    "name": "Lens",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png"
+  },
   "133823": {
     "name": "Monaco",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
@@ -483,6 +487,10 @@
     "name": "Mamelodi Sundowns",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
   },
+  "134504": {
+    "name": "Uruguay",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png"
+  },
   "134630": {
     "name": "New York City FC",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png"
@@ -523,9 +531,17 @@
     "name": "Atalanta",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
   },
+  "135160": {
+    "name": "Estudiantes de La Plata",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+  },
   "135163": {
     "name": "Huracán",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png"
+  },
+  "135171": {
+    "name": "River Plate",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
   },
   "135173": {
     "name": "San Lorenzo",
@@ -534,6 +550,10 @@
   "135292": {
     "name": "Orlando City",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
+  },
+  "135455": {
+    "name": "Real Oviedo",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png"
   },
   "135461": {
     "name": "Sint-Truiden",
@@ -546,6 +566,10 @@
   "135674": {
     "name": "Chaves",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/0e88hj1628850708.png"
+  },
+  "135708": {
+    "name": "Sporting CP",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ohj6ih1628855978.png"
   },
   "135728": {
     "name": "Parma",
@@ -574,6 +598,10 @@
   "136017": {
     "name": "Al-Ettifaq",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/m272h51694761970.png"
+  },
+  "136022": {
+    "name": "Al-Nassr",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
   },
   "136027": {
     "name": "Holstein Kiel",
@@ -694,5 +722,9 @@
   "147638": {
     "name": "Iğdır",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/cj9ztt1690541191.png"
+  },
+  "152473": {
+    "name": "Al-Ula",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9px2xb1755453358.png"
   }
 }
