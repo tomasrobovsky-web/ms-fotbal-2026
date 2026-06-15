@@ -1,0 +1,314 @@
+{
+  "id": "2391736",
+  "events": [
+    {
+      "minute": 13,
+      "type": "yellow",
+      "team": "a",
+      "player": "Marwan Attia"
+    },
+    {
+      "minute": 14,
+      "type": "yellow",
+      "team": "h",
+      "player": "Timothy Castagne"
+    },
+    {
+      "minute": 19,
+      "type": "goal",
+      "team": "a",
+      "player": "Emam Ashour",
+      "assist": "Mohamed Salah"
+    },
+    {
+      "minute": 34,
+      "type": "yellow",
+      "team": "a",
+      "player": "Ahmed Fatouh"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Thibaut Courtois",
+          "num": 1,
+          "pos": "GK",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/592mar1733653475.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Brandon Mechele",
+          "num": 4,
+          "pos": "DF",
+          "club": "Club Brugge",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vicmek1767634348.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png"
+        },
+        {
+          "name": "Thomas Meunier",
+          "num": 15,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r7zcgl1766077606.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Timothy Castagne",
+          "num": 21,
+          "pos": "DF",
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uc84ft1757070324.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+        },
+        {
+          "name": "Leandro Trossard",
+          "num": 10,
+          "pos": "FW",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/07fzpg1769331977.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Youri Tielemans",
+          "num": 8,
+          "pos": "MF",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dvyawe1756987280.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "num": 7,
+          "pos": "MF",
+          "club": "Napoli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/o4flia1764089447.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+        },
+        {
+          "name": "Charles De Ketelaere",
+          "num": 17,
+          "pos": "MF",
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wqo9ia1695157273.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+        },
+        {
+          "name": "Jérémy Doku",
+          "num": 11,
+          "pos": "FW",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tehbsx1769183074.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Amadou Onana",
+          "num": 24,
+          "pos": "DF",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q2bvps1725359471.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Nathan Ngoy",
+          "num": 25,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dj91a01766077637.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Mohamed Salah",
+          "num": 10,
+          "pos": "FW",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Mohamed Hany",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oie0ki1750398278.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Hamdy Fathy",
+          "num": 14,
+          "pos": "DF",
+          "club": "Al-Wakrah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x2vi4j1750397927.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ejg2io1693026715.png"
+        },
+        {
+          "name": "Yasser Ibrahim",
+          "num": 2,
+          "pos": "DF",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hgltuc1750397903.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Omar Marmoush",
+          "num": 22,
+          "pos": "FW",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgn5451757098568.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Ahmed Fatouh",
+          "num": 13,
+          "pos": "DF",
+          "club": "Zamalek",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fgb6gv1780140478.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tgekj81580930027.png"
+        },
+        {
+          "name": "Emam Ashour",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jk038w1750398132.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Marwan Attia",
+          "num": 19,
+          "pos": "DF",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/glidve1750398018.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Mostafa Shobeir",
+          "num": 23,
+          "pos": "GK",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q0pq101750398287.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Mohanad Lasheen",
+          "num": 17,
+          "pos": "DF",
+          "club": "Pyramids",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uj0spw1780140931.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png"
+        },
+        {
+          "name": "Mostafa Ziko",
+          "num": 11,
+          "pos": "FW",
+          "club": "Pyramids",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xjk0l51780142121.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0.47,
+        0.1
+      ],
+      [
+        "Držení %",
+        59,
+        41
+      ],
+      [
+        "Na branku",
+        0,
+        3
+      ],
+      [
+        "Přesnost %",
+        86,
+        79
+      ],
+      [
+        "Rohy",
+        0,
+        1
+      ],
+      [
+        "Fauly",
+        10,
+        6
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        7,
+        3
+      ],
+      [
+        "Střely mimo",
+        3,
+        0
+      ],
+      [
+        "Zblokované",
+        4,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        3,
+        2
+      ],
+      [
+        "Střely zvenku",
+        4,
+        1
+      ],
+      [
+        "Přihrávky",
+        263,
+        187
+      ],
+      [
+        "Ofsajdy",
+        0,
+        1
+      ],
+      [
+        "Přesné přihr.",
+        226,
+        148
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        0
+      ],
+      [
+        "Žluté karty",
+        1,
+        2
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-15T20:15:30.583Z"
+}

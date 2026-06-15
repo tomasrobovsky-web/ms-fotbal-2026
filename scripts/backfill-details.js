@@ -78,6 +78,14 @@ function writeDetail(id, data) {
 function detailExists(id) {
   return fs.existsSync(path.join(MATCHES_DIR, `${id}.json`));
 }
+// True, když existující soubor pochází z premium v2 (plná data). Free/ořezané
+// soubory se tak při premium běhu přestáhnou místo přeskočení.
+function detailIsPremium(id) {
+  try {
+    const d = JSON.parse(fs.readFileSync(path.join(MATCHES_DIR, `${id}.json`), 'utf-8'));
+    return d.source === 'thesportsdb-v2';
+  } catch { return false; }
+}
 
 // Z událostí odvodí, který tým dostal červenou (pro indikátor v UI).
 function redsFromEvents(events) {
@@ -141,8 +149,9 @@ async function main() {
     const id = match.id;
     const live = isLive(match.status);
 
-    // Dohrané s existujícím souborem přeskočíme (data se už nemění).
-    if (!live && detailExists(id)) { skipped++; continue; }
+    // Dohrané s existujícím souborem přeskočíme (data se už nemění) — ale jen
+    // pokud je soubor už premium (jinak ho na premium klíči přestáhneme).
+    if (!live && detailExists(id) && (!IS_PREMIUM || detailIsPremium(id))) { skipped++; continue; }
 
     try {
       const detail = await buildDetail(match);

@@ -8,7 +8,12 @@
 const API_KEY = (process.env.THESPORTSDB_KEY || '123').trim();
 const IS_PREMIUM = API_KEY !== '' && API_KEY !== '123';
 
-const V1_BASE = `https://www.thesportsdb.com/api/v1/json/${API_KEY}`;
+// POZOR: premium klíč ve v1 URL NEFUNGUJE (vrací 404). v1 endpointy (rozpis,
+// tabulky, soupisky, live event) ale free klíč neořezává, takže pro ně použijeme
+// free '123'. Premium klíč slouží jen pro v2 detaily (přes hlavičku X-API-KEY),
+// které free klíč ořezává na 5 položek.
+const V1_KEY = IS_PREMIUM ? '123' : API_KEY;
+const V1_BASE = `https://www.thesportsdb.com/api/v1/json/${V1_KEY}`;
 const V2_BASE = 'https://www.thesportsdb.com/api/v2/json';
 
 const LEAGUE_ID = '4429';

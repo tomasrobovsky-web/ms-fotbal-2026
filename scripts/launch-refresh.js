@@ -45,6 +45,14 @@ async function lightRefresh() {
 async function main() {
   console.log('🚀 Launch refresh — kontrola dat...');
 
+  // Na Vercelu (build) data NEREGENERUJEME: build nemá premium klíč, takže by
+  // nové zápasy stáhl free klíčem ořezané na 5 položek. Produkční data jsou
+  // commitnutá v repu a aktualizuje je GitHub Actions (s premium secretem).
+  if (process.env.VERCEL) {
+    console.log('▲ Vercel build — přeskakuji refresh, používám commitnutá data.');
+    return;
+  }
+
   const schedule = readJSON('schedule.json');
   const meta = readJSON('meta.json') ?? {};
   const last = Date.parse(meta.workerLastTick || meta.lastInit || '') || 0;

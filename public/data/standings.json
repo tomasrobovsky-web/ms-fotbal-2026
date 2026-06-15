@@ -15,7 +15,7 @@
     "goalDiff": 2,
     "points": 3,
     "form": "W",
-    "updatedAt": "2026-06-14 11:03:14"
+    "updatedAt": "2026-06-15 12:34:46"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
     "goalDiff": 3,
     "points": 3,
     "form": "W",
-    "updatedAt": "2026-06-14 11:03:14"
+    "updatedAt": "2026-06-15 12:34:46"
   },
   {
     "rank": 1,
@@ -51,7 +51,7 @@
     "goalDiff": 1,
     "points": 3,
     "form": "W",
-    "updatedAt": "2026-06-14 11:03:14"
+    "updatedAt": "2026-06-15 12:34:46"
   },
   {
     "rank": 1,
@@ -69,7 +69,7 @@
     "goalDiff": 0,
     "points": 1,
     "form": "D",
-    "updatedAt": "2026-06-14 11:03:14"
+    "updatedAt": "2026-06-15 12:34:46"
   },
   {
     "rank": 1,
@@ -78,15 +78,15 @@
     "group": "Group E",
     "badge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png/tiny",
     "description": "Round of 32",
-    "played": 0,
-    "won": 0,
+    "played": 1,
+    "won": 1,
     "drawn": 0,
     "lost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDiff": 0,
-    "points": 0,
-    "form": "",
-    "updatedAt": "2026-06-14 11:03:14"
+    "goalsFor": 7,
+    "goalsAgainst": 1,
+    "goalDiff": 6,
+    "points": 3,
+    "form": "W",
+    "updatedAt": "2026-06-15 12:34:46"
   }
 ]
