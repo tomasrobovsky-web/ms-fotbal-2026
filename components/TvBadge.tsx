@@ -1,17 +1,11 @@
 import Image from "next/image";
 import type { TvChannel } from "@/lib/match-data";
 
-// ČT sport – stylizovaná značka ČT (kruh s výřezem) + „sport".
+// ČT sport – oficiální logo ze složky assets.
 function CtSportMark() {
   return (
-    <div style={{ display: "flex", alignItems: "center", gap: 5, flex: "0 0 auto" }}>
-      <svg width="17" height="17" viewBox="0 0 60 60" aria-hidden="true">
-        <path fill="#3CB54A" fillRule="evenodd"
-          d="M30 2 A28 28 0 0 1 30 58 A28 28 0 0 1 30 2 Z M4 20 L38 20 L38 40 L4 40 Z" />
-      </svg>
-      <span style={{ fontSize: 12, fontWeight: 800, color: "#3CB54A",
-        fontStyle: "italic", letterSpacing: 0.2, whiteSpace: "nowrap" }}>sport</span>
-    </div>
+    <Image src="/assets/ct_sport_logo.png" alt="ČT sport" width={63} height={14}
+      style={{ height: 14, width: "auto", display: "block", flex: "0 0 auto" }} />
   );
 }
 

@@ -102,6 +102,41 @@ function PlayerCard({
   );
 }
 
+// Řádek střídajícího hráče – z reálných událostí zápasu (kdo přišel / za koho).
+function SubRow({ name, off, minute, teamColor }: { name: string; off?: string; minute: number; teamColor: string }) {
+  return (
+    <div style={{ ...panel({ borderRadius: 15 }), display: "flex", alignItems: "center", gap: 12, padding: "9px 12px" }}>
+      <div style={{ position: "relative", flex: "0 0 auto" }}>
+        <div style={{ width: 46, height: 46, borderRadius: "50%", display: "grid", placeItems: "center",
+          background: `linear-gradient(150deg, ${teamColor}cc, ${teamColor}44)`,
+          boxShadow: `0 0 0 1.5px ${teamColor}99, 0 0 14px ${teamColor}66` }}>
+          <span style={{ fontSize: 16, fontWeight: 800, color: "#fff", letterSpacing: .5 }}>{avatarLetters(name)}</span>
+        </div>
+        <span style={{ position: "absolute", bottom: -2, right: -3, width: 18, height: 18, borderRadius: 9,
+          background: "#052e16", border: "1.5px solid #4ade80", display: "grid", placeItems: "center" }}>
+          <svg width="9" height="9" viewBox="0 0 10 10" fill="none">
+            <path d="M5 9V1" stroke="#4ade80" strokeWidth="2.2" strokeLinecap="round" />
+            <path d="M2 4.5L5 1L8 4.5" stroke="#4ade80" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </span>
+      </div>
+      <div style={{ flex: 1, minWidth: 0 }}>
+        <span style={{ fontSize: 15, fontWeight: 750, color: "#fff", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", display: "block" }}>{name}</span>
+        {off && (
+          <div style={{ display: "flex", alignItems: "center", gap: 5, marginTop: 3, fontSize: 12, color: "#9aa0aa", fontWeight: 500 }}>
+            <svg width="9" height="9" viewBox="0 0 10 10" fill="none" style={{ flex: "0 0 auto" }}>
+              <path d="M5 1v8" stroke="#f87171" strokeWidth="2.2" strokeLinecap="round" />
+              <path d="M2 5.5L5 9L8 5.5" stroke="#f87171" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+            za {off}
+          </div>
+        )}
+      </div>
+      <span style={{ flex: "0 0 auto", fontSize: 12, fontWeight: 700, color: "#4ade80", fontVariantNumeric: "tabular-nums" }}>{minute}′</span>
+    </div>
+  );
+}
+
 // ── Statistiky: donut + pruh ─────────────────────────────────────────────────
 function DonutStat({ label, h, a, ch, ca }: { label: string; h: number; a: number; ch: string; ca: string }) {
   const total = h + a || 1, hp = h / total;
@@ -120,7 +155,7 @@ function DonutStat({ label, h, a, ch, ca }: { label: string; h: number; a: numbe
             strokeDasharray={`${awayLen} ${C}`} strokeDashoffset={0} strokeLinecap="round"
             style={{ filter: `drop-shadow(0 0 3px ${ca}aa)` }} />
           <circle cx={S / 2} cy={S / 2} r={R} fill="none" stroke={ch} strokeWidth={SW}
-            strokeDasharray={`${homeLen} ${C}`} strokeDashoffset={homeLen} strokeLinecap="round"
+            strokeDasharray={`${homeLen} ${C}`} strokeDashoffset={-awayLen} strokeLinecap="round"
             style={{ filter: `drop-shadow(0 0 3px ${ch}aa)` }} />
         </svg>
         <div style={{ position: "absolute", inset: 0, display: "grid", placeItems: "center", textAlign: "center", padding: 5 }}>
@@ -279,12 +314,14 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
   const code = side === "h" ? match.home : match.away;
   const tc = TEAM_COLOR[code] || "#7a7f88";
 
-  const subEvents = match.events.filter((e) => e.type === "sub" && e.team === side);
+  const subEvents = match.events
+    .filter((e) => e.type === "sub" && e.team === side)
+    .sort((a, b) => a.minute - b.minute);
   const bench = data.bench || [];
-  const activeSubs = bench
-    .filter((bp) => subEvents.some((se) => se.player === bp.name))
-    .map((bp) => ({ ...bp, minute: subEvents.find((se) => se.player === bp.name)!.minute }));
-  const inactiveBench = bench.filter((bp) => !subEvents.some((se) => se.player === bp.name));
+  const subbedIn = new Set(subEvents.map((e) => e.player));
+  // Střídající hráči přímo z událostí zápasu – reálná data nemají lavičku.
+  const activeSubs = subEvents.map((e) => ({ name: e.player, off: e.off, minute: e.minute }));
+  const inactiveBench = bench.filter((bp) => !subbedIn.has(bp.name));
 
   if (data.xi.length === 0) return null;
 
@@ -324,8 +361,8 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
             <div style={{ flex: 1, height: 1, background: "rgba(255,255,255,.08)" }} />
           </div>
           <div style={{ display: "flex", flexDirection: "column", gap: 7 }}>
-            {activeSubs.map((bp, i) => (
-              <PlayerCard key={`sub-${i}`} name={bp.name} pos={bp.pos} club={bp.club} teamColor={tc} subMinute={bp.minute} photo={bp.photo} clubLogo={bp.clubLogo} />
+            {activeSubs.map((s, i) => (
+              <SubRow key={`sub-${i}`} name={s.name} off={s.off} minute={s.minute} teamColor={tc} />
             ))}
           </div>
         </>

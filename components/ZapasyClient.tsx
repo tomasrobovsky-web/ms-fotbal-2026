@@ -76,26 +76,22 @@ export default function ZapasyClient({ matches, groups = [] }: { matches: Match[
     return { minDate: dates[0] ?? today, maxDate: dates[dates.length - 1] ?? today };
   }, [matches, today]);
 
-  // Kalendář se posouvá po blocích 3 dnů zarovnaných od začátku turnaje (minDate).
-  // První den bloku, do kterého spadá zadané datum.
-  const blockStartFor = (date: string) => {
-    const idx = Math.max(0, Math.floor(diffDays(minDate, clamp(date, minDate, maxDate)) / 3));
-    return addDays(minDate, idx * 3);
-  };
+  // Okno tří dnů s vybraným dnem uprostřed: [anchor-1, anchor, anchor+1].
+  // Start: včera/dnes/zítra (dnes uprostřed). Šipka posune okno o 3 dny a
+  // vybere nový prostřední den. Uživatel si může kliknout i na krajní den.
+  const initialAnchor = clamp(effectiveToday, minDate, maxDate);
+  const [anchor, setAnchor] = useState<string>(initialAnchor);
+  const [selectedDate, setSelectedDate] = useState<string>(initialAnchor);
 
-  const initialSelected = clamp(effectiveToday, minDate, maxDate);
-  const [blockStart, setBlockStart] = useState<string>(() => blockStartFor(initialSelected));
-  const [selectedDate, setSelectedDate] = useState<string>(initialSelected);
-
-  const windowDates = [blockStart, addDays(blockStart, 1), addDays(blockStart, 2)];
-  const canPrev = blockStart > minDate;
-  const canNext = addDays(blockStart, 3) <= maxDate;
+  const windowDates = [addDays(anchor, -1), anchor, addDays(anchor, 1)];
+  const canPrev = addDays(anchor, -1) > minDate;
+  const canNext = addDays(anchor, 1) < maxDate;
 
   const shift = (dir: 1 | -1) => {
     if ((dir < 0 && !canPrev) || (dir > 0 && !canNext)) return;
-    const next = addDays(blockStart, dir * 3);
-    setBlockStart(next);
-    setSelectedDate(next); // automaticky vyber první den nového bloku
+    const next = clamp(addDays(anchor, dir * 3), minDate, maxDate);
+    setAnchor(next);
+    setSelectedDate(next); // vybraný den vždy prostřední z nové trojice
   };
 
   // Aktuální den šampionátu = dnešek − zahájení + 1, omezeno na délku turnaje.
