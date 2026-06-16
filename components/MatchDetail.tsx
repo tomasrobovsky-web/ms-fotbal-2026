@@ -40,17 +40,22 @@ function PlayerCard({
   teamColor: string; subMinute?: number | null; photo?: string | null; clubLogo?: string | null;
 }) {
   const p = POS[pos];
+  const [photoFailed, setPhotoFailed] = useState(false);
+  const [logoFailed, setLogoFailed] = useState(false);
+  const showPhoto = !!photo && !photoFailed;
+  const showLogo = !!clubLogo && !logoFailed;
   return (
     <div style={{ ...panel({ borderRadius: 15 }), display: "flex", alignItems: "center", gap: 12, padding: "9px 12px" }}>
       <div style={{ position: "relative", flex: "0 0 auto" }}>
         <div style={{ position: "relative", width: 46, height: 46, borderRadius: "50%", overflow: "hidden",
           background: `linear-gradient(150deg, ${teamColor}cc, ${teamColor}44)`, display: "grid", placeItems: "center",
           boxShadow: `0 0 0 1.5px ${teamColor}99, 0 0 14px ${teamColor}66` }}>
-          <span style={{ fontSize: 16, fontWeight: 800, color: "#fff", letterSpacing: .5 }}>{avatarLetters(name)}</span>
-          {photo && (
-            <img src={photo} alt="" loading="lazy"
-              onError={(e) => { e.currentTarget.style.display = "none"; }}
+          {showPhoto ? (
+            <img src={photo!} alt="" loading="lazy"
+              onError={() => setPhotoFailed(true)}
               style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
+          ) : (
+            <span style={{ fontSize: 16, fontWeight: 800, color: "#fff", letterSpacing: .5 }}>{avatarLetters(name)}</span>
           )}
         </div>
         {subMinute != null ? (
@@ -80,16 +85,14 @@ function PlayerCard({
         </div>
         {club && (
           <div style={{ display: "flex", alignItems: "center", gap: 7, marginTop: 4 }}>
-            <span style={{ position: "relative", width: 16, height: 16, borderRadius: 4, flex: "0 0 auto", overflow: "hidden",
-              display: "grid", placeItems: "center",
-              fontSize: 6.5, fontWeight: 800, color: "#fff", background: `hsl(${crestHue(club)} 42% 34%)` }}>
-              {crestInitials(club)}
-              {clubLogo && (
-                <img src={clubLogo} alt="" loading="lazy"
-                  onError={(e) => { e.currentTarget.style.display = "none"; }}
-                  style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover" }} />
-              )}
-            </span>
+            {showLogo ? (
+              <img src={clubLogo!} alt="" loading="lazy"
+                onError={() => setLogoFailed(true)}
+                style={{ width: 16, height: 16, flex: "0 0 auto", objectFit: "contain" }} />
+            ) : (
+              <span style={{ width: 16, height: 16, borderRadius: 4, flex: "0 0 auto", display: "grid", placeItems: "center",
+                fontSize: 6.5, fontWeight: 800, color: "#fff", background: `hsl(${crestHue(club)} 42% 34%)` }}>{crestInitials(club)}</span>
+            )}
             <span style={{ fontSize: 12, color: "#9aa0aa", fontWeight: 500, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{club}</span>
           </div>
         )}
@@ -262,6 +265,12 @@ function GroupImpact({ match, groupRows }: { match: Match; groupRows: StandingRo
 }
 
 // ── Sestavy ──────────────────────────────────────────────────────────────────
+// Řazení hráčů podle role: brankář → obránci → záložníci → útočníci.
+const POS_ORDER: Record<PlayerPos, number> = { GK: 0, DF: 1, MF: 2, FW: 3 };
+function byRole<T extends { pos: PlayerPos }>(arr: T[]): T[] {
+  return [...arr].sort((a, b) => POS_ORDER[a.pos] - POS_ORDER[b.pos]);
+}
+
 function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data: Lineup }) {
   const [showBench, setShowBench] = useState(false);
   const code = side === "h" ? match.home : match.away;
@@ -291,7 +300,7 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
       </div>
 
       <div style={{ display: "flex", flexDirection: "column", gap: 7 }}>
-        {data.xi.map((p: XIPlayer, i) => (
+        {byRole(data.xi).map((p: XIPlayer, i) => (
           <PlayerCard key={i} name={p.name} num={p.num} pos={p.pos} club={p.club} teamColor={tc} photo={p.photo} clubLogo={p.clubLogo} />
         ))}
       </div>
@@ -339,7 +348,7 @@ function TeamLineup({ match, side, data }: { match: Match; side: "h" | "a"; data
           </button>
           {showBench && (
             <div style={{ display: "flex", flexDirection: "column", gap: 7, marginTop: 8 }}>
-              {inactiveBench.map((bp: BenchPlayer, i) => (
+              {byRole(inactiveBench).map((bp: BenchPlayer, i) => (
                 <PlayerCard key={`bench-${i}`} name={bp.name} num="—" pos={bp.pos} club={bp.club} teamColor={tc} photo={bp.photo} clubLogo={bp.clubLogo} />
               ))}
             </div>
