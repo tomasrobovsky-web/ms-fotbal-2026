@@ -21,6 +21,20 @@
       "team": "a",
       "player": "Erling Haaland",
       "assist": ""
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "Zaid Ismail",
+      "off": "Zidane Iqbal"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "Ali Al-Hamadi",
+      "off": "Marko Farji"
     }
   ],
   "reds": {},
@@ -306,5 +320,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-16T23:01:14.845Z"
+  "updatedAt": "2026-06-16T23:35:39.056Z"
 }
