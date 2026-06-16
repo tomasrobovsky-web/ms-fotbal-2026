@@ -211,8 +211,8 @@
     "timeUtc": "19:00:00",
     "venue": "Lumen Field",
     "round": 1,
-    "status": "2H",
-    "homeScore": 0,
+    "status": "FT",
+    "homeScore": 1,
     "awayScore": 1
   },
   {
@@ -229,9 +229,9 @@
     "timeUtc": "22:00:00",
     "venue": "Hard Rock Stadium",
     "round": 1,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "FT",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "2391739",
@@ -283,9 +283,9 @@
     "timeUtc": "01:00:00",
     "venue": "SoFi Stadium",
     "round": 1,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "FT",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "id": "2391742",
