@@ -1,0 +1,386 @@
+{
+  "id": "2391737",
+  "events": [
+    {
+      "minute": 7,
+      "type": "goal",
+      "team": "a",
+      "player": "Elijah Just",
+      "assist": "Chris Wood"
+    },
+    {
+      "minute": 32,
+      "type": "goal",
+      "team": "h",
+      "player": "Ramin Rezaeian",
+      "assist": ""
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Aria Yousefi",
+      "off": "Mehdi Ghayedi"
+    },
+    {
+      "minute": 53,
+      "type": "sub",
+      "team": "h",
+      "player": "Shahriar Moghanlou",
+      "off": "Ali Alipour"
+    },
+    {
+      "minute": 54,
+      "type": "goal",
+      "team": "a",
+      "player": "Elijah Just",
+      "assist": "Chris Wood"
+    },
+    {
+      "minute": 64,
+      "type": "goal",
+      "team": "h",
+      "player": "Mohammad Mohebi",
+      "assist": "Ramin Rezaeian"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "h",
+      "player": "Saman Ghoddos",
+      "off": "Ehsan Hajsafi"
+    },
+    {
+      "minute": 68,
+      "type": "sub",
+      "team": "a",
+      "player": "Liberato Cacace",
+      "off": "Ben Old"
+    },
+    {
+      "minute": 68,
+      "type": "sub",
+      "team": "a",
+      "player": "Callum McCowatt",
+      "off": "Ryan Thomas"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "a",
+      "player": "Tim Payne",
+      "off": "Callan Elliot"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Mehdi Taremi",
+      "off": "Amirhossein Hosseinzadeh"
+    },
+    {
+      "minute": 89,
+      "type": "yellow",
+      "team": "h",
+      "player": "Ehsan Hajsafi"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "a",
+      "player": "Sarpreet Singh",
+      "off": "Jesse Randall"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "a",
+      "player": "Marko Stamenic",
+      "off": "Tyler Bindon"
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Saman Ghoddos",
+          "num": 14,
+          "pos": "MF",
+          "club": "Ittihad Kalba",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9r84g11694113587.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwjc661718210928.png"
+        },
+        {
+          "name": "Mehdi Taremi",
+          "num": 9,
+          "pos": "FW",
+          "club": "Olympiacos",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9dhm7l1772033412.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png"
+        },
+        {
+          "name": "Saeid Ezatolahi",
+          "num": 6,
+          "pos": "DF",
+          "club": "Shabab Al-Ahli Dubai",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qcewmg1702646602.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/k21gkm1617893374.png"
+        },
+        {
+          "name": "Shahriar Moghanlou",
+          "num": 20,
+          "pos": "FW",
+          "club": "Ittihad Kalba",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s45ysn1780432014.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwjc661718210928.png"
+        },
+        {
+          "name": "Alireza Beiranvand",
+          "num": 1,
+          "pos": "GK",
+          "club": "Tractor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t0vpyd1668778733.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/url13x1722468959.png"
+        },
+        {
+          "name": "Milad Mohammadi",
+          "num": 5,
+          "pos": "DF",
+          "club": "Persepolis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mvpqij1668785747.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tzqvmg1725936631.png"
+        },
+        {
+          "name": "Shojae Khalilzadeh",
+          "num": 4,
+          "pos": "DF",
+          "club": "Tractor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d9mh0o1668783872.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/url13x1722468959.png"
+        },
+        {
+          "name": "Ramin Rezaeian",
+          "num": 23,
+          "pos": "DF",
+          "club": "Foolad Khuzestan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yiz0x31668787055.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijxpe21582291802.png"
+        },
+        {
+          "name": "Ali Nemati",
+          "num": 19,
+          "pos": "DF",
+          "club": "Foolad Khuzestan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xmn58u1780432078.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijxpe21582291802.png"
+        },
+        {
+          "name": "Mohammad Mohebi",
+          "num": 8,
+          "pos": "FW",
+          "club": "Rostov",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rj8nr51780432044.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yysryx1473452299.png"
+        },
+        {
+          "name": "Aria Yousefi",
+          "num": 17,
+          "pos": "DF",
+          "club": "Sepahan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2g7l691780431768.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ehx9kf1580934615.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Chris Wood",
+          "num": 9,
+          "pos": "FW",
+          "club": "Nottingham Forest",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/03zmjz1757163261.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+        },
+        {
+          "name": "Michael Boxall",
+          "num": 5,
+          "pos": "DF",
+          "club": "Minnesota United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qk0evh1766426076.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png"
+        },
+        {
+          "name": "Sarpreet Singh",
+          "num": 10,
+          "pos": "MF",
+          "club": "Wellington Phoenix",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/am1x821779222665.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/4uj8271759632738.png"
+        },
+        {
+          "name": "Tim Payne",
+          "num": 2,
+          "pos": "DF",
+          "club": "Wellington Phoenix",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6hft7i1765895128.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/4uj8271759632738.png"
+        },
+        {
+          "name": "Max Crocombe",
+          "num": 1,
+          "pos": "GK",
+          "club": "Millwall",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a7h8e21761768992.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png"
+        },
+        {
+          "name": "Liberato Cacace",
+          "num": 13,
+          "pos": "DF",
+          "club": "Wrexham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/itavca1761148778.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png"
+        },
+        {
+          "name": "Joe Bell",
+          "num": 6,
+          "pos": "DF",
+          "club": "Viking",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0jpz121654114672.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9mzq961590148192.png"
+        },
+        {
+          "name": "Marko Stamenic",
+          "num": 8,
+          "pos": "MF",
+          "club": "Swansea City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/il25p91761235114.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png"
+        },
+        {
+          "name": "Elijah Just",
+          "num": 11,
+          "pos": "FW",
+          "club": "Motherwell",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gb5m291779220774.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsysqx1447598301.png"
+        },
+        {
+          "name": "Callum McCowatt",
+          "num": 20,
+          "pos": "MF",
+          "club": "Silkeborg IF",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wy8ibg1765647125.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpxvvp1473535560.png"
+        },
+        {
+          "name": "Finn Surman",
+          "num": 16,
+          "pos": "DF",
+          "club": "Portland Timbers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qmadd81766760097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        1.5,
+        1.24
+      ],
+      [
+        "Držení %",
+        48,
+        52
+      ],
+      [
+        "Na branku",
+        4,
+        8
+      ],
+      [
+        "Přesnost %",
+        77,
+        85
+      ],
+      [
+        "Rohy",
+        4,
+        1
+      ],
+      [
+        "Fauly",
+        10,
+        8
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        17,
+        14
+      ],
+      [
+        "Střely mimo",
+        8,
+        4
+      ],
+      [
+        "Zblokované",
+        5,
+        2
+      ],
+      [
+        "Střely ve vápně",
+        10,
+        10
+      ],
+      [
+        "Střely zvenku",
+        7,
+        4
+      ],
+      [
+        "Přihrávky",
+        405,
+        446
+      ],
+      [
+        "Ofsajdy",
+        2,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        312,
+        377
+      ],
+      [
+        "Zákroky brankáře",
+        6,
+        2
+      ],
+      [
+        "Žluté karty",
+        1,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-16T10:58:55.300Z"
+}
