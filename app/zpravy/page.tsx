@@ -424,6 +424,7 @@ export default function ZpravyPage() {
                 overflow: "hidden",
                 pointerEvents: "none",
                 borderRadius: "inherit",
+                clipPath: "inset(0 round 22px)",
               }}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}

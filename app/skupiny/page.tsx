@@ -213,7 +213,8 @@ export default async function SkupinyPage() {
             border: "1px solid var(--glass-border)", borderRadius: 22,
             aspectRatio: "4/3", minHeight: 280, display: "flex", flexDirection: "column" }}>
             {/* rotating field bg */}
-            <div style={{ position: "absolute", inset: 0, overflow: "hidden", pointerEvents: "none", borderRadius: "inherit" }}>
+            <div style={{ position: "absolute", inset: 0, overflow: "hidden", pointerEvents: "none", borderRadius: "inherit",
+              clipPath: "inset(0 round 22px)" }}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/assets/field-bg.jpg" alt="" style={{
                 position: "absolute", top: "50%", left: "50%",

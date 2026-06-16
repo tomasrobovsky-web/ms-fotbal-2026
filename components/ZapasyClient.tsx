@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import type { Match, GroupData, StandingRow } from "@/lib/match-data";
-import { NEXT_CZE, TOURNAMENT_START } from "@/lib/match-data";
+import type { Match, GroupData, StandingRow, TeamCode } from "@/lib/match-data";
+import { TOURNAMENT_START } from "@/lib/match-data";
 import type { CardVariant } from "@/components/MatchCard";
 import Header from "@/components/Header";
 import HeroCountdown from "@/components/HeroCountdown";
@@ -56,6 +56,25 @@ function plural(n: number): string {
   return n === 1 ? "zápas" : n < 5 ? "zápasy" : "zápasů";
 }
 
+// České měsíce ve 2. pádu (pro „13. června, 21:00").
+const MONTHS_GEN = ["ledna", "února", "března", "dubna", "května", "června",
+  "července", "srpna", "září", "října", "listopadu", "prosince"];
+
+function czeDateLabel(date: string, kickoff: string): string {
+  const [, m, d] = date.split("-");
+  return `${Number(d)}. ${MONTHS_GEN[Number(m) - 1]}, ${kickoff}`;
+}
+
+// Nejbližší zápas ČR z reálného rozpisu: první nedohraný (běžící/nadcházející),
+// jinak fallback na poslední odehraný. `matches` jsou seřazené chronologicky.
+function nextCze(matches: Match[]): { opponent: TeamCode; dateLabel: string } | null {
+  const cze = matches.filter((m) => m.home === "CZE" || m.away === "CZE");
+  const pick = cze.find((m) => m.status !== "finished") ?? cze[cze.length - 1];
+  if (!pick || !pick.date) return null;
+  const opponent = (pick.home === "CZE" ? pick.away : pick.home) as TeamCode;
+  return { opponent, dateLabel: czeDateLabel(pick.date, pick.kickoff) };
+}
+
 export default function ZapasyClient({ matches, groups = [] }: { matches: Match[]; groups?: GroupData[] }) {
   const cardVariant: CardVariant = "classic";
 
@@ -97,6 +116,9 @@ export default function ZapasyClient({ matches, groups = [] }: { matches: Match[
   // Aktuální den šampionátu = dnešek − zahájení + 1, omezeno na délku turnaje.
   const totalDays = Math.max(1, diffDays(TOURNAMENT_START, maxDate) + 1);
   const tournamentDay = Math.min(totalDays, Math.max(1, diffDays(TOURNAMENT_START, today) + 1));
+
+  // Nejbližší zápas ČR (z reálných dat, ne z hardcoded konstanty).
+  const cze = useMemo(() => nextCze(matches), [matches]);
 
   const dayMatches = useMemo(
     () => matches.filter((m) => m.date === selectedDate),
@@ -174,8 +196,8 @@ export default function ZapasyClient({ matches, groups = [] }: { matches: Match[
           <Header />
           <HeroCountdown
             dayNumber={tournamentDay}
-            dateLabel={NEXT_CZE.dateLabel}
-            opponent={NEXT_CZE.opponent}
+            dateLabel={cze?.dateLabel ?? ""}
+            opponent={cze?.opponent ?? null}
           />
           <DatePicker
             windowDates={windowDates}

@@ -1,6 +1,97 @@
 {
   "id": "2391738",
-  "events": [],
+  "events": [
+    {
+      "minute": 41,
+      "type": "goal",
+      "team": "h",
+      "player": "Abdulelah Al-Amri",
+      "assist": ""
+    },
+    {
+      "minute": 44,
+      "type": "yellow",
+      "team": "h",
+      "player": "Abdulelah Al-Amri"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Darwin Núñez",
+      "off": "Agustín Canobbio"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Matías Viña",
+      "off": "Juan Manuel Sanabria"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "h",
+      "player": "Musab Al-Juwayr",
+      "off": "Nasser Al-Dawsari"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Manuel Ugarte",
+      "off": "Nicolás De La Cruz"
+    },
+    {
+      "minute": 80,
+      "type": "goal",
+      "team": "a",
+      "player": "Maximiliano Araújo",
+      "assist": ""
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "h",
+      "player": "Mohammed Abu Al-Shamat",
+      "off": "Nawaf Boushal"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "Maximiliano Araújo",
+      "off": "Brian Rodríguez"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Saud Abdulhamid",
+      "off": "Ali Lajami"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Firas Al-Buraikan",
+      "off": ""
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Moteb Al-Harbi",
+      "off": "Abdullah Al-Hamdan"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "a",
+      "player": "Federico Viñas",
+      "off": "Rodrigo Aguirre"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,79 +287,79 @@
     "donuts": [
       [
         "xG",
-        0.91,
-        0.36
+        0.99,
+        1.48
       ],
       [
         "Držení %",
-        42,
-        58
+        35,
+        65
       ],
       [
         "Na branku",
         3,
-        2
+        9
       ],
       [
         "Přesnost %",
-        79,
-        85
+        73,
+        88
       ],
       [
         "Rohy",
         4,
-        2
+        10
       ],
       [
         "Fauly",
-        5,
-        5
+        11,
+        6
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        5,
-        5
+        7,
+        24
       ],
       [
         "Střely mimo",
-        2,
-        2
+        3,
+        10
       ],
       [
         "Zblokované",
-        0,
-        1
+        1,
+        5
       ],
       [
         "Střely ve vápně",
-        3,
-        4
+        4,
+        15
       ],
       [
         "Střely zvenku",
-        2,
-        1
+        3,
+        9
       ],
       [
         "Přihrávky",
-        202,
-        282
+        316,
+        571
       ],
       [
         "Ofsajdy",
         0,
-        2
+        6
       ],
       [
         "Přesné přihr.",
-        159,
-        239
+        232,
+        502
       ],
       [
         "Zákroky brankáře",
-        2,
+        8,
         2
       ],
       [
@@ -284,5 +375,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T23:26:58.642Z"
+  "updatedAt": "2026-06-16T18:01:34.932Z"
 }

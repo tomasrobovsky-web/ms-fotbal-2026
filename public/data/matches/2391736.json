@@ -25,6 +25,89 @@
       "type": "yellow",
       "team": "a",
       "player": "Ahmed Fatouh"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "h",
+      "player": "Timothy Castagne",
+      "off": "Nicolas Raskin"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "h",
+      "player": "Amadou Onana",
+      "off": "Maxim De Cuyper"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "h",
+      "player": "Charles De Ketelaere",
+      "off": "Romelu Lukaku"
+    },
+    {
+      "minute": 66,
+      "type": "goal",
+      "team": "h",
+      "player": "Mohamed Hany",
+      "assist": ""
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "a",
+      "player": "Emam Ashour",
+      "off": "Ramy Rabia"
+    },
+    {
+      "minute": 75,
+      "type": "yellow",
+      "team": "h",
+      "player": "Maxim De Cuyper"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Mostafa Ziko",
+      "off": "Zizo"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Mohamed Salah",
+      "off": ""
+    },
+    {
+      "minute": 86,
+      "type": "sub",
+      "team": "h",
+      "player": "Jérémy Doku",
+      "off": "Matias Fernandez-Pardo"
+    },
+    {
+      "minute": 86,
+      "type": "sub",
+      "team": "h",
+      "player": "Kevin De Bruyne",
+      "off": "Hans Vanaken"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "a",
+      "player": "Hamdy Fathy",
+      "off": "Ibrahim Adel"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "a",
+      "player": "Ahmed Fatouh",
+      "off": "Karim Hafez"
     }
   ],
   "reds": {},
@@ -222,65 +305,65 @@
     "donuts": [
       [
         "xG",
-        0.47,
-        0.1
+        1.16,
+        0.89
       ],
       [
         "Držení %",
-        59,
-        41
+        53,
+        47
       ],
       [
         "Na branku",
-        0,
+        3,
         3
       ],
       [
         "Přesnost %",
         86,
-        79
+        81
       ],
       [
         "Rohy",
-        0,
-        1
+        2,
+        7
       ],
       [
         "Fauly",
-        10,
-        6
+        15,
+        14
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        7,
-        3
+        14,
+        14
       ],
       [
         "Střely mimo",
-        3,
-        0
+        6,
+        3
       ],
       [
         "Zblokované",
-        4,
-        0
+        5,
+        8
       ],
       [
         "Střely ve vápně",
-        3,
-        2
+        8,
+        11
       ],
       [
         "Střely zvenku",
-        4,
-        1
+        6,
+        3
       ],
       [
         "Přihrávky",
-        263,
-        187
+        432,
+        388
       ],
       [
         "Ofsajdy",
@@ -289,17 +372,17 @@
       ],
       [
         "Přesné přihr.",
-        226,
-        148
+        371,
+        314
       ],
       [
         "Zákroky brankáře",
-        1,
-        0
+        2,
+        3
       ],
       [
         "Žluté karty",
-        1,
+        2,
         2
       ],
       [
@@ -310,5 +393,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-15T20:15:30.583Z"
+  "updatedAt": "2026-06-16T18:01:32.502Z"
 }

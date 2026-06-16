@@ -87,6 +87,75 @@ function detailIsPremium(id) {
   } catch { return false; }
 }
 
+// Načte existující detail (nebo null).
+function readDetail(id) {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(MATCHES_DIR, `${id}.json`), 'utf-8'));
+  } catch { return null; }
+}
+
+// ── Posouzení úplnosti detailu ───────────────────────────────────────────────
+// Některé zápasy se stáhly hned po skončení, kdy poskytovatel ještě neměl plný
+// timeline → uložily se s prázdnými/neúplnými událostmi, ale už s premium
+// `source`, takže je stará logika navždy přeskakovala. Detail proto bereme jako
+// hotový, jen když pokrývá všechny góly podle skóre a má sestavy i statistiky.
+function totalGoals(match) {
+  const h = parseInt(match.homeScore, 10);
+  const a = parseInt(match.awayScore, 10);
+  return (Number.isFinite(h) ? h : 0) + (Number.isFinite(a) ? a : 0);
+}
+function goalCount(detail) {
+  return ((detail && detail.events) || []).filter((e) => e.type === 'goal').length;
+}
+function hasLineups(detail) {
+  const l = detail && detail.lineups;
+  return !!l && (((l.home && l.home.xi ? l.home.xi.length : 0) + (l.away && l.away.xi ? l.away.xi.length : 0)) > 0);
+}
+function hasStats(detail) {
+  const s = detail && detail.stats;
+  return !!s && (((s.donuts ? s.donuts.length : 0) + (s.bars ? s.bars.length : 0)) > 0);
+}
+function detailComplete(detail, match) {
+  if (!detail) return false;
+  if (goalCount(detail) < totalGoals(match)) return false; // chybí střelci gólů
+  return hasLineups(detail) && hasStats(detail);
+}
+
+// ── Bezpečné sloučení starého a nového detailu ───────────────────────────────
+// Re-fetch nikdy nesmí zhoršit data, která už máme (poskytovatel může mít
+// dočasný výpadek). Z každé sekce vezmeme tu bohatší variantu.
+function statCount(s) {
+  return s ? ((s.donuts ? s.donuts.length : 0) + (s.bars ? s.bars.length : 0)) : 0;
+}
+function mergeDetail(existing, fresh, match) {
+  // Události: víc pokrytých gólů (a při shodě delší timeline) vyhrává.
+  const eFresh = fresh.events || [];
+  const eOld = (existing && existing.events) || [];
+  const gFresh = eFresh.filter((e) => e.type === 'goal').length;
+  const gOld = eOld.filter((e) => e.type === 'goal').length;
+  const events = gFresh !== gOld
+    ? (gFresh > gOld ? eFresh : eOld)
+    : (eFresh.length >= eOld.length ? eFresh : eOld);
+
+  const lineups = hasLineups(fresh) ? fresh.lineups : (hasLineups(existing) ? existing.lineups : null);
+  const stats = statCount(fresh.stats) >= statCount(existing && existing.stats) ? fresh.stats : existing.stats;
+
+  return {
+    id: fresh.id,
+    events,
+    reds: redsFromEvents(events),
+    lineups: lineups || null,
+    stats: stats || null,
+    source: fresh.source,
+    updatedAt: fresh.updatedAt,
+  };
+}
+// Shoda obsahu (mimo updatedAt) — ať zbytečně nepřepisujeme soubor (CI churn).
+function sameData(a, b) {
+  if (!a || !b) return false;
+  return JSON.stringify([a.events, a.lineups, a.stats]) === JSON.stringify([b.events, b.lineups, b.stats]);
+}
+
 // Z událostí odvodí, který tým dostal červenou (pro indikátor v UI).
 function redsFromEvents(events) {
   const reds = {};
@@ -149,12 +218,22 @@ async function main() {
     const id = match.id;
     const live = isLive(match.status);
 
-    // Dohrané s existujícím souborem přeskočíme (data se už nemění) — ale jen
-    // pokud je soubor už premium (jinak ho na premium klíči přestáhneme).
-    if (!live && detailExists(id) && (!IS_PREMIUM || detailIsPremium(id))) { skipped++; continue; }
+    // Dohraný zápas přeskočíme, jen když:
+    //  • free klíč → data se už nezlepší (i kdyby byla ořezaná), neopakuj; nebo
+    //  • premium klíč a soubor je už kompletní (v2 + střelci všech gólů + sestavy + staty).
+    // Neúplné premium soubory (např. stažené hned po skončení s prázdným timeline)
+    // se tak při dalším běhu dotáhnou. Živé vždy obnovujeme.
+    const existing = readDetail(id);
+    if (!live && existing) {
+      const upToDate = !IS_PREMIUM
+        ? true
+        : (existing.source === 'thesportsdb-v2' && detailComplete(existing, match));
+      if (upToDate) { skipped++; continue; }
+    }
 
     try {
-      const detail = await buildDetail(match);
+      const fresh = await buildDetail(match);
+      const detail = existing ? mergeDetail(existing, fresh, match) : fresh;
       const ev = detail.events.length;
       const xi = detail.lineups ? detail.lineups.home.xi.length + detail.lineups.away.xi.length : 0;
       const stt = detail.stats ? detail.stats.donuts.length + detail.stats.bars.length : 0;
@@ -163,6 +242,10 @@ async function main() {
       if (ev === 0 && xi === 0 && stt === 0) {
         failed++;
         console.warn(`  ⚠️  ${(match.name || id).padEnd(34)} prázdné (rate-limit?) — přeskočeno`);
+      } else if (existing && sameData(existing, detail)) {
+        // Re-fetch nepřinesl nic nového (poskytovatel zatím nemá víc) — nepřepisuj.
+        skipped++;
+        console.log(`  ⏭️  ${(match.name || id).padEnd(34)} beze změny (čeká na doplnění u zdroje)`);
       } else {
         writeDetail(id, detail);
         fetched++;

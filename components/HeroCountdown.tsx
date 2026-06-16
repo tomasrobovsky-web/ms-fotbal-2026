@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import type { TeamCode } from "@/lib/match-data";
 import { TEAMS } from "@/lib/match-data";
 import Flag from "./Flag";
+import BallModel from "./BallModel";
 
 function useCountUp(target: number, dur = 900) {
   const [v, setV] = useState(target);
@@ -30,12 +31,12 @@ function useCountUp(target: number, dur = 900) {
 type Props = {
   dayNumber: number;
   dateLabel: string;
-  opponent: TeamCode;
+  opponent: TeamCode | null;
 };
 
 export default function HeroCountdown({ dayNumber, dateLabel, opponent }: Props) {
   const big = useCountUp(dayNumber, 850);
-  const opp = TEAMS[opponent];
+  const opp = opponent ? TEAMS[opponent] : null;
 
   return (
     <div style={{
@@ -50,7 +51,8 @@ export default function HeroCountdown({ dayNumber, dateLabel, opponent }: Props)
     }}>
 
       {/* rotating field background image */}
-      <div style={{ position: "absolute", inset: 0, overflow: "hidden", pointerEvents: "none", borderRadius: "inherit" }}>
+      <div style={{ position: "absolute", inset: 0, overflow: "hidden", pointerEvents: "none", borderRadius: "inherit",
+        clipPath: "inset(0 round 22px)" }}>
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src="/assets/field-bg.jpg" alt="" style={{
           position: "absolute", top: "50%", left: "50%",
@@ -90,17 +92,21 @@ export default function HeroCountdown({ dayNumber, dateLabel, opponent }: Props)
               textShadow: "0 1px 8px rgba(0,0,0,.6)" }}>
               den<br />šampionátu
             </span>
+            {/* 3D míč – druhá část rámečku, vedle počítadla */}
+            <div style={{ marginLeft: "auto", alignSelf: "center", filter: "drop-shadow(0 6px 18px rgba(0,0,0,.45))" }}>
+              <BallModel size={104} />
+            </div>
           </div>
           <div style={{ display: "flex", alignItems: "center", gap: 9,
             padding: "10px 12px", borderRadius: 14, background: "rgba(9,9,11,.42)",
             backdropFilter: "blur(6px)", WebkitBackdropFilter: "blur(6px)" as never,
             border: "1px solid rgba(255,255,255,.10)" }}>
             <Flag code="CZE" size={26} />
-            <Flag code={opponent} size={26} />
+            {opp && opponent && <Flag code={opponent} size={26} />}
             <div style={{ display: "flex", flexDirection: "column", marginLeft: 2 }}>
               <span style={{ fontSize: 11, color: "#c3c6cc", fontWeight: 600, letterSpacing: .3 }}>Nejbližší zápas ČR</span>
               <span style={{ fontSize: 14, color: "#fff", fontWeight: 700 }}>
-                Česko – {opp.name} · {dateLabel}
+                {opp ? `Česko – ${opp.name} · ${dateLabel}` : "Skupina dohrána"}
               </span>
             </div>
           </div>
