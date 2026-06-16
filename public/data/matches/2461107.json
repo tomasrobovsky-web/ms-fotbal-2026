@@ -1,0 +1,310 @@
+{
+  "id": "2461107",
+  "events": [
+    {
+      "minute": 29,
+      "type": "goal",
+      "team": "a",
+      "player": "Erling Haaland",
+      "assist": ""
+    },
+    {
+      "minute": 39,
+      "type": "goal",
+      "team": "h",
+      "player": "Aymen Hussein",
+      "assist": ""
+    },
+    {
+      "minute": 39,
+      "type": "goal",
+      "team": "h",
+      "player": "Aymen Hussein",
+      "assist": ""
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "6-2-2",
+      "xi": [
+        {
+          "name": "Ali Al-Hamadi",
+          "num": 9,
+          "pos": "FW",
+          "club": "Luton Town",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/c2vni01766070789.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png"
+        },
+        {
+          "name": "Hussein Ali",
+          "num": 3,
+          "pos": "DF",
+          "club": "Pogoń Szczecin",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/35b2qb1728931694.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png"
+        },
+        {
+          "name": "Amir Al-Ammari",
+          "num": 16,
+          "pos": "DF",
+          "club": "Cracovia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z2j9fm1718053097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png"
+        },
+        {
+          "name": "Merchas Doski",
+          "num": 23,
+          "pos": "DF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t79mso1780581036.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        },
+        {
+          "name": "Jalal Hachim",
+          "num": 12,
+          "pos": "GK",
+          "club": "Al-Zawraa",
+          "photo": null,
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+        },
+        {
+          "name": "Ali Jasim",
+          "num": 17,
+          "pos": "MF",
+          "club": "Al-Najma Unaizah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xhyr981780581222.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o65fn01737686968.png"
+        },
+        {
+          "name": "Aymen Hussein",
+          "num": 18,
+          "pos": "FW",
+          "club": "Al-Karma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/n741p41780581152.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ket79n1727194865.png"
+        },
+        {
+          "name": "Ibrahim Bayesh",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al-Dhahra",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qbwn6o1780580871.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t3dhn31769895462.png"
+        },
+        {
+          "name": "Akam Hashem",
+          "num": 5,
+          "pos": "DF",
+          "club": "Al-Zawraa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/99t8vz1780581097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+        },
+        {
+          "name": "Zaid Tahseen",
+          "num": 4,
+          "pos": "DF",
+          "club": "Pakhtakor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x20cct1780589161.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9leeml1675712410.png"
+        },
+        {
+          "name": "Zaid Ismail",
+          "num": 24,
+          "pos": "DF",
+          "club": "Al-Talaba",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/f6jkgp1780581192.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m1hs731624721375.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Martin Ødegaard",
+          "num": 10,
+          "pos": "MF",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5g6vww1769331695.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Kristoffer Ajer",
+          "num": 3,
+          "pos": "DF",
+          "club": "Brentford",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/f1m43k1765972202.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+        },
+        {
+          "name": "Ørjan Nyland",
+          "num": 1,
+          "pos": "GK",
+          "club": "Sevilla",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wqnwbe1762860279.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+        },
+        {
+          "name": "Erling Haaland",
+          "num": 9,
+          "pos": "FW",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/un3jr11769182465.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Julian Ryerson",
+          "num": 26,
+          "pos": "DF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3cofj41756326544.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Sander Berge",
+          "num": 8,
+          "pos": "DF",
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/plhdsy1757070706.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+        },
+        {
+          "name": "Alexander Sørloth",
+          "num": 7,
+          "pos": "FW",
+          "club": "Atlético Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v3of4b1762288730.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "name": "Fredrik Aursnes",
+          "num": 14,
+          "pos": "MF",
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vabjep1681328214.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+        },
+        {
+          "name": "Antonio Nusa",
+          "num": 20,
+          "pos": "MF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yo19551763561296.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        },
+        {
+          "name": "David Møller Wolfe",
+          "num": 5,
+          "pos": "DF",
+          "club": "Wolverhampton Wanderers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4l6gxn1756975791.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+        },
+        {
+          "name": "Torbjørn Heggem",
+          "num": 17,
+          "pos": "DF",
+          "club": "Bologna",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1l1l641758897053.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0.13,
+        1.23
+      ],
+      [
+        "Držení %",
+        38,
+        62
+      ],
+      [
+        "Na branku",
+        0,
+        1
+      ],
+      [
+        "Přesnost %",
+        74,
+        88
+      ],
+      [
+        "Rohy",
+        0,
+        2
+      ],
+      [
+        "Fauly",
+        4,
+        6
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        3,
+        5
+      ],
+      [
+        "Střely mimo",
+        3,
+        2
+      ],
+      [
+        "Zblokované",
+        0,
+        2
+      ],
+      [
+        "Střely ve vápně",
+        2,
+        4
+      ],
+      [
+        "Střely zvenku",
+        1,
+        1
+      ],
+      [
+        "Přihrávky",
+        115,
+        198
+      ],
+      [
+        "Ofsajdy",
+        0,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        85,
+        174
+      ],
+      [
+        "Zákroky brankáře",
+        0,
+        0
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-16T22:50:55.365Z"
+}

@@ -591,6 +591,14 @@
     "name": "Orlando City",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
   },
+  "135294": {
+    "name": "Cracovia",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png"
+  },
+  "135302": {
+    "name": "Pogoń Szczecin",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png"
+  },
   "135455": {
     "name": "Real Oviedo",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png"
@@ -747,6 +755,10 @@
     "name": "Sepahan",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/ehx9kf1580934615.png"
   },
+  "139020": {
+    "name": "Pakhtakor",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9leeml1675712410.png"
+  },
   "139162": {
     "name": "Tractor",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/url13x1722468959.png"
@@ -783,6 +795,14 @@
     "name": "Charlotte FC",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/b6p4uz1595434047.png"
   },
+  "140375": {
+    "name": "Al-Zawraa",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+  },
+  "141851": {
+    "name": "Al-Talaba",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/m1hs731624721375.png"
+  },
   "146537": {
     "name": "Al Bataeh",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/7zftaj1718211067.png"
@@ -791,8 +811,20 @@
     "name": "Iğdır",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/cj9ztt1690541191.png"
   },
+  "149361": {
+    "name": "Al-Karma",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ket79n1727194865.png"
+  },
+  "150638": {
+    "name": "Al-Najma Unaizah",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o65fn01737686968.png"
+  },
   "152473": {
     "name": "Al-Ula",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/9px2xb1755453358.png"
+  },
+  "154568": {
+    "name": "Al-Dhahra",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/t3dhn31769895462.png"
   }
 }

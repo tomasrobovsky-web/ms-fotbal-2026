@@ -319,9 +319,9 @@
     "timeUtc": "22:00:00",
     "venue": "Gillette Stadium",
     "round": 1,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "id": "2391740",
