@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import type { Match, GroupData, StandingRow } from "@/lib/match-data";
-import { NEXT_CZE } from "@/lib/match-data";
+import { NEXT_CZE, TOURNAMENT_START } from "@/lib/match-data";
 import type { CardVariant } from "@/components/MatchCard";
 import Header from "@/components/Header";
 import HeroCountdown from "@/components/HeroCountdown";
@@ -29,6 +29,21 @@ function clamp(v: string, lo: string, hi: string): string {
   return v < lo ? lo : v > hi ? hi : v;
 }
 
+// Aktuální hodina v Praze (0–23) – pro volbu výchozího dne podle času.
+function pragueHour(): number {
+  const h = new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Europe/Prague", hour: "2-digit", hour12: false,
+  }).format(new Date());
+  return Number(h) % 24;
+}
+
+// Počet dní mezi dvěma "YYYY-MM-DD" (to − from).
+function diffDays(from: string, to: string): number {
+  const [y1, m1, d1] = from.split("-").map(Number);
+  const [y2, m2, d2] = to.split("-").map(Number);
+  return Math.round((Date.UTC(y2, m2 - 1, d2) - Date.UTC(y1, m1 - 1, d1)) / 86400000);
+}
+
 function headerLabel(date: string, today: string): string {
   if (date === today) return "Dnešní zápasy";
   if (date === addDays(today, -1)) return "Včerejší zápasy";
@@ -52,29 +67,40 @@ export default function ZapasyClient({ matches, groups = [] }: { matches: Match[
   }, [groups]);
 
   const today = pragueToday();
+  // Výchozí den podle pražského času: před polednem ještě včerejšek, po poledni dnešek.
+  const effectiveToday = pragueHour() < 12 ? addDays(today, -1) : today;
 
-  // rozsah turnaje z dat; anchor (prostřední den okna) se v něm drží tak,
-  // aby okno [anchor-1, anchor, anchor+1] nevyjelo mimo.
+  // Rozsah turnaje z dat.
   const { minDate, maxDate } = useMemo(() => {
     const dates = matches.map((m) => m.date ?? "").filter(Boolean).sort();
     return { minDate: dates[0] ?? today, maxDate: dates[dates.length - 1] ?? today };
   }, [matches, today]);
 
-  const anchorLo = minDate < maxDate ? addDays(minDate, 1) : minDate;
-  const anchorHi = minDate < maxDate ? addDays(maxDate, -1) : maxDate;
+  // Kalendář se posouvá po blocích 3 dnů zarovnaných od začátku turnaje (minDate).
+  // První den bloku, do kterého spadá zadané datum.
+  const blockStartFor = (date: string) => {
+    const idx = Math.max(0, Math.floor(diffDays(minDate, clamp(date, minDate, maxDate)) / 3));
+    return addDays(minDate, idx * 3);
+  };
 
-  const [anchor, setAnchor] = useState<string>(() => clamp(today, anchorLo, anchorHi));
-  const [selectedDate, setSelectedDate] = useState<string>(() => clamp(today, minDate, maxDate));
+  const initialSelected = clamp(effectiveToday, minDate, maxDate);
+  const [blockStart, setBlockStart] = useState<string>(() => blockStartFor(initialSelected));
+  const [selectedDate, setSelectedDate] = useState<string>(initialSelected);
 
-  const windowDates = [addDays(anchor, -1), anchor, addDays(anchor, 1)];
-  const canPrev = windowDates[0] > minDate;
-  const canNext = windowDates[2] < maxDate;
+  const windowDates = [blockStart, addDays(blockStart, 1), addDays(blockStart, 2)];
+  const canPrev = blockStart > minDate;
+  const canNext = addDays(blockStart, 3) <= maxDate;
 
   const shift = (dir: 1 | -1) => {
-    const next = clamp(addDays(anchor, dir), anchorLo, anchorHi);
-    setAnchor(next);
-    setSelectedDate(next); // jeden den z posunuté trojice zůstane vybraný (prostřední)
+    if ((dir < 0 && !canPrev) || (dir > 0 && !canNext)) return;
+    const next = addDays(blockStart, dir * 3);
+    setBlockStart(next);
+    setSelectedDate(next); // automaticky vyber první den nového bloku
   };
+
+  // Aktuální den šampionátu = dnešek − zahájení + 1, omezeno na délku turnaje.
+  const totalDays = Math.max(1, diffDays(TOURNAMENT_START, maxDate) + 1);
+  const tournamentDay = Math.min(totalDays, Math.max(1, diffDays(TOURNAMENT_START, today) + 1));
 
   const dayMatches = useMemo(
     () => matches.filter((m) => m.date === selectedDate),
@@ -151,7 +177,7 @@ export default function ZapasyClient({ matches, groups = [] }: { matches: Match[
 
           <Header />
           <HeroCountdown
-            daysToStart={NEXT_CZE.daysToStart}
+            dayNumber={tournamentDay}
             dateLabel={NEXT_CZE.dateLabel}
             opponent={NEXT_CZE.opponent}
           />

@@ -7,6 +7,7 @@ import type {
 import { TEAMS, TEAM_COLOR } from "@/lib/match-data";
 import { POS, resolveLineups, resolveStats } from "@/lib/sample-detail";
 import Flag from "./Flag";
+import TvBadge from "./TvBadge";
 import { IconBall, IconChevronLeft, IconWhistle } from "./Icons";
 
 // Solid panel — bez backdrop-filter (overlay se animuje transformem).
@@ -111,13 +112,15 @@ function DonutStat({ label, h, a, ch, ca }: { label: string; h: number; a: numbe
     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 5 }}>
       <span style={{ fontSize: 18, fontWeight: 800, color: ch, fontVariantNumeric: "tabular-nums", minWidth: 30, textAlign: "right" }}>{fmt(h)}</span>
       <div style={{ position: "relative", width: S, height: S, flex: "0 0 auto" }}>
-        <svg width={S} height={S} style={{ transform: "rotate(-90deg) scaleX(-1)" }}>
+        {/* Start nahoře (rotate -90). Hosté rostou od vrcholu po směru hodin (pravá
+            strana), domácí proti směru hodin (levá strana) – barva = strana týmu. */}
+        <svg width={S} height={S} style={{ transform: "rotate(-90deg)" }}>
           <circle cx={S / 2} cy={S / 2} r={R} fill="none" stroke="rgba(255,255,255,.07)" strokeWidth={SW} />
           <circle cx={S / 2} cy={S / 2} r={R} fill="none" stroke={ca} strokeWidth={SW}
-            strokeDasharray={`${awayLen} ${C}`} strokeDashoffset={-homeLen} strokeLinecap="round"
+            strokeDasharray={`${awayLen} ${C}`} strokeDashoffset={0} strokeLinecap="round"
             style={{ filter: `drop-shadow(0 0 3px ${ca}aa)` }} />
           <circle cx={S / 2} cy={S / 2} r={R} fill="none" stroke={ch} strokeWidth={SW}
-            strokeDasharray={`${homeLen} ${C}`} strokeLinecap="round"
+            strokeDasharray={`${homeLen} ${C}`} strokeDashoffset={homeLen} strokeLinecap="round"
             style={{ filter: `drop-shadow(0 0 3px ${ch}aa)` }} />
         </svg>
         <div style={{ position: "absolute", inset: 0, display: "grid", placeItems: "center", textAlign: "center", padding: 5 }}>
@@ -538,6 +541,12 @@ export default function MatchDetail({ match, onClose, closing, groupRows = null 
             <div style={{ textAlign: "center", marginTop: 16, fontSize: 12, color: "#71757f" }}>
               {[match.stadium, match.city].filter(Boolean).join(", ")}
             </div>
+            {match.tv && match.tv.length > 0 && (
+              <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 9, marginTop: 12 }}>
+                <span style={{ fontSize: 11.5, color: "#71757f", fontWeight: 600 }}>Vysílá</span>
+                <TvBadge channels={match.tv} />
+              </div>
+            )}
           </div>
         </div>
 

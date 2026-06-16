@@ -1,9 +1,9 @@
 "use client";
 
-import Image from "next/image";
 import type { Match } from "@/lib/match-data";
 import { TEAMS, TEAM_COLOR } from "@/lib/match-data";
 import Flag from "./Flag";
+import TvBadge from "./TvBadge";
 import { IconBall, IconClock } from "./Icons";
 
 export type CardVariant = "classic" | "split" | "minimal";
@@ -72,25 +72,6 @@ function CardScore({ match, size = 30 }: { match: Match; size?: number }) {
   );
 }
 
-function TvBadge({ channel }: { channel: "ct_sport" | "nova_action" }) {
-  if (channel === "ct_sport") {
-    return (
-      <div style={{ display: "flex", alignItems: "center", gap: 5, flex: "0 0 auto" }}>
-        <svg width="17" height="17" viewBox="0 0 60 60">
-          <path fill="#3CB54A" fillRule="evenodd"
-            d="M30 2 A28 28 0 0 1 30 58 A28 28 0 0 1 30 2 Z M4 20 L38 20 L38 40 L4 40 Z" />
-        </svg>
-        <span style={{ fontSize: 12, fontWeight: 800, color: "#3CB54A",
-          fontStyle: "italic", letterSpacing: 0.2, whiteSpace: "nowrap" }}>sport</span>
-      </div>
-    );
-  }
-  return (
-    <Image src="/assets/nova_action_logo.webp" alt="Nova Action" width={54} height={18}
-      style={{ height: 18, width: "auto", display: "block", flex: "0 0 auto" }} />
-  );
-}
-
 function venueLine(match: Match): string {
   const place = [match.stadium, match.city].filter(Boolean).join(", ");
   const group = match.group ? `Skupina ${match.group}` : "";
@@ -105,7 +86,7 @@ function Footer({ match }: { match: Match }) {
       <span style={{ fontSize: 11.5, color: "#71757f", fontWeight: 500 }}>
         {venueLine(match)}
       </span>
-      {showTv && <TvBadge channel={match.tv!} />}
+      {showTv && <TvBadge channels={match.tv!} />}
     </div>
   );
 }
@@ -121,7 +102,9 @@ export default function MatchCard({ match, variant, onOpen }: Props) {
   const awayScorers = match.events.filter((e) => e.type === "goal" && e.team === "a");
   const live = match.status === "live";
 
-  const baseGrad = `linear-gradient(90deg, ${ch}72 0%, ${ch}44 18%, ${ch}14 33%, transparent 40%, transparent 60%, ${ca}14 67%, ${ca}44 82%, ${ca}72 100%)`;
+  // Akcentní barvy se drží striktně své poloviny (domácí 0–42 %, hosté 58–100 %),
+  // střed je průhledný – žádná barva nepřeteče přes osu na druhý tým.
+  const baseGrad = `linear-gradient(90deg, ${ch}5c 0%, ${ch}26 20%, transparent 42%, transparent 58%, ${ca}26 80%, ${ca}5c 100%)`;
   const liveGlow = live ? `, radial-gradient(120% 80% at 50% -10%, rgba(255,77,106,.16), transparent 60%)` : "";
 
   // IMPORTANT: backdrop-filter must not be combined with transform on an ancestor —
@@ -129,6 +112,8 @@ export default function MatchCard({ match, variant, onOpen }: Props) {
   const wrapBase: React.CSSProperties = {
     ...glassStyle(),
     position: "relative", overflow: "hidden", padding: 16,
+    // Pozadí (gradient) se ořízne k vnitřní hraně – neprosakuje přes průhledný okraj.
+    backgroundClip: "padding-box",
     boxShadow: live ? "0 10px 30px -12px rgba(255,77,106,.25)" : "0 10px 26px -16px rgba(0,0,0,.7)",
   };
 
@@ -230,11 +215,11 @@ export default function MatchCard({ match, variant, onOpen }: Props) {
             {[match.group ? `Sk. ${match.group}` : "", match.city || match.stadium].filter(Boolean).join(" • ")}
           </span>
           {match.status === "upcoming" && match.tv
-            ? <TvBadge channel={match.tv} />
+            ? <TvBadge channels={match.tv} />
             : match.status === "upcoming"
             ? <span style={{ fontSize: 11.5, color: "#9aa0aa", fontWeight: 600 }}>{match.kickoff}</span>
             : match.status === "live" && match.tv
-            ? <TvBadge channel={match.tv} />
+            ? <TvBadge channels={match.tv} />
             : null}
         </div>
       </div>

@@ -30,6 +30,12 @@ export type Team = { name: string; short: string };
 
 export type MatchStatus = "upcoming" | "live" | "finished";
 
+/** TV vysílatel zápasu. Zápas může běžet na jedné nebo obou stanicích. */
+export type TvChannel = "ct_sport" | "nova_sport";
+
+/** Fixní datum zahájení turnaje (pražské), "YYYY-MM-DD". Pro výpočet „Den X". */
+export const TOURNAMENT_START = "2026-06-11";
+
 export type MatchEvent = {
   minute: number;
   type: "goal" | "yellow" | "red" | "sub";
@@ -56,7 +62,7 @@ export type Match = {
   score: { h: number | null; a: number | null };
   reds: { h?: boolean; a?: boolean };
   highlights: boolean;
-  tv?: "ct_sport" | "nova_action";
+  tv?: TvChannel[];
   events: MatchEvent[];
   /** Sestavy (z detailu zápasu / fallback z ukázky). */
   lineups?: TeamLineups | null;
@@ -258,7 +264,7 @@ export const MATCHES: Match[] = [
     stadium: "AT&T Stadium", city: "Dallas",
     status: "live", minute: 67, kickoff: "18:00",
     home: "CZE", away: "MAR",
-    score: { h: 1, a: 1 }, reds: { a: true }, highlights: false, tv: "ct_sport",
+    score: { h: 1, a: 1 }, reds: { a: true }, highlights: false, tv: ["ct_sport"],
     events: [
       { minute: 23, type: "goal",   team: "h", player: "Schick",     assist: "Šulc" },
       { minute: 41, type: "yellow", team: "h", player: "Souček" },
@@ -271,7 +277,7 @@ export const MATCHES: Match[] = [
     stadium: "Levi's Stadium", city: "San Francisco",
     status: "upcoming", kickoff: "21:00",
     home: "ESP", away: "JPN",
-    score: { h: null, a: null }, reds: {}, highlights: false, tv: "nova_action",
+    score: { h: null, a: null }, reds: {}, highlights: false, tv: ["ct_sport"],
     events: [],
   },
   {
@@ -279,7 +285,7 @@ export const MATCHES: Match[] = [
     stadium: "Hard Rock Stadium", city: "Miami",
     status: "upcoming", kickoff: "21:00",
     home: "ARG", away: "CZE",
-    score: { h: null, a: null }, reds: {}, highlights: false, tv: "ct_sport",
+    score: { h: null, a: null }, reds: {}, highlights: false, tv: ["ct_sport"],
     events: [],
   },
   {
@@ -287,7 +293,7 @@ export const MATCHES: Match[] = [
     stadium: "Mercedes-Benz Stadium", city: "Atlanta",
     status: "upcoming", kickoff: "18:00",
     home: "FRA", away: "CRO",
-    score: { h: null, a: null }, reds: {}, highlights: false, tv: "nova_action",
+    score: { h: null, a: null }, reds: {}, highlights: false, tv: ["ct_sport"],
     events: [],
   },
 ];

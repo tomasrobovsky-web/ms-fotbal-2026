@@ -207,11 +207,11 @@ export default async function SkupinyPage() {
           <Header />
 
           {/* Page hero banner */}
-          <div style={{ position: "relative", overflow: "hidden", padding: "24px 22px 20px", marginBottom: 18,
+          <div style={{ position: "relative", overflow: "hidden", padding: "30px 24px 26px", marginBottom: 18,
             background: "var(--glass-bg)",
             backdropFilter: "blur(26px)", WebkitBackdropFilter: "blur(26px)" as never,
             border: "1px solid var(--glass-border)", borderRadius: 22,
-            aspectRatio: "1799/1200", display: "flex", flexDirection: "column" }}>
+            aspectRatio: "4/3", minHeight: 280, display: "flex", flexDirection: "column" }}>
             {/* rotating field bg */}
             <div style={{ position: "absolute", inset: 0, overflow: "hidden", pointerEvents: "none", borderRadius: "inherit" }}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -235,11 +235,11 @@ export default async function SkupinyPage() {
               </span>
               <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
                 <div>
-                  <span style={{ fontSize: 52, fontWeight: 860, lineHeight: .9, letterSpacing: -2, color: "#fff",
+                  <span style={{ fontSize: 46, fontWeight: 860, lineHeight: .9, letterSpacing: -2, color: "#fff",
                     textShadow: "0 2px 16px rgba(0,0,0,.55), 0 0 34px rgba(165,217,255,.45)", display: "block", marginBottom: 8 }}>
                     Skupiny
                   </span>
-                  <span style={{ fontSize: 17, fontWeight: 650, color: "#c3c6cc", letterSpacing: -.2,
+                  <span style={{ fontSize: 15, fontWeight: 650, color: "#c3c6cc", letterSpacing: -.2,
                     textShadow: "0 1px 8px rgba(0,0,0,.6)", display: "block", marginBottom: 8 }}>
                     12 skupin · 48 týmů · 104 zápasů
                   </span>

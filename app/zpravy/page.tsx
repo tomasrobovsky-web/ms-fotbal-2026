@@ -404,14 +404,15 @@ export default function ZpravyPage() {
             style={{
               position: "relative",
               overflow: "hidden",
-              padding: "24px 22px 20px",
+              padding: "30px 24px 26px",
               marginBottom: 18,
               background: "var(--glass-bg)",
               backdropFilter: "blur(26px)",
               WebkitBackdropFilter: "blur(26px)" as never,
               border: "1px solid var(--glass-border)",
               borderRadius: 22,
-              aspectRatio: "1799/1200",
+              aspectRatio: "4/3",
+              minHeight: 280,
               display: "flex",
               flexDirection: "column",
             }}
@@ -493,7 +494,7 @@ export default function ZpravyPage() {
                 <div>
                   <span
                     style={{
-                      fontSize: 52,
+                      fontSize: 46,
                       fontWeight: 860,
                       lineHeight: 0.9,
                       letterSpacing: -2,
@@ -508,7 +509,7 @@ export default function ZpravyPage() {
                   </span>
                   <span
                     style={{
-                      fontSize: 17,
+                      fontSize: 15,
                       fontWeight: 650,
                       color: "#c3c6cc",
                       letterSpacing: -0.2,

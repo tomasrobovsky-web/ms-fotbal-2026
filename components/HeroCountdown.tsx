@@ -28,24 +28,24 @@ function useCountUp(target: number, dur = 900) {
 }
 
 type Props = {
-  daysToStart: number;
+  dayNumber: number;
   dateLabel: string;
   opponent: TeamCode;
 };
 
-export default function HeroCountdown({ daysToStart, dateLabel, opponent }: Props) {
-  const big = useCountUp(daysToStart, 850);
+export default function HeroCountdown({ dayNumber, dateLabel, opponent }: Props) {
+  const big = useCountUp(dayNumber, 850);
   const opp = TEAMS[opponent];
 
   return (
     <div style={{
-      position: "relative", overflow: "hidden", padding: "26px 22px 22px", marginBottom: 18,
+      position: "relative", overflow: "hidden", padding: "30px 24px 26px", marginBottom: 18,
       background: "var(--glass-bg)",
       backdropFilter: "blur(var(--glass-blur))",
       WebkitBackdropFilter: "blur(var(--glass-blur))" as never,
       border: "1px solid var(--glass-border)",
       borderRadius: 22,
-      aspectRatio: "1799/1200",
+      aspectRatio: "4/3", minHeight: 280,
       display: "flex", flexDirection: "column",
     }}>
 
@@ -73,9 +73,9 @@ export default function HeroCountdown({ daysToStart, dateLabel, opponent }: Prop
       <div style={{ position: "relative", flex: 1, display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
         {/* kicker top */}
         <div>
-          <span style={{ fontSize: 12, fontWeight: 700, letterSpacing: 2, color: "#e6e7ea",
+          <span style={{ fontSize: 11.5, fontWeight: 700, letterSpacing: 2, color: "#e6e7ea",
             textTransform: "uppercase", textShadow: "0 1px 8px rgba(0,0,0,.6)" }}>
-            Odpočet do startu
+            MS 2026 · právě probíhá
           </span>
         </div>
 
@@ -85,8 +85,8 @@ export default function HeroCountdown({ daysToStart, dateLabel, opponent }: Prop
             <span style={{ fontWeight: 860, lineHeight: .85, letterSpacing: -3, color: "#fff",
               fontVariantNumeric: "tabular-nums",
               textShadow: "0 2px 16px rgba(0,0,0,.55), 0 0 34px var(--accent-glow)",
-              width: "60px", fontSize: "108px" }}>{big}</span>
-            <span style={{ fontSize: 20, fontWeight: 750, color: "#f3f4f6", paddingBottom: 10, lineHeight: 1.05,
+              minWidth: "52px", fontSize: "90px" }}>{big}</span>
+            <span style={{ fontSize: 18, fontWeight: 750, color: "#f3f4f6", paddingBottom: 9, lineHeight: 1.05,
               textShadow: "0 1px 8px rgba(0,0,0,.6)" }}>
               den<br />šampionátu
             </span>

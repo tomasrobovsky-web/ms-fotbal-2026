@@ -2,6 +2,7 @@ import { promises as fs } from "fs";
 import path from "path";
 import type { Match, MatchStatus, TeamCode } from "./match-data";
 import { NAME_TO_CODE, TEAM_GROUP } from "./match-data";
+import { tvForPair } from "./tv-schedule";
 import { readAllMatchDetails, readLiveMinute, type MatchDetailFile } from "./match-detail";
 
 // Tvar jednoho zápasu v public/data/schedule.json (TheSportsDB).
@@ -64,13 +65,6 @@ function toPrague(date: string, timeUtc: string): { date: string; kickoff: strin
   };
 }
 
-// TV vysílatel: zápasy ČR na ČT sport, ostatní (živé/budoucí) na Nova Action.
-function tvFor(home: TeamCode, away: TeamCode, status: MatchStatus): Match["tv"] {
-  if (home === "CZE" || away === "CZE") return "ct_sport";
-  if (status !== "finished") return "nova_action";
-  return undefined;
-}
-
 function toMatch(raw: RawMatch, detail?: MatchDetailFile, liveMinute?: number): Match {
   const { date, kickoff } = toPrague(raw.date, raw.timeUtc);
   const home = nameToCode(raw.homeTeam);
@@ -90,7 +84,7 @@ function toMatch(raw: RawMatch, detail?: MatchDetailFile, liveMinute?: number): 
     score: { h: raw.homeScore, a: raw.awayScore },
     reds: detail?.reds ?? {},
     highlights: false,
-    tv: tvFor(home, away, status),
+    tv: tvForPair(home, away),
     events: detail?.events ?? [],
     lineups: detail?.lineups ?? null,
     stats: detail?.stats ?? null,
