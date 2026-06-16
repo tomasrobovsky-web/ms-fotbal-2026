@@ -301,9 +301,9 @@
     "timeUtc": "19:00:00",
     "venue": "MetLife Stadium",
     "round": 1,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "FT",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "2461107",

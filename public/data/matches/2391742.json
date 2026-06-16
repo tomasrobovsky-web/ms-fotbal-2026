@@ -1,0 +1,366 @@
+{
+  "id": "2391742",
+  "events": [
+    {
+      "minute": 66,
+      "type": "goal",
+      "team": "h",
+      "player": "Kylian Mbappé",
+      "assist": "Michael Olise"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Ismaïla Sarr",
+      "off": "Ibrahim Mbaye"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Lamine Camara",
+      "off": "Habib Diarra"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Ousmane Dembélé",
+      "off": "Bradley Barcola"
+    },
+    {
+      "minute": 82,
+      "type": "goal",
+      "team": "h",
+      "player": "Bradley Barcola",
+      "assist": "Adrien Rabiot"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Pape Gueye",
+      "off": "Iliman Ndiaye"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Nicolas Jackson",
+      "off": "Bamba Dieng"
+    },
+    {
+      "minute": 87,
+      "type": "sub",
+      "team": "h",
+      "player": "Désiré Doué",
+      "off": "Rayan Cherki"
+    },
+    {
+      "minute": 88,
+      "type": "sub",
+      "team": "a",
+      "player": "Idrissa Gueye",
+      "off": "Pathé Ciss"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "a",
+      "player": "Ibrahim Mbaye",
+      "assist": "Iliman Ndiaye"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Kylian Mbappé",
+      "assist": ""
+    }
+  ],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Mike Maignan",
+          "num": 16,
+          "pos": "GK",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/sw5ukh1758892671.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Adrien Rabiot",
+          "num": 14,
+          "pos": "MF",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m2upnx1758893486.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "num": 7,
+          "pos": "FW",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "num": 10,
+          "pos": "FW",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Dayot Upamecano",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a1hyfj1756416177.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Jules Koundé",
+          "num": 5,
+          "pos": "DF",
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "name": "Aurélien Tchouaméni",
+          "num": 8,
+          "pos": "DF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Théo Hernandez",
+          "num": 19,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4d3g7j1675234242.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "William Saliba",
+          "num": 17,
+          "pos": "DF",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/czasy21769331889.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Michael Olise",
+          "num": 11,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Désiré Doué",
+          "num": 20,
+          "pos": "MF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5m0p4g1766335194.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Sadio Mané",
+          "num": 10,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cify0u1678370417.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Idrissa Gueye",
+          "num": 5,
+          "pos": "DF",
+          "club": "Everton",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ag9fm11756976825.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+        },
+        {
+          "name": "Kalidou Koulibaly",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nirqe51750672288.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Ismaïla Sarr",
+          "num": 18,
+          "pos": "FW",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Moussa Niakhaté",
+          "num": 19,
+          "pos": "DF",
+          "club": "Lyon",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ua1b511766146528.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png"
+        },
+        {
+          "name": "Krépin Diatta",
+          "num": 15,
+          "pos": "MF",
+          "club": "Monaco",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5uag2g1766238000.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+        },
+        {
+          "name": "Édouard Mendy",
+          "num": 16,
+          "pos": "GK",
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/eoy47r1771663768.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+        },
+        {
+          "name": "Pape Gueye",
+          "num": 26,
+          "pos": "MF",
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9e7ql31762888843.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        },
+        {
+          "name": "Nicolas Jackson",
+          "num": 11,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uteluc1762963819.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Lamine Camara",
+          "num": 8,
+          "pos": "MF",
+          "club": "Monaco",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+        },
+        {
+          "name": "El Hadji Malick Diouf",
+          "num": 25,
+          "pos": "DF",
+          "club": "West Ham United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q8vo5k1755779041.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        1.89,
+        0.5
+      ],
+      [
+        "Držení %",
+        54,
+        46
+      ],
+      [
+        "Na branku",
+        8,
+        2
+      ],
+      [
+        "Přesnost %",
+        88,
+        86
+      ],
+      [
+        "Rohy",
+        6,
+        4
+      ],
+      [
+        "Fauly",
+        5,
+        9
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        11,
+        6
+      ],
+      [
+        "Střely mimo",
+        1,
+        3
+      ],
+      [
+        "Zblokované",
+        2,
+        1
+      ],
+      [
+        "Střely ve vápně",
+        7,
+        4
+      ],
+      [
+        "Střely zvenku",
+        4,
+        2
+      ],
+      [
+        "Přihrávky",
+        569,
+        496
+      ],
+      [
+        "Ofsajdy",
+        1,
+        3
+      ],
+      [
+        "Přesné přihr.",
+        500,
+        426
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        5
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-16T21:30:53.735Z"
+}
