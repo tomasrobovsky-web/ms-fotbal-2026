@@ -111,7 +111,7 @@ function DonutStat({ label, h, a, ch, ca }: { label: string; h: number; a: numbe
     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 5 }}>
       <span style={{ fontSize: 18, fontWeight: 800, color: ch, fontVariantNumeric: "tabular-nums", minWidth: 30, textAlign: "right" }}>{fmt(h)}</span>
       <div style={{ position: "relative", width: S, height: S, flex: "0 0 auto" }}>
-        <svg width={S} height={S} style={{ transform: "rotate(-90deg)" }}>
+        <svg width={S} height={S} style={{ transform: "rotate(-90deg) scaleX(-1)" }}>
           <circle cx={S / 2} cy={S / 2} r={R} fill="none" stroke="rgba(255,255,255,.07)" strokeWidth={SW} />
           <circle cx={S / 2} cy={S / 2} r={R} fill="none" stroke={ca} strokeWidth={SW}
             strokeDasharray={`${awayLen} ${C}`} strokeDashoffset={-homeLen} strokeLinecap="round"
