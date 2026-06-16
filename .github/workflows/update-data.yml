@@ -7,7 +7,9 @@ name: Update MS 2026 data
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    # Záloha (GitHub plánovač je best-effort/nespolehlivý). Hlavní spouštěč je
+    # externí cron přes workflow_dispatch — viz docs/auto-update.md.
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 permissions:
