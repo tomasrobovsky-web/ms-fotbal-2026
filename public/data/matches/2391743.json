@@ -35,6 +35,13 @@
       "team": "h",
       "player": "Jude Bellingham",
       "assist": "Elliot Anderson"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "a",
+      "player": "Luka Modrić",
+      "off": "Mateo Kovačić"
     }
   ],
   "reds": {},
@@ -232,39 +239,39 @@
     "donuts": [
       [
         "xG",
-        1.64,
+        2.4,
         0.41
       ],
       [
         "Držení %",
-        49,
-        51
+        54,
+        46
       ],
       [
         "Na branku",
-        4,
+        10,
         2
       ],
       [
         "Přesnost %",
-        83,
-        86
+        84,
+        84
       ],
       [
         "Rohy",
-        4,
+        8,
         1
       ],
       [
         "Fauly",
-        7,
-        5
+        8,
+        6
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        12,
+        18,
         4
       ],
       [
@@ -279,7 +286,7 @@
       ],
       [
         "Střely ve vápně",
-        10,
+        16,
         2
       ],
       [
@@ -289,8 +296,8 @@
       ],
       [
         "Přihrávky",
-        244,
-        258
+        311,
+        275
       ],
       [
         "Ofsajdy",
@@ -299,13 +306,13 @@
       ],
       [
         "Přesné přihr.",
-        202,
-        221
+        262,
+        232
       ],
       [
         "Zákroky brankáře",
         0,
-        1
+        7
       ],
       [
         "Žluté karty",
@@ -320,5 +327,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T21:20:48.752Z"
+  "updatedAt": "2026-06-17T21:30:56.340Z"
 }
