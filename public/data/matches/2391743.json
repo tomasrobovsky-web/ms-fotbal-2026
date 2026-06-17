@@ -1,0 +1,198 @@
+{
+  "id": "2391743",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "John Stones",
+          "num": 5,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dkq8d41763068509.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Jordan Pickford",
+          "num": 1,
+          "pos": "GK",
+          "club": "Everton",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wt1c4n1756976358.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+        },
+        {
+          "name": "Harry Kane",
+          "num": 9,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j4ouvd1756408895.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Declan Rice",
+          "num": 4,
+          "pos": "DF",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/do2pew1694204464.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Ezri Konsa",
+          "num": 2,
+          "pos": "DF",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rnu4al1756984921.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Reece James",
+          "num": 24,
+          "pos": "DF",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/csxkdt1757003597.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        },
+        {
+          "name": "Anthony Gordon",
+          "num": 18,
+          "pos": "FW",
+          "club": "Newcastle United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8ztck61766824986.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+        },
+        {
+          "name": "Noni Madueke",
+          "num": 20,
+          "pos": "FW",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0x05ou1769330933.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Jude Bellingham",
+          "num": 10,
+          "pos": "MF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trk5271750271712.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Elliot Anderson",
+          "num": 8,
+          "pos": "MF",
+          "club": "Nottingham Forest",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rhm8q21757162869.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+        },
+        {
+          "name": "Nico O'Reilly",
+          "num": 3,
+          "pos": "MF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hoxsam1769182257.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-5-1",
+      "xi": [
+        {
+          "name": "Mario Pašalić",
+          "num": 15,
+          "pos": "MF",
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/akmxr91695157400.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+        },
+        {
+          "name": "Luka Modrić",
+          "num": 10,
+          "pos": "MF",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/msewdx1758892756.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Ivan Perišić",
+          "num": 14,
+          "pos": "MF",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ywkvv41764595295.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Dominik Livaković",
+          "num": 1,
+          "pos": "GK",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "Joško Gvardiol",
+          "num": 4,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mmowa11769183247.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Petar Musa",
+          "num": 26,
+          "pos": "FW",
+          "club": "FC Dallas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4vrsj1716621267.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vxy8xy1602103187.png"
+        },
+        {
+          "name": "Josip Stanišić",
+          "num": 2,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m1kqf11756416127.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Josip Šutalo",
+          "num": 6,
+          "pos": "DF",
+          "club": "Ajax",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+        },
+        {
+          "name": "Martin Baturina",
+          "num": 16,
+          "pos": "MF",
+          "club": "Como",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bb3ntq1764278109.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
+        },
+        {
+          "name": "Petar Sučić",
+          "num": 17,
+          "pos": "MF",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b4nmhd1759408181.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Luka Vušković",
+          "num": 22,
+          "pos": "DF",
+          "club": "Hamburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bw06uk1765729531.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-17T20:05:46.924Z"
+}
