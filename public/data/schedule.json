@@ -373,9 +373,9 @@
     "timeUtc": "20:00:00",
     "venue": "AT&T Stadium",
     "round": 1,
-    "status": "1H",
+    "status": "HT",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 2
   },
   {
     "id": "2391744",
