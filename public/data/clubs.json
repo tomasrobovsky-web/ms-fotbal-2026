@@ -351,6 +351,10 @@
     "name": "Luton Town",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png"
   },
+  "133890": {
+    "name": "FC Nordsjælland",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png"
+  },
   "133891": {
     "name": "FC Midtjylland",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/s5bpcr1755712262.png"
@@ -410,6 +414,10 @@
   "134015": {
     "name": "Viktoria Plzeň",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+  },
+  "134090": {
+    "name": "Slovan Bratislava",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uzkg701781199823.png"
   },
   "134098": {
     "name": "Braga",
@@ -527,6 +535,10 @@
     "name": "Zürich",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/af50gk1779213314.png"
   },
+  "134406": {
+    "name": "St. Gallen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tyvyvs1422644512.png"
+  },
   "134433": {
     "name": "Krasnodar",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/srxryu1473452272.png"
@@ -566,6 +578,10 @@
   "134570": {
     "name": "Viking",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/9mzq961590148192.png"
+  },
+  "134589": {
+    "name": "İstanbul Başakşehir",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
   },
   "134630": {
     "name": "New York City FC",
@@ -614,6 +630,10 @@
   "134784": {
     "name": "Hellas Verona",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png"
+  },
+  "134788": {
+    "name": "Auxerre",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png"
   },
   "135160": {
     "name": "Estudiantes de La Plata",
@@ -687,6 +707,10 @@
     "name": "Al-Hilal",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
   },
+  "136014": {
+    "name": "Al-Fayha",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png"
+  },
   "136015": {
     "name": "Al-Qadsiah",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png"
@@ -715,9 +739,17 @@
     "name": "Los Angeles FC",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
   },
+  "136855": {
+    "name": "Juárez",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png"
+  },
   "137261": {
     "name": "LASK",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png"
+  },
+  "137643": {
+    "name": "Academia Puerto Cabello",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/a04fro1639001630.png"
   },
   "137648": {
     "name": "Al-Sadd",
@@ -742,6 +774,10 @@
   "137721": {
     "name": "Al-Ahli",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+  },
+  "137737": {
+    "name": "Universidad de Concepción",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fyj9u51602187758.png"
   },
   "137828": {
     "name": "Shabab Al-Ahli Dubai",
@@ -851,6 +887,10 @@
     "name": "Club Africain",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/2gijg71753933998.png"
   },
+  "139995": {
+    "name": "Mazatlán",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fgpobf1593446489.png"
+  },
   "140008": {
     "name": "Estrela Amadora",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/2tx5621626095555.png"
@@ -902,5 +942,9 @@
   "154568": {
     "name": "Al-Dhahra",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/t3dhn31769895462.png"
+  },
+  "155561": {
+    "name": "Wolfsberg",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tmzxde1778349787.png"
   }
 }

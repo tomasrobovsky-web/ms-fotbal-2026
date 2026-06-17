@@ -1,0 +1,190 @@
+{
+  "id": "2391744",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Jordan Ayew",
+          "num": 9,
+          "pos": "FW",
+          "club": "Leicester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kiav0x1761861279.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png"
+        },
+        {
+          "name": "Antoine Semenyo",
+          "num": 11,
+          "pos": "MF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9y2ge41768393433.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Elisha Owusu",
+          "num": 15,
+          "pos": "MF",
+          "club": "Auxerre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2ypxwb1765920691.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png"
+        },
+        {
+          "name": "Jerome Opoku",
+          "num": 18,
+          "pos": "DF",
+          "club": "İstanbul Başakşehir",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r61mj91780607378.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "name": "Gideon Mensah",
+          "num": 14,
+          "pos": "DF",
+          "club": "Auxerre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gvciqz1765920565.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png"
+        },
+        {
+          "name": "Kamaldeen Sulemana",
+          "num": 22,
+          "pos": "FW",
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8761hy1764331699.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+        },
+        {
+          "name": "Lawrence Ati-Zigi",
+          "num": 1,
+          "pos": "GK",
+          "club": "St. Gallen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lyg3961630005372.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tyvyvs1422644512.png"
+        },
+        {
+          "name": "Marvin Senaya",
+          "num": 26,
+          "pos": "DF",
+          "club": "Auxerre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/scdnlk1765920733.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png"
+        },
+        {
+          "name": "Ernest Nuamah",
+          "num": 24,
+          "pos": "FW",
+          "club": "Lyon",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/p4wa4o1766146544.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png"
+        },
+        {
+          "name": "Jonas Adjetey",
+          "num": 4,
+          "pos": "DF",
+          "club": "Wolfsberg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e9hu1g1746073832.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tmzxde1778349787.png"
+        },
+        {
+          "name": "Caleb Yirenkyi",
+          "num": 3,
+          "pos": "MF",
+          "club": "FC Nordsjælland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dqki3p1765402684.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-3",
+      "xi": [
+        {
+          "name": "Michael Amir Murillo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Beşiktaş",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/693hds1766153380.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+        },
+        {
+          "name": "Yoel Bárcenas",
+          "num": 11,
+          "pos": "FW",
+          "club": "Mazatlán",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hndz121779829099.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fgpobf1593446489.png"
+        },
+        {
+          "name": "Andrés Andrade",
+          "num": 16,
+          "pos": "DF",
+          "club": "LASK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0xq6t21769635655.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png"
+        },
+        {
+          "name": "Carlos Harvey",
+          "num": 14,
+          "pos": "DF",
+          "club": "Minnesota United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lq0v2t1741873531.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png"
+        },
+        {
+          "name": "Cecilio Waterman",
+          "num": 18,
+          "pos": "FW",
+          "club": "Universidad de Concepción",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cft6r81779876320.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fyj9u51602187758.png"
+        },
+        {
+          "name": "Orlando Mosquera",
+          "num": 22,
+          "pos": "GK",
+          "club": "Al-Fayha",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zkbjvd1717088213.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png"
+        },
+        {
+          "name": "César Blackman",
+          "num": 2,
+          "pos": "DF",
+          "club": "Slovan Bratislava",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/baa05l1716211763.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uzkg701781199823.png"
+        },
+        {
+          "name": "Puma",
+          "num": 7,
+          "pos": "FW",
+          "club": "Juárez",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ccit0q1779878885.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png"
+        },
+        {
+          "name": "José Córdoba",
+          "num": 3,
+          "pos": "DF",
+          "club": "Norwich City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4h6gwd1761684091.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
+        },
+        {
+          "name": "Jiovany Ramos",
+          "num": 13,
+          "pos": "DF",
+          "club": "Academia Puerto Cabello",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a09o9l1779875667.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/a04fro1639001630.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-17T23:05:53.841Z"
+}
