@@ -21,6 +21,13 @@
       "team": "h",
       "player": "Harry Kane",
       "assist": "Declan Rice"
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "a",
+      "player": "Petar Musa",
+      "assist": "Ivan Perišić"
     }
   ],
   "reds": {},
@@ -218,65 +225,65 @@
     "donuts": [
       [
         "xG",
-        1.28,
-        0.22
+        1.36,
+        0.23
       ],
       [
         "Držení %",
-        53,
-        47
+        48,
+        52
       ],
       [
         "Na branku",
-        1,
-        1
-      ],
-      [
-        "Přesnost %",
-        84,
-        87
-      ],
-      [
-        "Rohy",
         2,
         1
       ],
       [
+        "Přesnost %",
+        83,
+        87
+      ],
+      [
+        "Rohy",
+        3,
+        1
+      ],
+      [
         "Fauly",
-        4,
-        4
+        6,
+        5
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        7,
-        2
+        9,
+        3
       ],
       [
         "Střely mimo",
         2,
-        1
+        2
       ],
       [
         "Zblokované",
-        4,
+        5,
         0
       ],
       [
         "Střely ve vápně",
-        6,
+        7,
         1
       ],
       [
         "Střely zvenku",
-        1,
-        1
+        2,
+        2
       ],
       [
         "Přihrávky",
-        192,
-        171
+        218,
+        232
       ],
       [
         "Ofsajdy",
@@ -285,8 +292,8 @@
       ],
       [
         "Přesné přihr.",
-        162,
-        148
+        180,
+        202
       ],
       [
         "Zákroky brankáře",
@@ -306,5 +313,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T20:50:50.263Z"
+  "updatedAt": "2026-06-17T21:01:11.707Z"
 }
