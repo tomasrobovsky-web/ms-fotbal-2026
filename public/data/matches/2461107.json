@@ -26,22 +26,84 @@
       "minute": 59,
       "type": "sub",
       "team": "h",
-      "player": "Zaid Ismail",
-      "off": "Zidane Iqbal"
+      "player": "Ali Al-Hamadi",
+      "off": "Marko Farji"
     },
     {
       "minute": 59,
       "type": "sub",
       "team": "h",
-      "player": "Ali Al-Hamadi",
-      "off": "Marko Farji"
+      "player": "Zaid Ismail",
+      "off": "Zidane Iqbal"
     },
     {
-      "minute": 76,
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Alexander Sørloth",
+      "off": "Oscar Bobb"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "David Møller Wolfe",
+      "off": "Leo Østigård"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Fredrik Aursnes",
+      "off": "Kristian Thorstvedt"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Antonio Nusa",
+      "off": "Andreas Schjelderup"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "h",
+      "player": "Ali Jasim",
+      "off": "Ahmed Qasem"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "h",
+      "player": "Hussein Ali",
+      "off": "Mustafa Saadoon"
+    },
+    {
+      "minute": 77,
       "type": "goal",
       "team": "a",
       "player": "Leo Østigård",
-      "assist": ""
+      "assist": "Martin Ødegaard"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "h",
+      "player": "Ibrahim Bayesh",
+      "off": ""
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "Martin Ødegaard",
+      "off": "Patrick Berg"
+    },
+    {
+      "minute": 86,
+      "type": "yellow",
+      "team": "h",
+      "player": "Zaid Tahseen"
     }
   ],
   "reds": {},
@@ -327,5 +389,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T00:20:46.957Z"
+  "updatedAt": "2026-06-17T06:31:07.255Z"
 }
