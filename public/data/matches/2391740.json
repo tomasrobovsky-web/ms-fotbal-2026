@@ -1,0 +1,198 @@
+{
+  "id": "2391740",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-4-2",
+      "xi": [
+        {
+          "name": "Emiliano Martinez",
+          "num": 23,
+          "pos": "GK",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Lionel Messi",
+          "num": 10,
+          "pos": "FW",
+          "club": "Inter Miami",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e0i2051750317027.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        },
+        {
+          "name": "Rodrigo de Paul",
+          "num": 7,
+          "pos": "MF",
+          "club": "Inter Miami",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/n7z5lr1773999437.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        },
+        {
+          "name": "Cristian Romero",
+          "num": 13,
+          "pos": "DF",
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "num": 22,
+          "pos": "FW",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Lisandro Martínez",
+          "num": 6,
+          "pos": "DF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mqcogi1766826879.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "num": 20,
+          "pos": "MF",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Facundo Medina",
+          "num": 25,
+          "pos": "DF",
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hqyj8f1766153184.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+        },
+        {
+          "name": "Gonzalo Montiel",
+          "num": 4,
+          "pos": "DF",
+          "club": "River Plate",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/perteu1750270994.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
+        },
+        {
+          "name": "Thiago Almada",
+          "num": 16,
+          "pos": "MF",
+          "club": "Atlético Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "name": "Enzo Fernández",
+          "num": 24,
+          "pos": "MF",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Nabil Bentaleb",
+          "num": 19,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ryrkw41766077386.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Aïssa Mandi",
+          "num": 2,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u0lyro1766078291.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Amine Gouiri",
+          "num": 9,
+          "pos": "FW",
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+        },
+        {
+          "name": "Ramy Bensebaini",
+          "num": 21,
+          "pos": "DF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z5sfyp1756326052.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Rayan Aït-Nouri",
+          "num": 15,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pxl8n91769182693.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Hicham Boudaoui",
+          "num": 14,
+          "pos": "MF",
+          "club": "Nice",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pkjb4y1766319645.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png"
+        },
+        {
+          "name": "Luca Zidane",
+          "num": 23,
+          "pos": "GK",
+          "club": "Granada",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9ix3pk1630065438.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png"
+        },
+        {
+          "name": "Farès Chaïbi",
+          "num": 10,
+          "pos": "MF",
+          "club": "Eintracht Frankfurt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/736ole1762287487.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
+        },
+        {
+          "name": "Ibrahim Maza",
+          "num": 22,
+          "pos": "MF",
+          "club": "Bayer Leverkusen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pp1m6o1756315346.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+        },
+        {
+          "name": "Rafik Belghali",
+          "num": 17,
+          "pos": "DF",
+          "club": "Hellas Verona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zj4a661759162161.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png"
+        },
+        {
+          "name": "Anis Hadj Moussa",
+          "num": 11,
+          "pos": "FW",
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/54rafl1732695177.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-17T01:05:46.715Z"
+}
