@@ -10,7 +10,188 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "6-3-1",
+      "xi": [
+        {
+          "name": "David Alaba",
+          "num": 8,
+          "pos": "DF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zxblp31733653341.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Philipp Lienhart",
+          "num": 15,
+          "pos": "DF",
+          "club": "Freiburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3scndj1763328973.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png"
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "num": 9,
+          "pos": "MF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m0if0e1756326525.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Konrad Laimer",
+          "num": 20,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dzukrz1756409157.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Stefan Posch",
+          "num": 5,
+          "pos": "DF",
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1swesw1775205659.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        },
+        {
+          "name": "Phillipp Mwene",
+          "num": 16,
+          "pos": "DF",
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wa4bx81763554145.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        },
+        {
+          "name": "Xaver Schlager",
+          "num": 4,
+          "pos": "MF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1bvq9r1763561361.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        },
+        {
+          "name": "Alexander Schlager",
+          "num": 1,
+          "pos": "GK",
+          "club": "Red Bull Salzburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ib5u2k1769721863.png",
+          "clubLogo": "https://www.thesportsdb.com/images/media/team/badge/nc2cua1781541639.png"
+        },
+        {
+          "name": "Saša Kalajdžić",
+          "num": 14,
+          "pos": "FW",
+          "club": "LASK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3i5yu71769635904.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png"
+        },
+        {
+          "name": "Romano Schmid",
+          "num": 18,
+          "pos": "MF",
+          "club": "Werder Bremen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pc39yd1763666231.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+        },
+        {
+          "name": "Nicolas Seiwald",
+          "num": 6,
+          "pos": "DF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h7mvys1763561377.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-1-2",
+      "xi": [
+        {
+          "name": "Musa Al-Taamari",
+          "num": 10,
+          "pos": "FW",
+          "club": "Rennes",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r8omzu1766136576.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png"
+        },
+        {
+          "name": "Ali Olwan",
+          "num": 9,
+          "pos": "FW",
+          "club": "Al-Sailiya",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ifvtit1781097232.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/4u34lv1751841223.png"
+        },
+        {
+          "name": "Ehsan Haddad",
+          "num": 23,
+          "pos": "DF",
+          "club": "Al-Hussein Irbid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qrmode1781097131.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijbwwm1753204799.png"
+        },
+        {
+          "name": "Nizar Al-Rashdan",
+          "num": 21,
+          "pos": "DF",
+          "club": "Qatar SC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tj6p131781096962.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3c07ob1774579037.png"
+        },
+        {
+          "name": "Yazeed Abulaila",
+          "num": 1,
+          "pos": "GK",
+          "club": "Al-Hussein Irbid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oczaal1781096826.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijbwwm1753204799.png"
+        },
+        {
+          "name": "Yazan Al-Arab",
+          "num": 5,
+          "pos": "DF",
+          "club": "FC Seoul",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xtrjp31781096853.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/31z1zf1579473186.png"
+        },
+        {
+          "name": "Noor Al-Rawabdeh",
+          "num": 8,
+          "pos": "MF",
+          "club": "Selangor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lp7dfm1781096983.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uhcda31583335092.png"
+        },
+        {
+          "name": "Abdallah Nasib",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al-Zawraa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lub7jy1781097184.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+        },
+        {
+          "name": "Mohammad Abualnadi",
+          "num": 16,
+          "pos": "DF",
+          "club": "Selangor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qv22y81781096789.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uhcda31583335092.png"
+        },
+        {
+          "name": "Mohannad Abu Taha",
+          "num": 20,
+          "pos": "DF",
+          "club": "Al-Quwa Al-Jawiya",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b12kaf1781097264.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/oyq9801617889653.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -103,5 +284,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T04:31:06.713Z"
+  "updatedAt": "2026-06-17T04:36:01.671Z"
 }

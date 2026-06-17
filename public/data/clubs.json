@@ -115,6 +115,10 @@
     "name": "Borussia Dortmund",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
   },
+  "133653": {
+    "name": "Freiburg",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png"
+  },
   "133656": {
     "name": "Hannover",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png"
@@ -130,6 +134,10 @@
   "133661": {
     "name": "Schalke 04",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png"
+  },
+  "133662": {
+    "name": "Werder Bremen",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
   },
   "133664": {
     "name": "Bayern Munich",
@@ -354,6 +362,10 @@
   "133948": {
     "name": "Maribor",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/titlog1776705066.png"
+  },
+  "133970": {
+    "name": "Red Bull Salzburg",
+    "logo": "https://www.thesportsdb.com/images/media/team/badge/nc2cua1781541639.png"
   },
   "133978": {
     "name": "Shamrock Rovers",
@@ -679,6 +691,10 @@
     "name": "Los Angeles FC",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
   },
+  "137261": {
+    "name": "LASK",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png"
+  },
   "137648": {
     "name": "Al-Sadd",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/908a011774579337.png"
@@ -715,6 +731,10 @@
     "name": "Al-Wakrah",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/ejg2io1693026715.png"
   },
+  "137995": {
+    "name": "Qatar SC",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/3c07ob1774579037.png"
+  },
   "137996": {
     "name": "Almere City",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/qhxtg31579206207.png"
@@ -722,6 +742,10 @@
   "138029": {
     "name": "Al-Gharafa",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/yan4hx1617909550.png"
+  },
+  "138035": {
+    "name": "Al-Sailiya",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/4u34lv1751841223.png"
   },
   "138050": {
     "name": "Al-Rayyan",
@@ -734,6 +758,10 @@
   "138108": {
     "name": "Gangwon FC",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/c4igx71579729617.png"
+  },
+  "138115": {
+    "name": "FC Seoul",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/31z1zf1579473186.png"
   },
   "138182": {
     "name": "Puskás Akadémia FC",
@@ -779,6 +807,10 @@
     "name": "Foolad Khuzestan",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/ijxpe21582291802.png"
   },
+  "139334": {
+    "name": "Selangor",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/uhcda31583335092.png"
+  },
   "139415": {
     "name": "Grazer AK",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/43rocv1750352978.png"
@@ -811,9 +843,17 @@
     "name": "Al-Zawraa",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
   },
+  "141296": {
+    "name": "Al-Quwa Al-Jawiya",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/oyq9801617889653.png"
+  },
   "141851": {
     "name": "Al-Talaba",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/m1hs731624721375.png"
+  },
+  "142130": {
+    "name": "Al-Hussein Irbid",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ijbwwm1753204799.png"
   },
   "146537": {
     "name": "Al Bataeh",
