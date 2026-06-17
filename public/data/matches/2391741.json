@@ -2,11 +2,115 @@
   "id": "2391741",
   "events": [
     {
-      "minute": 20,
+      "minute": 21,
       "type": "goal",
       "team": "h",
       "player": "Romano Schmid",
       "assist": "Xaver Schlager"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Saša Kalajdžić",
+      "off": "Marko Arnautović"
+    },
+    {
+      "minute": 50,
+      "type": "goal",
+      "team": "a",
+      "player": "Ali Olwan",
+      "assist": "Noor Al-Rawabdeh"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "Xaver Schlager",
+      "off": "Carney Chukwuemeka"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "David Alaba",
+      "off": "Kevin Danso"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "Phillipp Mwene",
+      "off": "Paul Wanner"
+    },
+    {
+      "minute": 67,
+      "type": "goal",
+      "team": "h",
+      "player": "Marko Arnautović",
+      "assist": ""
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Mohammad Abualnadi",
+      "off": "Saleem Obaid"
+    },
+    {
+      "minute": 76,
+      "type": "goal",
+      "team": "h",
+      "player": "Yazan Al-Arab",
+      "assist": ""
+    },
+    {
+      "minute": 77,
+      "type": "yellow",
+      "team": "h",
+      "player": "Marcel Sabitzer"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "Abdallah Nasib",
+      "off": "Saed Al-Rosan"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "Ehsan Haddad",
+      "off": "Mahmoud Al-Mardi"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Romano Schmid",
+      "off": "Patrick Wimmer"
+    },
+    {
+      "minute": 88,
+      "type": "sub",
+      "team": "a",
+      "player": "Musa Al-Taamari",
+      "off": "Mohammad Al-Dawoud"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "a",
+      "player": "Odeh Al-Fakhouri",
+      "off": "Ali Azaizeh"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Marko Arnautović",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -284,5 +388,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T06:20:44.584Z"
+  "updatedAt": "2026-06-17T06:25:36.980Z"
 }
