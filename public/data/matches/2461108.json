@@ -1,0 +1,198 @@
+{
+  "id": "2461108",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Cristiano Ronaldo",
+          "num": 7,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "João Cancelo",
+          "num": 20,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zqjhte1771260324.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Bernardo Silva",
+          "num": 10,
+          "pos": "MF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/13ajsp1769182879.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "num": 8,
+          "pos": "MF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Pedro Neto",
+          "num": 18,
+          "pos": "FW",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        },
+        {
+          "name": "Vitinha",
+          "num": 23,
+          "pos": "MF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q6mw6n1766335544.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Nuno Mendes",
+          "num": 25,
+          "pos": "DF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zhdk3h1766335452.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Diogo Costa",
+          "num": 1,
+          "pos": "GK",
+          "club": "FC Porto",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png"
+        },
+        {
+          "name": "Renato Veiga",
+          "num": 13,
+          "pos": "DF",
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        },
+        {
+          "name": "João Neves",
+          "num": 15,
+          "pos": "DF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2q9ahn1766335473.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Tomás Araújo",
+          "num": 4,
+          "pos": "DF",
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0l8tzn1741768720.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "7-1-2",
+      "xi": [
+        {
+          "name": "Chancel Mbemba",
+          "num": 22,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t1hca41766077569.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Arthur Masuaku",
+          "num": 26,
+          "pos": "DF",
+          "club": "Lens",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4lhdt21757073530.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png"
+        },
+        {
+          "name": "Axel Tuanzebe",
+          "num": 4,
+          "pos": "DF",
+          "club": "Burnley",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4u651u1765971647.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+        },
+        {
+          "name": "Aaron Wan-Bissaka",
+          "num": 2,
+          "pos": "DF",
+          "club": "West Ham United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xdt9hb1756984581.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+        },
+        {
+          "name": "Edo Kayembe",
+          "num": 25,
+          "pos": "DF",
+          "club": "Watford",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/asfa151761216515.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png"
+        },
+        {
+          "name": "Samuel Moutoussamy",
+          "num": 8,
+          "pos": "MF",
+          "club": "Atromitos",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6it2ci1674746503.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/adh2j01602774237.png"
+        },
+        {
+          "name": "Yoane Wissa",
+          "num": 20,
+          "pos": "FW",
+          "club": "Newcastle United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ye9inj1766824633.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+        },
+        {
+          "name": "Lionel Mpasi",
+          "num": 1,
+          "pos": "GK",
+          "club": "Le Havre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/so1nnt1765990609.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png"
+        },
+        {
+          "name": "Cédric Bakambu",
+          "num": 17,
+          "pos": "FW",
+          "club": "Real Betis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/y4468m1762602877.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
+        },
+        {
+          "name": "Ngal'ayel Mukau",
+          "num": 6,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/grieht1766077620.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Steve Kapuadi",
+          "num": 3,
+          "pos": "DF",
+          "club": "Widzew Łódź",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/71g6vr1779192490.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3rkfjd1692596430.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-17T17:05:55.604Z"
+}
