@@ -77,6 +77,41 @@
       "team": "h",
       "player": "Declan Rice",
       "off": "Morgan Rogers"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "a",
+      "player": "Martin Baturina",
+      "off": "Nikola Vlašić"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "a",
+      "player": "Mario Pašalić",
+      "off": "Andrej Kramarić"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Jude Bellingham",
+      "off": "Djed Spence"
+    },
+    {
+      "minute": 85,
+      "type": "goal",
+      "team": "h",
+      "player": "Marcus Rashford",
+      "assist": "Bukayo Saka"
+    },
+    {
+      "minute": 87,
+      "type": "sub",
+      "team": "h",
+      "player": "John Stones",
+      "off": "Marc Guéhi"
     }
   ],
   "reds": {},
@@ -274,8 +309,8 @@
     "donuts": [
       [
         "xG",
-        2.4,
-        0.41
+        2.43,
+        0.5
       ],
       [
         "Držení %",
@@ -285,12 +320,12 @@
       [
         "Na branku",
         10,
-        2
+        4
       ],
       [
         "Přesnost %",
-        84,
-        84
+        86,
+        85
       ],
       [
         "Rohy",
@@ -300,54 +335,54 @@
       [
         "Fauly",
         8,
-        6
+        10
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        18,
-        4
+        20,
+        7
       ],
       [
         "Střely mimo",
-        4,
-        2
+        5,
+        3
       ],
       [
         "Zblokované",
-        4,
+        5,
         0
       ],
       [
         "Střely ve vápně",
-        16,
-        2
+        18,
+        3
       ],
       [
         "Střely zvenku",
         2,
-        2
+        4
       ],
       [
         "Přihrávky",
-        311,
-        275
+        415,
+        358
       ],
       [
         "Ofsajdy",
         0,
-        0
+        1
       ],
       [
         "Přesné přihr.",
-        262,
-        232
+        355,
+        304
       ],
       [
         "Zákroky brankáře",
-        0,
-        7
+        2,
+        6
       ],
       [
         "Žluté karty",
@@ -362,5 +397,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T21:50:50.047Z"
+  "updatedAt": "2026-06-17T22:01:06.390Z"
 }
