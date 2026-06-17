@@ -39,9 +39,16 @@
     {
       "minute": 73,
       "type": "sub",
-      "team": "a",
-      "player": "Alexander Sørloth",
-      "off": "Oscar Bobb"
+      "team": "h",
+      "player": "Ali Jasim",
+      "off": "Ahmed Qasem"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "h",
+      "player": "Hussein Ali",
+      "off": "Mustafa Saadoon"
     },
     {
       "minute": 73,
@@ -49,6 +56,13 @@
       "team": "a",
       "player": "David Møller Wolfe",
       "off": "Leo Østigård"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Alexander Sørloth",
+      "off": "Oscar Bobb"
     },
     {
       "minute": 73,
@@ -65,21 +79,7 @@
       "off": "Andreas Schjelderup"
     },
     {
-      "minute": 74,
-      "type": "sub",
-      "team": "h",
-      "player": "Ali Jasim",
-      "off": "Ahmed Qasem"
-    },
-    {
-      "minute": 74,
-      "type": "sub",
-      "team": "h",
-      "player": "Hussein Ali",
-      "off": "Mustafa Saadoon"
-    },
-    {
-      "minute": 77,
+      "minute": 76,
       "type": "goal",
       "team": "a",
       "player": "Leo Østigård",
@@ -104,6 +104,13 @@
       "type": "yellow",
       "team": "h",
       "player": "Zaid Tahseen"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "a",
+      "player": "Aymen Hussein",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -389,5 +396,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T06:31:07.255Z"
+  "updatedAt": "2026-06-17T08:45:45.150Z"
 }
