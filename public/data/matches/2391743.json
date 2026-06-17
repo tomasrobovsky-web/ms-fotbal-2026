@@ -1,6 +1,14 @@
 {
   "id": "2391743",
-  "events": [],
+  "events": [
+    {
+      "minute": 11,
+      "type": "goal",
+      "team": "h",
+      "player": "Harry Kane",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,13 +204,13 @@
     "donuts": [
       [
         "xG",
-        0,
+        0.04,
         0.17
       ],
       [
         "Držení %",
-        65,
-        35
+        76,
+        24
       ],
       [
         "Na branku",
@@ -211,24 +219,24 @@
       ],
       [
         "Přesnost %",
-        76,
-        60
+        80,
+        53
       ],
       [
         "Rohy",
-        0,
+        1,
         1
       ],
       [
         "Fauly",
         0,
-        0
+        1
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        0,
+        1,
         1
       ],
       [
@@ -238,12 +246,12 @@
       ],
       [
         "Zblokované",
-        0,
+        1,
         0
       ],
       [
         "Střely ve vápně",
-        0,
+        1,
         1
       ],
       [
@@ -253,8 +261,8 @@
       ],
       [
         "Přihrávky",
-        33,
-        15
+        61,
+        17
       ],
       [
         "Ofsajdy",
@@ -263,7 +271,7 @@
       ],
       [
         "Přesné přihr.",
-        25,
+        49,
         9
       ],
       [
@@ -284,5 +292,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T20:10:56.143Z"
+  "updatedAt": "2026-06-17T20:20:55.251Z"
 }
