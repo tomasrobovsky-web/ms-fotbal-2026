@@ -1,6 +1,14 @@
 {
   "id": "2461108",
-  "events": [],
+  "events": [
+    {
+      "minute": 6,
+      "type": "goal",
+      "team": "h",
+      "player": "João Neves",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -194,5 +202,5 @@
   },
   "stats": null,
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-17T17:05:55.604Z"
+  "updatedAt": "2026-06-17T17:10:44.120Z"
 }
