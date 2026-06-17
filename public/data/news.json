@@ -236,7 +236,7 @@
   {
     "id": "nzcpeu1",
     "title": "Anglie ve strhující bitvě porazila Chorvaty. Portugalci s Ronaldem rozdýchávají překvapivou ztrátu",
-    "description": "Fotbalisté Anglie vstoupili do mistrovství světa výhrou 4:2 nad Chorvatskem. Dvě branky vítězů dal Harry Kane a v historii MS už má deset gólů, čímž vyrovnal anglický rekord Garyho Linekera. Do svého šestého mistrovství světa vstoupil Cristiano Ronaldo, ale s hořkým pocitem. Portugalci pouze remizovali s fotbalisty z Demokratické republiky Kongo 1:1. V rámci nočních zápasů vysílá ČT sport od 1:00 duel Ghana – Panama. Brzy ráno SELČ se střetne Uzbekistán s Kolumbií.",
+    "description": "Fotbalisté Anglie vstoupili do mistrovství světa výhrou 4:2 nad Chorvatskem. Dvě branky vítězů dal Harry Kane a v historii MS už má deset gólů, čímž vyrovnal anglický rekord Garyho Linekera. Do svého šestého mistrovství světa vstoupil Cristiano Ronaldo, ale s hořkým pocitem. Portugalci pouze remizovali s fotbalisty z Demokratické republiky Kongo 1:1. V rámci nočních zápasů vysílá ČT sport od 01:00 duel Ghana – Panama. Brzy ráno SELČ se střetne Uzbekistán s Kolumbií.",
     "url": "https://sport.ceskatelevize.cz/clanek/fotbal/portugalsko-dr-kongo-ronaldo-naskocil-do-sesteho-ms-v-kariere-157446",
     "source": "ČT sport",
     "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/ZjRjZjc1MzBiYWM0YjhhM3H2nLiKauwtX2Uaccx9RLR9vaY3rEAhZuzXXIv9ok4hfdFIYUtVEOUql0czWezp3kxmxR5jTDtB33TpXd4F8SqUFqVeG9ituNL_QkvMqxXCSR9iOSopEzWkNNy3QfalIe7V_ROoTZ_W8JoueVRC8ftCkbU7iLZF9VkzKDUCn43f.JPG?width=360",
@@ -268,6 +268,15 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/6arCPg0b-KxA2iitT.jpg",
     "publishedAt": "2026-06-17T15:22:00.000Z"
+  },
+  {
+    "id": "ntjs86w",
+    "title": "FOTBAL ONLINE: Střet otloukánků skupiny, Ghana se utká s Panamou",
+    "description": "Souboj dvou mančaftů, které by se dle papírových předpokladů měly prát o třetí místo „anglické“ skupiny L na probíhajícím mistrovství světa. V noci na čtvrtek od 1:00 proti sobě nastoupí výběry fotbalistů Ghany a Panamy, průběh duelu můžete sledovat na Sport.cz v tradiční textové reportáži.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-stret-otloukanku-skupiny-ghana-se-utka-s-panamou-5482142",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-06-17T14:57:17.000Z"
   },
   {
     "id": "n7kn6mw",
@@ -349,14 +358,5 @@
     "source": "ČT sport",
     "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/MWQyZDZjOGJjOTg4NjQ3Mu4fCj4prhEb9DXb1UmRbrKcBl72kf2Wzf7O8-frF92cjxE5Pvo8Pu1xQHbVHBIRLXbvfi6RDQJeryVL3bUrS9Unmq1THFJoOAx3VKmuRoHTKAbN0kQBqXmGuI6Nm4nAL4_uszpsuO-LyhbMD-z-3kRUZGuYatYearLVCwJ3Sjd8.JPG?width=360",
     "publishedAt": "2026-06-17T10:00:00.000Z"
-  },
-  {
-    "id": "nkzkhyn",
-    "title": "Svět se klaní Messimu. Haaland, Henry i Ibrahimovic: Leo je jiný, blázen, pořád šéf",
-    "description": "Tento šampionát už měl patřit nové generaci. Pár hodin před ním si vzali hlavní slovo dvě superstars a Kylian Mbappé i Erling Haaland vystřelili výhry pro své týmy. A pak přišel 38letý Lionel Messi a zapsal první hattrick na letošním mistrovství světa. Argentinskému úkazu se tak znovu klaní celý fotbalový svět. Program MS ve fotbale 2026 ZDE >>>",
-    "url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-ms-fotbal-2026/476751/svet-se-klani-messimu-haaland-henry-i-ibrahimovic-leo-je-jiny-blazen-porad-sef.html",
-    "source": "iSport",
-    "imageUrl": "https://1884403144.rsc.cdn77.org/foto/fotbal-sport-messi-shearer-henry-haaland-braut-argentina-ms-fotbal-2026/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSk6Zm9jYWwoMzIyeDg1OjE0Mzh4Nzk3KS9pbWc/9878409.jpg?v=0&st=pVpNFo_C_RjwE1k2LBvKZudcNArgpTYgUbGgevnjdHQ&ts=1600812000&e=0",
-    "publishedAt": "2026-06-17T09:40:00.000Z"
   }
 ]
