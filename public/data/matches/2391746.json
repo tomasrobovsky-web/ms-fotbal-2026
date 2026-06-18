@@ -81,6 +81,40 @@
       "team": "a",
       "player": "Akram Afif",
       "off": "Al-Hashmi Al-Hussain"
+    },
+    {
+      "minute": 62,
+      "type": "yellow",
+      "team": "a",
+      "player": "Ahmed Fathy"
+    },
+    {
+      "minute": 64,
+      "type": "goal",
+      "team": "h",
+      "player": "Nathan Saliba",
+      "assist": ""
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Luc de Fougerolles",
+      "off": "Jacob Shaffelburg"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Ali Ahmed",
+      "off": "Tani Oluwaseyi"
+    },
+    {
+      "minute": 75,
+      "type": "goal",
+      "team": "h",
+      "player": "Mohamed Al-Mannai",
+      "assist": ""
     }
   ],
   "reds": {
@@ -368,5 +402,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T23:30:54.694Z"
+  "updatedAt": "2026-06-18T23:45:43.428Z"
 }
