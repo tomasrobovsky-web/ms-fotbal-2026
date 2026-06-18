@@ -6,9 +6,45 @@
       "type": "yellow",
       "team": "h",
       "player": "Derek Cornelius"
+    },
+    {
+      "minute": 16,
+      "type": "goal",
+      "team": "h",
+      "player": "Cyle Larin",
+      "assist": ""
+    },
+    {
+      "minute": 29,
+      "type": "goal",
+      "team": "h",
+      "player": "Jonathan David",
+      "assist": ""
+    },
+    {
+      "minute": 33,
+      "type": "red",
+      "team": "a",
+      "player": "Homam Ahmed"
+    },
+    {
+      "minute": 40,
+      "type": "sub",
+      "team": "a",
+      "player": "Yusuf Abdurisag",
+      "off": "Sultan Al-Brake"
+    },
+    {
+      "minute": 48,
+      "type": "goal",
+      "team": "h",
+      "player": "Jonathan David",
+      "assist": ""
     }
   ],
-  "reds": {},
+  "reds": {
+    "a": true
+  },
   "lineups": {
     "home": {
       "form": "4-3-3",
@@ -291,5 +327,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T22:30:59.537Z"
+  "updatedAt": "2026-06-18T22:55:39.818Z"
 }
