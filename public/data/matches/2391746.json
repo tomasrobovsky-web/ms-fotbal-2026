@@ -35,11 +35,52 @@
       "off": "Sultan Al-Brake"
     },
     {
-      "minute": 48,
+      "minute": 45,
       "type": "goal",
       "team": "h",
       "player": "Jonathan David",
       "assist": ""
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Edmilson Junior",
+      "off": "Ahmed Fathy"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Jassem Gaber",
+      "off": "Mohamed Al-Mannai"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Derek Cornelius",
+      "off": "Moïse Bombito"
+    },
+    {
+      "minute": 53,
+      "type": "red",
+      "team": "a",
+      "player": "Assim Madibo"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Ismaël Koné",
+      "off": "Nathan Saliba"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "a",
+      "player": "Akram Afif",
+      "off": "Al-Hashmi Al-Hussain"
     }
   ],
   "reds": {
@@ -327,5 +368,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T23:01:06.540Z"
+  "updatedAt": "2026-06-18T23:25:38.824Z"
 }
