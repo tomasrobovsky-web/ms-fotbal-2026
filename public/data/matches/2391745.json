@@ -1,6 +1,35 @@
 {
   "id": "2391745",
-  "events": [],
+  "events": [
+    {
+      "minute": 40,
+      "type": "goal",
+      "team": "a",
+      "player": "Daniel Muñoz",
+      "assist": ""
+    },
+    {
+      "minute": 60,
+      "type": "goal",
+      "team": "h",
+      "player": "Abbosbek Fayzullaev",
+      "assist": ""
+    },
+    {
+      "minute": 65,
+      "type": "goal",
+      "team": "a",
+      "player": "Luis Díaz",
+      "assist": ""
+    },
+    {
+      "minute": 99,
+      "type": "goal",
+      "team": "a",
+      "player": "Jaminton Campaz",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": null,
   "stats": {
@@ -95,5 +124,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T03:01:04.120Z"
+  "updatedAt": "2026-06-18T04:15:46.543Z"
 }
