@@ -1,6 +1,14 @@
 {
   "id": "2391744",
-  "events": [],
+  "events": [
+    {
+      "minute": 95,
+      "type": "goal",
+      "team": "h",
+      "player": "Caleb Yirenkyi",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -276,5 +284,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T00:15:45.042Z"
+  "updatedAt": "2026-06-18T01:10:42.515Z"
 }
