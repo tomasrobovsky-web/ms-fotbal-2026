@@ -66,6 +66,48 @@
       "type": "red",
       "team": "a",
       "player": "Tarik Muharemović"
+    },
+    {
+      "minute": 84,
+      "type": "goal",
+      "team": "h",
+      "player": "Rubén Vargas",
+      "assist": "Breel Embolo"
+    },
+    {
+      "minute": 86,
+      "type": "sub",
+      "team": "a",
+      "player": "Ermedin Demirović",
+      "off": "Jovo Lukić"
+    },
+    {
+      "minute": 86,
+      "type": "sub",
+      "team": "a",
+      "player": "Ivan Šunjić",
+      "off": "Amir Hadžiahmetović"
+    },
+    {
+      "minute": 86,
+      "type": "sub",
+      "team": "h",
+      "player": "Silvan Widmer",
+      "off": "Luca Jaquez"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "h",
+      "player": "Breel Embolo",
+      "off": "Cedric Itten"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Johan Manzambi",
+      "assist": "Rubén Vargas"
     }
   ],
   "reds": {
@@ -265,17 +307,17 @@
     "donuts": [
       [
         "xG",
-        0.39,
+        0.76,
         0.19
       ],
       [
         "Držení %",
-        60,
-        40
+        62,
+        38
       ],
       [
         "Na branku",
-        3,
+        5,
         2
       ],
       [
@@ -285,7 +327,7 @@
       ],
       [
         "Rohy",
-        6,
+        7,
         2
       ],
       [
@@ -297,7 +339,7 @@
     "bars": [
       [
         "Střely celkem",
-        9,
+        11,
         4
       ],
       [
@@ -312,18 +354,18 @@
       ],
       [
         "Střely ve vápně",
-        6,
+        7,
         2
       ],
       [
         "Střely zvenku",
-        3,
+        4,
         2
       ],
       [
         "Přihrávky",
-        489,
-        333
+        545,
+        336
       ],
       [
         "Ofsajdy",
@@ -332,13 +374,13 @@
       ],
       [
         "Přesné přihr.",
-        428,
-        272
+        481,
+        274
       ],
       [
         "Zákroky brankáře",
         2,
-        2
+        3
       ],
       [
         "Žluté karty",
@@ -348,10 +390,10 @@
       [
         "Červené karty",
         0,
-        0
+        1
       ]
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T20:45:48.967Z"
+  "updatedAt": "2026-06-18T20:55:42.487Z"
 }
