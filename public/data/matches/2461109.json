@@ -81,6 +81,13 @@
       "team": "a",
       "player": "Teboho Mokoena",
       "assist": ""
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "a",
+      "player": "Thapelo Maseko",
+      "off": "Kamogelo Sebelebele"
     }
   ],
   "reds": {},
@@ -366,5 +373,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T18:10:48.624Z"
+  "updatedAt": "2026-06-18T18:25:45.456Z"
 }
