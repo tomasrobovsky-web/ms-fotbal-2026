@@ -31,7 +31,196 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Eldor Shomurodov",
+          "num": 14,
+          "pos": "FW",
+          "club": "İstanbul Başakşehir",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pzj8ab1697923953.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "name": "Oston Urunov",
+          "num": 11,
+          "pos": "FW",
+          "club": "Persepolis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a1hwzc1781037228.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tzqvmg1725936631.png"
+        },
+        {
+          "name": "Otabek Shukurov",
+          "num": 7,
+          "pos": "MF",
+          "club": "Baniyas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/shq2ng1781037167.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ps3a4d1578859691.png"
+        },
+        {
+          "name": "Abdukodir Khusanov",
+          "num": 2,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/da8tg41769182137.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Utkir Yusupov",
+          "num": 1,
+          "pos": "GK",
+          "club": "Navbahor Namangan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9hu3an1781037251.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/p4dsce1656015182.png"
+        },
+        {
+          "name": "Sherzod Nasrullaev",
+          "num": 13,
+          "pos": "DF",
+          "club": "Pakhtakor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yjla061781037069.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9leeml1675712410.png"
+        },
+        {
+          "name": "Rustam Ashurmatov",
+          "num": 5,
+          "pos": "DF",
+          "club": "Esteghlal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i5sv5j1781036776.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tu1o951756536150.png"
+        },
+        {
+          "name": "Abbosbek Fayzullaev",
+          "num": 22,
+          "pos": "MF",
+          "club": "İstanbul Başakşehir",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0zoijs1781036889.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "name": "Abdulla Abdullaev",
+          "num": 18,
+          "pos": "DF",
+          "club": "Dibba Al-Fujairah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pgg8c1781036617.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5a1f5u1753982384.png"
+        },
+        {
+          "name": "Akmal Mozgovoy",
+          "num": 6,
+          "pos": "MF",
+          "club": "Pakhtakor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0qi1km1781037048.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9leeml1675712410.png"
+        },
+        {
+          "name": "Bekhruz Karimov",
+          "num": 24,
+          "pos": "DF",
+          "club": "Surkhon Termez",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2yrkbt1781036982.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vx5u5s1735489766.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "James Rodríguez",
+          "num": 10,
+          "pos": "MF",
+          "club": "Minnesota United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2604ez1778161086.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png"
+        },
+        {
+          "name": "Johan Mojica",
+          "num": 17,
+          "pos": "DF",
+          "club": "Mallorca",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8uf3w61762524256.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png"
+        },
+        {
+          "name": "Davinson Sánchez",
+          "num": 23,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fwqgth1769178122.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Jefferson Lerma",
+          "num": 16,
+          "pos": "DF",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5h7eyz1772141174.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Luis Díaz",
+          "num": 7,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/emmcyf1756408968.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Luis Suárez",
+          "num": 25,
+          "pos": "FW",
+          "club": "Sporting CP",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lnqj5l1762290563.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ohj6ih1628855978.png"
+        },
+        {
+          "name": "Jhon Lucumí",
+          "num": 3,
+          "pos": "DF",
+          "club": "Bologna",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
+        },
+        {
+          "name": "Daniel Muñoz",
+          "num": 2,
+          "pos": "DF",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qoxqre1761492462.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Camilo Vargas",
+          "num": 12,
+          "pos": "GK",
+          "club": "Atlas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ej38x01648634661.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svvyvw1473541813.png"
+        },
+        {
+          "name": "Jhon Arias",
+          "num": 11,
+          "pos": "FW",
+          "club": "Palmeiras",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z3xhar1777628018.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        },
+        {
+          "name": "Gustavo Puerta",
+          "num": 14,
+          "pos": "MF",
+          "club": "Racing de Santander",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/o2v48u1779828408.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -124,5 +313,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T04:20:47.470Z"
+  "updatedAt": "2026-06-18T06:40:55.504Z"
 }
