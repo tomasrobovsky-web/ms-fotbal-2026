@@ -1,6 +1,39 @@
 {
   "id": "2461110",
-  "events": [],
+  "events": [
+    {
+      "minute": 59,
+      "type": "yellow",
+      "team": "a",
+      "player": "Amar Dedić"
+    },
+    {
+      "minute": 61,
+      "type": "yellow",
+      "team": "a",
+      "player": "Edin Džeko"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "a",
+      "player": "Benjamin Tahirović",
+      "off": "Ivan Bašić"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "a",
+      "player": "Edin Džeko",
+      "off": "Esmir Bajraktarević"
+    },
+    {
+      "minute": 65,
+      "type": "yellow",
+      "team": "h",
+      "player": "Nico Elvedi"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,7 +229,7 @@
     "donuts": [
       [
         "xG",
-        0.19,
+        0.33,
         0.18
       ],
       [
@@ -206,7 +239,7 @@
       ],
       [
         "Na branku",
-        2,
+        3,
         1
       ],
       [
@@ -216,19 +249,19 @@
       ],
       [
         "Rohy",
-        5,
+        6,
         2
       ],
       [
         "Fauly",
-        4,
-        13
+        5,
+        14
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        7,
+        8,
         3
       ],
       [
@@ -243,7 +276,7 @@
       ],
       [
         "Střely ve vápně",
-        4,
+        5,
         2
       ],
       [
@@ -253,8 +286,8 @@
       ],
       [
         "Přihrávky",
-        432,
-        241
+        441,
+        243
       ],
       [
         "Ofsajdy",
@@ -263,18 +296,18 @@
       ],
       [
         "Přesné přihr.",
-        380,
-        191
+        388,
+        192
       ],
       [
         "Zákroky brankáře",
         1,
-        2
+        3
       ],
       [
         "Žluté karty",
         0,
-        1
+        2
       ],
       [
         "Červené karty",
@@ -284,5 +317,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T20:25:39.359Z"
+  "updatedAt": "2026-06-18T20:35:41.400Z"
 }
