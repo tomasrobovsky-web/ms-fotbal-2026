@@ -67,6 +67,20 @@
       "type": "yellow",
       "team": "h",
       "player": "Ladislav Krejčí"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "h",
+      "player": "Lukáš Červ",
+      "off": "David Zima"
+    },
+    {
+      "minute": 83,
+      "type": "goal",
+      "team": "a",
+      "player": "Teboho Mokoena",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -352,5 +366,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T17:50:47.110Z"
+  "updatedAt": "2026-06-18T17:55:40.592Z"
 }
