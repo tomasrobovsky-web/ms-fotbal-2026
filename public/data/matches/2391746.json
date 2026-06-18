@@ -1,6 +1,13 @@
 {
   "id": "2391746",
-  "events": [],
+  "events": [
+    {
+      "minute": 9,
+      "type": "yellow",
+      "team": "h",
+      "player": "Derek Cornelius"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +291,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T22:10:41.897Z"
+  "updatedAt": "2026-06-18T22:25:41.795Z"
 }
