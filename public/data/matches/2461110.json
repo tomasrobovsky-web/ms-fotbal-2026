@@ -108,6 +108,27 @@
       "team": "h",
       "player": "Johan Manzambi",
       "assist": "Rubén Vargas"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "a",
+      "player": "Kerim Alajbegović",
+      "off": "Ermin Mahmić"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "a",
+      "player": "Ermin Mahmić",
+      "assist": ""
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Granit Xhaka",
+      "assist": ""
     }
   ],
   "reds": {
@@ -307,8 +328,8 @@
     "donuts": [
       [
         "xG",
-        0.76,
-        0.19
+        1.2,
+        0.24
       ],
       [
         "Držení %",
@@ -317,18 +338,18 @@
       ],
       [
         "Na branku",
-        5,
-        2
+        6,
+        3
       ],
       [
         "Přesnost %",
         88,
-        82
+        81
       ],
       [
         "Rohy",
         7,
-        2
+        3
       ],
       [
         "Fauly",
@@ -339,8 +360,8 @@
     "bars": [
       [
         "Střely celkem",
-        11,
-        4
+        12,
+        5
       ],
       [
         "Střely mimo",
@@ -354,8 +375,8 @@
       ],
       [
         "Střely ve vápně",
-        7,
-        2
+        8,
+        3
       ],
       [
         "Střely zvenku",
@@ -364,8 +385,8 @@
       ],
       [
         "Přihrávky",
-        545,
-        336
+        581,
+        353
       ],
       [
         "Ofsajdy",
@@ -374,8 +395,8 @@
       ],
       [
         "Přesné přihr.",
-        481,
-        274
+        512,
+        285
       ],
       [
         "Zákroky brankáře",
@@ -395,5 +416,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T20:55:42.487Z"
+  "updatedAt": "2026-06-18T21:05:41.550Z"
 }
