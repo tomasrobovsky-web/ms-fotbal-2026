@@ -1,0 +1,198 @@
+{
+  "id": "2461109",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Vladimír Darida",
+          "num": 8,
+          "pos": "MF",
+          "club": "Hradec Králové",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jajll01578080716.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ckjzy41691419056.png"
+        },
+        {
+          "name": "Patrik Schick",
+          "num": 10,
+          "pos": "FW",
+          "club": "Bayer Leverkusen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zfxtjv1756316702.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+        },
+        {
+          "name": "Michal Sadílek",
+          "num": 18,
+          "pos": "FW",
+          "club": "Slavia Prague",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qgt4x11762344326.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png"
+        },
+        {
+          "name": "Vladimír Coufal",
+          "num": 5,
+          "pos": "DF",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jucuwd1763494235.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Tomáš Holeš",
+          "num": 3,
+          "pos": "DF",
+          "club": "Slavia Prague",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/16flb51622528904.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png"
+        },
+        {
+          "name": "Adam Hložek",
+          "num": 9,
+          "pos": "FW",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kh9la81763494337.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Matěj Kovář",
+          "num": 1,
+          "pos": "GK",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t9xanl1764594932.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Ladislav Krejčí",
+          "num": 7,
+          "pos": "DF",
+          "club": "Wolverhampton Wanderers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1e4izu1781345686.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+        },
+        {
+          "name": "Robin Hranáč",
+          "num": 4,
+          "pos": "DF",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7aocs31763494358.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Lukáš Červ",
+          "num": 12,
+          "pos": "MF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pvywr1725999957.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        },
+        {
+          "name": "Alexandr Sojka",
+          "num": 24,
+          "pos": "MF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wttul91780306360.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Aubrey Modiba",
+          "num": 6,
+          "pos": "DF",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nh3ddz1750874984.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Ronwen Williams",
+          "num": 1,
+          "pos": "GK",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kd7edx1750875629.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Khuliso Mudau",
+          "num": 20,
+          "pos": "DF",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ods0zi1750875546.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Teboho Mokoena",
+          "num": 4,
+          "pos": "MF",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3dq0ds1750874921.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Thapelo Maseko",
+          "num": 12,
+          "pos": "FW",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6uwojl1779971640.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Ime Okon",
+          "num": 21,
+          "pos": "DF",
+          "club": "Hannover",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4p86da1773070885.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png"
+        },
+        {
+          "name": "Jayden Adams",
+          "num": 23,
+          "pos": "MF",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q8api81750874993.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Iqraam Rayners",
+          "num": 15,
+          "pos": "FW",
+          "club": "Mamelodi Sundowns",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/49juqb1750875069.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uswgw01642709783.png"
+        },
+        {
+          "name": "Thalente Mbatha",
+          "num": 5,
+          "pos": "MF",
+          "club": "Orlando Pirates",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/471uwy1779971985.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y6dbv61583616330.png"
+        },
+        {
+          "name": "Oswin Appollis",
+          "num": 7,
+          "pos": "FW",
+          "club": "Orlando Pirates",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/51f8ha1779969554.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y6dbv61583616330.png"
+        },
+        {
+          "name": "Mbekezeli Mbokazi",
+          "num": 14,
+          "pos": "DF",
+          "club": "Chicago Fire",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s5f84y1779972076.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-18T16:05:42.237Z"
+}
