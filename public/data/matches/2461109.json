@@ -7,6 +7,18 @@
       "team": "h",
       "player": "Michal Sadílek",
       "assist": "Alexandr Sojka"
+    },
+    {
+      "minute": 33,
+      "type": "yellow",
+      "team": "a",
+      "player": "Teboho Mokoena"
+    },
+    {
+      "minute": 40,
+      "type": "yellow",
+      "team": "a",
+      "player": "Thalente Mbatha"
     }
   ],
   "reds": {},
@@ -292,5 +304,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-18T16:50:46.370Z"
+  "updatedAt": "2026-06-18T16:55:39.709Z"
 }
