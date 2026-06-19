@@ -279,15 +279,6 @@
     "publishedAt": "2026-06-19T04:40:00.000Z"
   },
   {
-    "id": "n1vdainz",
-    "title": "GLOSA: Češi na MS: skvělý úvod, pak útlum a ztráta vedení. Smůlu v tom ale nehledejme",
-    "description": "Fotbalová reprezentace má za sebou na mistrovství světa dva zápasy. Byť kvalitativně bylo její vystoupení s Jihoafrickou republikou mnohem pozitivnější než proti Jižní Koreji, výsledkově také nedopadlo. Oba duely nesly podobný scénář - skvělý úvod českého mužstva a následný pokles ofenzivní aktivity a ruku v ruce s tím inkasované góly. Proč Češi pokaždé sklouzli k obrannému bloku, proč nedokázali udržet nastavený aktivní mód mnohem déle?",
-    "url": "https://www.sport.cz/clanek/nazory-komentare-glosa-cesi-na-ms-skvely-uvod-pak-utlum-a-ztrata-vedeni-smulu-v-tom-ale-nehledejme-5483076",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-19T04:35:09.000Z"
-  },
-  {
     "id": "nvipzlr",
     "title": "Postupová matematika Česka na MS: Musí porazit Mexiko, stačit by mohla i remíza, ale...",
     "description": "Klíčový zápas nevyšel. Čeští fotbalisté na mistrovství světa neudrželi vedení proti Jihoafrické republice a po remíze 1:1 proti papírově nejslabšímu týmu skupiny A k postupu potřebují vítězství v posledním utkání proti Mexiku, mohla by stačit i remíza, ale… Jak teď vypadá postupová matematika po noční výhře Mexika nad Jižní Koreou (1:0), která domácímu výběru zajistila první místo ve skupině? A co ostatní týmy napříč skupinami? Program MS naleznete ZDE>>>",
@@ -358,5 +349,14 @@
     "source": "ČT sport",
     "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/MDQwOTc5MGRkNDliZTdmMm_IJrS5j8nQyoQ59-Wj1c5btEVQTvGDzZAvCt-Y9KMfZWDJIA_bH-NnZyMuGBy5ZwobcwK3VgQUoGnTaj22OhekV6vMG1X6JwpZWkhkijREXLvTTHqnUu22ghEOWZdnVbOK2NIOejGxUq5qKoq-pUDW7lDR3ROAHLXctFbq8o0H.jpg?width=360",
     "publishedAt": "2026-06-18T22:00:00.000Z"
+  },
+  {
+    "id": "ns07u71",
+    "title": "Penaltu akceptuje, zanďoura odmítá. Chtěli jsme hrát aktivně, hájí Koubek výkon proti JAR",
+    "description": "Trenér Miroslav Koubek byl po remíze 1:1 s Jihoafrickou republikou v druhém utkání na mistrovství světa přesvědčen, že Češi měli k vítězství blíž. Penaltu pro soupeře nařízenou za ruku Pavla Šulce ve vápně kouč akceptoval, i když ji považoval za přísnou. Na tiskové konferenci nesouhlasil s tím, že by jeho svěřenci po brzkém gólu hráli \"zanďoura\". Koubek věří, že mužstvo ještě zabojuje o postup ze skupiny v zápase s Mexikem.",
+    "url": "https://www.eurofotbal.cz/clanky/penaltu-akceptuje-zandoura-odmita-chteli-jsme-hrat-aktivne-haji-koubek-vykon-proti-jar-829477/",
+    "source": "Eurofotbal",
+    "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/OYu7gR1s-0UuEO2s6.jpg",
+    "publishedAt": "2026-06-18T21:55:00.000Z"
   }
 ]
