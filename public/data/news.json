@@ -288,15 +288,6 @@
     "publishedAt": "2026-06-19T02:50:00.000Z"
   },
   {
-    "id": "n77xl80",
-    "title": "Ošklivé scény, stadion utichl. Kanadský záložník má po ostrém faulu nadvakrát zlomenou nohu",
-    "description": "Naprosto smutné a ničivé scény. Kanada ve druhém zápase na MS přejela Katar po suverénním výkonu 6:0. Rána pro tým Javorových listů však přišla ve druhé půli, kdy jeden z klíčových hráčů Ismaël Koné po tvrdém zákroku opouštěl hřiště na nosítkách se zlomenou lýtkovou a holenní kostí.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-osklive-sceny-stadion-utichl-kanadsky-zaloznik-ma-po-ostrem-faulu-zlomenou-nohu-5483199",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-19T00:55:27.000Z"
-  },
-  {
     "id": "n8qe1wt",
     "title": "Soutěž k MS ve fotbale – 19. června",
     "description": "Máte rádi FOTBAL a chcete si ještě zasoutěžit? Odpovězte správně na uvedenou otázku a vyhrajte.",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/zVvAslPQ-0nxXDLmF.jpg",
     "publishedAt": "2026-06-18T19:48:00.000Z"
+  },
+  {
+    "id": "n1gtslt2",
+    "title": "Krejčí o nadějích na postup: Kdo nevěří, nemá tady co dělat. Pasivita? Do očí si musíme říct…",
+    "description": "PŘÍMO Z USA | Nezbavíte se dojmu, že tento zápas prostě měli vyhrát. Českým fotbalistům hrálo ve druhém utkání skupiny A na mistrovství světa všechno do karet. Od 6. minuty zásluhou Michala Sadílka vedli, jenže v poslední čtvrthodině nastal šok. Šulcova ruka a soupeřova proměněná penalta zapříčinily, že tým Miroslava Koubka bral proti JAR jen bod. Navíc znovu byla tématem až přílišná pasivita. „Všichni zúčastnění si musíme sednout a do očí si říct, co jen ten problém,“ hlásil kapitán Ladislav Krejčí po remíze 1:1. Program MS ve fotbale 2026 ZDE >>>",
+    "url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-ms-fotbal-2026/476814/krejci-o-nadejich-na-postup-kdo-neveri-nema-tady-co-delat-pasivita-do-oci-si-musime-rict.html",
+    "source": "iSport",
+    "imageUrl": "https://1884403144.rsc.cdn77.org/foto/sport-fotbal-ms-fotbal-2026-ms-ve-fotbale-cesko-jar-ladislav-krejci/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSk6Zm9jYWwoNjAyeDE3NjoxNTUweDgwMCkvaW1n/9880904.jpg?v=0&st=uURoLpXB7EgVUeqInseE929F132xNGFVbeZkxuv-HHM&ts=1600812000&e=0",
+    "publishedAt": "2026-06-18T19:30:00.000Z"
   }
 ]
