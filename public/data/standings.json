@@ -6,16 +6,16 @@
     "group": "Group A",
     "badge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png/tiny",
     "description": "Round of 32",
-    "played": 1,
-    "won": 1,
+    "played": 2,
+    "won": 2,
     "drawn": 0,
     "lost": 0,
-    "goalsFor": 2,
+    "goalsFor": 3,
     "goalsAgainst": 0,
-    "goalDiff": 2,
-    "points": 3,
-    "form": "W",
-    "updatedAt": "2026-06-18 10:00:10"
+    "goalDiff": 3,
+    "points": 6,
+    "form": "WW",
+    "updatedAt": "2026-06-19 10:00:02"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
     "goalDiff": 3,
     "points": 3,
     "form": "W",
-    "updatedAt": "2026-06-18 10:00:10"
+    "updatedAt": "2026-06-19 10:00:02"
   },
   {
     "rank": 1,
@@ -51,25 +51,25 @@
     "goalDiff": 1,
     "points": 3,
     "form": "W",
-    "updatedAt": "2026-06-18 10:00:10"
+    "updatedAt": "2026-06-19 10:00:02"
   },
   {
     "rank": 1,
-    "teamId": "134506",
-    "team": "Switzerland",
+    "teamId": "140073",
+    "team": "Canada",
     "group": "Group B",
-    "badge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png/tiny",
+    "badge": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png/tiny",
     "description": "Round of 32",
-    "played": 1,
-    "won": 0,
+    "played": 2,
+    "won": 1,
     "drawn": 1,
     "lost": 0,
-    "goalsFor": 1,
+    "goalsFor": 7,
     "goalsAgainst": 1,
-    "goalDiff": 0,
-    "points": 1,
-    "form": "D",
-    "updatedAt": "2026-06-18 10:00:10"
+    "goalDiff": 6,
+    "points": 4,
+    "form": "WD",
+    "updatedAt": "2026-06-19 10:00:02"
   },
   {
     "rank": 1,
@@ -87,6 +87,6 @@
     "goalDiff": 6,
     "points": 3,
     "form": "W",
-    "updatedAt": "2026-06-18 10:00:10"
+    "updatedAt": "2026-06-19 10:00:02"
   }
 ]
