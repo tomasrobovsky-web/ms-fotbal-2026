@@ -28,6 +28,12 @@
       "player": "Homam Ahmed"
     },
     {
+      "minute": 33,
+      "type": "yellow",
+      "team": "a",
+      "player": "Homam Ahmed"
+    },
+    {
       "minute": 40,
       "type": "sub",
       "team": "a",
@@ -44,9 +50,9 @@
     {
       "minute": 46,
       "type": "sub",
-      "team": "a",
-      "player": "Edmilson Junior",
-      "off": "Ahmed Fathy"
+      "team": "h",
+      "player": "Derek Cornelius",
+      "off": "Moïse Bombito"
     },
     {
       "minute": 46,
@@ -58,13 +64,19 @@
     {
       "minute": 46,
       "type": "sub",
-      "team": "h",
-      "player": "Derek Cornelius",
-      "off": "Moïse Bombito"
+      "team": "a",
+      "player": "Edmilson Junior",
+      "off": "Ahmed Fathy"
     },
     {
       "minute": 53,
       "type": "red",
+      "team": "a",
+      "player": "Assim Madibo"
+    },
+    {
+      "minute": 54,
+      "type": "yellow",
       "team": "a",
       "player": "Assim Madibo"
     },
@@ -80,7 +92,7 @@
       "type": "sub",
       "team": "a",
       "player": "Akram Afif",
-      "off": "Al-Hashmi Al-Hussain"
+      "off": ""
     },
     {
       "minute": 62,
@@ -99,15 +111,15 @@
       "minute": 71,
       "type": "sub",
       "team": "h",
-      "player": "Luc de Fougerolles",
-      "off": "Jacob Shaffelburg"
+      "player": "Ali Ahmed",
+      "off": "Tani Oluwaseyi"
     },
     {
       "minute": 71,
       "type": "sub",
       "team": "h",
-      "player": "Ali Ahmed",
-      "off": "Tani Oluwaseyi"
+      "player": "Luc de Fougerolles",
+      "off": "Jacob Shaffelburg"
     },
     {
       "minute": 75,
@@ -115,6 +127,27 @@
       "team": "h",
       "player": "Mohamed Al-Mannai",
       "assist": ""
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Tajon Buchanan",
+      "off": "Niko Sigur"
+    },
+    {
+      "minute": 87,
+      "type": "sub",
+      "team": "a",
+      "player": "Ahmed Fathy",
+      "off": "Lucas Mendes"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Jonathan David",
+      "assist": "Nathan Saliba"
     }
   ],
   "reds": {
@@ -402,5 +435,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T00:20:43.973Z"
+  "updatedAt": "2026-06-19T06:01:11.795Z"
 }

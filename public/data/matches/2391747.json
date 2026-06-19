@@ -2,15 +2,286 @@
   "id": "2391747",
   "events": [
     {
+      "minute": 4,
+      "type": "yellow",
+      "team": "a",
+      "player": "Kang-in Lee"
+    },
+    {
       "minute": 50,
       "type": "goal",
       "team": "h",
       "player": "Luis Romo",
       "assist": ""
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "a",
+      "player": "Jae-sung Lee",
+      "off": "Hee-chan Hwang"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "a",
+      "player": "Heung-min Son",
+      "off": "Hyeon-gyu Oh"
+    },
+    {
+      "minute": 58,
+      "type": "yellow",
+      "team": "a",
+      "player": "Seung-ho Paik"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Brian Gutiérrez",
+      "off": "Orbelín Pineda"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Luis Romo",
+      "off": "Obed Vargas"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "a",
+      "player": "Young-woo Seol",
+      "off": "Hyun-jun Yang"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "a",
+      "player": "Moon-hwan Kim",
+      "off": "Ji-sung Eom"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "a",
+      "player": "Seung-ho Paik",
+      "off": "Gue-sung Cho"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Raúl Jiménez",
+      "off": "Santiago Giménez"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Roberto Alvarado",
+      "off": "Israel Reyes"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "h",
+      "player": "Julián Quiñones",
+      "off": "César Huerta"
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Raúl Jiménez",
+          "num": 9,
+          "pos": "FW",
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xjepmh1781348889.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+        },
+        {
+          "name": "Edson Álvarez",
+          "num": 4,
+          "pos": "DF",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nt933u1769179587.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "Julián Quiñones",
+          "num": 16,
+          "pos": "FW",
+          "club": "Al-Qadsiah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kwg6ps1781248412.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png"
+        },
+        {
+          "name": "Brian Gutiérrez",
+          "num": 26,
+          "pos": "MF",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ardabg1766490164.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        },
+        {
+          "name": "Jesús Gallardo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Toluca",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/syauia1776427423.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y64wy91523913186.png"
+        },
+        {
+          "name": "Johan Vásquez",
+          "num": 5,
+          "pos": "DF",
+          "club": "Genoa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7q4sks1758997735.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png"
+        },
+        {
+          "name": "Luis Romo",
+          "num": 7,
+          "pos": "DF",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w5g1po1716821279.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        },
+        {
+          "name": "Roberto Alvarado",
+          "num": 25,
+          "pos": "FW",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dup2qf1630164554.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        },
+        {
+          "name": "Jorge Sánchez",
+          "num": 2,
+          "pos": "DF",
+          "club": "PAOK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xftyyb1698428324.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png"
+        },
+        {
+          "name": "Érik Lira",
+          "num": 6,
+          "pos": "DF",
+          "club": "Cruz Azul",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qflanz1780401683.png",
+          "clubLogo": "https://www.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png"
+        },
+        {
+          "name": "Raúl Rangel",
+          "num": 1,
+          "pos": "GK",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b3xv161780401837.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-3-1",
+      "xi": [
+        {
+          "name": "Heung-min Son",
+          "num": 7,
+          "pos": "FW",
+          "club": "Los Angeles FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a5cqf81766425262.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
+        },
+        {
+          "name": "Kang-in Lee",
+          "num": 19,
+          "pos": "MF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3jhw2d1766335293.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Jae-sung Lee",
+          "num": 10,
+          "pos": "MF",
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/p0i9wg1763554091.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        },
+        {
+          "name": "Seung-ho Paik",
+          "num": 8,
+          "pos": "MF",
+          "club": "Birmingham City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bsuxra1761931407.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png"
+        },
+        {
+          "name": "In-beom Hwang",
+          "num": 6,
+          "pos": "DF",
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v818b11781248523.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
+        },
+        {
+          "name": "Seung-gyu Kim",
+          "num": 1,
+          "pos": "GK",
+          "club": "FC Tokyo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/32ktx81668684378.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9ls6lr1698754779.png"
+        },
+        {
+          "name": "Min-jae Kim",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m4uh701756408877.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Moon-hwan Kim",
+          "num": 15,
+          "pos": "DF",
+          "club": "Daejeon Hana Citizen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/eufzv71647866451.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o9z6eq1589558557.png"
+        },
+        {
+          "name": "Young-woo Seol",
+          "num": 22,
+          "pos": "DF",
+          "club": "Crvena Zvezda",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v6c4ev1779016056.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png"
+        },
+        {
+          "name": "Gi-hyuk Lee",
+          "num": 3,
+          "pos": "DF",
+          "club": "Gangwon FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rsfjpa1779015844.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c4igx71579729617.png"
+        },
+        {
+          "name": "Han-beom Lee",
+          "num": 2,
+          "pos": "DF",
+          "club": "FC Midtjylland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mzl0v11765385562.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/s5bpcr1755712262.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -103,5 +374,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T03:05:40.482Z"
+  "updatedAt": "2026-06-19T06:01:16.846Z"
 }
