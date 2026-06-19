@@ -21,11 +21,38 @@
       "player": "Alessandro Circati"
     },
     {
-      "minute": 45,
+      "minute": 43,
       "type": "goal",
       "team": "h",
       "player": "Alex Freeman",
       "assist": ""
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Cameron Burgess",
+      "off": "Jason Geria"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Nishan Velupillay",
+      "off": "Connor Metcalfe"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Mohamed Touré",
+      "off": "Nestory Irankunda"
+    },
+    {
+      "minute": 56,
+      "type": "yellow",
+      "team": "h",
+      "player": "Antonee Robinson"
     }
   ],
   "reds": {},
@@ -311,5 +338,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T20:30:56.029Z"
+  "updatedAt": "2026-06-19T20:35:41.046Z"
 }
