@@ -288,15 +288,6 @@
     "publishedAt": "2026-06-19T04:35:09.000Z"
   },
   {
-    "id": "nonfurz",
-    "title": "Otevíráme tequilu! Mexiko slaví postup na domácím MS",
-    "description": "Skákali radostí, mávali tribunám, smáli se. Fotbalisté Mexika odstartovali na stadionu v Guadalajaře velkou party a mohli slavit postup ze skupiny A, který si definitivně zajistili druhou výhrou na šampionátu, když porazili těsně Jižní Koreu (1:0). „Bude tequila, muzika a dobrá nálada,“ smál se ve studiu Nova Action fotbalový agent David Zíka.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-otevirame-tequilu-mexiko-slavi-postup-na-domacim-ms-5482137",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-19T03:31:30.000Z"
-  },
-  {
     "id": "nvipzlr",
     "title": "Postupová matematika Česka na MS: Musí porazit Mexiko, stačit by mohla i remíza, ale...",
     "description": "Klíčový zápas nevyšel. Čeští fotbalisté na mistrovství světa neudrželi vedení proti Jihoafrické republice a po remíze 1:1 proti papírově nejslabšímu týmu skupiny A k postupu potřebují vítězství v posledním utkání proti Mexiku, mohla by stačit i remíza, ale… Jak teď vypadá postupová matematika po noční výhře Mexika nad Jižní Koreou (1:0), která domácímu výběru zajistila první místo ve skupině? A co ostatní týmy napříč skupinami? Program MS naleznete ZDE>>>",
@@ -358,5 +349,14 @@
     "source": "Sport.cz",
     "imageUrl": null,
     "publishedAt": "2026-06-19T00:55:27.000Z"
+  },
+  {
+    "id": "n8qe1wt",
+    "title": "Soutěž k MS ve fotbale – 19. června",
+    "description": "Máte rádi FOTBAL a chcete si ještě zasoutěžit? Odpovězte správně na uvedenou otázku a vyhrajte.",
+    "url": "https://sport.ceskatelevize.cz/clanek/fotbal/soutez-k-ms-ve-fotbale-19-cervna-157390",
+    "source": "ČT sport",
+    "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/MDQwOTc5MGRkNDliZTdmMm_IJrS5j8nQyoQ59-Wj1c5btEVQTvGDzZAvCt-Y9KMfZWDJIA_bH-NnZyMuGBy5ZwobcwK3VgQUoGnTaj22OhekV6vMG1X6JwpZWkhkijREXLvTTHqnUu22ghEOWZdnVbOK2NIOejGxUq5qKoq-pUDW7lDR3ROAHLXctFbq8o0H.jpg?width=360",
+    "publishedAt": "2026-06-18T22:00:00.000Z"
   }
 ]
