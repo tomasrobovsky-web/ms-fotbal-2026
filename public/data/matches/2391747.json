@@ -1,6 +1,14 @@
 {
   "id": "2391747",
-  "events": [],
+  "events": [
+    {
+      "minute": 50,
+      "type": "goal",
+      "team": "h",
+      "player": "Luis Romo",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": null,
   "stats": {
@@ -95,5 +103,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T01:55:43.205Z"
+  "updatedAt": "2026-06-19T02:35:38.305Z"
 }
