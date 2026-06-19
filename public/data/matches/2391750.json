@@ -19,6 +19,13 @@
       "type": "yellow",
       "team": "a",
       "player": "Alessandro Circati"
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "h",
+      "player": "Alex Freeman",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -115,5 +122,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T19:50:43.075Z"
+  "updatedAt": "2026-06-19T19:55:36.857Z"
 }
