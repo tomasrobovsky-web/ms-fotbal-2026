@@ -1,6 +1,14 @@
 {
   "id": "2391750",
-  "events": [],
+  "events": [
+    {
+      "minute": 11,
+      "type": "goal",
+      "team": "h",
+      "player": "Cameron Burgess",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": null,
   "stats": {
@@ -95,5 +103,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T19:20:42.669Z"
+  "updatedAt": "2026-06-19T19:25:42.102Z"
 }
