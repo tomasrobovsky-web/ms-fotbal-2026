@@ -13,6 +13,33 @@
       "type": "yellow",
       "team": "a",
       "player": "Issa Diop"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "h",
+      "player": "Kieran Tierney",
+      "off": "Ben Gannon-Doak"
+    },
+    {
+      "minute": 65,
+      "type": "yellow",
+      "team": "h",
+      "player": "Andrew Robertson"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Che Adams",
+      "off": "Lyndon Dykes"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Ryan Christie",
+      "off": "Kenny McLean"
     }
   ],
   "reds": {},
@@ -298,5 +325,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T23:50:40.152Z"
+  "updatedAt": "2026-06-19T23:55:40.427Z"
 }
