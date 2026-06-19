@@ -29,7 +29,196 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Tim Ream",
+          "num": 13,
+          "pos": "DF",
+          "club": "Charlotte FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lbav9r1771754456.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/b6p4uz1595434047.png"
+        },
+        {
+          "name": "Antonee Robinson",
+          "num": 5,
+          "pos": "DF",
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q5wlej1757070520.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+        },
+        {
+          "name": "Weston McKennie",
+          "num": 8,
+          "pos": "MF",
+          "club": "Juventus",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ct34v01759225325.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "name": "Tyler Adams",
+          "num": 4,
+          "pos": "MF",
+          "club": "Bournemouth",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/utnaxk1756989024.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+        },
+        {
+          "name": "Sergiño Dest",
+          "num": 2,
+          "pos": "DF",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/k5dzj41764594710.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Folarin Balogun",
+          "num": 20,
+          "pos": "FW",
+          "club": "Monaco",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ic7kq51781348516.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+        },
+        {
+          "name": "Chris Richards",
+          "num": 3,
+          "pos": "DF",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l1yb8m1761492382.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Ricardo Pepi",
+          "num": 9,
+          "pos": "FW",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xmhafw1764595238.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Malik Tillman",
+          "num": 17,
+          "pos": "MF",
+          "club": "Bayer Leverkusen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8d8h2y1756316767.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+        },
+        {
+          "name": "Alex Freeman",
+          "num": 16,
+          "pos": "DF",
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9ik1yx1766511635.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        },
+        {
+          "name": "Matt Freese",
+          "num": 24,
+          "pos": "GK",
+          "club": "New York City FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kgux451778272403.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "7-3",
+      "xi": [
+        {
+          "name": "Cameron Burgess",
+          "num": 21,
+          "pos": "DF",
+          "club": "Swansea City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/maa37o1761234599.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png"
+        },
+        {
+          "name": "Harry Souttar",
+          "num": 19,
+          "pos": "DF",
+          "club": "Leicester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/219opn1761861817.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png"
+        },
+        {
+          "name": "Mathew Leckie",
+          "num": 7,
+          "pos": "FW",
+          "club": "Melbourne City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ujzu6w1684838424.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rkeqme1603301840.png"
+        },
+        {
+          "name": "Mohamed Touré",
+          "num": 9,
+          "pos": "FW",
+          "club": "Norwich City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/chv5eq1780308514.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
+        },
+        {
+          "name": "Jordan Bos",
+          "num": 5,
+          "pos": "DF",
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u0rnwo1758189333.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
+        },
+        {
+          "name": "Nishan Velupillay",
+          "num": 23,
+          "pos": "FW",
+          "club": "Melbourne Victory",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zi32h91765899271.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wwvsqx1473454564.png"
+        },
+        {
+          "name": "Alessandro Circati",
+          "num": 3,
+          "pos": "DF",
+          "club": "Parma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6lkqvz1759779806.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
+        },
+        {
+          "name": "Jacob Italiano",
+          "num": 4,
+          "pos": "DF",
+          "club": "Grazer AK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i6ol421769372005.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/43rocv1750352978.png"
+        },
+        {
+          "name": "Aiden O'Neill",
+          "num": 13,
+          "pos": "DF",
+          "club": "New York City FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/28x1kl1778529144.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png"
+        },
+        {
+          "name": "Patrick Beach",
+          "num": 18,
+          "pos": "GK",
+          "club": "Melbourne City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/eoiezy1748713226.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rkeqme1603301840.png"
+        },
+        {
+          "name": "Paul Okon-Engstler",
+          "num": 24,
+          "pos": "DF",
+          "club": "Sydney FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x7oiku1765623798.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -122,5 +311,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T20:01:04.244Z"
+  "updatedAt": "2026-06-19T20:20:49.364Z"
 }
