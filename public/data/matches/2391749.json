@@ -7,6 +7,12 @@
       "team": "a",
       "player": "Ismael Saibari",
       "assist": "Brahim Díaz"
+    },
+    {
+      "minute": 23,
+      "type": "yellow",
+      "team": "a",
+      "player": "Issa Diop"
     }
   ],
   "reds": {},
@@ -292,5 +298,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-19T22:20:42.022Z"
+  "updatedAt": "2026-06-19T22:45:47.111Z"
 }
