@@ -2,11 +2,18 @@
   "id": "2461112",
   "events": [
     {
-      "minute": 6,
+      "minute": 5,
       "type": "goal",
       "team": "h",
       "player": "Brian Brobbey",
       "assist": "Cody Gakpo"
+    },
+    {
+      "minute": 17,
+      "type": "goal",
+      "team": "h",
+      "player": "Brian Brobbey",
+      "assist": "Denzel Dumfries"
     }
   ],
   "reds": {},
@@ -204,44 +211,44 @@
     "donuts": [
       [
         "xG",
-        0,
-        0
+        1.01,
+        0.03
       ],
       [
         "Držení %",
-        0,
-        0
+        67,
+        33
       ],
       [
         "Na branku",
-        0,
-        0
+        3,
+        1
       ],
       [
         "Přesnost %",
-        0,
-        0
+        91,
+        76
       ],
       [
         "Rohy",
-        0,
-        0
+        1,
+        1
       ],
       [
         "Fauly",
-        0,
-        0
+        2,
+        4
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        0,
-        0
+        4,
+        1
       ],
       [
         "Střely mimo",
-        0,
+        1,
         0
       ],
       [
@@ -251,8 +258,8 @@
       ],
       [
         "Střely ve vápně",
-        0,
-        0
+        4,
+        1
       ],
       [
         "Střely zvenku",
@@ -261,23 +268,23 @@
       ],
       [
         "Přihrávky",
-        0,
-        0
+        128,
+        66
       ],
       [
         "Ofsajdy",
-        0,
-        0
+        1,
+        2
       ],
       [
         "Přesné přihr.",
-        0,
-        0
+        116,
+        50
       ],
       [
         "Zákroky brankáře",
-        0,
-        0
+        1,
+        1
       ],
       [
         "Žluté karty",
@@ -292,5 +299,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T17:10:41.971Z"
+  "updatedAt": "2026-06-20T17:30:55.395Z"
 }
