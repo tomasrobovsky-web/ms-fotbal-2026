@@ -1,6 +1,14 @@
 {
   "id": "2461112",
-  "events": [],
+  "events": [
+    {
+      "minute": 6,
+      "type": "goal",
+      "team": "h",
+      "player": "Brian Brobbey",
+      "assist": "Cody Gakpo"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -192,7 +200,97 @@
       "bench": []
     }
   },
-  "stats": null,
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0,
+        0
+      ],
+      [
+        "Držení %",
+        0,
+        0
+      ],
+      [
+        "Na branku",
+        0,
+        0
+      ],
+      [
+        "Přesnost %",
+        0,
+        0
+      ],
+      [
+        "Rohy",
+        0,
+        0
+      ],
+      [
+        "Fauly",
+        0,
+        0
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        0,
+        0
+      ],
+      [
+        "Střely mimo",
+        0,
+        0
+      ],
+      [
+        "Zblokované",
+        0,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        0,
+        0
+      ],
+      [
+        "Střely zvenku",
+        0,
+        0
+      ],
+      [
+        "Přihrávky",
+        0,
+        0
+      ],
+      [
+        "Ofsajdy",
+        0,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        0,
+        0
+      ],
+      [
+        "Zákroky brankáře",
+        0,
+        0
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T17:01:03.142Z"
+  "updatedAt": "2026-06-20T17:10:41.971Z"
 }
