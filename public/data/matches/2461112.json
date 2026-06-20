@@ -14,6 +14,33 @@
       "team": "h",
       "player": "Brian Brobbey",
       "assist": "Denzel Dumfries"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Donyell Malen",
+      "off": "Crysencio Summerville"
+    },
+    {
+      "minute": 47,
+      "type": "goal",
+      "team": "h",
+      "player": "Cody Gakpo",
+      "assist": "Denzel Dumfries"
+    },
+    {
+      "minute": 53,
+      "type": "yellow",
+      "team": "a",
+      "player": "Gabriel Gudmundsson"
+    },
+    {
+      "minute": 54,
+      "type": "goal",
+      "team": "h",
+      "player": "Cody Gakpo",
+      "assist": "Crysencio Summerville"
     }
   ],
   "reds": {},
@@ -299,5 +326,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T18:01:07.523Z"
+  "updatedAt": "2026-06-20T18:20:41.886Z"
 }
