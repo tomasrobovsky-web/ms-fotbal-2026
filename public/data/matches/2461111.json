@@ -1,0 +1,198 @@
+{
+  "id": "2461111",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Hakan Çalhanoğlu",
+          "num": 10,
+          "pos": "DF",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hw8uxm1759408821.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Uğurcan Çakır",
+          "num": 23,
+          "pos": "GK",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/c98xoe1769177452.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Abdülkerim Bardakcı",
+          "num": 14,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uncf0f1769178149.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Merih Demiral",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mqjb7n1777237989.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+        },
+        {
+          "name": "Mert Müldür",
+          "num": 18,
+          "pos": "DF",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l5nngn1724845876.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "Ferdi Kadıoğlu",
+          "num": 20,
+          "pos": "DF",
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/enrtu21756994489.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        },
+        {
+          "name": "Kerem Aktürkoğlu",
+          "num": 7,
+          "pos": "FW",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ix8aeh1769179066.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "İsmail Yüksek",
+          "num": 16,
+          "pos": "DF",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yl8ono1724846159.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "Arda Güler",
+          "num": 8,
+          "pos": "MF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwnog21768499165.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Yunus Akgün",
+          "num": 19,
+          "pos": "FW",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b701we1724945952.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Kenan Yıldız",
+          "num": 11,
+          "pos": "FW",
+          "club": "Juventus",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zgep4d1759225554.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Gustavo Gómez",
+          "num": 15,
+          "pos": "DF",
+          "club": "Palmeiras",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ytrnlp1750412203.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        },
+        {
+          "name": "Miguel Almirón",
+          "num": 10,
+          "pos": "FW",
+          "club": "Atlanta United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/35lxqh1757447624.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png"
+        },
+        {
+          "name": "Omar Alderete",
+          "num": 3,
+          "pos": "DF",
+          "club": "Sunderland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jny02g1756903939.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+        },
+        {
+          "name": "Andrés Cubas",
+          "num": 14,
+          "pos": "DF",
+          "club": "Vancouver Whitecaps",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b9bgzk1766434740.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png"
+        },
+        {
+          "name": "Júnior Alonso",
+          "num": 6,
+          "pos": "DF",
+          "club": "Atlético Mineiro",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qf74pc1763755103.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+        },
+        {
+          "name": "Julio Enciso",
+          "num": 19,
+          "pos": "MF",
+          "club": "Strasbourg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mvazxz1766053932.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png"
+        },
+        {
+          "name": "Isidro Pitta",
+          "num": 25,
+          "pos": "FW",
+          "club": "Bragantino",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e59bmw1766833724.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
+        },
+        {
+          "name": "Juan José Cáceres",
+          "num": 4,
+          "pos": "DF",
+          "club": "Dynamo Moscow",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mgo6b01754402056.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0p67e71535789184.png"
+        },
+        {
+          "name": "Diego Gómez",
+          "num": 8,
+          "pos": "MF",
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/alorj01756993808.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        },
+        {
+          "name": "Matías Galarza",
+          "num": 23,
+          "pos": "MF",
+          "club": "Atlanta United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mnnh0g1777643155.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png"
+        },
+        {
+          "name": "Orlando Gill",
+          "num": 12,
+          "pos": "GK",
+          "club": "San Lorenzo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ngvdt71765311798.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/37wke41775741605.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-20T03:10:45.353Z"
+}
