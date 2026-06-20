@@ -70,6 +70,27 @@
       "team": "a",
       "player": "Wilfried Singo",
       "off": "Guéla Doué"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Yan Diomande",
+      "off": "Nicolas Pépé"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "Kai Havertz",
+      "off": "Leon Goretzka"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Deniz Undav",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -355,5 +376,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T21:55:38.024Z"
+  "updatedAt": "2026-06-20T22:01:02.448Z"
 }
