@@ -2,7 +2,196 @@
   "id": "2391748",
   "events": [],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Casemiro",
+          "num": 5,
+          "pos": "DF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ydr3j41766826524.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Danilo",
+          "num": 13,
+          "pos": "DF",
+          "club": "Flamengo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6hr4w81750454528.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+        },
+        {
+          "name": "Douglas Santos",
+          "num": 16,
+          "pos": "DF",
+          "club": "Zenit Saint Petersburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w5w8j71692197353.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pyxdjx1534866416.png"
+        },
+        {
+          "name": "Marquinhos",
+          "num": 4,
+          "pos": "DF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7x9gtl1766335348.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Vinícius Júnior",
+          "num": 7,
+          "pos": "FW",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ejuxsh1750271859.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Raphinha",
+          "num": 11,
+          "pos": "FW",
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w94spe1726510018.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "name": "Alisson Becker",
+          "num": 1,
+          "pos": "GK",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8amq961757087569.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Lucas Paquetá",
+          "num": 20,
+          "pos": "MF",
+          "club": "Flamengo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wz75kq1770378434.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+        },
+        {
+          "name": "Matheus Cunha",
+          "num": 9,
+          "pos": "FW",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/29x61e1762020281.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Bruno Guimarães",
+          "num": 8,
+          "pos": "DF",
+          "club": "Newcastle United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qr8gk01766824971.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+        },
+        {
+          "name": "Gabriel Magalhães",
+          "num": 3,
+          "pos": "DF",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/trz5x71769331076.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "7-1-2",
+      "xi": [
+        {
+          "name": "Johny Placide",
+          "num": 1,
+          "pos": "GK",
+          "club": "Bastia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v6gt5k1779018079.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mv09b91754278549.png"
+        },
+        {
+          "name": "Hannes Delcroix",
+          "num": 5,
+          "pos": "DF",
+          "club": "Lugano",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/if7dpw1757174383.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2kh2if1567615581.png"
+        },
+        {
+          "name": "Jean-Kevin Duverne",
+          "num": 22,
+          "pos": "DF",
+          "club": "Gent",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0h4tr61767536620.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/48e27o1750703124.png"
+        },
+        {
+          "name": "Jean-Ricner Bellegarde",
+          "num": 10,
+          "pos": "MF",
+          "club": "Wolverhampton Wanderers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i0niw51756975825.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+        },
+        {
+          "name": "Frantzdy Pierrot",
+          "num": 20,
+          "pos": "FW",
+          "club": "Rizespor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bh9xgn1779134027.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t7senr1657195719.png"
+        },
+        {
+          "name": "Carlens Arcus",
+          "num": 2,
+          "pos": "DF",
+          "club": "Angers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2e5idv1765913925.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png"
+        },
+        {
+          "name": "Ruben Providence",
+          "num": 15,
+          "pos": "FW",
+          "club": "Almere City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/meoa7o1728505560.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qhxtg31579206207.png"
+        },
+        {
+          "name": "Josué Casimir",
+          "num": 21,
+          "pos": "DF",
+          "club": "Auxerre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/646k801765920339.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png"
+        },
+        {
+          "name": "Danley Jean Jacques",
+          "num": 17,
+          "pos": "DF",
+          "club": "Philadelphia Union",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ms0fhw1778670096.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png"
+        },
+        {
+          "name": "Ricardo Adé",
+          "num": 4,
+          "pos": "DF",
+          "club": "LDU Quito",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v6ilf71779017873.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png"
+        },
+        {
+          "name": "Martin Expérience",
+          "num": 8,
+          "pos": "DF",
+          "club": "Nancy Lorraine",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/k0rxbd1779119711.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ve39pj1547899643.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -95,5 +284,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T02:45:41.829Z"
+  "updatedAt": "2026-06-20T03:20:41.998Z"
 }
