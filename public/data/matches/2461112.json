@@ -41,6 +41,48 @@
       "team": "h",
       "player": "Cody Gakpo",
       "assist": "Crysencio Summerville"
+    },
+    {
+      "minute": 55,
+      "type": "sub",
+      "team": "a",
+      "player": "Alexander Bernhardsson",
+      "off": "Anthony Elanga"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "a",
+      "player": "Jesper Karlström",
+      "off": "Besfort Zeneli"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "a",
+      "player": "Benjamin Nygren",
+      "off": "Lucas Bergvall"
+    },
+    {
+      "minute": 59,
+      "type": "goal",
+      "team": "a",
+      "player": "Anthony Elanga",
+      "assist": "Alexander Isak"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "Frenkie de Jong",
+      "off": "Teun Koopmeiners"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "h",
+      "player": "Tijjani Reijnders",
+      "off": "Guus Til"
     }
   ],
   "reds": {},
@@ -238,65 +280,65 @@
     "donuts": [
       [
         "xG",
-        1.04,
-        0.34
+        2.38,
+        0.57
       ],
       [
         "Držení %",
-        60,
-        40
+        55,
+        45
       ],
       [
         "Na branku",
-        4,
-        2
+        6,
+        4
       ],
       [
         "Přesnost %",
-        91,
+        90,
         85
       ],
       [
         "Rohy",
         1,
-        1
+        2
       ],
       [
         "Fauly",
-        4,
-        4
+        5,
+        6
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        5,
-        6
+        8,
+        11
       ],
       [
         "Střely mimo",
-        1,
-        3
+        2,
+        5
       ],
       [
         "Zblokované",
         0,
-        1
+        2
       ],
       [
         "Střely ve vápně",
-        4,
+        6,
         5
       ],
       [
         "Střely zvenku",
-        1,
-        1
+        2,
+        6
       ],
       [
         "Přihrávky",
-        245,
-        168
+        289,
+        233
       ],
       [
         "Ofsajdy",
@@ -305,18 +347,18 @@
       ],
       [
         "Přesné přihr.",
-        222,
-        142
+        260,
+        198
       ],
       [
         "Zákroky brankáře",
-        3,
+        4,
         2
       ],
       [
         "Žluté karty",
         0,
-        0
+        1
       ],
       [
         "Červené karty",
@@ -326,5 +368,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T18:20:41.886Z"
+  "updatedAt": "2026-06-20T18:30:57.981Z"
 }
