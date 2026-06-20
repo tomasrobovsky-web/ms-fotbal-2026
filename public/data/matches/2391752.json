@@ -7,6 +7,34 @@
       "team": "a",
       "player": "Franck Kessié",
       "assist": ""
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Nico Schlotterbeck",
+      "off": "Antonio Rüdiger"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "h",
+      "player": "Leroy Sané",
+      "off": "Jamie Leweling"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "h",
+      "player": "Jamal Musiala",
+      "off": "Deniz Undav"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "h",
+      "player": "Aleksandar Pavlović",
+      "off": "Nadiem Amiri"
     }
   ],
   "reds": {},
@@ -292,5 +320,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T20:55:42.029Z"
+  "updatedAt": "2026-06-20T21:30:57.270Z"
 }
