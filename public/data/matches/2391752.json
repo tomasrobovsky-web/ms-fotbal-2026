@@ -35,6 +35,13 @@
       "team": "h",
       "player": "Aleksandar Pavlović",
       "off": "Nadiem Amiri"
+    },
+    {
+      "minute": 68,
+      "type": "goal",
+      "team": "h",
+      "player": "Deniz Undav",
+      "assist": "Nadiem Amiri"
     }
   ],
   "reds": {},
@@ -320,5 +327,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T21:30:57.270Z"
+  "updatedAt": "2026-06-20T21:40:44.626Z"
 }
