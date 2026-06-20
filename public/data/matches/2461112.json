@@ -1,0 +1,198 @@
+{
+  "id": "2461112",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "3-4-3",
+      "xi": [
+        {
+          "name": "Virgil van Dijk",
+          "num": 4,
+          "pos": "DF",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9cxf2q1757087742.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Donyell Malen",
+          "num": 18,
+          "pos": "FW",
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t2xdih1777708654.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "name": "Cody Gakpo",
+          "num": 11,
+          "pos": "FW",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwkl5n1757088091.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Denzel Dumfries",
+          "num": 22,
+          "pos": "MF",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1hd7ox1759408866.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Frenkie de Jong",
+          "num": 21,
+          "pos": "MF",
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b8k6611726510284.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "num": 8,
+          "pos": "MF",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4f7y1o1757088226.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Tijjani Reijnders",
+          "num": 14,
+          "pos": "MF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/edgl5b1769182353.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Brian Brobbey",
+          "num": 19,
+          "pos": "FW",
+          "club": "Sunderland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q3qz441762198721.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+        },
+        {
+          "name": "Bart Verbruggen",
+          "num": 1,
+          "pos": "GK",
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5ak40b1756999759.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        },
+        {
+          "name": "Micky van de Ven",
+          "num": 15,
+          "pos": "DF",
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/o51n7v1757016843.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        },
+        {
+          "name": "Jan Paul van Hecke",
+          "num": 6,
+          "pos": "DF",
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/37rw1u1756994375.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-2-4",
+      "xi": [
+        {
+          "name": "Kristoffer Nordfeldt",
+          "num": 23,
+          "pos": "GK",
+          "club": "AIK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e9it0y1717528183.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png"
+        },
+        {
+          "name": "Victor Lindelöf",
+          "num": 3,
+          "pos": "DF",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/07mdel1756984093.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Alexander Isak",
+          "num": 9,
+          "pos": "FW",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3qj7z41757088281.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Gabriel Gudmundsson",
+          "num": 5,
+          "pos": "MF",
+          "club": "Leeds United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d1q18t1757075757.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        },
+        {
+          "name": "Viktor Gyökeres",
+          "num": 17,
+          "pos": "FW",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Benjamin Nygren",
+          "num": 10,
+          "pos": "FW",
+          "club": "Celtic",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ircami1777019328.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
+        },
+        {
+          "name": "Jesper Karlström",
+          "num": 16,
+          "pos": "DF",
+          "club": "Udinese",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r1owct1764172392.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png"
+        },
+        {
+          "name": "Isak Hien",
+          "num": 4,
+          "pos": "DF",
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ed5d0g1731837971.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+        },
+        {
+          "name": "Yasin Ayari",
+          "num": 18,
+          "pos": "MF",
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xah7d91756994132.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        },
+        {
+          "name": "Gustaf Lagerbielke",
+          "num": 2,
+          "pos": "DF",
+          "club": "Braga",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3sbqva1726607896.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png"
+        },
+        {
+          "name": "Alexander Bernhardsson",
+          "num": 21,
+          "pos": "FW",
+          "club": "Holstein Kiel",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7mbysc1773149991.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-20T17:01:03.142Z"
+}
