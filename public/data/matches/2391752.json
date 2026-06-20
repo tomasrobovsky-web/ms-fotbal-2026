@@ -1,0 +1,198 @@
+{
+  "id": "2391752",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Manuel Neuer",
+          "num": 1,
+          "pos": "GK",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/udq0so1756416089.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Jonathan Tah",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/y6c2pt1750491272.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Leroy Sané",
+          "num": 19,
+          "pos": "FW",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bqdwlt1769178212.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "num": 6,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oqb7rg1756408859.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "num": 15,
+          "pos": "DF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fw07jw1756326507.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Kai Havertz",
+          "num": 7,
+          "pos": "FW",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hem4r91694204364.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Florian Wirtz",
+          "num": 17,
+          "pos": "MF",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8t6bzo1757088899.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Jamal Musiala",
+          "num": 10,
+          "pos": "MF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vbkv611756416067.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Felix Nmecha",
+          "num": 23,
+          "pos": "MF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g7bqrz1756326448.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "num": 18,
+          "pos": "DF",
+          "club": "Eintracht Frankfurt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4a4ydy1762287286.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
+        },
+        {
+          "name": "Aleksandar Pavlović",
+          "num": 5,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/22ti3z1756408943.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Franck Kessié",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wcmpma1771663848.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+        },
+        {
+          "name": "Ghislain Konan",
+          "num": 3,
+          "pos": "DF",
+          "club": "Gil Vicente",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rj1ph21608638246.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png"
+        },
+        {
+          "name": "Wilfried Singo",
+          "num": 5,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zwfgmo1769177983.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Odilon Kossounou",
+          "num": 7,
+          "pos": "DF",
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/p876cf1764331393.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+        },
+        {
+          "name": "Ibrahim Sangaré",
+          "num": 18,
+          "pos": "DF",
+          "club": "Nottingham Forest",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qc7kcv1757163183.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+        },
+        {
+          "name": "Amad Diallo",
+          "num": 15,
+          "pos": "FW",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8p6wbg1766826668.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Emmanuel Agbadou",
+          "num": 20,
+          "pos": "DF",
+          "club": "Beşiktaş",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwlqq91756975538.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+        },
+        {
+          "name": "Yahia Fofana",
+          "num": 1,
+          "pos": "GK",
+          "club": "Rizespor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/np4wf61765835758.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t7senr1657195719.png"
+        },
+        {
+          "name": "Ange-Yoan Bonny",
+          "num": 9,
+          "pos": "FW",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d7uly91759408116.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Christ Inao Oulaï",
+          "num": 26,
+          "pos": "MF",
+          "club": "Trabzonspor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8x66ls1779129624.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png"
+        },
+        {
+          "name": "Yan Diomande",
+          "num": 11,
+          "pos": "FW",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zbzyn51763561086.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-20T20:01:06.365Z"
+}
