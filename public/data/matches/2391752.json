@@ -42,6 +42,34 @@
       "team": "h",
       "player": "Deniz Undav",
       "assist": "Nadiem Amiri"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Ange-Yoan Bonny",
+      "off": "Evann Guessand"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Ibrahim Sangaré",
+      "off": "Seko Fofana"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Amad Diallo",
+      "off": "Simon Adingra"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "a",
+      "player": "Wilfried Singo",
+      "off": "Guéla Doué"
     }
   ],
   "reds": {},
@@ -327,5 +355,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T21:45:48.399Z"
+  "updatedAt": "2026-06-20T21:50:47.514Z"
 }
