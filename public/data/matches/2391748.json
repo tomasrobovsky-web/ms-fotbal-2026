@@ -1,6 +1,122 @@
 {
   "id": "2391748",
-  "events": [],
+  "events": [
+    {
+      "minute": 4,
+      "type": "yellow",
+      "team": "a",
+      "player": "Carlens Arcus"
+    },
+    {
+      "minute": 23,
+      "type": "goal",
+      "team": "h",
+      "player": "Matheus Cunha",
+      "assist": ""
+    },
+    {
+      "minute": 36,
+      "type": "goal",
+      "team": "h",
+      "player": "Matheus Cunha",
+      "assist": "Vinícius Júnior"
+    },
+    {
+      "minute": 40,
+      "type": "sub",
+      "team": "h",
+      "player": "Raphinha",
+      "off": "Rayan"
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "h",
+      "player": "Vinícius Júnior",
+      "assist": "Lucas Paquetá"
+    },
+    {
+      "minute": 45,
+      "type": "yellow",
+      "team": "a",
+      "player": "Frantzdy Pierrot"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Carlens Arcus",
+      "off": "Dominique Simon"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Frantzdy Pierrot",
+      "off": "Wilson Isidor"
+    },
+    {
+      "minute": 62,
+      "type": "sub",
+      "team": "a",
+      "player": "Josué Casimir",
+      "off": "Louicius Deedson"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Lucas Paquetá",
+      "off": "Gabriel Martinelli"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Matheus Cunha",
+      "off": "Endrick"
+    },
+    {
+      "minute": 65,
+      "type": "yellow",
+      "team": "h",
+      "player": "Douglas Santos"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "a",
+      "player": "Ruben Providence",
+      "off": "Lenny Joseph"
+    },
+    {
+      "minute": 72,
+      "type": "yellow",
+      "team": "a",
+      "player": "Danley Jean Jacques"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "h",
+      "player": "Vinícius Júnior",
+      "off": "Danilo Santos"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "h",
+      "player": "Bruno Guimarães",
+      "off": "Éderson"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "a",
+      "player": "Jean-Ricner Bellegarde",
+      "off": "Derrick Etienne Jr."
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +400,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-20T03:20:41.998Z"
+  "updatedAt": "2026-06-20T03:25:37.310Z"
 }
