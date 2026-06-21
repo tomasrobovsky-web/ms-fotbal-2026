@@ -1,6 +1,26 @@
 {
   "id": "2391757",
-  "events": [],
+  "events": [
+    {
+      "minute": 5,
+      "type": "yellow",
+      "team": "a",
+      "player": "Sidny Lopes Cabral"
+    },
+    {
+      "minute": 20,
+      "type": "yellow",
+      "team": "h",
+      "player": "Rodrigo Bentancur"
+    },
+    {
+      "minute": 21,
+      "type": "goal",
+      "team": "a",
+      "player": "Kevin Pina",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +304,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T22:10:42.189Z"
+  "updatedAt": "2026-06-21T22:35:36.703Z"
 }
