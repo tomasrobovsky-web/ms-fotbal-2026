@@ -102,7 +102,196 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Enner Valencia",
+          "num": 13,
+          "pos": "FW",
+          "club": "Pachuca",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gplbd81668544491.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/k9duyw1747334895.png"
+        },
+        {
+          "name": "Pervis Estupiñán",
+          "num": 7,
+          "pos": "DF",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qc2kib1758892363.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "John Yeboah",
+          "num": 9,
+          "pos": "FW",
+          "club": "Venezia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2qvbyn1780328386.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png"
+        },
+        {
+          "name": "Moisés Caicedo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u3feyy1757002398.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        },
+        {
+          "name": "Piero Hincapié",
+          "num": 3,
+          "pos": "DF",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7dltx01769330396.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Alan Franco",
+          "num": 21,
+          "pos": "MF",
+          "club": "Atlético Mineiro",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d4dtcf1763755226.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+        },
+        {
+          "name": "Hernán Galíndez",
+          "num": 1,
+          "pos": "GK",
+          "club": "Huracán",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i7jwvi1763739794.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png"
+        },
+        {
+          "name": "Gonzalo Plata",
+          "num": 19,
+          "pos": "FW",
+          "club": "Flamengo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/sdclx01751003063.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+        },
+        {
+          "name": "Jordy Alcívar",
+          "num": 5,
+          "pos": "DF",
+          "club": "Independiente del Valle",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fsndo51647078998.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png"
+        },
+        {
+          "name": "Pedro Vite",
+          "num": 15,
+          "pos": "MF",
+          "club": "Pumas UNAM",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vnl09k1780328438.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png"
+        },
+        {
+          "name": "Willian Pacho",
+          "num": 6,
+          "pos": "DF",
+          "club": "Paris Saint-Germain",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/73q3q11766335492.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "7-2-1",
+      "xi": [
+        {
+          "name": "Leandro Bacuna",
+          "num": 10,
+          "pos": "DF",
+          "club": "Iğdır",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/13dolh1726605947.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/cj9ztt1690541191.png"
+        },
+        {
+          "name": "Eloy Room",
+          "num": 1,
+          "pos": "GK",
+          "club": "Miami FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fjxh0b1701724194.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ow77dj1595154153.png"
+        },
+        {
+          "name": "Tahith Chong",
+          "num": 21,
+          "pos": "MF",
+          "club": "Luton Town",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/alb46x1761393148.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png"
+        },
+        {
+          "name": "Sherel Floranus",
+          "num": 5,
+          "pos": "DF",
+          "club": "PEC Zwolle",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vrx5961764539015.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png"
+        },
+        {
+          "name": "Juninho Bacuna",
+          "num": 7,
+          "pos": "MF",
+          "club": "Gaziantep",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j801h91694549422.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/54j6ik1579458093.png"
+        },
+        {
+          "name": "Armando Obispo",
+          "num": 18,
+          "pos": "DF",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ja4e471764595048.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Jürgen Locadia",
+          "num": 9,
+          "pos": "FW",
+          "club": "Miami FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bs893t1779193862.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ow77dj1595154153.png"
+        },
+        {
+          "name": "Joshua Brenet",
+          "num": 20,
+          "pos": "DF",
+          "club": "Kayserispor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1y8jlw1700398527.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bvskgi1601668985.png"
+        },
+        {
+          "name": "Juriën Gaari",
+          "num": 3,
+          "pos": "DF",
+          "club": "Abha",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zug9lu1701203378.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/e00pwe1677530619.png"
+        },
+        {
+          "name": "Livano Comenencia",
+          "num": 8,
+          "pos": "DF",
+          "club": "Zürich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/psqavr1779193387.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/af50gk1779213314.png"
+        },
+        {
+          "name": "Deveron Fonville",
+          "num": 24,
+          "pos": "DF",
+          "club": "NEC Nijmegen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hw2j9p1764536584.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -195,5 +384,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T07:40:41.047Z"
+  "updatedAt": "2026-06-21T07:45:52.867Z"
 }
