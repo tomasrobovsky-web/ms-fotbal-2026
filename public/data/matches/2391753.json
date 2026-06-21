@@ -1,6 +1,105 @@
 {
   "id": "2391753",
-  "events": [],
+  "events": [
+    {
+      "minute": 4,
+      "type": "goal",
+      "team": "a",
+      "player": "Daichi Kamada",
+      "assist": "Keito Nakamura"
+    },
+    {
+      "minute": 31,
+      "type": "goal",
+      "team": "a",
+      "player": "Ayase Ueda",
+      "assist": "Kō Itakura"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Elias Saad",
+      "off": "Ismaël Gharbi"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Dylan Bronn",
+      "off": "Mohamed Amine Ben Hamida"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "h",
+      "player": "Sebastian Tounekti",
+      "off": "Firas Chaouat"
+    },
+    {
+      "minute": 69,
+      "type": "goal",
+      "team": "a",
+      "player": "Junya Itō",
+      "assist": "Ayase Ueda"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Daichi Kamada",
+      "off": "Junnosuke Suzuki"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "a",
+      "player": "Ritsu Dōan",
+      "off": "Yukinari Sugawara"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "a",
+      "player": "Keito Nakamura",
+      "off": "Yuito Suzuki"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "a",
+      "player": "Takehiro Tomiyasu",
+      "off": "Ayumu Seko"
+    },
+    {
+      "minute": 83,
+      "type": "goal",
+      "team": "a",
+      "player": "Ayase Ueda",
+      "assist": "Kaishū Sano"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "a",
+      "player": "Ayase Ueda",
+      "off": "Keisuke Gotō"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Ali Abdi",
+      "off": "Elias Achouri"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Ellyes Skhiri",
+      "off": "Rani Khedira"
+    }
+  ],
   "reds": {},
   "lineups": null,
   "stats": {
@@ -95,5 +194,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T06:10:43.312Z"
+  "updatedAt": "2026-06-21T12:05:42.216Z"
 }
