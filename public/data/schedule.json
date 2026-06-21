@@ -643,9 +643,9 @@
     "timeUtc": "04:00:00",
     "venue": "Estadio BBVA",
     "round": 2,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "2391754",
