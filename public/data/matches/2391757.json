@@ -19,6 +19,54 @@
       "team": "a",
       "player": "Kevin Pina",
       "assist": ""
+    },
+    {
+      "minute": 44,
+      "type": "goal",
+      "team": "h",
+      "player": "Maximiliano Araújo",
+      "assist": ""
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "h",
+      "player": "Agustín Canobbio",
+      "assist": "Maximiliano Araújo"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Telmo Arcanjo",
+      "off": "Deroy Duarte"
+    },
+    {
+      "minute": 58,
+      "type": "yellow",
+      "team": "h",
+      "player": "Mathías Olivera"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "a",
+      "player": "Benchimol",
+      "off": "Nuno da Costa"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "a",
+      "player": "Garry Rodrigues",
+      "off": "Hélio Varela"
+    },
+    {
+      "minute": 61,
+      "type": "goal",
+      "team": "a",
+      "player": "Hélio Varela",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -304,5 +352,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T23:01:04.581Z"
+  "updatedAt": "2026-06-21T23:35:36.249Z"
 }
