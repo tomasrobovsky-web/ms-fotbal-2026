@@ -96,6 +96,13 @@
       "team": "h",
       "player": "Álex Baena",
       "off": "Nico Williams"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Pedri",
+      "off": "Fabián Ruiz"
     }
   ],
   "reds": {},
@@ -381,5 +388,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T17:35:35.632Z"
+  "updatedAt": "2026-06-21T17:45:44.085Z"
 }
