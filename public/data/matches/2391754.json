@@ -13,9 +13,65 @@
       "team": "a",
       "player": "Mehdi Taremi",
       "assist": ""
+    },
+    {
+      "minute": 33,
+      "type": "yellow",
+      "team": "a",
+      "player": "Saeid Ezatolahi"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Saleh Hardani",
+      "off": "Alireza Jahanbakhsh"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "h",
+      "player": "Thomas Meunier",
+      "off": "Timothy Castagne"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "h",
+      "player": "Nicolas Raskin",
+      "off": "Hans Vanaken"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "h",
+      "player": "Alexis Saelemaekers",
+      "off": "Dodi Lukébakio"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "a",
+      "player": "Ehsan Hajsafi",
+      "off": "Milad Mohammadi"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "a",
+      "player": "Mohammad Mohebi",
+      "off": "Mehdi Torabi"
+    },
+    {
+      "minute": 66,
+      "type": "red",
+      "team": "h",
+      "player": "Nathan Ngoy"
     }
   ],
-  "reds": {},
+  "reds": {
+    "h": true
+  },
   "lineups": {
     "home": {
       "form": "5-3-2",
@@ -298,5 +354,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T20:01:05.726Z"
+  "updatedAt": "2026-06-21T20:35:37.503Z"
 }
