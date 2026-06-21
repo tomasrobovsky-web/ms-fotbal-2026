@@ -1,6 +1,106 @@
 {
   "id": "2391751",
-  "events": [],
+  "events": [
+    {
+      "minute": 38,
+      "type": "yellow",
+      "team": "h",
+      "player": "Jordy Alcívar"
+    },
+    {
+      "minute": 39,
+      "type": "yellow",
+      "team": "a",
+      "player": "Leandro Bacuna"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Jordy Alcívar",
+      "off": "Kevin Rodríguez"
+    },
+    {
+      "minute": 53,
+      "type": "yellow",
+      "team": "a",
+      "player": "Juninho Bacuna"
+    },
+    {
+      "minute": 56,
+      "type": "yellow",
+      "team": "a",
+      "player": "Livano Comenencia"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Pervis Estupiñán",
+      "off": "Nilson Angulo"
+    },
+    {
+      "minute": 75,
+      "type": "yellow",
+      "team": "a",
+      "player": "Juriën Gaari"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Juninho Bacuna",
+      "off": "Kenji Gorré"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Deveron Fonville",
+      "off": "Roshon van Eijma"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Tahith Chong",
+      "off": "Jearl Margaritha"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Alan Franco",
+      "off": "Angelo Preciado Quiñónez"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Jürgen Locadia",
+      "off": "Gervane Kastaneer"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "a",
+      "player": "Livano Comenencia",
+      "off": "Godfried Roemeratoe"
+    },
+    {
+      "minute": 89,
+      "type": "sub",
+      "team": "h",
+      "player": "John Yeboah",
+      "off": "Jordy Caicedo"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "a",
+      "player": "Gervane Kastaneer"
+    }
+  ],
   "reds": {},
   "lineups": null,
   "stats": {
@@ -23,11 +123,11 @@
       [
         "Přesnost %",
         90,
-        70
+        69
       ],
       [
         "Rohy",
-        8,
+        9,
         0
       ],
       [
@@ -64,8 +164,8 @@
       ],
       [
         "Přihrávky",
-        633,
-        220
+        641,
+        223
       ],
       [
         "Ofsajdy",
@@ -74,7 +174,7 @@
       ],
       [
         "Přesné přihr.",
-        571,
+        577,
         154
       ],
       [
@@ -95,5 +195,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T02:10:39.460Z"
+  "updatedAt": "2026-06-21T07:40:41.047Z"
 }
