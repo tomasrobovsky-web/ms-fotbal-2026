@@ -1,0 +1,198 @@
+{
+  "id": "2391757",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Guillermo Varela",
+          "num": 13,
+          "pos": "DF",
+          "club": "Flamengo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qpcwtj1750919188.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+        },
+        {
+          "name": "Fernando Muslera",
+          "num": 23,
+          "pos": "GK",
+          "club": "Estudiantes de La Plata",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/orawu51724929691.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+        },
+        {
+          "name": "Rodrigo Bentancur",
+          "num": 6,
+          "pos": "DF",
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qfrqcq1757016565.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        },
+        {
+          "name": "Federico Valverde",
+          "num": 8,
+          "pos": "MF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5249151768499204.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Mathías Olivera",
+          "num": 16,
+          "pos": "DF",
+          "club": "Napoli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b0ju3e1764089662.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+        },
+        {
+          "name": "Manuel Ugarte",
+          "num": 5,
+          "pos": "DF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/35xg041766826974.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Agustín Canobbio",
+          "num": 14,
+          "pos": "FW",
+          "club": "Fluminense",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qgh8yj1767539679.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png"
+        },
+        {
+          "name": "Sebastián Cáceres",
+          "num": 3,
+          "pos": "DF",
+          "club": "América",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q6rtb21750326812.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png"
+        },
+        {
+          "name": "Maximiliano Araújo",
+          "num": 20,
+          "pos": "FW",
+          "club": "Sporting CP",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3u12tv1762290711.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ohj6ih1628855978.png"
+        },
+        {
+          "name": "Federico Viñas",
+          "num": 21,
+          "pos": "FW",
+          "club": "Real Oviedo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j83sru1762199495.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png"
+        },
+        {
+          "name": "Juan Manuel Sanabria",
+          "num": 25,
+          "pos": "DF",
+          "club": "Real Salt Lake",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6zuxpk1775332854.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kkjlfa1556488022.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-1-4",
+      "xi": [
+        {
+          "name": "Steven Moreira",
+          "num": 22,
+          "pos": "DF",
+          "club": "Columbus Crew",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2mxyy11766428190.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png"
+        },
+        {
+          "name": "Jamiro Monteiro",
+          "num": 10,
+          "pos": "MF",
+          "club": "PEC Zwolle",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2uh5az1764539734.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png"
+        },
+        {
+          "name": "Telmo Arcanjo",
+          "num": 18,
+          "pos": "FW",
+          "club": "Vitória de Guimarães",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r671mi1779192802.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/af52z61628855707.png"
+        },
+        {
+          "name": "Garry Rodrigues",
+          "num": 11,
+          "pos": "FW",
+          "club": "Apollon Limassol",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a5dkph1669547130.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/17nj4k1511608842.png"
+        },
+        {
+          "name": "Kevin Pina",
+          "num": 6,
+          "pos": "DF",
+          "club": "Krasnodar",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/utdzem1705487819.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/srxryu1473452272.png"
+        },
+        {
+          "name": "Benchimol",
+          "num": 9,
+          "pos": "FW",
+          "club": "Akron Tolyatti",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9b75b21779193029.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bjwmoi1683738446.png"
+        },
+        {
+          "name": "Ryan Mendes",
+          "num": 20,
+          "pos": "FW",
+          "club": "Kocaelispor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/owa7n21705487718.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/f6erki1626445224.png"
+        },
+        {
+          "name": "Vozinha",
+          "num": 1,
+          "pos": "GK",
+          "club": "_Free Agent Soccer",
+          "photo": "https://www.thesportsdb.com/images/media/player/cutout/2n8loj1781913909.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/36mhgu1570297397.png"
+        },
+        {
+          "name": "Pico",
+          "num": 4,
+          "pos": "DF",
+          "club": "Shamrock Rovers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/73sp9f1705487377.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u1zowj1491504381.png"
+        },
+        {
+          "name": "Diney",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al Bataeh",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kh64f51779202283.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/7zftaj1718211067.png"
+        },
+        {
+          "name": "Sidny Lopes Cabral",
+          "num": 13,
+          "pos": "DF",
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cci2o11779193731.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-21T22:05:45.264Z"
+}
