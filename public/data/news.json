@@ -10,7 +10,7 @@
   },
   {
     "id": "n1btmctj",
-    "title": "Tunisko ani s novým trenérem neuspělo. Třeba zase přemýšlí o odvolání, rýpl si expert",
+    "title": "Tunisku nepomohl ani nový trenér. Třeba zase přemýšlí o odvolání, rýpl si expert",
     "description": "Nové koště dobře mete? Ne vždy to musí být pravda. Starým známým pořekadlem se zkusili inspirovat v Tunisku, kde po prvním neúspěšném zápase na fotbalovém mistrovství světa vyměnili trenéra. Ani s novým koučem ale nepřišlo zlepšení a africký celek po další drtivé porážce, tentokrát s Japonskem (0:4), na šampionátu s jistotou končí.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-tunisko-ani-s-novym-trenerem-neuspelo-treba-zase-premysli-o-odvolani-rypl-si-expert-5485508",
     "source": "Sport.cz",
@@ -297,15 +297,6 @@
     "publishedAt": "2026-06-20T17:47:00.000Z"
   },
   {
-    "id": "n1nvf4o6",
-    "title": "Kritika z Česka? Noviny nečtu, brání se Suchopárek. Promluvil o problémech národního týmu",
-    "description": "Zklamání z remízy 1:1 s Jihoafrickou republikou stále minimálně z části přetrvává. „Cítíme, že zápas jsme měli dotáhnout do vítězného konce,“ přiznává s odstupem asistent fotbalové reprezentace Jan Suchopárek. Aby Češi na MS 2026 postoupili ze skupiny, musí v posledním klání s Mexikem ideálně vyhrát.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-zkuste-si-dvakrat-prebehnout-hriste-kritika-z-ceska-noviny-nectu-a-socialni-site-nemam-rika-suchoparek-5484933",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-20T17:38:38.000Z"
-  },
-  {
     "id": "n2c4xcw",
     "title": "Když taháme nohy teď, co budeme dělat tam? Otázky na českou únavu se množí",
     "description": "Výkon českého výběru v utkání proti Jihoafrické republice i ohlasy některých hráčů rozpoutaly debatu, zda je tým na zápasy MS dostatečně fyzicky připravený. Hráči působili v Atlantě unaveně, navíc jejich závěrečný duel ve skupině se bude hrát ve vysoké nadmořské výšce v Mexico City. Tématu se věnovali experti ČT Karel Poborský a Michal Kadlec.",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/2ugYLTwf-ChfxfFZb.jpg",
     "publishedAt": "2026-06-20T14:49:00.000Z"
+  },
+  {
+    "id": "n1gc3is7",
+    "title": "Už bude k dispozici. Ancelotti potvrdil uzdravení Neymara, vrásky mu dělá Raphinha",
+    "description": "Útočník Neymar by mohl po zranění zasáhnout do posledního zápasu reprezentantů Brazílie ve skupině C na mistrovství světa. Trenér Carlo Ancelotti po výhře 3:0 nad Haiti uvedl, že na středeční utkání proti Skotsku bude čtyřiatřicetiletý kanonýr k dispozici.",
+    "url": "https://www.eurofotbal.cz/clanky/uz-bude-k-dispozici-ancelotti-potvrdil-uzdraveni-neymara-vrasky-mu-dela-raphinha-829755/",
+    "source": "Eurofotbal",
+    "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/hIkPRBoK-raNfTesR.jpg",
+    "publishedAt": "2026-06-20T14:13:00.000Z"
   }
 ]
