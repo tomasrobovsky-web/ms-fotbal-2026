@@ -1,6 +1,14 @@
 {
   "id": "2391756",
-  "events": [],
+  "events": [
+    {
+      "minute": 11,
+      "type": "goal",
+      "team": "h",
+      "player": "Lamine Yamal",
+      "assist": "Mikel Oyarzabal"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -194,5 +202,5 @@
   },
   "stats": null,
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T16:05:37.592Z"
+  "updatedAt": "2026-06-21T16:15:43.894Z"
 }
