@@ -103,6 +103,20 @@
       "team": "h",
       "player": "Pedri",
       "off": "Fabián Ruiz"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "a",
+      "player": "Nasser Al-Dawsari",
+      "off": "Khalid Al-Ghannam"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Ferran Torres",
+      "assist": "Pedro Porro"
     }
   ],
   "reds": {},
@@ -388,5 +402,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T18:01:08.132Z"
+  "updatedAt": "2026-06-21T18:05:40.677Z"
 }
