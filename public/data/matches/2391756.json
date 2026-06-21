@@ -13,7 +13,14 @@
       "type": "goal",
       "team": "h",
       "player": "Mikel Oyarzabal",
-      "assist": ""
+      "assist": "Aymeric Laporte"
+    },
+    {
+      "minute": 24,
+      "type": "goal",
+      "team": "h",
+      "player": "Mikel Oyarzabal",
+      "assist": "Dani Olmo"
     }
   ],
   "reds": {},
@@ -299,5 +306,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T16:30:54.070Z"
+  "updatedAt": "2026-06-21T16:35:39.907Z"
 }
