@@ -21,6 +21,12 @@
       "team": "h",
       "player": "Mikel Oyarzabal",
       "assist": "Dani Olmo"
+    },
+    {
+      "minute": 30,
+      "type": "yellow",
+      "team": "a",
+      "player": "Salem Al-Dawsari"
     }
   ],
   "reds": {},
@@ -306,5 +312,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T16:35:39.907Z"
+  "updatedAt": "2026-06-21T16:45:42.947Z"
 }
