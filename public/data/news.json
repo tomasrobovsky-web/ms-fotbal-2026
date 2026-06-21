@@ -342,15 +342,6 @@
     "publishedAt": "2026-06-20T16:25:00.000Z"
   },
   {
-    "id": "n1wtqb7j",
-    "title": "Obrovská senzace na MS. Outsider z Karibiku slaví bod!",
-    "description": "Další velké překvapení na mistrovství světa ve fotbale, Curacao slaví zisk bodu za remízu 0:0 s Ekvádorem a může snít o postupu ze skupiny. Jednoznačně může opěvovat brankáře Eloye Rooma, který předvedl řadu skvělých zákroků. Pro jihoamerického favorita jde o velkou komplikaci, stejně jako Curacao zůstává po dvou zápasech na šampionátu s jedním bodem na kontě.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-ekvador-se-na-ms-stretne-s-nadsenym-novackem-5484844",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-20T16:00:00.000Z"
-  },
-  {
     "id": "n1lccgmv",
     "title": "Brazílie našla nového hrdinu. Může odnést Cunhovo galapředstavení Neymar?",
     "description": "V úvodním zápase Brazilců na mistrovství světa se Matheus Cunha nedostal do základní sestavy, druhé utkání s Haiti rozhodl dvěma góly. Sedmadvacetiletý útočník Manchesteru United se po závěrečném hvizdu usmíval od ucha k uchu a svým blízkým na tribuně posílal polibky a srdíčka.",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/jcRHNk9s-bmTfLsY8.jpg",
     "publishedAt": "2026-06-20T15:55:00.000Z"
+  },
+  {
+    "id": "nvedk35",
+    "title": "Skotové vypili Boston, Mexiko se bojí kolapsu. Úřady chtějí stopnout prodej piva",
+    "description": "Vláda mexické metropole v pátek oznámila, že zvažuje omezení prodeje alkoholu na veřejných prostranstvích poté, co se v centru města shromáždilo přes 700.000 lidí, aby oslavili postup reprezentace do vyřazovací části mistrovství světa. Mexiko se v noci ze středy na čtvrtek středoevropského času utká na Aztéckém stadionu v hlavním městě s Českem.",
+    "url": "https://www.eurofotbal.cz/clanky/skotove-vypili-boston-mexiko-se-boji-kolapsu-urady-chteji-stopnout-prodej-piva-829773/",
+    "source": "Eurofotbal",
+    "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/2ugYLTwf-ChfxfFZb.jpg",
+    "publishedAt": "2026-06-20T14:49:00.000Z"
   }
 ]
