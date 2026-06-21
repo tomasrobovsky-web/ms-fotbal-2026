@@ -661,9 +661,9 @@
     "timeUtc": "19:00:00",
     "venue": "SoFi Stadium",
     "round": 2,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391756",
