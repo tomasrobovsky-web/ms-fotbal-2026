@@ -27,6 +27,41 @@
       "type": "yellow",
       "team": "a",
       "player": "Salem Al-Dawsari"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Lamine Yamal",
+      "off": "Yéremy Pino"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Mikel Oyarzabal",
+      "off": "Ferran Torres"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Abdullah Al-Khaibari",
+      "off": "Mohamed Kanno"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Musab Al-Juwayr",
+      "off": "Abdullah Al-Hamdan"
+    },
+    {
+      "minute": 49,
+      "type": "goal",
+      "team": "h",
+      "player": "Hassan Al-Tambakti",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -312,5 +347,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-21T17:01:04.387Z"
+  "updatedAt": "2026-06-21T17:15:47.735Z"
 }
