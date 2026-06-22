@@ -225,15 +225,6 @@
     "publishedAt": "2026-06-22T02:50:00.000Z"
   },
   {
-    "id": "nia26v",
-    "title": "Hororové chyby! Trpaslík z Kapverd trestal minely jako z pralesa",
-    "description": "Obří euforie na straně jedné, mrzení na té druhé. Outsider z Kapverd si coby odměnu za další nebojácný výkon vybral remízu 2:2 s Uruguayí, po Španělsku obral o body i druhého favorita skupiny G na fotbalovém mistrovství světa. Oba góly přitom Kapverďané vstřelili po minelách, které na elitním turnaji vidíme zřídka.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-hororove-chyby-trpaslik-z-kapverd-trestal-minely-jako-z-pralesa-5486765",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-22T00:46:03.000Z"
-  },
-  {
     "id": "n1e5932m",
     "title": "Soutěž k MS ve fotbale – 22. června",
     "description": "Máte rádi FOTBAL a chcete si ještě zasoutěžit? Odpovězte správně na uvedenou otázku a vyhrajte.",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/00Cvcdc3-tfRdlhP9.jpg",
     "publishedAt": "2026-06-21T08:48:00.000Z"
+  },
+  {
+    "id": "n18jk3ak",
+    "title": "Dostal sedmičku od Němců, teď 15 zákroky zazdil Ekvádor. Room dovedl Curacao k historické remíze",
+    "description": "Chytá jen druhou americkou ligu a v 37 letech pomalu pomýšlí na závěr kariéry. Ale v utkání s Ekvádorem na mistrovství světa v Kansas City se postaral o senzaci. Brankář Eloy Room zmařil všechny soupeřovy střelecké pokusy a měl rozhodující podíl na tom, že Curacao získalo první bod. Jeho instagramový účet měl už hodinu po zápase na 700 tisíc sledujících, sedmkrát víc než před ním.",
+    "url": "https://www.eurofotbal.cz/clanky/dostal-sedmicku-od-nemcu-ted-15-zakroky-zazdil-ekvador-room-dovedl-curacao-k-historicke-remize-829873/",
+    "source": "Eurofotbal",
+    "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/fF7FZEzp-4v9WgeD7.jpg",
+    "publishedAt": "2026-06-21T08:42:00.000Z"
   }
 ]
