@@ -62,6 +62,59 @@
       "team": "a",
       "player": "Paul Wanner",
       "off": "Marko Arnautović"
+    },
+    {
+      "minute": 76,
+      "type": "yellow",
+      "team": "h",
+      "player": "Facundo Medina"
+    },
+    {
+      "minute": 76,
+      "type": "yellow",
+      "team": "a",
+      "player": "Konrad Laimer"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "a",
+      "player": "Romano Schmid",
+      "off": "Patrick Wimmer"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "h",
+      "player": "Rodrigo de Paul",
+      "off": "Leandro Paredes"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "h",
+      "player": "Facundo Medina",
+      "off": "Nicolás Tagliafico"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Michael Gregoritsch",
+      "off": "Carney Chukwuemeka"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "h",
+      "player": "Leandro Paredes"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Lionel Messi",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -347,5 +400,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T18:45:53.305Z"
+  "updatedAt": "2026-06-22T19:01:09.910Z"
 }
