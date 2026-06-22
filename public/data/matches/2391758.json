@@ -14,6 +14,12 @@
       "team": "h",
       "player": "Lionel Messi",
       "assist": "Facundo Medina"
+    },
+    {
+      "minute": 40,
+      "type": "yellow",
+      "team": "a",
+      "player": "Stefan Posch"
     }
   ],
   "reds": {},
@@ -299,5 +305,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T17:50:45.017Z"
+  "updatedAt": "2026-06-22T17:55:40.696Z"
 }
