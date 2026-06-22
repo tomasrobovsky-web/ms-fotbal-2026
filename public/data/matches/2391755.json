@@ -1,6 +1,46 @@
 {
   "id": "2391755",
-  "events": [],
+  "events": [
+    {
+      "minute": 15,
+      "type": "goal",
+      "team": "h",
+      "player": "Finn Surman",
+      "assist": "Tim Payne"
+    },
+    {
+      "minute": 17,
+      "type": "yellow",
+      "team": "a",
+      "player": "Mohanad Lasheen"
+    },
+    {
+      "minute": 20,
+      "type": "yellow",
+      "team": "h",
+      "player": "Sarpreet Singh"
+    },
+    {
+      "minute": 34,
+      "type": "yellow",
+      "team": "h",
+      "player": "Callum McCowatt"
+    },
+    {
+      "minute": 41,
+      "type": "sub",
+      "team": "a",
+      "player": "Hamdy Fathy",
+      "off": "Ramy Rabia"
+    },
+    {
+      "minute": 58,
+      "type": "goal",
+      "team": "a",
+      "player": "Mostafa Ziko",
+      "assist": "Mohamed Hany"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +324,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T02:30:53.483Z"
+  "updatedAt": "2026-06-22T02:35:36.461Z"
 }
