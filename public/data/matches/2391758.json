@@ -27,6 +27,41 @@
       "team": "h",
       "player": "Cristian Romero",
       "off": "Nicolás Otamendi"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Thiago Almada",
+      "off": "Julián Álvarez"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "h",
+      "player": "Lautaro Martínez",
+      "off": "Nicolás González"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "David Alaba",
+      "off": "Marco Friedl"
+    },
+    {
+      "minute": 68,
+      "type": "sub",
+      "team": "a",
+      "player": "Stefan Posch",
+      "off": "Alexander Prass"
+    },
+    {
+      "minute": 68,
+      "type": "sub",
+      "team": "a",
+      "player": "Paul Wanner",
+      "off": "Marko Arnautović"
     }
   ],
   "reds": {},
@@ -312,5 +347,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T18:40:49.873Z"
+  "updatedAt": "2026-06-22T18:45:53.305Z"
 }
