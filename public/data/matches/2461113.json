@@ -1,0 +1,198 @@
+{
+  "id": "2461113",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-2-4",
+      "xi": [
+        {
+          "name": "Mike Maignan",
+          "num": 16,
+          "pos": "GK",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/sw5ukh1758892671.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Lucas Digne",
+          "num": 3,
+          "pos": "DF",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ywg68z1756984819.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Adrien Rabiot",
+          "num": 14,
+          "pos": "MF",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m2upnx1758893486.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "num": 7,
+          "pos": "FW",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "num": 10,
+          "pos": "FW",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Dayot Upamecano",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a1hyfj1756416177.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Jules Koundé",
+          "num": 5,
+          "pos": "DF",
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "name": "William Saliba",
+          "num": 17,
+          "pos": "DF",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/czasy21769331889.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Michael Olise",
+          "num": 11,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Manu Koné",
+          "num": 6,
+          "pos": "MF",
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "name": "Bradley Barcola",
+          "num": 12,
+          "pos": "FW",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/l2v71f1766334537.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-2-2",
+      "xi": [
+        {
+          "name": "Hussein Ali",
+          "num": 3,
+          "pos": "DF",
+          "club": "Pogoń Szczecin",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/35b2qb1728931694.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png"
+        },
+        {
+          "name": "Zidane Iqbal",
+          "num": 14,
+          "pos": "MF",
+          "club": "Jong Utrecht",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m60b8d1723059508.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lmhej21625167088.png"
+        },
+        {
+          "name": "Amir Al-Ammari",
+          "num": 16,
+          "pos": "DF",
+          "club": "Cracovia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z2j9fm1718053097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png"
+        },
+        {
+          "name": "Ahmed Qasem",
+          "num": 11,
+          "pos": "FW",
+          "club": "Nashville SC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qn3lv21766742386.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png"
+        },
+        {
+          "name": "Merchas Doski",
+          "num": 23,
+          "pos": "DF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t79mso1780581036.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        },
+        {
+          "name": "Aymen Hussein",
+          "num": 18,
+          "pos": "FW",
+          "club": "Al-Karma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/n741p41780581152.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ket79n1727194865.png"
+        },
+        {
+          "name": "Ibrahim Bayesh",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al-Dhahra",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qbwn6o1780580871.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t3dhn31769895462.png"
+        },
+        {
+          "name": "Ahmed Basil",
+          "num": 22,
+          "pos": "GK",
+          "club": "Al-Shorta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/459ct11780580845.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jqu43e1580935653.png"
+        },
+        {
+          "name": "Akam Hashem",
+          "num": 5,
+          "pos": "DF",
+          "club": "Al-Zawraa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/99t8vz1780581097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+        },
+        {
+          "name": "Zaid Tahseen",
+          "num": 4,
+          "pos": "DF",
+          "club": "Pakhtakor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x20cct1780589161.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9leeml1675712410.png"
+        },
+        {
+          "name": "Zaid Ismail",
+          "num": 24,
+          "pos": "DF",
+          "club": "Al-Talaba",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/f6jkgp1780581192.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m1hs731624721375.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-22T21:05:49.299Z"
+}
