@@ -7,6 +7,13 @@
       "team": "h",
       "player": "Lionel Messi",
       "assist": "Lionel Messi"
+    },
+    {
+      "minute": 38,
+      "type": "goal",
+      "team": "h",
+      "player": "Lionel Messi",
+      "assist": "Facundo Medina"
     }
   ],
   "reds": {},
@@ -292,5 +299,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T17:40:50.989Z"
+  "updatedAt": "2026-06-22T17:45:46.994Z"
 }
