@@ -1,0 +1,198 @@
+{
+  "id": "2391758",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-4-2",
+      "xi": [
+        {
+          "name": "Emiliano Martinez",
+          "num": 23,
+          "pos": "GK",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Lionel Messi",
+          "num": 10,
+          "pos": "FW",
+          "club": "Inter Miami",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/e0i2051750317027.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        },
+        {
+          "name": "Rodrigo de Paul",
+          "num": 7,
+          "pos": "MF",
+          "club": "Inter Miami",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/n7z5lr1773999437.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        },
+        {
+          "name": "Cristian Romero",
+          "num": 13,
+          "pos": "DF",
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dme7x81757016317.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "num": 22,
+          "pos": "FW",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Lisandro Martínez",
+          "num": 6,
+          "pos": "DF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mqcogi1766826879.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "num": 20,
+          "pos": "MF",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/96dmuf1757087513.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Nahuel Molina",
+          "num": 26,
+          "pos": "DF",
+          "club": "Atlético Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/36bdni1762288498.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "name": "Facundo Medina",
+          "num": 25,
+          "pos": "DF",
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hqyj8f1766153184.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+        },
+        {
+          "name": "Thiago Almada",
+          "num": 16,
+          "pos": "MF",
+          "club": "Atlético Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ffqi3i1762288171.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "name": "Enzo Fernández",
+          "num": 24,
+          "pos": "MF",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b71vun1757003115.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-4-1",
+      "xi": [
+        {
+          "name": "David Alaba",
+          "num": 8,
+          "pos": "DF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zxblp31733653341.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "num": 11,
+          "pos": "FW",
+          "club": "FC Augsburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g46w261765376250.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png"
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "num": 9,
+          "pos": "MF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m0if0e1756326525.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Konrad Laimer",
+          "num": 20,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dzukrz1756409157.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Stefan Posch",
+          "num": 5,
+          "pos": "DF",
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1swesw1775205659.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        },
+        {
+          "name": "Xaver Schlager",
+          "num": 4,
+          "pos": "MF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1bvq9r1763561361.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        },
+        {
+          "name": "Kevin Danso",
+          "num": 3,
+          "pos": "DF",
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/unhinl1739274856.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        },
+        {
+          "name": "Alexander Schlager",
+          "num": 1,
+          "pos": "GK",
+          "club": "Red Bull Salzburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ib5u2k1769721863.png",
+          "clubLogo": "https://www.thesportsdb.com/images/media/team/badge/nc2cua1781541639.png"
+        },
+        {
+          "name": "Romano Schmid",
+          "num": 18,
+          "pos": "MF",
+          "club": "Werder Bremen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pc39yd1763666231.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+        },
+        {
+          "name": "Nicolas Seiwald",
+          "num": 6,
+          "pos": "DF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h7mvys1763561377.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        },
+        {
+          "name": "Paul Wanner",
+          "num": 24,
+          "pos": "MF",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rbijya1764608918.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-22T17:05:52.917Z"
+}
