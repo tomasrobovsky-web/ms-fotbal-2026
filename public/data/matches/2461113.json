@@ -1,6 +1,27 @@
 {
   "id": "2461113",
-  "events": [],
+  "events": [
+    {
+      "minute": 6,
+      "type": "yellow",
+      "team": "a",
+      "player": "Amir Al-Ammari"
+    },
+    {
+      "minute": 14,
+      "type": "goal",
+      "team": "h",
+      "player": "Kylian Mbappé",
+      "assist": "Michael Olise"
+    },
+    {
+      "minute": 26,
+      "type": "sub",
+      "team": "a",
+      "player": "Aymen Hussein",
+      "off": "Ali Al-Hamadi"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -192,7 +213,97 @@
       "bench": []
     }
   },
-  "stats": null,
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0.24,
+        0.16
+      ],
+      [
+        "Držení %",
+        58,
+        42
+      ],
+      [
+        "Na branku",
+        1,
+        0
+      ],
+      [
+        "Přesnost %",
+        89,
+        80
+      ],
+      [
+        "Rohy",
+        1,
+        1
+      ],
+      [
+        "Fauly",
+        5,
+        2
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        7,
+        2
+      ],
+      [
+        "Střely mimo",
+        3,
+        1
+      ],
+      [
+        "Zblokované",
+        3,
+        1
+      ],
+      [
+        "Střely ve vápně",
+        1,
+        1
+      ],
+      [
+        "Střely zvenku",
+        6,
+        1
+      ],
+      [
+        "Přihrávky",
+        291,
+        213
+      ],
+      [
+        "Ofsajdy",
+        0,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        260,
+        171
+      ],
+      [
+        "Zákroky brankáře",
+        0,
+        0
+      ],
+      [
+        "Žluté karty",
+        0,
+        1
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T21:05:49.299Z"
+  "updatedAt": "2026-06-22T21:55:43.793Z"
 }
