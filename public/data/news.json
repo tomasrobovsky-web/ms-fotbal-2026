@@ -135,15 +135,6 @@
     "publishedAt": "2026-06-22T08:13:48.000Z"
   },
   {
-    "id": "nu7d74u",
-    "title": "Ještě blíže nebesům. Český strašák se vrací v mnohem drsnější podobě",
-    "description": "Před startem fotbalového mistrovství světa se v souvislosti s českými fotbalisty místy nemluvilo o ničem jiném. Jak zvládnou vysokou nadmořskou výšku v mexické Guadalajaře? První test rozhodně neskončil propadákem, jenže teď přichází v tvrdší podobě. Proti domácím Mexičanům se bude hrát o ještě sedm set metrů výše.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-jeste-blize-nebesum-cesky-strasak-se-vraci-v-mnohem-drsnejsi-podobe-5486514",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-22T07:03:57.000Z"
-  },
-  {
     "id": "nh02da",
     "title": "Kletba prolomena! Salah doručil egyptskou výhru na MS po 92 letech. Která země čeká déle?",
     "description": "Bývá považován z jednoho z nejlepších afrických fotbalistů všech dob. A jistě, jen jeden Mohamed Salah nedokáže držet na zádech tíhu reprezentačního výběru, který ve srovnání s ostatními není tak silný, ale přesto myšlenka, že své zemi nepomohl ukončit téměř sto let dlouhé čekání na výhru na mistrovství světa, by jeho odkaz lehce poničila. Kletba faraonů je ale prolomena. „Úžasný úspěch,“ rozplýval se křídelník po výhře 3:1 nad Novým Zélandem. Program MS 2026 ZDE >>>",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/MF0mezSF-Otvrow2g.jpg",
     "publishedAt": "2026-06-21T10:58:00.000Z"
+  },
+  {
+    "id": "n2uts3a",
+    "title": "Tisící duel MS i čtyři góly v tuniské síti. Japonci přepisovali historii asijského fotbalu",
+    "description": "V tisícím zápase v historii světových šampionátů zvítězili reprezentanti Japonska 4:0 nad Tuniskem. Připsali si také zlomový moment pro asijský fotbal. Japonsko se totiž stalo prvním týmem z kontinentu, který vstřelil čtyři góly v jednom utkání. Svěřenci trenéra Hadžimea Morijasua tak výrazně vykročili za postupem mezi 32 týmů.",
+    "url": "https://sport.ceskatelevize.cz/clanek/fotbal/tisici-duel-ms-i-ctyri-goly-v-siti-japonci-prepisovali-asijskou-historii-na-sampionatu-157526",
+    "source": "ČT sport",
+    "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/ZmU0ZjYwNDUzYThhY2M1Y00tpTrMdcc2JlUg-DXiRt7lrnd6qhkt1isu5qFkUfwqJCwubCbCABdiDzK199xhlMhx6NPSesyvXqNDwIK0vwR7kyvU9EnRcT17VC8O4PCnE1KKifDMA8tQh0ChlIyB44MTbrqZ6zhudeUZjvF1jLxqm1lbwVuelKw-9ImANQvu.JPG?width=360",
+    "publishedAt": "2026-06-21T10:30:00.000Z"
   }
 ]
