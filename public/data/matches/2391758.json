@@ -20,6 +20,13 @@
       "type": "yellow",
       "team": "a",
       "player": "Stefan Posch"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Cristian Romero",
+      "off": "Nicolás Otamendi"
     }
   ],
   "reds": {},
@@ -305,5 +312,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T18:01:08.300Z"
+  "updatedAt": "2026-06-22T18:31:03.258Z"
 }
