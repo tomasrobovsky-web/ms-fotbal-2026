@@ -33,6 +33,41 @@
       "type": "goal",
       "team": "h",
       "player": "Cristiano Ronaldo",
+      "assist": "Bruno Fernandes"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "João Cancelo",
+      "off": "Nélson Semedo"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Pedro Neto",
+      "off": "Francisco Conceição"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Sherzod Nasrullaev",
+      "off": "Khojiakbar Alijonov"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Odiljon Hamrobekov",
+      "off": "Akmal Mozgovoy"
+    },
+    {
+      "minute": 60,
+      "type": "goal",
+      "team": "h",
+      "player": "Abdukodir Khusanov",
       "assist": ""
     }
   ],
@@ -231,8 +266,8 @@
     "donuts": [
       [
         "xG",
-        1.38,
-        0.15
+        1.54,
+        0.2
       ],
       [
         "Držení %",
@@ -241,55 +276,55 @@
       ],
       [
         "Na branku",
-        3,
-        1
+        4,
+        2
       ],
       [
         "Přesnost %",
-        88,
+        89,
         79
       ],
       [
         "Rohy",
         1,
-        0
+        1
       ],
       [
         "Fauly",
-        8,
-        7
+        9,
+        9
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        8,
-        3
+        10,
+        5
       ],
       [
         "Střely mimo",
-        3,
+        4,
         1
       ],
       [
         "Zblokované",
         2,
-        1
-      ],
-      [
-        "Střely ve vápně",
-        5,
         2
       ],
       [
+        "Střely ve vápně",
+        6,
+        3
+      ],
+      [
         "Střely zvenku",
-        3,
-        1
+        4,
+        2
       ],
       [
         "Přihrávky",
-        267,
-        151
+        377,
+        212
       ],
       [
         "Ofsajdy",
@@ -298,12 +333,12 @@
       ],
       [
         "Přesné přihr.",
-        236,
-        120
+        334,
+        167
       ],
       [
         "Zákroky brankáře",
-        1,
+        2,
         0
       ],
       [
@@ -319,5 +354,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T17:55:46.138Z"
+  "updatedAt": "2026-06-23T18:31:00.970Z"
 }
