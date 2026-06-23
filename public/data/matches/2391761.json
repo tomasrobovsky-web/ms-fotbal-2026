@@ -1,6 +1,13 @@
 {
   "id": "2391761",
-  "events": [],
+  "events": [
+    {
+      "minute": 41,
+      "type": "yellow",
+      "team": "h",
+      "player": "Declan Rice"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +291,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T21:01:16.794Z"
+  "updatedAt": "2026-06-23T21:15:47.014Z"
 }
