@@ -1,6 +1,20 @@
 {
   "id": "2391763",
-  "events": [],
+  "events": [
+    {
+      "minute": 6,
+      "type": "goal",
+      "team": "h",
+      "player": "Cristiano Ronaldo",
+      "assist": "João Cancelo"
+    },
+    {
+      "minute": 14,
+      "type": "yellow",
+      "team": "a",
+      "player": "Odiljon Hamrobekov"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +298,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T17:15:53.905Z"
+  "updatedAt": "2026-06-23T17:20:54.601Z"
 }
