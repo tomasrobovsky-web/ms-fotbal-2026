@@ -1,0 +1,198 @@
+{
+  "id": "2391762",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "7-3",
+      "xi": [
+        {
+          "name": "Michael Amir Murillo",
+          "num": 23,
+          "pos": "DF",
+          "club": "Beşiktaş",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/693hds1766153380.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+        },
+        {
+          "name": "Yoel Bárcenas",
+          "num": 11,
+          "pos": "FW",
+          "club": "Mazatlán",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hndz121779829099.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fgpobf1593446489.png"
+        },
+        {
+          "name": "Andrés Andrade",
+          "num": 16,
+          "pos": "DF",
+          "club": "LASK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0xq6t21769635655.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png"
+        },
+        {
+          "name": "Carlos Harvey",
+          "num": 14,
+          "pos": "DF",
+          "club": "Minnesota United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lq0v2t1741873531.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png"
+        },
+        {
+          "name": "José Fajardo",
+          "num": 17,
+          "pos": "FW",
+          "club": "Universidad Católica del Ecuador",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9tyk4y1779878525.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/25pb661770394991.png"
+        },
+        {
+          "name": "Orlando Mosquera",
+          "num": 22,
+          "pos": "GK",
+          "club": "Al-Fayha",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zkbjvd1717088213.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png"
+        },
+        {
+          "name": "César Blackman",
+          "num": 2,
+          "pos": "DF",
+          "club": "Slovan Bratislava",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/baa05l1716211763.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uzkg701781199823.png"
+        },
+        {
+          "name": "Cristian Martínez",
+          "num": 6,
+          "pos": "DF",
+          "club": "Hapoel Ironi Kiryat Shmona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zhvprg1779874064.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/401ntu1579020023.png"
+        },
+        {
+          "name": "Puma",
+          "num": 7,
+          "pos": "FW",
+          "club": "Juárez",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ccit0q1779878885.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png"
+        },
+        {
+          "name": "José Córdoba",
+          "num": 3,
+          "pos": "DF",
+          "club": "Norwich City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4h6gwd1761684091.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
+        },
+        {
+          "name": "Jiovany Ramos",
+          "num": 13,
+          "pos": "DF",
+          "club": "Academia Puerto Cabello",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a09o9l1779875667.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/a04fro1639001630.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-4-2",
+      "xi": [
+        {
+          "name": "Luka Modrić",
+          "num": 10,
+          "pos": "MF",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/msewdx1758892756.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Mateo Kovačić",
+          "num": 8,
+          "pos": "MF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m5jml31769183827.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Ivan Perišić",
+          "num": 14,
+          "pos": "MF",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ywkvv41764595295.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Marin Pongračić",
+          "num": 3,
+          "pos": "DF",
+          "club": "Fiorentina",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/siq0vs1758892100.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png"
+        },
+        {
+          "name": "Dominik Livaković",
+          "num": 1,
+          "pos": "GK",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pp3yab1762457197.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "Joško Gvardiol",
+          "num": 4,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mmowa11769183247.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Petar Musa",
+          "num": 26,
+          "pos": "FW",
+          "club": "FC Dallas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/x4vrsj1716621267.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vxy8xy1602103187.png"
+        },
+        {
+          "name": "Josip Stanišić",
+          "num": 2,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m1kqf11756416127.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Josip Šutalo",
+          "num": 6,
+          "pos": "DF",
+          "club": "Ajax",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4bdrsm1722880866.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+        },
+        {
+          "name": "Martin Baturina",
+          "num": 16,
+          "pos": "MF",
+          "club": "Como",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bb3ntq1764278109.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
+        },
+        {
+          "name": "Marco Pašalić",
+          "num": 24,
+          "pos": "FW",
+          "club": "Orlando City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/p3ix6j1746347736.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-23T23:01:11.395Z"
+}
