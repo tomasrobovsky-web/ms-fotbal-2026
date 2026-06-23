@@ -192,7 +192,97 @@
       "bench": []
     }
   },
-  "stats": null,
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0.87,
+        0
+      ],
+      [
+        "Držení %",
+        92,
+        8
+      ],
+      [
+        "Na branku",
+        1,
+        0
+      ],
+      [
+        "Přesnost %",
+        94,
+        60
+      ],
+      [
+        "Rohy",
+        1,
+        0
+      ],
+      [
+        "Fauly",
+        0,
+        1
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        3,
+        0
+      ],
+      [
+        "Střely mimo",
+        1,
+        0
+      ],
+      [
+        "Zblokované",
+        1,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        3,
+        0
+      ],
+      [
+        "Střely zvenku",
+        0,
+        0
+      ],
+      [
+        "Přihrávky",
+        54,
+        5
+      ],
+      [
+        "Ofsajdy",
+        0,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        51,
+        3
+      ],
+      [
+        "Zákroky brankáře",
+        0,
+        0
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T17:05:41.461Z"
+  "updatedAt": "2026-06-23T17:15:53.905Z"
 }
