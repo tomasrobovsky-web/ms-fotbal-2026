@@ -67,7 +67,48 @@
       "minute": 60,
       "type": "goal",
       "team": "h",
-      "player": "Abdukodir Khusanov",
+      "player": "Abduvohid Nematov",
+      "assist": ""
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "João Félix",
+      "off": "Francisco Trincão"
+    },
+    {
+      "minute": 68,
+      "type": "yellow",
+      "team": "h",
+      "player": "Renato Veiga"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Abbosbek Fayzullaev",
+      "off": "Igor Sergeev"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "h",
+      "player": "João Neves",
+      "off": "Bernardo Silva"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Vitinha",
+      "off": "Rafael Leão"
+    },
+    {
+      "minute": 87,
+      "type": "goal",
+      "team": "h",
+      "player": "Rafael Leão",
       "assist": ""
     }
   ],
@@ -354,5 +395,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T18:31:00.970Z"
+  "updatedAt": "2026-06-23T19:01:16.802Z"
 }
