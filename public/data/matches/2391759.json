@@ -1,6 +1,90 @@
 {
   "id": "2391759",
-  "events": [],
+  "events": [
+    {
+      "minute": 36,
+      "type": "goal",
+      "team": "h",
+      "player": "Nizar Al-Rashdan",
+      "assist": "Musa Al-Taamari"
+    },
+    {
+      "minute": 44,
+      "type": "yellow",
+      "team": "a",
+      "player": "Ramiz Zerrouki"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Ramiz Zerrouki",
+      "off": "Nabil Bentaleb"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Hicham Boudaoui",
+      "off": "Nadhir Benbouali"
+    },
+    {
+      "minute": 69,
+      "type": "goal",
+      "team": "a",
+      "player": "Nadhir Benbouali",
+      "assist": "Riyad Mahrez"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Riyad Mahrez",
+      "off": "Anis Hadj Moussa"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "h",
+      "player": "Mahmoud Al-Mardi",
+      "off": "Odeh Al-Fakhouri"
+    },
+    {
+      "minute": 82,
+      "type": "goal",
+      "team": "a",
+      "player": "Amine Gouiri",
+      "assist": ""
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "Musa Al-Taamari",
+      "off": "Ali Azaizeh"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "Mohannad Abu Taha",
+      "off": "Mohammad Abu Hashish"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Rayan Aït-Nouri",
+      "off": "Jaouen Hadjam"
+    },
+    {
+      "minute": 86,
+      "type": "sub",
+      "team": "a",
+      "player": "Amine Gouiri",
+      "off": "Zinéddine Belaïd"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,65 +280,65 @@
     "donuts": [
       [
         "xG",
-        0.54,
-        0.57
+        0.65,
+        1.62
       ],
       [
         "Držení %",
-        26,
-        74
+        25,
+        75
       ],
       [
         "Na branku",
-        3,
-        2
+        4,
+        7
       ],
       [
         "Přesnost %",
-        77,
+        73,
         89
       ],
       [
         "Rohy",
-        0,
-        3
+        1,
+        8
       ],
       [
         "Fauly",
-        3,
-        5
+        8,
+        6
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        6,
-        4
+        8,
+        16
       ],
       [
         "Střely mimo",
-        3,
-        1
+        4,
+        4
       ],
       [
         "Zblokované",
         0,
-        1
+        5
       ],
       [
         "Střely ve vápně",
-        3,
-        2
+        4,
+        10
       ],
       [
         "Střely zvenku",
-        3,
-        2
+        4,
+        6
       ],
       [
         "Přihrávky",
-        122,
-        360
+        198,
+        580
       ],
       [
         "Ofsajdy",
@@ -263,17 +347,17 @@
       ],
       [
         "Přesné přihr.",
-        94,
-        322
+        145,
+        517
       ],
       [
         "Zákroky brankáře",
-        2,
-        2
+        5,
+        3
       ],
       [
         "Žluté karty",
-        0,
+        1,
         1
       ],
       [
@@ -284,5 +368,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T04:15:43.837Z"
+  "updatedAt": "2026-06-23T04:55:36.225Z"
 }
