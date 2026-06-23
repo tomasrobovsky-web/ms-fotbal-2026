@@ -1,0 +1,99 @@
+{
+  "id": "2391760",
+  "events": [],
+  "reds": {},
+  "lineups": null,
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0.33,
+        0.14
+      ],
+      [
+        "Držení %",
+        41,
+        59
+      ],
+      [
+        "Na branku",
+        1,
+        0
+      ],
+      [
+        "Přesnost %",
+        75,
+        88
+      ],
+      [
+        "Rohy",
+        4,
+        1
+      ],
+      [
+        "Fauly",
+        3,
+        1
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        3,
+        2
+      ],
+      [
+        "Střely mimo",
+        2,
+        0
+      ],
+      [
+        "Zblokované",
+        0,
+        2
+      ],
+      [
+        "Střely ve vápně",
+        2,
+        1
+      ],
+      [
+        "Střely zvenku",
+        1,
+        1
+      ],
+      [
+        "Přihrávky",
+        60,
+        92
+      ],
+      [
+        "Ofsajdy",
+        0,
+        2
+      ],
+      [
+        "Přesné přihr.",
+        45,
+        81
+      ],
+      [
+        "Zákroky brankáře",
+        0,
+        1
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-23T00:35:43.341Z"
+}
