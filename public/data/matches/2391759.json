@@ -57,7 +57,7 @@
       "assist": ""
     },
     {
-      "minute": 85,
+      "minute": 84,
       "type": "sub",
       "team": "h",
       "player": "Musa Al-Taamari",
@@ -83,6 +83,13 @@
       "team": "a",
       "player": "Amine Gouiri",
       "off": "Zinéddine Belaïd"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Ali Olwan",
+      "off": "Mohammad Abu Zrayq"
     }
   ],
   "reds": {},
@@ -368,5 +375,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-23T04:55:36.225Z"
+  "updatedAt": "2026-06-23T05:01:05.142Z"
 }
