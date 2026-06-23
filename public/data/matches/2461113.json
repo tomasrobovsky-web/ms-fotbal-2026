@@ -20,6 +20,20 @@
       "team": "a",
       "player": "Aymen Hussein",
       "off": "Ali Al-Hamadi"
+    },
+    {
+      "minute": 54,
+      "type": "goal",
+      "team": "h",
+      "player": "Kylian Mbappé",
+      "assist": ""
+    },
+    {
+      "minute": 66,
+      "type": "goal",
+      "team": "h",
+      "player": "Ousmane Dembélé",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -305,5 +319,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-22T21:55:43.793Z"
+  "updatedAt": "2026-06-23T02:35:41.217Z"
 }
