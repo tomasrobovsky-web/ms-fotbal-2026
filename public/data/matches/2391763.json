@@ -1,0 +1,198 @@
+{
+  "id": "2391763",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Cristiano Ronaldo",
+          "num": 7,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "João Cancelo",
+          "num": 20,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zqjhte1771260324.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Rúben Dias",
+          "num": 3,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g3psnr1769183713.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "num": 8,
+          "pos": "MF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "João Félix",
+          "num": 11,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m8aqft1725214728.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Pedro Neto",
+          "num": 18,
+          "pos": "FW",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        },
+        {
+          "name": "Vitinha",
+          "num": 23,
+          "pos": "MF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q6mw6n1766335544.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Nuno Mendes",
+          "num": 25,
+          "pos": "DF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zhdk3h1766335452.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Diogo Costa",
+          "num": 1,
+          "pos": "GK",
+          "club": "FC Porto",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png"
+        },
+        {
+          "name": "Renato Veiga",
+          "num": 13,
+          "pos": "DF",
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        },
+        {
+          "name": "João Neves",
+          "num": 15,
+          "pos": "DF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2q9ahn1766335473.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-3-1",
+      "xi": [
+        {
+          "name": "Eldor Shomurodov",
+          "num": 14,
+          "pos": "FW",
+          "club": "İstanbul Başakşehir",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pzj8ab1697923953.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "name": "Odiljon Hamrobekov",
+          "num": 9,
+          "pos": "DF",
+          "club": "Tractor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q4yezk1781036939.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/url13x1722468959.png"
+        },
+        {
+          "name": "Otabek Shukurov",
+          "num": 7,
+          "pos": "MF",
+          "club": "Baniyas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/shq2ng1781037167.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ps3a4d1578859691.png"
+        },
+        {
+          "name": "Abdukodir Khusanov",
+          "num": 2,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/da8tg41769182137.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Sherzod Nasrullaev",
+          "num": 13,
+          "pos": "DF",
+          "club": "Pakhtakor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yjla061781037069.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9leeml1675712410.png"
+        },
+        {
+          "name": "Rustam Ashurmatov",
+          "num": 5,
+          "pos": "DF",
+          "club": "Esteghlal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/i5sv5j1781036776.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tu1o951756536150.png"
+        },
+        {
+          "name": "Abbosbek Fayzullaev",
+          "num": 22,
+          "pos": "MF",
+          "club": "İstanbul Başakşehir",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0zoijs1781036889.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "name": "Abdulla Abdullaev",
+          "num": 18,
+          "pos": "DF",
+          "club": "Dibba Al-Fujairah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pgg8c1781036617.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/5a1f5u1753982384.png"
+        },
+        {
+          "name": "Azizjon Ganiev",
+          "num": 19,
+          "pos": "MF",
+          "club": "Al Bataeh",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/he428n1781036918.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/7zftaj1718211067.png"
+        },
+        {
+          "name": "Abduvohid Nematov",
+          "num": 12,
+          "pos": "GK",
+          "club": "Nasaf",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s7adw01781037102.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ezlsi91724091113.png"
+        },
+        {
+          "name": "Bekhruz Karimov",
+          "num": 24,
+          "pos": "DF",
+          "club": "Surkhon Termez",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2yrkbt1781036982.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vx5u5s1735489766.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-23T17:05:41.461Z"
+}
