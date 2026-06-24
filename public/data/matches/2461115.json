@@ -12,7 +12,7 @@
       "minute": 34,
       "type": "goal",
       "team": "h",
-      "player": "Sultan Al-Brake",
+      "player": "Mahmud Abunada",
       "assist": ""
     },
     {
@@ -21,6 +21,88 @@
       "team": "a",
       "player": "Hassan Al-Haydos",
       "assist": "Edmilson Junior"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Ivan Šunjić",
+      "off": "Benjamin Tahirović"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Arjan Malić",
+      "off": "Amar Memić"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Jassem Gaber",
+      "off": "Abdulaziz Hatem"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "a",
+      "player": "Hassan Al-Haydos",
+      "off": "Ahmed Al-Ganehi"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "h",
+      "player": "Nikola Katić",
+      "off": "Dennis Hadžikadunić"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Edin Džeko",
+      "off": "Ermin Mahmić"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Karim Boudiaf",
+      "off": "Almoez Ali"
+    },
+    {
+      "minute": 78,
+      "type": "yellow",
+      "team": "a",
+      "player": "Ahmed Fathy"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "a",
+      "player": "Edmilson Junior",
+      "off": "Ahmed Alaaeldin"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "a",
+      "player": "Ahmed Fathy",
+      "off": "Mohamed Al-Mannai"
+    },
+    {
+      "minute": 80,
+      "type": "goal",
+      "team": "h",
+      "player": "Ermin Mahmić",
+      "assist": ""
+    },
+    {
+      "minute": 81,
+      "type": "yellow",
+      "team": "h",
+      "player": "Ermin Mahmić"
     }
   ],
   "reds": {},
@@ -306,5 +388,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T20:50:44.531Z"
+  "updatedAt": "2026-06-24T20:55:38.886Z"
 }
