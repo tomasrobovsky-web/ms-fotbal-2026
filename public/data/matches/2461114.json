@@ -7,80 +7,80 @@
     "donuts": [
       [
         "xG",
-        0,
-        0.02
+        0.64,
+        0.08
       ],
       [
         "Držení %",
-        40,
-        60
+        65,
+        35
       ],
       [
         "Na branku",
-        0,
+        6,
         0
       ],
       [
         "Přesnost %",
-        67,
-        89
+        90,
+        75
       ],
       [
         "Rohy",
-        0,
-        0
+        2,
+        2
       ],
       [
         "Fauly",
-        0,
-        0
+        4,
+        5
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        0,
-        1
+        13,
+        2
       ],
       [
         "Střely mimo",
-        0,
-        1
+        3,
+        2
       ],
       [
         "Zblokované",
-        0,
+        4,
         0
       ],
       [
         "Střely ve vápně",
-        0,
-        0
+        8,
+        1
       ],
       [
         "Střely zvenku",
-        0,
+        5,
         1
       ],
       [
         "Přihrávky",
-        6,
-        9
+        274,
+        142
       ],
       [
         "Ofsajdy",
-        0,
+        3,
         0
       ],
       [
         "Přesné přihr.",
-        4,
-        8
+        247,
+        107
       ],
       [
         "Zákroky brankáře",
         0,
-        0
+        6
       ],
       [
         "Žluté karty",
@@ -95,5 +95,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T02:10:49.329Z"
+  "updatedAt": "2026-06-24T03:01:09.020Z"
 }
