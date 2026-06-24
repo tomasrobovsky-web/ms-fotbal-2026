@@ -47,6 +47,34 @@
       "team": "a",
       "player": "Cyle Larin",
       "off": "Tani Oluwaseyi"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "h",
+      "player": "Luca Jaquez",
+      "off": "Silvan Widmer"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "h",
+      "player": "Djibril Sow",
+      "off": "Michel Aebischer"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "a",
+      "player": "Tajon Buchanan",
+      "off": "Promise David"
+    },
+    {
+      "minute": 76,
+      "type": "goal",
+      "team": "a",
+      "player": "Promise David",
+      "assist": "Nathan Saliba"
     }
   ],
   "reds": {},
@@ -244,40 +272,40 @@
     "donuts": [
       [
         "xG",
-        0.71,
-        0.3
+        1.06,
+        0.5
       ],
       [
         "Držení %",
-        69,
-        31
+        57,
+        43
       ],
       [
         "Na branku",
-        2,
-        3
+        4,
+        4
       ],
       [
         "Přesnost %",
-        85,
-        76
+        86,
+        81
       ],
       [
         "Rohy",
-        1,
-        1
+        2,
+        5
       ],
       [
         "Fauly",
-        10,
-        5
+        15,
+        8
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        4,
-        5
+        6,
+        9
       ],
       [
         "Střely mimo",
@@ -287,12 +315,12 @@
       [
         "Zblokované",
         1,
-        0
+        3
       ],
       [
         "Střely ve vápně",
-        3,
-        4
+        5,
+        8
       ],
       [
         "Střely zvenku",
@@ -301,8 +329,8 @@
       ],
       [
         "Přihrávky",
-        268,
-        116
+        381,
+        282
       ],
       [
         "Ofsajdy",
@@ -311,8 +339,8 @@
       ],
       [
         "Přesné přihr.",
-        229,
-        88
+        326,
+        229
       ],
       [
         "Zákroky brankáře",
@@ -332,5 +360,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T20:30:58.650Z"
+  "updatedAt": "2026-06-24T20:40:44.933Z"
 }
