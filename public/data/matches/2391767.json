@@ -1,6 +1,19 @@
 {
   "id": "2391767",
-  "events": [],
+  "events": [
+    {
+      "minute": 32,
+      "type": "yellow",
+      "team": "h",
+      "player": "Granit Xhaka"
+    },
+    {
+      "minute": 32,
+      "type": "yellow",
+      "team": "a",
+      "player": "Cyle Larin"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,23 +209,23 @@
     "donuts": [
       [
         "xG",
-        0.62,
-        0
+        0.67,
+        0.16
       ],
       [
         "Držení %",
-        77,
-        23
+        70,
+        30
       ],
       [
         "Na branku",
-        1,
-        0
+        2,
+        2
       ],
       [
         "Přesnost %",
-        87,
-        66
+        86,
+        73
       ],
       [
         "Rohy",
@@ -221,15 +234,15 @@
       ],
       [
         "Fauly",
-        3,
-        3
+        8,
+        4
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        2,
-        0
+        3,
+        2
       ],
       [
         "Střely mimo",
@@ -243,8 +256,8 @@
       ],
       [
         "Střely ve vápně",
-        2,
-        0
+        3,
+        2
       ],
       [
         "Střely zvenku",
@@ -253,28 +266,28 @@
       ],
       [
         "Přihrávky",
-        99,
-        29
+        177,
+        73
       ],
       [
         "Ofsajdy",
-        0,
-        1
+        1,
+        2
       ],
       [
         "Přesné přihr.",
-        86,
-        19
+        152,
+        53
       ],
       [
         "Zákroky brankáře",
-        0,
-        1
+        1,
+        2
       ],
       [
         "Žluté karty",
-        0,
-        0
+        1,
+        1
       ],
       [
         "Červené karty",
@@ -284,5 +297,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T19:20:47.547Z"
+  "updatedAt": "2026-06-24T19:40:42.857Z"
 }
