@@ -1,0 +1,198 @@
+{
+  "id": "2391767",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Ricardo Rodriguez",
+          "num": 13,
+          "pos": "DF",
+          "club": "Real Betis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/edg6gk1762603105.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
+        },
+        {
+          "name": "Granit Xhaka",
+          "num": 10,
+          "pos": "DF",
+          "club": "Sunderland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2xa5dp1756903726.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+        },
+        {
+          "name": "Manuel Akanji",
+          "num": 5,
+          "pos": "DF",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/k7o5oh1759408095.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Breel Embolo",
+          "num": 7,
+          "pos": "FW",
+          "club": "Rennes",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/k5xqvx1766136320.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png"
+        },
+        {
+          "name": "Remo Freuler",
+          "num": 8,
+          "pos": "MF",
+          "club": "Bologna",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gwqmdw1758896917.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
+        },
+        {
+          "name": "Rubén Vargas",
+          "num": 17,
+          "pos": "FW",
+          "club": "Sevilla",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9jkl9w1762860549.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+        },
+        {
+          "name": "Djibril Sow",
+          "num": 15,
+          "pos": "MF",
+          "club": "Sevilla",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b5k7ty1762860513.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+        },
+        {
+          "name": "Nico Elvedi",
+          "num": 4,
+          "pos": "DF",
+          "club": "Borussia Mönchengladbach",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/aelb5v1756313277.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png"
+        },
+        {
+          "name": "Gregor Kobel",
+          "num": 1,
+          "pos": "GK",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vri4zw1756326279.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Luca Jaquez",
+          "num": 25,
+          "pos": "DF",
+          "club": "Stuttgart",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tt71dl1763586249.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png"
+        },
+        {
+          "name": "Johan Manzambi",
+          "num": 9,
+          "pos": "MF",
+          "club": "Freiburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pg2bjt1763328991.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Cyle Larin",
+          "num": 9,
+          "pos": "FW",
+          "club": "Southampton",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bgse2n1777485421.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png"
+        },
+        {
+          "name": "Maxime Crépeau",
+          "num": 16,
+          "pos": "GK",
+          "club": "Orlando City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tm8isx1766759820.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
+        },
+        {
+          "name": "Jonathan David",
+          "num": 10,
+          "pos": "FW",
+          "club": "Juventus",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nyd9d91759225738.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "name": "Tajon Buchanan",
+          "num": 17,
+          "pos": "FW",
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ar6mwv1762888718.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        },
+        {
+          "name": "Richie Laryea",
+          "num": 22,
+          "pos": "DF",
+          "club": "Toronto FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/milfrs1766575517.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png"
+        },
+        {
+          "name": "Alistair Johnston",
+          "num": 2,
+          "pos": "DF",
+          "club": "Celtic",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g6eohm1701350643.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
+        },
+        {
+          "name": "Mathieu Choinière",
+          "num": 6,
+          "pos": "MF",
+          "club": "Los Angeles FC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6mihaf1759501166.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png"
+        },
+        {
+          "name": "Derek Cornelius",
+          "num": 13,
+          "pos": "DF",
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8ifr0w1777017367.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+        },
+        {
+          "name": "Nathan Saliba",
+          "num": 25,
+          "pos": "MF",
+          "club": "Anderlecht",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ju6son1768082239.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/auindn1771129464.png"
+        },
+        {
+          "name": "Ali Ahmed",
+          "num": 20,
+          "pos": "MF",
+          "club": "Norwich City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gwtr8n1770208939.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
+        },
+        {
+          "name": "Luc de Fougerolles",
+          "num": 4,
+          "pos": "DF",
+          "club": "Dender",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/phdusb1767621327.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/r4ihc61654884430.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-24T19:01:15.497Z"
+}
