@@ -913,7 +913,7 @@
     "timeUtc": "19:00:00",
     "venue": "BC Place",
     "round": 3,
-    "status": "2H",
+    "status": "FT",
     "homeScore": 2,
     "awayScore": 1
   },
@@ -931,7 +931,7 @@
     "timeUtc": "19:00:00",
     "venue": "Lumen Field",
     "round": 3,
-    "status": "2H",
+    "status": "FT",
     "homeScore": 3,
     "awayScore": 1
   },
