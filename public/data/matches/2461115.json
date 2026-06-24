@@ -7,6 +7,13 @@
       "team": "h",
       "player": "Kerim Alajbegović",
       "assist": "Ivan Bašić"
+    },
+    {
+      "minute": 34,
+      "type": "goal",
+      "team": "h",
+      "player": "Sultan Al-Brake",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -292,5 +299,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T19:40:45.245Z"
+  "updatedAt": "2026-06-24T19:45:52.267Z"
 }
