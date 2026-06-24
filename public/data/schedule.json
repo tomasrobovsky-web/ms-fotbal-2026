@@ -877,7 +877,7 @@
     "timeUtc": "22:00:00",
     "venue": "Mercedes-Benz Stadium",
     "round": 3,
-    "status": "1H",
+    "status": "HT",
     "homeScore": 2,
     "awayScore": 2
   },
@@ -895,9 +895,9 @@
     "timeUtc": "22:00:00",
     "venue": "Hard Rock Stadium",
     "round": 3,
-    "status": "1H",
+    "status": "HT",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 2
   },
   {
     "id": "2391767",
