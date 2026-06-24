@@ -877,9 +877,9 @@
     "timeUtc": "22:00:00",
     "venue": "Mercedes-Benz Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391765",
