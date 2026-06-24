@@ -75,6 +75,20 @@
       "team": "a",
       "player": "Promise David",
       "assist": "Nathan Saliba"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Rubén Vargas",
+      "off": "Dan Ndoye"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Richie Laryea",
+      "off": "Jacob Shaffelburg"
     }
   ],
   "reds": {},
@@ -273,12 +287,12 @@
       [
         "xG",
         1.06,
-        0.5
+        0.84
       ],
       [
         "Držení %",
-        57,
-        43
+        56,
+        44
       ],
       [
         "Na branku",
@@ -287,18 +301,18 @@
       ],
       [
         "Přesnost %",
-        86,
-        81
+        85,
+        80
       ],
       [
         "Rohy",
         2,
-        5
+        6
       ],
       [
         "Fauly",
-        15,
-        8
+        16,
+        10
       ]
     ],
     "bars": [
@@ -329,8 +343,8 @@
       ],
       [
         "Přihrávky",
-        381,
-        282
+        396,
+        303
       ],
       [
         "Ofsajdy",
@@ -339,8 +353,8 @@
       ],
       [
         "Přesné přihr.",
-        326,
-        229
+        335,
+        243
       ],
       [
         "Zákroky brankáře",
@@ -360,5 +374,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T20:40:44.933Z"
+  "updatedAt": "2026-06-24T20:50:42.128Z"
 }
