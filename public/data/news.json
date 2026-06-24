@@ -243,15 +243,6 @@
     "publishedAt": "2026-06-24T05:55:00.000Z"
   },
   {
-    "id": "n1s10z40",
-    "title": "Prošel proměnou, teď chce Krejčí reprezentaci dotáhnout k postupu",
-    "description": "Reprezentační dres oblékne po více než deseti měsících a chce dát zapomenout na ne příliš povedený Eurobasket. Vít Krejčí bude mít v nadcházejícím závěrečném okně první fáze kvalifikace mistrovství světa v národním týmu stěžejní roli a jak sám přiznal, prošel proměnou.",
-    "url": "https://www.sport.cz/clanek/basketbal-pocit-nejistoty-zaziva-v-zamori-i-reprezentaci-krejci-zesilil-a-dospel-5487650",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-24T05:47:22.000Z"
-  },
-  {
     "id": "nty0zla",
     "title": "Postupová matematika na MS: Remíza Čechů s Mexikem? Může stačit, ale... Pět týmů je ze hry",
     "description": "Co je potřeba uhrát? Čeští fotbalisté na mistrovství světa museli po prohře s Koreou a remízou proti Jižní Africe sledovat před utkáním proti Mexiku, jak se vyvíjí situace i v ostatních skupinách. Ve třetím vystoupení by jim mohla stačit k postupu do play off i remíza, ale šance na takový scénář spíš klesají a byla by potřeba souhra několika výsledků. Jak teď vypadá postupová matematika? Už pět týmů zcela ztratilo šanci na postup, mezi nimi překvapivě Turecko. Program MS naleznete ZDE>>>",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/00rGKJjD-zwny0CCI.jpg",
     "publishedAt": "2026-06-23T21:27:00.000Z"
+  },
+  {
+    "id": "n3vbjqu",
+    "title": "Koubek: Nejsme psychicky dole, naše zbraň je týmovost",
+    "description": "Fotbalovou reprezentaci čeká boj o přežití na mistrovství světa. Ve čtvrtek ráno českého času se střetne tým Miroslava Koubka s výběrem Mexika, který bude mít výhodu domácího prostředí i jistoty postupu ze skupiny. Po příletu do Mexika City odpovídal na tiskové konferenci na dotazy novinářů kromě kouče týmu u kapitán Ladislav Krejčí. Utkání s Mexikem můžete sledovat ve čtvrtek od 2:15, kdy začíná zápasové studio, utkání startuje ve 3:00.",
+    "url": "https://sport.ceskatelevize.cz/clanek/fotbal/tk-ceske-reprezentace-pred-utkanim-s-mexikem-157567",
+    "source": "ČT sport",
+    "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/YzIxY2M1ODYzN2M1NWQwNLniloEBkdRW5Pp_6gopLBLFAMbRS1duM4tZd3W3eYOyI04PL-7DLfT4m_weU1nK274yLyc86pRox81X09VO9O3PnAbyasZxWATWCnGtG7ANXNDKg6mGlcVTbr7gMxyokyRGyjNvv-tz2o5Gck4k6IAvvy096svYgULwAS0aBeCU.jpg?width=360",
+    "publishedAt": "2026-06-23T20:30:00.000Z"
   }
 ]
