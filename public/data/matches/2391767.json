@@ -12,6 +12,13 @@
       "type": "yellow",
       "team": "h",
       "player": "Granit Xhaka"
+    },
+    {
+      "minute": 46,
+      "type": "goal",
+      "team": "h",
+      "player": "Rubén Vargas",
+      "assist": ""
     }
   ],
   "reds": {},
@@ -297,5 +304,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T20:01:09.718Z"
+  "updatedAt": "2026-06-24T20:10:41.023Z"
 }
