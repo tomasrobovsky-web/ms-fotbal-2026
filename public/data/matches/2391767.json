@@ -4,14 +4,14 @@
     {
       "minute": 32,
       "type": "yellow",
-      "team": "h",
-      "player": "Granit Xhaka"
+      "team": "a",
+      "player": "Cyle Larin"
     },
     {
       "minute": 32,
       "type": "yellow",
-      "team": "a",
-      "player": "Cyle Larin"
+      "team": "h",
+      "player": "Granit Xhaka"
     }
   ],
   "reds": {},
@@ -297,5 +297,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-24T19:40:42.857Z"
+  "updatedAt": "2026-06-24T19:50:47.158Z"
 }
