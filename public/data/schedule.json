@@ -949,7 +949,7 @@
     "timeUtc": "01:00:00",
     "venue": "Estadio BBVA",
     "round": 3,
-    "status": "HT",
+    "status": "2H",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -1021,7 +1021,7 @@
     "timeUtc": "01:00:00",
     "venue": "Estadio Azteca",
     "round": 3,
-    "status": "HT",
+    "status": "2H",
     "homeScore": 0,
     "awayScore": 0
   },
