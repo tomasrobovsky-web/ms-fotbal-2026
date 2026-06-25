@@ -1,6 +1,104 @@
 {
   "id": "2461116",
-  "events": [],
+  "events": [
+    {
+      "minute": 55,
+      "type": "goal",
+      "team": "a",
+      "player": "Mateo Chávez",
+      "assist": "Luis Romo"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "h",
+      "player": "Denis Višinský",
+      "off": "Lukáš Provod"
+    },
+    {
+      "minute": 61,
+      "type": "goal",
+      "team": "a",
+      "player": "Julián Quiñones",
+      "assist": "Jorge Sánchez"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "a",
+      "player": "Guillermo Martínez",
+      "off": "Santiago Giménez"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "a",
+      "player": "Luis Romo",
+      "off": "Obed Vargas"
+    },
+    {
+      "minute": 64,
+      "type": "yellow",
+      "team": "a",
+      "player": "Edson Álvarez"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Adam Hložek",
+      "off": "Patrik Schick"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Tomáš Holeš",
+      "off": "Tomáš Souček"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Gilberto Mora",
+      "off": "Álvaro Fidalgo"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "a",
+      "player": "Raúl Rangel",
+      "off": "Guillermo Ochoa"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "a",
+      "player": "Mateo Chávez",
+      "off": "Jesús Gallardo"
+    },
+    {
+      "minute": 87,
+      "type": "sub",
+      "team": "h",
+      "player": "Lukáš Červ",
+      "off": "Tomáš Chorý"
+    },
+    {
+      "minute": 87,
+      "type": "sub",
+      "team": "h",
+      "player": "Tomáš Souček",
+      "off": "Alexandr Sojka"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "a",
+      "player": "Álvaro Fidalgo",
+      "assist": "Roberto Alvarado"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +382,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T03:10:42.550Z"
+  "updatedAt": "2026-06-25T05:55:42.814Z"
 }
