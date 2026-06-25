@@ -1003,9 +1003,9 @@
     "timeUtc": "23:00:00",
     "venue": "GEHA Field at Arrowhead Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "2461116",
@@ -1039,9 +1039,9 @@
     "timeUtc": "23:00:00",
     "venue": "AT&T Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391770",

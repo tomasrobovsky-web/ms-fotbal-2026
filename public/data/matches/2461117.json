@@ -1,0 +1,198 @@
+{
+  "id": "2461117",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-2-4",
+      "xi": [
+        {
+          "name": "Daichi Kamada",
+          "num": 15,
+          "pos": "MF",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xajscx1761492482.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Yukinari Sugawara",
+          "num": 2,
+          "pos": "DF",
+          "club": "Werder Bremen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9znmfg1763666295.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+        },
+        {
+          "name": "Kō Itakura",
+          "num": 4,
+          "pos": "DF",
+          "club": "Ajax",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v3ptg81759497926.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+        },
+        {
+          "name": "Keito Nakamura",
+          "num": 13,
+          "pos": "FW",
+          "club": "Stade de Reims",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rvg6ub1678454947.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png"
+        },
+        {
+          "name": "Ritsu Dōan",
+          "num": 10,
+          "pos": "FW",
+          "club": "Eintracht Frankfurt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6526j01762287692.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
+        },
+        {
+          "name": "Ao Tanaka",
+          "num": 7,
+          "pos": "MF",
+          "club": "Leeds United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4xeu161757086571.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        },
+        {
+          "name": "Ayase Ueda",
+          "num": 18,
+          "pos": "FW",
+          "club": "Feyenoord",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5ezc8v1758188908.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png"
+        },
+        {
+          "name": "Zion Suzuki",
+          "num": 1,
+          "pos": "GK",
+          "club": "Parma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/24eahn1759780929.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
+        },
+        {
+          "name": "Daizen Maeda",
+          "num": 11,
+          "pos": "FW",
+          "club": "Celtic",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oohjhs1777019949.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
+        },
+        {
+          "name": "Ayumu Seko",
+          "num": 20,
+          "pos": "DF",
+          "club": "Le Havre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jdghy41765990722.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png"
+        },
+        {
+          "name": "Hiroki Itō",
+          "num": 21,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9jngzv1756409131.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "3-3-4",
+      "xi": [
+        {
+          "name": "Victor Lindelöf",
+          "num": 3,
+          "pos": "DF",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/07mdel1756984093.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Alexander Isak",
+          "num": 9,
+          "pos": "FW",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3qj7z41757088281.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Gabriel Gudmundsson",
+          "num": 5,
+          "pos": "MF",
+          "club": "Leeds United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d1q18t1757075757.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        },
+        {
+          "name": "Viktor Gyökeres",
+          "num": 17,
+          "pos": "FW",
+          "club": "Arsenal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ubnx241769330610.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "name": "Anthony Elanga",
+          "num": 11,
+          "pos": "FW",
+          "club": "Newcastle United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zptapf1770796138.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+        },
+        {
+          "name": "Jacob Widell Zetterström",
+          "num": 1,
+          "pos": "GK",
+          "club": "Derby County",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4nj3w31761924491.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png"
+        },
+        {
+          "name": "Isak Hien",
+          "num": 4,
+          "pos": "DF",
+          "club": "Atalanta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ed5d0g1731837971.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qix5ku1780561327.png"
+        },
+        {
+          "name": "Yasin Ayari",
+          "num": 18,
+          "pos": "MF",
+          "club": "Brighton and Hove Albion",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xah7d91756994132.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        },
+        {
+          "name": "Gustaf Lagerbielke",
+          "num": 2,
+          "pos": "DF",
+          "club": "Braga",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3sbqva1726607896.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png"
+        },
+        {
+          "name": "Alexander Bernhardsson",
+          "num": 21,
+          "pos": "FW",
+          "club": "Holstein Kiel",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7mbysc1773149991.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png"
+        },
+        {
+          "name": "Elliot Stroud",
+          "num": 24,
+          "pos": "MF",
+          "club": "Mjällby",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9u94c51718821528.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ruwqxv1430239112.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-25T23:05:40.707Z"
+}
