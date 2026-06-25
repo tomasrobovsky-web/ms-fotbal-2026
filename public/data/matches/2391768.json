@@ -34,6 +34,54 @@
       "team": "a",
       "player": "Nicolas Pépé",
       "assist": "Ibrahim Sangaré"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Ange-Yoan Bonny",
+      "off": "Oumar Diakité"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Nicolas Pépé",
+      "off": "Elye Wahi"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Yan Diomande",
+      "off": "Bazoumana Touré"
+    },
+    {
+      "minute": 75,
+      "type": "yellow",
+      "team": "h",
+      "player": "Juninho Bacuna"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "h",
+      "player": "Juriën Gaari",
+      "off": "Gervane Kastaneer"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "h",
+      "player": "Deveron Fonville",
+      "off": "Tyrese Noslin"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "a",
+      "player": "Franck Kessié",
+      "off": "Jean Michaël Seri"
     }
   ],
   "reds": {},
@@ -289,5 +337,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T21:40:45.366Z"
+  "updatedAt": "2026-06-25T21:50:45.208Z"
 }

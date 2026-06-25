@@ -14,6 +14,87 @@
       "team": "h",
       "player": "Nilson Angulo",
       "assist": "Pedro Vite"
+    },
+    {
+      "minute": 43,
+      "type": "yellow",
+      "team": "h",
+      "player": "Piero Hincapié"
+    },
+    {
+      "minute": 44,
+      "type": "yellow",
+      "team": "a",
+      "player": "Aleksandar Pavlović"
+    },
+    {
+      "minute": 45,
+      "type": "sub",
+      "team": "a",
+      "player": "Aleksandar Pavlović",
+      "off": "Angelo Stiller"
+    },
+    {
+      "minute": 50,
+      "type": "yellow",
+      "team": "h",
+      "player": "Alan Franco"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "a",
+      "player": "Kai Havertz",
+      "off": "Deniz Undav"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "a",
+      "player": "Joshua Kimmich",
+      "off": "Malick Thiaw"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Enner Valencia",
+      "off": "Kevin Rodríguez"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Alan Franco",
+      "off": "Angelo Preciado Quiñónez"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "a",
+      "player": "Felix Nmecha",
+      "off": "Maximilian Beier"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "h",
+      "player": "Piero Hincapié",
+      "off": "Pervis Estupiñán"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Florian Wirtz",
+      "off": "Pascal Groß"
+    },
+    {
+      "minute": 77,
+      "type": "goal",
+      "team": "h",
+      "player": "Gonzalo Plata",
+      "assist": "Kevin Rodríguez"
     }
   ],
   "reds": {},
@@ -264,5 +345,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T20:55:42.769Z"
+  "updatedAt": "2026-06-25T21:50:47.753Z"
 }
