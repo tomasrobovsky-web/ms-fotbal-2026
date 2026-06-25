@@ -7,6 +7,33 @@
       "team": "a",
       "player": "Nicolas Pépé",
       "assist": "Yan Diomande"
+    },
+    {
+      "minute": 35,
+      "type": "yellow",
+      "team": "a",
+      "player": "Nicolas Pépé"
+    },
+    {
+      "minute": 45,
+      "type": "sub",
+      "team": "a",
+      "player": "Amad Diallo",
+      "off": "Christ Inao Oulaï"
+    },
+    {
+      "minute": 61,
+      "type": "sub",
+      "team": "h",
+      "player": "Livano Comenencia",
+      "off": "Jeremy Antonisse"
+    },
+    {
+      "minute": 64,
+      "type": "goal",
+      "team": "a",
+      "player": "Nicolas Pépé",
+      "assist": "Ibrahim Sangaré"
     }
   ],
   "reds": {},
@@ -262,5 +289,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T21:35:42.204Z"
+  "updatedAt": "2026-06-25T21:40:45.366Z"
 }
