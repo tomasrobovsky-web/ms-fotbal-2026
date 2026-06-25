@@ -95,6 +95,26 @@
       "team": "h",
       "player": "Gonzalo Plata",
       "assist": "Kevin Rodríguez"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "John Yeboah",
+      "off": "Félix Torres"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "h",
+      "player": "Nilson Angulo",
+      "off": "Jordy Caicedo"
+    },
+    {
+      "minute": 89,
+      "type": "yellow",
+      "team": "h",
+      "player": "Gonzalo Plata"
     }
   ],
   "reds": {},
@@ -345,5 +365,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T21:55:39.513Z"
+  "updatedAt": "2026-06-25T22:01:11.909Z"
 }
