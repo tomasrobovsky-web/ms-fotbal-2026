@@ -1,0 +1,288 @@
+{
+  "id": "2461116",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "4-4-2",
+      "xi": [
+        {
+          "name": "Michal Sadílek",
+          "num": 18,
+          "pos": "FW",
+          "club": "Slavia Prague",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qgt4x11762344326.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png"
+        },
+        {
+          "name": "Vladimír Coufal",
+          "num": 5,
+          "pos": "DF",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jucuwd1763494235.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Tomáš Holeš",
+          "num": 3,
+          "pos": "DF",
+          "club": "Slavia Prague",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/16flb51622528904.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png"
+        },
+        {
+          "name": "Adam Hložek",
+          "num": 9,
+          "pos": "FW",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kh9la81763494337.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Denis Višinský",
+          "num": 26,
+          "pos": "MF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zqcrfr1780306396.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        },
+        {
+          "name": "Matěj Kovář",
+          "num": 1,
+          "pos": "GK",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t9xanl1764594932.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Ladislav Krejčí",
+          "num": 7,
+          "pos": "DF",
+          "club": "Wolverhampton Wanderers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1e4izu1781345686.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+        },
+        {
+          "name": "David Douděra",
+          "num": 21,
+          "pos": "MF",
+          "club": "Slavia Prague",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ecwvvp1718736744.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png"
+        },
+        {
+          "name": "Robin Hranáč",
+          "num": 4,
+          "pos": "DF",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7aocs31763494358.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Lukáš Červ",
+          "num": 12,
+          "pos": "MF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5pvywr1725999957.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        },
+        {
+          "name": "Pavel Šulc",
+          "num": 15,
+          "pos": "MF",
+          "club": "Lyon",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/smln1y1766146582.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Edson Álvarez",
+          "num": 4,
+          "pos": "DF",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/nt933u1769179587.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "name": "Julián Quiñones",
+          "num": 16,
+          "pos": "FW",
+          "club": "Al-Qadsiah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kwg6ps1781248412.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png"
+        },
+        {
+          "name": "César Montes",
+          "num": 3,
+          "pos": "DF",
+          "club": "Lokomotiv Moscow",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hfmpbv1754726674.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tuyrur1473452310.png"
+        },
+        {
+          "name": "Luis Romo",
+          "num": 7,
+          "pos": "DF",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/w5g1po1716821279.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        },
+        {
+          "name": "Roberto Alvarado",
+          "num": 25,
+          "pos": "FW",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dup2qf1630164554.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        },
+        {
+          "name": "Jorge Sánchez",
+          "num": 2,
+          "pos": "DF",
+          "club": "PAOK",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xftyyb1698428324.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png"
+        },
+        {
+          "name": "Israel Reyes",
+          "num": 15,
+          "pos": "DF",
+          "club": "América",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gopczi1750327134.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png"
+        },
+        {
+          "name": "Guillermo Martínez",
+          "num": 22,
+          "pos": "FW",
+          "club": "Pumas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j0m63f1716820105.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png"
+        },
+        {
+          "name": "Raúl Rangel",
+          "num": 1,
+          "pos": "GK",
+          "club": "CD Guadalajara",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b3xv161780401837.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png"
+        },
+        {
+          "name": "Mateo Chávez",
+          "num": 20,
+          "pos": "DF",
+          "club": "AZ Alkmaar",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jlz1uf1759781173.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png"
+        },
+        {
+          "name": "Gilberto Mora",
+          "num": 19,
+          "pos": "MF",
+          "club": "Tijuana",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/55a3re1780401807.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": {
+    "donuts": [
+      [
+        "xG",
+        0,
+        0
+      ],
+      [
+        "Držení %",
+        35,
+        65
+      ],
+      [
+        "Na branku",
+        0,
+        0
+      ],
+      [
+        "Přesnost %",
+        90,
+        97
+      ],
+      [
+        "Rohy",
+        0,
+        0
+      ],
+      [
+        "Fauly",
+        0,
+        1
+      ]
+    ],
+    "bars": [
+      [
+        "Střely celkem",
+        0,
+        0
+      ],
+      [
+        "Střely mimo",
+        0,
+        0
+      ],
+      [
+        "Zblokované",
+        0,
+        0
+      ],
+      [
+        "Střely ve vápně",
+        0,
+        0
+      ],
+      [
+        "Střely zvenku",
+        0,
+        0
+      ],
+      [
+        "Přihrávky",
+        20,
+        36
+      ],
+      [
+        "Ofsajdy",
+        0,
+        0
+      ],
+      [
+        "Přesné přihr.",
+        18,
+        35
+      ],
+      [
+        "Zákroky brankáře",
+        0,
+        0
+      ],
+      [
+        "Žluté karty",
+        0,
+        0
+      ],
+      [
+        "Červené karty",
+        0,
+        0
+      ]
+    ]
+  },
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-25T01:10:46.638Z"
+}

@@ -1,6 +1,137 @@
 {
   "id": "2391764",
-  "events": [],
+  "events": [
+    {
+      "minute": 10,
+      "type": "goal",
+      "team": "a",
+      "player": "Bono",
+      "assist": ""
+    },
+    {
+      "minute": 39,
+      "type": "goal",
+      "team": "h",
+      "player": "Achraf Hakimi",
+      "assist": ""
+    },
+    {
+      "minute": 43,
+      "type": "goal",
+      "team": "a",
+      "player": "Wilson Isidor",
+      "assist": "Jean-Kevin Duverne"
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "h",
+      "player": "Ismael Saibari",
+      "assist": "Achraf Hakimi"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Ruben Providence",
+      "off": "Duckens Nazon"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Wilson Isidor",
+      "off": "Louicius Deedson"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Brahim Díaz",
+      "off": "Azzedine Ounahi"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Ismael Saibari",
+      "off": "Soufiane Rahimi"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Ayoub El Kaabi",
+      "off": "Gessime Yassine"
+    },
+    {
+      "minute": 78,
+      "type": "goal",
+      "team": "h",
+      "player": "Soufiane Rahimi",
+      "assist": "Chadi Riad"
+    },
+    {
+      "minute": 79,
+      "type": "yellow",
+      "team": "a",
+      "player": "Duckens Nazon"
+    },
+    {
+      "minute": 79,
+      "type": "yellow",
+      "team": "a",
+      "player": "Johny Placide"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "a",
+      "player": "Jean-Kevin Duverne",
+      "off": "Carlens Arcus"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "a",
+      "player": "Danley Jean Jacques",
+      "off": "Dominique Simon"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Anass Salah-Eddine",
+      "off": "Noussair Mazraoui"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Neil El Aynaoui",
+      "off": "Samir El Mourabet"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "a",
+      "player": "Lenny Joseph",
+      "off": "Frantzdy Pierrot"
+    },
+    {
+      "minute": 89,
+      "type": "goal",
+      "team": "h",
+      "player": "Gessime Yassine",
+      "assist": "Soufiane Rahimi"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "a",
+      "player": "Josué Casimir"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +415,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T00:15:41.628Z"
+  "updatedAt": "2026-06-25T01:10:40.297Z"
 }
