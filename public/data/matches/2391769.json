@@ -211,13 +211,13 @@
     "donuts": [
       [
         "Držení %",
-        40,
-        60
+        46,
+        54
       ],
       [
         "Na branku",
         1,
-        1
+        2
       ],
       [
         "Rohy",
@@ -234,7 +234,7 @@
       [
         "Střely celkem",
         1,
-        3
+        4
       ],
       [
         "Střely mimo",
@@ -245,6 +245,11 @@
         "Zblokované",
         0,
         1
+      ],
+      [
+        "Zákroky brankáře",
+        1,
+        0
       ],
       [
         "Žluté karty",
@@ -259,5 +264,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T20:25:40.065Z"
+  "updatedAt": "2026-06-25T20:35:43.951Z"
 }
