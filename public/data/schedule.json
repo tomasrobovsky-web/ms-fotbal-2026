@@ -967,7 +967,7 @@
     "timeUtc": "20:00:00",
     "venue": "Lincoln Financial Field",
     "round": 3,
-    "status": "2H",
+    "status": "FT",
     "homeScore": 0,
     "awayScore": 2
   },
@@ -985,7 +985,7 @@
     "timeUtc": "20:00:00",
     "venue": "MetLife Stadium",
     "round": 3,
-    "status": "2H",
+    "status": "FT",
     "homeScore": 2,
     "awayScore": 1
   },
