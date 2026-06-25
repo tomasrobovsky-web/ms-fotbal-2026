@@ -1,6 +1,82 @@
 {
   "id": "2391766",
-  "events": [],
+  "events": [
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Hee-chan Hwang",
+      "off": "Heung-min Son"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Seung-ho Paik",
+      "off": "Jin-gyu Kim"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Tae-seok Lee",
+      "off": "Jens Castrop"
+    },
+    {
+      "minute": 62,
+      "type": "sub",
+      "team": "h",
+      "player": "Oswin Appollis",
+      "off": "Tshepang Moremi"
+    },
+    {
+      "minute": 63,
+      "type": "goal",
+      "team": "h",
+      "player": "Thapelo Maseko",
+      "assist": "Tshepang Moremi"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "a",
+      "player": "Min-jae Kim",
+      "off": "Jin-seob Park"
+    },
+    {
+      "minute": 73,
+      "type": "yellow",
+      "team": "h",
+      "player": "Aubrey Modiba"
+    },
+    {
+      "minute": 74,
+      "type": "sub",
+      "team": "a",
+      "player": "Hyeon-gyu Oh",
+      "off": "Gue-sung Cho"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "h",
+      "player": "Thapelo Maseko",
+      "off": "Iqraam Rayners"
+    },
+    {
+      "minute": 79,
+      "type": "yellow",
+      "team": "a",
+      "player": "Gue-sung Cho"
+    },
+    {
+      "minute": 80,
+      "type": "sub",
+      "team": "h",
+      "player": "Relebohile Mofokeng",
+      "off": "Jayden Adams"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +360,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T05:55:40.302Z"
+  "updatedAt": "2026-06-25T06:05:40.939Z"
 }
