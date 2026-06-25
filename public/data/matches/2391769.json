@@ -1,6 +1,14 @@
 {
   "id": "2391769",
-  "events": [],
+  "events": [
+    {
+      "minute": 2,
+      "type": "goal",
+      "team": "a",
+      "player": "Leroy Sané",
+      "assist": "Florian Wirtz"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -194,5 +202,5 @@
   },
   "stats": null,
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T20:05:44.413Z"
+  "updatedAt": "2026-06-25T20:10:45.688Z"
 }
