@@ -949,9 +949,9 @@
     "timeUtc": "01:00:00",
     "venue": "Estadio BBVA",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391768",
@@ -1021,9 +1021,9 @@
     "timeUtc": "01:00:00",
     "venue": "Estadio Azteca",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2461117",

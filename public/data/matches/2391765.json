@@ -1,6 +1,123 @@
 {
   "id": "2391765",
-  "events": [],
+  "events": [
+    {
+      "minute": 7,
+      "type": "goal",
+      "team": "a",
+      "player": "Vinícius Júnior",
+      "assist": "Rayan"
+    },
+    {
+      "minute": 22,
+      "type": "goal",
+      "team": "a",
+      "player": "Vinícius Júnior",
+      "assist": ""
+    },
+    {
+      "minute": 45,
+      "type": "goal",
+      "team": "a",
+      "player": "Vinícius Júnior",
+      "assist": "Bruno Guimarães"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Andrew Robertson",
+      "off": "Kieran Tierney"
+    },
+    {
+      "minute": 60,
+      "type": "goal",
+      "team": "a",
+      "player": "Matheus Cunha",
+      "assist": "Bruno Guimarães"
+    },
+    {
+      "minute": 62,
+      "type": "yellow",
+      "team": "a",
+      "player": "Danilo"
+    },
+    {
+      "minute": 65,
+      "type": "sub",
+      "team": "a",
+      "player": "Casemiro",
+      "off": "Fabinho"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "a",
+      "player": "Lucas Paquetá",
+      "off": "Gabriel Martinelli"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Matheus Cunha",
+      "off": "Neymar"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "h",
+      "player": "Nathan Patterson",
+      "off": "Anthony Ralston"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "h",
+      "player": "Ben Gannon-Doak",
+      "off": "Ryan Christie"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "a",
+      "player": "Douglas Santos",
+      "off": "Alex Sandro"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "a",
+      "player": "Rayan",
+      "off": "Endrick"
+    },
+    {
+      "minute": 82,
+      "type": "yellow",
+      "team": "a",
+      "player": "Fabinho"
+    },
+    {
+      "minute": 89,
+      "type": "yellow",
+      "team": "h",
+      "player": "Ryan Christie"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Lawrence Shankland",
+      "off": "Che Adams"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "John McGinn",
+      "off": "Findlay Curtis"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +401,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T00:20:42.831Z"
+  "updatedAt": "2026-06-25T01:05:39.692Z"
 }
