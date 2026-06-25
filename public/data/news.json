@@ -225,15 +225,6 @@
     "publishedAt": "2026-06-25T12:00:00.000Z"
   },
   {
-    "id": "nl2b3q0",
-    "title": "Curacao sní o dalším překvapení, utká se s Pobřežím slonoviny",
-    "description": "Bude se snažit znovu překvapit. Curacao nastoupí ve svém posledním zápase v základní skupině na mistrovství světa ve fotbale proti Pobřeží slonoviny a může ještě snít o postupu do vyřazovací fáze. Duel začíná ve 22 hodin středoevropského času, Sport.cz vám z něj nabídne online reportáž.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-curacao-sni-o-dalsim-prekvapeni-utka-se-s-pobrezim-slonoviny-5488901",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-25T12:00:00.000Z"
-  },
-  {
     "id": "n1dn0qqo",
     "title": "Maročané mají důvod k optimismu. Musíme věřit, že můžeme MS vyhrát, vábí Vahbí",
     "description": "Maročtí fotbalisté po skončení bojů ve skupinové fázi cílí na mistrovství světa na nejvyšší mety. Trenér Muhammad Vahbí (49) po vítězství 4:2 nad Haiti v závěrečném duelu řekl, že jeho tým má potenciál celý šampionát vyhrát. Výběr africké země prošel úvodní fází turnaje bez porážky a míří za snem ještě vylepšit nečekané čtvrté místo z minulého šampionátu v Kataru.",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/zuWEyJWA-KfdGrtBa.jpg",
     "publishedAt": "2026-06-25T05:36:00.000Z"
+  },
+  {
+    "id": "nch3c87",
+    "title": "Ujíždí nám vlak, říká Poborský. Musíme s tím začít něco dělat, dodává Kadlec",
+    "description": "Moc optimisticky nevidí současný český fotbal jeho legendy. Karel Poborský a Michal Kadlec, kteří jsou v zámoří na světovém šampionátu v roli expertů České televize, byli na Aztéckém stadionu v Mexiku i při porážce 0:3 s tamní reprezentací, která ukončila českou účast na šampionátu. Po ní Poborský konstatoval, že českému fotbalu ujíždí vlak a už nejsou vidět ani koncová světla.",
+    "url": "https://sport.ceskatelevize.cz/clanek/fotbal/ujizdi-nam-vlak-rika-poborsky-musime-s-tim-zacit-neco-delat-dodava-kadlec-157605",
+    "source": "ČT sport",
+    "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/ZDU4ZTk4ZDZlMGQwZjUwMFaBMbnsFYiyoA2jM8xO7QddRfVEVeBtXOTAKtD74pqW98mRP5jwvpL-Y8yxgMLLObiIavcRMrkz0gJTarX4iEj3GLhYMrnOI-XWfp_T5QMVMT1qpj3y_jGU8lXI7lcxBbQCkMCzBOtMuinbZ2IVO6TtNDbuaiV2clhVtGRvv8TQ.jpg?width=360",
+    "publishedAt": "2026-06-25T05:06:57.000Z"
   }
 ]
