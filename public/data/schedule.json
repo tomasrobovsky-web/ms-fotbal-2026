@@ -967,9 +967,9 @@
     "timeUtc": "20:00:00",
     "venue": "Lincoln Financial Field",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391769",
@@ -985,9 +985,9 @@
     "timeUtc": "20:00:00",
     "venue": "MetLife Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "2391771",
