@@ -9,13 +9,28 @@
       "assist": "Abdoulaye Seck"
     },
     {
-      "minute": 10,
-      "type": "yellow",
+      "minute": 13,
+      "type": "red",
       "team": "a",
       "player": "Rebin Sulaka"
+    },
+    {
+      "minute": 16,
+      "type": "sub",
+      "team": "a",
+      "player": "Ahmed Qasem",
+      "off": "Manaf Younis"
+    },
+    {
+      "minute": 18,
+      "type": "yellow",
+      "team": "h",
+      "player": "Abdoulaye Seck"
     }
   ],
-  "reds": {},
+  "reds": {
+    "a": true
+  },
   "lineups": null,
   "stats": {
     "donuts": [
@@ -109,5 +124,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T19:25:38.191Z"
+  "updatedAt": "2026-06-26T19:31:01.885Z"
 }

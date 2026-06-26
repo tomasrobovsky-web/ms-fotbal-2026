@@ -30,28 +30,217 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Patrick Berg",
+          "num": 6,
+          "pos": "DF",
+          "club": "Bodø/Glimt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s8sr041769181767.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png"
+        },
+        {
+          "name": "Leo Østigård",
+          "num": 4,
+          "pos": "DF",
+          "club": "Genoa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/riue4t1758997507.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png"
+        },
+        {
+          "name": "Fredrik Bjørkan",
+          "num": 15,
+          "pos": "DF",
+          "club": "Bodø/Glimt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bc3jn51769181808.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png"
+        },
+        {
+          "name": "Fredrik Aursnes",
+          "num": 14,
+          "pos": "MF",
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vabjep1681328214.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+        },
+        {
+          "name": "Kristian Thorstvedt",
+          "num": 18,
+          "pos": "MF",
+          "club": "Sassuolo",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2kqceq1764106371.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png"
+        },
+        {
+          "name": "Thelo Aasgaard",
+          "num": 19,
+          "pos": "MF",
+          "club": "Rangers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ndszl01777016924.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png"
+        },
+        {
+          "name": "Jørgen Strand Larsen",
+          "num": 11,
+          "pos": "FW",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kalrqi1772136115.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Andreas Schjelderup",
+          "num": 21,
+          "pos": "FW",
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ihgav61758216246.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+        },
+        {
+          "name": "Egil Selvik",
+          "num": 13,
+          "pos": "GK",
+          "club": "Watford",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ozeg7h1761216738.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png"
+        },
+        {
+          "name": "Oscar Bobb",
+          "num": 22,
+          "pos": "FW",
+          "club": "Fulham",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6bdhe51772132928.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+        },
+        {
+          "name": "Henrik Falchener",
+          "num": 25,
+          "pos": "DF",
+          "club": "Viking",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xit69q1779444861.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9mzq961590148192.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Mike Maignan",
+          "num": 16,
+          "pos": "GK",
+          "club": "AC Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/sw5ukh1758892671.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "num": 7,
+          "pos": "FW",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pstgy21766335175.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Kylian Mbappé",
+          "num": 10,
+          "pos": "FW",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h9u9vz1733653583.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Dayot Upamecano",
+          "num": 4,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a1hyfj1756416177.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Jules Koundé",
+          "num": 5,
+          "pos": "DF",
+          "club": "Barcelona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qea88i1726509803.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "name": "Aurélien Tchouaméni",
+          "num": 8,
+          "pos": "DF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4o417k1733653668.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Théo Hernandez",
+          "num": 19,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4d3g7j1675234242.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Michael Olise",
+          "num": 11,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r4vx6b1756408807.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Maxence Lacroix",
+          "num": 26,
+          "pos": "DF",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6p7f5w1761492552.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Manu Koné",
+          "num": 6,
+          "pos": "MF",
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/s4wyo21758815461.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "name": "Désiré Doué",
+          "num": 20,
+          "pos": "MF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5m0p4g1766335194.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
         "xG",
-        0,
-        0.23
+        0.16,
+        0.44
       ],
       [
         "Držení %",
-        35,
-        65
+        31,
+        69
       ],
       [
         "Na branku",
-        0,
-        5
+        1,
+        7
       ],
       [
         "Přesnost %",
-        71,
-        90
+        70,
+        89
       ],
       [
         "Rohy",
@@ -60,59 +249,59 @@
       ],
       [
         "Fauly",
-        2,
-        0
+        3,
+        3
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        0,
-        5
+        3,
+        8
       ],
       [
         "Střely mimo",
-        0,
+        1,
         0
       ],
       [
         "Zblokované",
-        0,
-        0
+        1,
+        1
       ],
       [
         "Střely ve vápně",
-        0,
-        3
+        1,
+        5
       ],
       [
         "Střely zvenku",
-        0,
-        2
+        2,
+        3
       ],
       [
         "Přihrávky",
-        31,
-        60
+        63,
+        144
       ],
       [
         "Ofsajdy",
         0,
-        0
+        1
       ],
       [
         "Přesné přihr.",
-        22,
-        54
+        44,
+        128
       ],
       [
         "Zákroky brankáře",
-        4,
-        0
+        5,
+        1
       ],
       [
         "Žluté karty",
-        0,
+        1,
         0
       ],
       [
@@ -123,5 +312,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T19:25:35.763Z"
+  "updatedAt": "2026-06-26T19:30:59.234Z"
 }
