@@ -643,6 +643,10 @@
     "name": "Rijeka",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/z8bxvi1603310975.png"
   },
+  "134400": {
+    "name": "Maccabi Haifa",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/kh3psh1781805608.png"
+  },
   "134406": {
     "name": "St. Gallen",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/tyvyvs1422644512.png"
@@ -1063,9 +1067,17 @@
     "name": "Foolad Khuzestan",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/ijxpe21582291802.png"
   },
+  "139221": {
+    "name": "Port",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/fmn4hj1582396491.png"
+  },
   "139334": {
     "name": "Selangor",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/uhcda31583335092.png"
+  },
+  "139356": {
+    "name": "Persib Bandung",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/yicyke1733590181.png"
   },
   "139378": {
     "name": "Nasaf",

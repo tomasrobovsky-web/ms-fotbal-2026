@@ -31,28 +31,217 @@
   "reds": {
     "a": true
   },
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Sadio Mané",
+          "num": 10,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cify0u1678370417.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Idrissa Gueye",
+          "num": 5,
+          "pos": "DF",
+          "club": "Everton",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ag9fm11756976825.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+        },
+        {
+          "name": "Ismaïla Sarr",
+          "num": 18,
+          "pos": "FW",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1abo611761492444.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Moussa Niakhaté",
+          "num": 19,
+          "pos": "DF",
+          "club": "Lyon",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ua1b511766146528.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png"
+        },
+        {
+          "name": "Krépin Diatta",
+          "num": 15,
+          "pos": "MF",
+          "club": "Monaco",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5uag2g1766238000.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+        },
+        {
+          "name": "Ismail Jakobs",
+          "num": 14,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/iq9jcp1769177723.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Abdoulaye Seck",
+          "num": 4,
+          "pos": "DF",
+          "club": "Maccabi Haifa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vlprn51780568027.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kh3psh1781805608.png"
+        },
+        {
+          "name": "Mory Diaw",
+          "num": 23,
+          "pos": "GK",
+          "club": "Le Havre",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3ckyd51765990168.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png"
+        },
+        {
+          "name": "Habib Diarra",
+          "num": 21,
+          "pos": "MF",
+          "club": "Sunderland",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fbklgi1756903777.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+        },
+        {
+          "name": "Lamine Camara",
+          "num": 8,
+          "pos": "MF",
+          "club": "Monaco",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1fl2tg1766237973.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+        },
+        {
+          "name": "Ibrahim Mbaye",
+          "num": 20,
+          "pos": "FW",
+          "club": "Paris Saint-Germain",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/aquiiw1766335383.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Ali Al-Hamadi",
+          "num": 9,
+          "pos": "FW",
+          "club": "Luton Town",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/c2vni01766070789.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png"
+        },
+        {
+          "name": "Zidane Iqbal",
+          "num": 14,
+          "pos": "MF",
+          "club": "Jong Utrecht",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m60b8d1723059508.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lmhej21625167088.png"
+        },
+        {
+          "name": "Amir Al-Ammari",
+          "num": 16,
+          "pos": "DF",
+          "club": "Cracovia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z2j9fm1718053097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png"
+        },
+        {
+          "name": "Rebin Sulaka",
+          "num": 2,
+          "pos": "DF",
+          "club": "Port",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/brke7t1780589135.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fmn4hj1582396491.png"
+        },
+        {
+          "name": "Ahmed Qasem",
+          "num": 11,
+          "pos": "FW",
+          "club": "Nashville SC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qn3lv21766742386.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png"
+        },
+        {
+          "name": "Merchas Doski",
+          "num": 23,
+          "pos": "DF",
+          "club": "Viktoria Plzeň",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t79mso1780581036.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png"
+        },
+        {
+          "name": "Ali Jasim",
+          "num": 17,
+          "pos": "MF",
+          "club": "Al-Najma Unaizah",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xhyr981780581222.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/o65fn01737686968.png"
+        },
+        {
+          "name": "Ibrahim Bayesh",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al-Dhahra",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qbwn6o1780580871.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/t3dhn31769895462.png"
+        },
+        {
+          "name": "Frans Putros",
+          "num": 26,
+          "pos": "DF",
+          "club": "Persib Bandung",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cajtvx1780589062.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yicyke1733590181.png"
+        },
+        {
+          "name": "Ahmed Basil",
+          "num": 22,
+          "pos": "GK",
+          "club": "Al-Shorta",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/459ct11780580845.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jqu43e1580935653.png"
+        },
+        {
+          "name": "Akam Hashem",
+          "num": 5,
+          "pos": "DF",
+          "club": "Al-Zawraa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/99t8vz1780581097.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
         "xG",
-        0.69,
-        0
+        0.87,
+        0.08
       ],
       [
         "Držení %",
-        27,
-        73
+        42,
+        58
       ],
       [
         "Na branku",
-        1,
+        2,
         0
       ],
       [
         "Přesnost %",
-        79,
-        84
+        76,
+        80
       ],
       [
         "Rohy",
@@ -61,19 +250,19 @@
       ],
       [
         "Fauly",
-        0,
-        1
+        1,
+        3
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        3,
+        6,
         0
       ],
       [
         "Střely mimo",
-        1,
+        3,
         0
       ],
       [
@@ -83,18 +272,18 @@
       ],
       [
         "Střely ve vápně",
-        2,
+        3,
         0
       ],
       [
         "Střely zvenku",
-        1,
+        3,
         0
       ],
       [
         "Přihrávky",
-        14,
-        45
+        34,
+        51
       ],
       [
         "Ofsajdy",
@@ -103,26 +292,26 @@
       ],
       [
         "Přesné přihr.",
-        11,
-        38
+        26,
+        41
       ],
       [
         "Zákroky brankáře",
         0,
-        0
+        1
       ],
       [
         "Žluté karty",
-        0,
+        1,
         0
       ],
       [
         "Červené karty",
         0,
-        0
+        1
       ]
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T19:31:01.885Z"
+  "updatedAt": "2026-06-26T19:35:41.520Z"
 }
