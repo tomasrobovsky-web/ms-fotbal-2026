@@ -27,6 +27,13 @@
       "team": "h",
       "player": "Thelo Aasgaard",
       "assist": "Andreas Schjelderup"
+    },
+    {
+      "minute": 32,
+      "type": "goal",
+      "team": "a",
+      "player": "Ousmane Dembélé",
+      "assist": "Aurélien Tchouaméni"
     }
   ],
   "reds": {},
@@ -312,5 +319,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T19:40:45.155Z"
+  "updatedAt": "2026-06-26T19:45:41.339Z"
 }
