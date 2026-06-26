@@ -1057,7 +1057,7 @@
     "timeUtc": "02:00:00",
     "venue": "Levi's Stadium",
     "round": 3,
-    "status": "HT",
+    "status": "2H",
     "homeScore": 0,
     "awayScore": 0
   },
@@ -1093,7 +1093,7 @@
     "timeUtc": "02:00:00",
     "venue": "SoFi Stadium",
     "round": 3,
-    "status": "HT",
+    "status": "2H",
     "homeScore": 2,
     "awayScore": 1
   },
