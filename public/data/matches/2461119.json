@@ -26,6 +26,69 @@
       "type": "yellow",
       "team": "h",
       "player": "Abdoulaye Seck"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Ahmed Basil",
+      "off": "Jalal Hachim"
+    },
+    {
+      "minute": 56,
+      "type": "goal",
+      "team": "h",
+      "player": "Ismaïla Sarr",
+      "assist": "Lamine Camara"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Habib Diarra",
+      "off": "Pape Gueye"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Ibrahim Mbaye",
+      "off": "Iliman Ndiaye"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Lamine Camara",
+      "off": "Nicolas Jackson"
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "a",
+      "player": "Ali Jasim",
+      "off": ""
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "a",
+      "player": "Ali Al-Hamadi",
+      "off": ""
+    },
+    {
+      "minute": 58,
+      "type": "sub",
+      "team": "h",
+      "player": "Abdoulaye Seck",
+      "off": "Pathé Ciss"
+    },
+    {
+      "minute": 59,
+      "type": "goal",
+      "team": "h",
+      "player": "Pape Gueye",
+      "assist": "Ismaïla Sarr"
     }
   ],
   "reds": {
@@ -313,5 +376,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T20:35:37.436Z"
+  "updatedAt": "2026-06-26T20:40:40.634Z"
 }
