@@ -114,18 +114,217 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Uğurcan Çakır",
+          "num": 23,
+          "pos": "GK",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/c98xoe1769177452.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Abdülkerim Bardakcı",
+          "num": 14,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uncf0f1769178149.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Zeki Çelik",
+          "num": 2,
+          "pos": "DF",
+          "club": "Roma",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b8hg8o1758816005.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "name": "Ozan Kabak",
+          "num": 15,
+          "pos": "DF",
+          "club": "Hoffenheim",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gtnzmr1763494412.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        },
+        {
+          "name": "Orkun Kökçü",
+          "num": 6,
+          "pos": "MF",
+          "club": "Beşiktaş",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zrp45u1769170024.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+        },
+        {
+          "name": "Salih Özcan",
+          "num": 5,
+          "pos": "DF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8dw4231756326486.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Arda Güler",
+          "num": 8,
+          "pos": "MF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lwnog21768499165.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Eren Elmalı",
+          "num": 13,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/y81fb11769177306.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Barış Alper Yılmaz",
+          "num": 21,
+          "pos": "FW",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/bmtzkn1717532810.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Kenan Yıldız",
+          "num": 11,
+          "pos": "FW",
+          "club": "Juventus",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zgep4d1759225554.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "name": "Oğuz Aydın",
+          "num": 24,
+          "pos": "FW",
+          "club": "Fenerbahçe",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rni98l1769179605.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-5-1",
+      "xi": [
+        {
+          "name": "Weston McKennie",
+          "num": 8,
+          "pos": "MF",
+          "club": "Juventus",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ct34v01759225325.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "name": "Timothy Weah",
+          "num": 21,
+          "pos": "MF",
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mxdwu11766153578.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+        },
+        {
+          "name": "Giovanni Reyna",
+          "num": 7,
+          "pos": "MF",
+          "club": "Borussia Mönchengladbach",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cwatcj1781348049.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png"
+        },
+        {
+          "name": "Matt Turner",
+          "num": 1,
+          "pos": "GK",
+          "club": "New England Revolution",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hyxs351778269585.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ula2l1639493143.png"
+        },
+        {
+          "name": "Brenden Aaronson",
+          "num": 11,
+          "pos": "MF",
+          "club": "Leeds United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tt8t951757075870.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        },
+        {
+          "name": "Miles Robinson",
+          "num": 12,
+          "pos": "DF",
+          "club": "FC Cincinnati",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2v5uwl1766429447.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvhsqc1707631046.png"
+        },
+        {
+          "name": "Auston Trusty",
+          "num": 6,
+          "pos": "DF",
+          "club": "Celtic",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lqsh901777019751.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png"
+        },
+        {
+          "name": "Ricardo Pepi",
+          "num": 9,
+          "pos": "FW",
+          "club": "PSV Eindhoven",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xmhafw1764595238.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        },
+        {
+          "name": "Sebastian Berhalter",
+          "num": 14,
+          "pos": "MF",
+          "club": "Vancouver Whitecaps",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/krzh4l1766434822.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png"
+        },
+        {
+          "name": "Joe Scally",
+          "num": 23,
+          "pos": "DF",
+          "club": "Borussia Mönchengladbach",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5i06fh1756313309.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png"
+        },
+        {
+          "name": "Mark McKenzie",
+          "num": 22,
+          "pos": "DF",
+          "club": "Toulouse",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2f11kz1765967134.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
+        "xG",
+        3.21,
+        2.01
+      ],
+      [
         "Držení %",
-        47,
-        53
+        48,
+        52
       ],
       [
         "Na branku",
         3,
         7
+      ],
+      [
+        "Přesnost %",
+        77,
+        85
       ],
       [
         "Rohy",
@@ -155,14 +354,34 @@
         5
       ],
       [
+        "Střely ve vápně",
+        8,
+        15
+      ],
+      [
+        "Střely zvenku",
+        1,
+        3
+      ],
+      [
+        "Přihrávky",
+        435,
+        469
+      ],
+      [
         "Ofsajdy",
         2,
         5
       ],
       [
+        "Přesné přihr.",
+        333,
+        397
+      ],
+      [
         "Zákroky brankáře",
         5,
-        0
+        1
       ],
       [
         "Žluté karty",
@@ -177,5 +396,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T06:35:38.453Z"
+  "updatedAt": "2026-06-26T09:40:46.109Z"
 }
