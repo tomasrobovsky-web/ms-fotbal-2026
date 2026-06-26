@@ -89,6 +89,26 @@
       "team": "h",
       "player": "Pape Gueye",
       "assist": "Ismaïla Sarr"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Zidane Iqbal",
+      "off": "Kevin Yakob"
+    },
+    {
+      "minute": 71,
+      "type": "goal",
+      "team": "h",
+      "player": "Pape Gueye",
+      "assist": "Iliman Ndiaye"
+    },
+    {
+      "minute": 75,
+      "type": "yellow",
+      "team": "a",
+      "player": "Amir Al-Ammari"
     }
   ],
   "reds": {
@@ -376,5 +396,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T20:40:40.634Z"
+  "updatedAt": "2026-06-26T21:01:09.602Z"
 }
