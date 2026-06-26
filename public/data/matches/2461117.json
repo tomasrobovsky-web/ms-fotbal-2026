@@ -201,25 +201,25 @@
       ],
       [
         "Na branku",
-        0,
+        2,
         1
       ],
       [
         "Rohy",
-        0,
-        2
+        1,
+        3
       ],
       [
         "Fauly",
-        4,
-        1
+        11,
+        6
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        2,
-        1
+        4,
+        2
       ],
       [
         "Střely mimo",
@@ -229,22 +229,22 @@
       [
         "Zblokované",
         1,
-        0
+        1
       ],
       [
         "Ofsajdy",
         1,
-        0
+        1
       ],
       [
         "Zákroky brankáře",
         1,
-        0
+        2
       ],
       [
         "Žluté karty",
         0,
-        0
+        1
       ],
       [
         "Červené karty",
@@ -254,5 +254,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-25T23:30:58.866Z"
+  "updatedAt": "2026-06-26T00:01:09.671Z"
 }
