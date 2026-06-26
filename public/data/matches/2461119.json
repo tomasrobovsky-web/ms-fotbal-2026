@@ -109,6 +109,32 @@
       "type": "yellow",
       "team": "a",
       "player": "Amir Al-Ammari"
+    },
+    {
+      "minute": 81,
+      "type": "sub",
+      "team": "h",
+      "player": "Ismaïla Sarr",
+      "off": "Assane Diao"
+    },
+    {
+      "minute": 81,
+      "type": "yellow",
+      "team": "h",
+      "player": "Pape Gueye"
+    },
+    {
+      "minute": 82,
+      "type": "goal",
+      "team": "h",
+      "player": "Iliman Ndiaye",
+      "assist": "Pape Gueye"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "a",
+      "player": "Merchas Doski"
     }
   ],
   "reds": {
@@ -396,5 +422,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T21:15:42.463Z"
+  "updatedAt": "2026-06-26T21:40:40.086Z"
 }
