@@ -7,39 +7,44 @@
     "donuts": [
       [
         "Držení %",
-        26,
-        74
+        37,
+        63
       ],
       [
         "Na branku",
         0,
-        1
+        3
       ],
       [
         "Rohy",
         0,
-        1
+        3
       ],
       [
         "Fauly",
-        0,
-        1
+        5,
+        4
       ]
     ],
     "bars": [
       [
         "Střely celkem",
+        1,
+        6
+      ],
+      [
+        "Střely mimo",
+        1,
+        2
+      ],
+      [
+        "Zblokované",
         0,
         1
       ],
       [
-        "Střely mimo",
-        0,
-        0
-      ],
-      [
         "Zákroky brankáře",
-        1,
+        3,
         0
       ],
       [
@@ -55,5 +60,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T02:10:45.029Z"
+  "updatedAt": "2026-06-26T03:01:10.746Z"
 }
