@@ -1,6 +1,105 @@
 {
   "id": "2391771",
-  "events": [],
+  "events": [
+    {
+      "minute": 3,
+      "type": "goal",
+      "team": "a",
+      "player": "Ellyes Skhiri",
+      "assist": ""
+    },
+    {
+      "minute": 7,
+      "type": "goal",
+      "team": "a",
+      "player": "Brian Brobbey",
+      "assist": "Virgil van Dijk"
+    },
+    {
+      "minute": 54,
+      "type": "goal",
+      "team": "h",
+      "player": "Hazem Mastouri",
+      "assist": "Hannibal Mejbri"
+    },
+    {
+      "minute": 62,
+      "type": "goal",
+      "team": "a",
+      "player": "Jan Paul van Hecke",
+      "assist": "Tijjani Reijnders"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "h",
+      "player": "Rani Khedira",
+      "off": "Hadj Mahmoud"
+    },
+    {
+      "minute": 68,
+      "type": "sub",
+      "team": "h",
+      "player": "Anis Ben Slimane",
+      "off": "Elias Achouri"
+    },
+    {
+      "minute": 68,
+      "type": "sub",
+      "team": "h",
+      "player": "Mohamed Amine Ben Hamida",
+      "off": "Mortadha Ben Ouanes"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Frenkie de Jong",
+      "off": "Teun Koopmeiners"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Tijjani Reijnders",
+      "off": "Justin Kluivert"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Donyell Malen",
+      "off": "Crysencio Summerville"
+    },
+    {
+      "minute": 75,
+      "type": "sub",
+      "team": "h",
+      "player": "Ismaël Gharbi",
+      "off": "Firas Chaouat"
+    },
+    {
+      "minute": 77,
+      "type": "sub",
+      "team": "a",
+      "player": "Brian Brobbey",
+      "off": "Memphis Depay"
+    },
+    {
+      "minute": 84,
+      "type": "sub",
+      "team": "a",
+      "player": "Cody Gakpo",
+      "off": "Noa Lang"
+    },
+    {
+      "minute": 90,
+      "type": "sub",
+      "team": "h",
+      "player": "Hazem Mastouri",
+      "off": "Sebastian Tounekti"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -254,5 +353,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T01:05:35.880Z"
+  "updatedAt": "2026-06-26T01:40:45.139Z"
 }

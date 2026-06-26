@@ -219,12 +219,12 @@
       [
         "Střely celkem",
         8,
-        10
+        11
       ],
       [
         "Střely mimo",
         3,
-        2
+        3
       ],
       [
         "Zblokované",
@@ -254,5 +254,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T01:10:49.411Z"
+  "updatedAt": "2026-06-26T01:40:47.645Z"
 }
