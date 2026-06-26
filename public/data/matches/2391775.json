@@ -34,6 +34,27 @@
       "team": "a",
       "player": "Ousmane Dembélé",
       "assist": "Aurélien Tchouaméni"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Fredrik Bjørkan",
+      "off": "Marcus Pedersen"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Kristian Thorstvedt",
+      "off": "Morten Thorsby"
+    },
+    {
+      "minute": 50,
+      "type": "goal",
+      "team": "h",
+      "player": "Jørgen Strand Larsen",
+      "assist": "Jørgen Strand Larsen"
     }
   ],
   "reds": {},
@@ -319,5 +340,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-26T20:01:03.362Z"
+  "updatedAt": "2026-06-26T20:25:37.288Z"
 }
