@@ -1,0 +1,23 @@
+{
+  "id": "2391775",
+  "events": [
+    {
+      "minute": 7,
+      "type": "goal",
+      "team": "a",
+      "player": "Ousmane Dembélé",
+      "assist": "Kylian Mbappé"
+    },
+    {
+      "minute": 10,
+      "type": "yellow",
+      "team": "h",
+      "player": "Patrick Berg"
+    }
+  ],
+  "reds": {},
+  "lineups": null,
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-26T19:15:43.285Z"
+}
