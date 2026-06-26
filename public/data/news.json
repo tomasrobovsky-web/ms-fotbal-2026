@@ -207,15 +207,6 @@
     "publishedAt": "2026-06-25T19:39:00.000Z"
   },
   {
-    "id": "n1h8wkay",
-    "title": "Paraguay – Austrálie 0:0. Nizozemci přejeli Tunisko, Ekvádor otočil duel s Německem",
-    "description": "Ekvádor si ve skupině E vítězstvím nad Německem vybojoval postup ze třetího místa. Druhou pozici v tabulce si pojistilo výhrou 2:0 nad sympatickým Curacaem Pobřeží slonoviny. Nizozemci přejeli Tunisko 3:1 a vyhráli skupinu F před Japonskem, které remizovalo se Švédskem 1:1. Na ČT sport a ČT sport Plus můžete nyní sledovat zápas Paraguaye s Austrálií, souběžně se hraje také utkání Turecko - USA.",
-    "url": "https://sport.ceskatelevize.cz/clanek/fotbal/curacao-pobrezi-slonoviny-boj-o-postup-ze-skupiny-e-vrcholi-157623",
-    "source": "ČT sport",
-    "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/NTI1NDJjNTQxMmVmNTM4Mncxt4FMdOyKPA7lAXUhKHZ1N8msm-_2upLuGw0gNZMFGj-A15x2daA6oCXXSqDx4yS0cR6mASyJH9eRDCqfp4pzMZTDNpYphcS52MQg767SMFLJ4HIJZvx7npq-ZOCZuT2tFRvSlq36bSEnn73Efy9a4VcfnxbkSRWZP8S3e4E5.JPG?width=360",
-    "publishedAt": "2026-06-25T19:14:00.000Z"
-  },
-  {
     "id": "n2dtffo",
     "title": "KOMENTÁŘ: Reprezentace potřebuje změny, Schick končí s pachutí",
     "description": "Stali se hrdiny, kteří dostali Česko po dlouhých dvou dekádách na fotbalový světový šampionát. Turnaj v USA, Mexiku a Kanadě měl být určitým reprezentačním vrcholem pro hráče kolem třicítky, kteří národní tým v posledních letech táhli. Stalo se tak? Spíše ne, turnaj rozhodně nedopadl podle představ. Přinesl ale začátek personální obměny, která je nevyhnutelná.",
@@ -271,8 +262,8 @@
   },
   {
     "id": "n1ap45ry",
-    "title": "FOTBAL ONLINE: Hned po pauze Američané vyrovnali. Je tu nervózní závěr",
-    "description": "Úspěšný celek proti jednomu z největších zklamání fotbalového mistrovství světa. Jeden ze závěrečných duelů skupiny D proti sobě svádí už jistého vítěze skupiny z USA a Turecko, které už má jistý konec na turnaji. Výkop je načasován na 4:00, průběh zápasu přiblíží textová reportáž na Sport.cz. Stav je 2:2.",
+    "title": "Šílené drama v závěru! Turci posledním kopem zápasu porazili USA, s turnajem se ale loučí",
+    "description": "Utkání, které možná u leckoho předčilo očekávání. Duel USA s Tureckem ve skupině D fotbalového mistrovství světa byl fakticky o ničem. Američané už měli jisté vítězství ve skupině a postup do vyřazovací fáze, zatímco Turci předčasné vyřazení z turnaje. Jenže. I tak padaly krásné góly, k vidění bylo závěrečné drama. Turecko brankou Kaana Ayhana v osmé minutě nastavení vyhráli 3:2. Ale stejně končí, USA si o osmifinále zahraje s výběrem Bosny a Hercegoviny.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-kral-skupiny-z-usa-vyzve-odepsane-turecko-5489311",
     "source": "Sport.cz",
     "imageUrl": null,
@@ -358,5 +349,14 @@
     "source": "Sport.cz",
     "imageUrl": null,
     "publishedAt": "2026-06-25T14:53:33.000Z"
+  },
+  {
+    "id": "nk3gz9b",
+    "title": "Co řekli v cizině o Češích na MS: archaický styl, z ostudy kabát, vytratili se beze stopy",
+    "description": "České vyřazení na mistrovství světa ve fotbale? Po porážce 0:3 s domácími v Mexiku ho řada médií v cizině přecházela bez povšimnutí. Několik z nich však vystoupení Koubkova týmu ohodnotilo a nezazněla lichotivá slova. Přinášíme výběr reakcí ze zahraničí. Pavouk play off MS ZDE 2026 >>>",
+    "url": "https://isport.blesk.cz/clanek/fotbal-reprezentace-ms-fotbal-2026/477075/co-rekli-v-cizine-o-cesich-na-ms-archaicky-styl-z-ostudy-kabat-vytratili-se-beze-stopy.html",
+    "source": "iSport",
+    "imageUrl": "https://1884403144.rsc.cdn77.org/foto/sport-fotbal-cesko-mexiko-ms-reprezentace/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSk6Zm9jYWwoMjg2eDI3OjE3ODN4NTIzKS9pbWc/9886916.jpg?v=1&st=KXroFJQBwAs-Xnliy6fsFj1BfdvZTsW8YKG1-kOE93M&ts=1600812000&e=0",
+    "publishedAt": "2026-06-25T14:50:00.000Z"
   }
 ]
