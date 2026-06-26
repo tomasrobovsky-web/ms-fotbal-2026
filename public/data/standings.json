@@ -15,7 +15,7 @@
     "goalDiff": 6,
     "points": 9,
     "form": "WWW",
-    "updatedAt": "2026-06-25 10:00:06"
+    "updatedAt": "2026-06-26 10:00:09"
   },
   {
     "rank": 1,
@@ -24,16 +24,16 @@
     "group": "Group D",
     "badge": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png/tiny",
     "description": "Round of 32",
-    "played": 2,
+    "played": 3,
     "won": 2,
     "drawn": 0,
-    "lost": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 1,
-    "goalDiff": 5,
+    "lost": 1,
+    "goalsFor": 8,
+    "goalsAgainst": 4,
+    "goalDiff": 4,
     "points": 6,
-    "form": "WW",
-    "updatedAt": "2026-06-25 10:00:06"
+    "form": "LWW",
+    "updatedAt": "2026-06-26 10:00:09"
   },
   {
     "rank": 1,
@@ -51,7 +51,7 @@
     "goalDiff": 6,
     "points": 7,
     "form": "WWD",
-    "updatedAt": "2026-06-25 10:00:06"
+    "updatedAt": "2026-06-26 10:00:09"
   },
   {
     "rank": 1,
@@ -69,7 +69,7 @@
     "goalDiff": 4,
     "points": 7,
     "form": "WWD",
-    "updatedAt": "2026-06-25 10:00:06"
+    "updatedAt": "2026-06-26 10:00:09"
   },
   {
     "rank": 1,
@@ -78,15 +78,15 @@
     "group": "Group E",
     "badge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png/tiny",
     "description": "Round of 32",
-    "played": 2,
+    "played": 3,
     "won": 2,
     "drawn": 0,
-    "lost": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 2,
-    "goalDiff": 7,
+    "lost": 1,
+    "goalsFor": 10,
+    "goalsAgainst": 4,
+    "goalDiff": 6,
     "points": 6,
-    "form": "WW",
-    "updatedAt": "2026-06-25 10:00:06"
+    "form": "LWW",
+    "updatedAt": "2026-06-26 10:00:09"
   }
 ]
