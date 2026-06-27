@@ -55,6 +55,41 @@
       "team": "a",
       "player": "Derrick Luckassen",
       "assist": "Ernest Nuamah"
+    },
+    {
+      "minute": 78,
+      "type": "sub",
+      "team": "h",
+      "player": "Mateo Kovačić",
+      "off": "Mario Pašalić"
+    },
+    {
+      "minute": 83,
+      "type": "goal",
+      "team": "h",
+      "player": "Nikola Vlašić",
+      "assist": "Luka Modrić"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Kwasi Sibo",
+      "off": "Caleb Yirenkyi"
+    },
+    {
+      "minute": 88,
+      "type": "sub",
+      "team": "h",
+      "player": "Martin Baturina",
+      "off": "Marco Pašalić"
+    },
+    {
+      "minute": 88,
+      "type": "sub",
+      "team": "h",
+      "player": "Nikola Vlašić",
+      "off": "Joško Gvardiol"
     }
   ],
   "reds": {},
@@ -340,5 +375,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T22:35:35.067Z"
+  "updatedAt": "2026-06-27T22:55:38.576Z"
 }
