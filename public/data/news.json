@@ -270,15 +270,6 @@
     "publishedAt": "2026-06-27T03:05:00.000Z"
   },
   {
-    "id": "n1slxkon",
-    "title": "Francie chtěla uctít památku, FIFA odmítla! Naše myšlenky byly ale s trenérem, říkal asistent",
-    "description": "Francie naprosto suverénně ovládla skupinu I na fotbalovém mistrovství světa. Potvrdila to i v posledním zápase proti Norsku (4:1). Hvězdná parta kolem kapitána Kyliana Mbappého se však musela obejít bez svého hlavního trenéra Didiera Deschampse, který kvůli úmrtí v rodině odletěl z dějiště šampionátu.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-francie-chtela-uctit-pamatku-fifa-odmitla-nase-myslenky-byly-ale-s-trenerem-rikal-asistent-5490428",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-26T22:05:07.000Z"
-  },
-  {
     "id": "n1rkno34",
     "title": "Soutěž k MS ve fotbale – 27. června",
     "description": "Máte rádi FOTBAL a chcete si ještě zasoutěžit? Odpovězte správně na uvedenou otázku a vyhrajte.",
@@ -358,5 +349,14 @@
     "source": "iSport",
     "imageUrl": "https://1884403144.rsc.cdn77.org/foto/spoj-jan-koller/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSk6Zm9jYWwoMXg0NjoxMzE2eDI4MikvaW1n/9888234.jpg?v=0&st=RSx7oh4sBRYFjyPo6J85frxgbXU-3JgRvUzICo0KKho&ts=1600812000&e=0",
     "publishedAt": "2026-06-26T15:38:00.000Z"
+  },
+  {
+    "id": "n1fs5uiq",
+    "title": "Španělsko slaví triumf ve skupině, Uruguay na MS končí. Srazila ji chyba zkušeného gólmana",
+    "description": "Španělsko vyhrálo skupinu a Uruguay na mistrovství světa ve fotbale končí. Ve vzájemném souboji vyhrál evropský celek 1:0, Jihoameričany srazila chyba jejich gólmana Fernanda Muslery při jediné brance po střele Álexe Baeny. Uruguay závěr psychicky nezvládla, v nastaveném čase dostal červenou kartu za ostrý skluz Agustín Canobbio. Španělsko půjde v prvním kole vyřazovací fáze na Rakousko, nebo Alžírsko. Ze skupiny H postupují i Kapverdy, které získaly tři body za tři remízy, tu poslední uhrály se Saúdskou Arábií.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-spanelsko-chce-udrzet-prvni-misto-uruguay-bude-odvracet-vyrazeni-5490018",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-06-26T15:32:41.000Z"
   }
 ]
