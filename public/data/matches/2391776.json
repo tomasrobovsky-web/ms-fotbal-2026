@@ -1,7 +1,110 @@
 {
   "id": "2391776",
-  "events": [],
-  "reds": {},
+  "events": [
+    {
+      "minute": 42,
+      "type": "goal",
+      "team": "a",
+      "player": "Álex Baena",
+      "assist": "Marcos Llorente"
+    },
+    {
+      "minute": 45,
+      "type": "sub",
+      "team": "h",
+      "player": "Manuel Ugarte",
+      "off": "Nicolás De La Cruz"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Fernando Muslera",
+      "off": "Sergio Rochet"
+    },
+    {
+      "minute": 46,
+      "type": "yellow",
+      "team": "a",
+      "player": "Álex Baena"
+    },
+    {
+      "minute": 54,
+      "type": "yellow",
+      "team": "h",
+      "player": "Juan Manuel Sanabria"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Federico Valverde",
+      "off": "Federico Viñas"
+    },
+    {
+      "minute": 58,
+      "type": "yellow",
+      "team": "h",
+      "player": "Guillermo Varela"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "a",
+      "player": "Pedri",
+      "off": "Fabián Ruiz"
+    },
+    {
+      "minute": 60,
+      "type": "sub",
+      "team": "a",
+      "player": "Mikel Merino",
+      "off": "Dani Olmo"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "a",
+      "player": "Álex Baena",
+      "off": "Yéremy Pino"
+    },
+    {
+      "minute": 70,
+      "type": "sub",
+      "team": "h",
+      "player": "Juan Manuel Sanabria",
+      "off": "Brian Rodríguez"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Lamine Yamal",
+      "off": "Nico Williams"
+    },
+    {
+      "minute": 76,
+      "type": "sub",
+      "team": "a",
+      "player": "Mikel Oyarzabal",
+      "off": "Ferran Torres"
+    },
+    {
+      "minute": 90,
+      "type": "yellow",
+      "team": "h",
+      "player": "Nicolás De La Cruz"
+    },
+    {
+      "minute": 90,
+      "type": "red",
+      "team": "h",
+      "player": "Agustín Canobbio"
+    }
+  ],
+  "reds": {
+    "h": true
+  },
   "lineups": {
     "home": {
       "form": "6-1-3",
@@ -284,5 +387,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T02:20:44.034Z"
+  "updatedAt": "2026-06-27T02:30:51.004Z"
 }
