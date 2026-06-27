@@ -68,6 +68,62 @@
       "team": "a",
       "player": "Kevin De Bruyne",
       "assist": ""
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Leandro Trossard",
+      "off": "Alexis Saelemaekers"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "a",
+      "player": "Kevin De Bruyne",
+      "off": "Amadou Onana"
+    },
+    {
+      "minute": 79,
+      "type": "sub",
+      "team": "h",
+      "player": "Liberato Cacace",
+      "off": "Francis de Vries"
+    },
+    {
+      "minute": 84,
+      "type": "goal",
+      "team": "h",
+      "player": "Elijah Just",
+      "assist": ""
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Charles De Ketelaere",
+      "off": "Romelu Lukaku"
+    },
+    {
+      "minute": 85,
+      "type": "sub",
+      "team": "a",
+      "player": "Youri Tielemans",
+      "off": "Nicolas Raskin"
+    },
+    {
+      "minute": 86,
+      "type": "goal",
+      "team": "a",
+      "player": "Romelu Lukaku",
+      "assist": "Nicolas Raskin"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "a",
+      "player": "Alexis Saelemaekers",
+      "assist": "Romelu Lukaku"
     }
   ],
   "reds": {},
@@ -266,7 +322,7 @@
       [
         "xG",
         0.24,
-        3.59
+        3.6
       ],
       [
         "Držení %",
@@ -276,11 +332,11 @@
       [
         "Na branku",
         2,
-        9
+        10
       ],
       [
         "Přesnost %",
-        84,
+        85,
         88
       ],
       [
@@ -298,7 +354,7 @@
       [
         "Střely celkem",
         6,
-        34
+        35
       ],
       [
         "Střely mimo",
@@ -313,7 +369,7 @@
       [
         "Střely ve vápně",
         3,
-        22
+        23
       ],
       [
         "Střely zvenku",
@@ -322,8 +378,8 @@
       ],
       [
         "Přihrávky",
-        417,
-        521
+        435,
+        526
       ],
       [
         "Ofsajdy",
@@ -332,8 +388,8 @@
       ],
       [
         "Přesné přihr.",
-        352,
-        459
+        369,
+        462
       ],
       [
         "Zákroky brankáře",
@@ -353,5 +409,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T05:15:38.036Z"
+  "updatedAt": "2026-06-27T06:45:39.784Z"
 }
