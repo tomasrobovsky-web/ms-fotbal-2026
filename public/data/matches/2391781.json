@@ -1,6 +1,54 @@
 {
   "id": "2391781",
-  "events": [],
+  "events": [
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Tomás Rodríguez",
+      "off": "José Fajardo"
+    },
+    {
+      "minute": 53,
+      "type": "yellow",
+      "team": "h",
+      "player": "José Fajardo"
+    },
+    {
+      "minute": 60,
+      "type": "yellow",
+      "team": "a",
+      "player": "Jarell Quansah"
+    },
+    {
+      "minute": 62,
+      "type": "goal",
+      "team": "a",
+      "player": "Jude Bellingham",
+      "assist": "Bukayo Saka"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "a",
+      "player": "Jarell Quansah",
+      "off": "Djed Spence"
+    },
+    {
+      "minute": 63,
+      "type": "sub",
+      "team": "a",
+      "player": "Bukayo Saka",
+      "off": "Noni Madueke"
+    },
+    {
+      "minute": 67,
+      "type": "goal",
+      "team": "a",
+      "player": "Harry Kane",
+      "assist": "Jude Bellingham"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,45 +244,45 @@
     "donuts": [
       [
         "xG",
-        0.15,
-        0.45
+        0.24,
+        0.72
       ],
       [
         "Držení %",
-        28,
-        72
+        29,
+        71
       ],
       [
         "Na branku",
         2,
-        2
+        4
       ],
       [
         "Přesnost %",
-        73,
-        90
+        71,
+        89
       ],
       [
         "Rohy",
         1,
-        5
+        6
       ],
       [
         "Fauly",
-        8,
-        3
+        12,
+        6
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        3,
-        8
+        5,
+        12
       ],
       [
         "Střely mimo",
-        1,
-        5
+        3,
+        7
       ],
       [
         "Zblokované",
@@ -243,18 +291,18 @@
       ],
       [
         "Střely ve vápně",
-        2,
-        5
+        3,
+        8
       ],
       [
         "Střely zvenku",
-        1,
-        3
+        2,
+        4
       ],
       [
         "Přihrávky",
-        118,
-        316
+        164,
+        415
       ],
       [
         "Ofsajdy",
@@ -263,18 +311,18 @@
       ],
       [
         "Přesné přihr.",
-        86,
-        284
+        117,
+        368
       ],
       [
         "Zákroky brankáře",
-        2,
+        3,
         2
       ],
       [
         "Žluté karty",
-        0,
-        0
+        1,
+        1
       ],
       [
         "Červené karty",
@@ -284,5 +332,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T22:01:11.491Z"
+  "updatedAt": "2026-06-27T22:30:57.273Z"
 }
