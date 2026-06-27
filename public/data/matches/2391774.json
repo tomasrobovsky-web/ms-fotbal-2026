@@ -1,6 +1,75 @@
 {
   "id": "2391774",
-  "events": [],
+  "events": [
+    {
+      "minute": 28,
+      "type": "goal",
+      "team": "a",
+      "player": "Leandro Trossard",
+      "assist": ""
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Sarpreet Singh",
+      "off": "Jesse Randall"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Ryan Thomas",
+      "off": "Ben Old"
+    },
+    {
+      "minute": 46,
+      "type": "yellow",
+      "team": "h",
+      "player": "Marko Stamenic"
+    },
+    {
+      "minute": 50,
+      "type": "goal",
+      "team": "a",
+      "player": "Leandro Trossard",
+      "assist": "Hans Vanaken"
+    },
+    {
+      "minute": 56,
+      "type": "yellow",
+      "team": "h",
+      "player": "Elijah Just"
+    },
+    {
+      "minute": 56,
+      "type": "sub",
+      "team": "a",
+      "player": "Jérémy Doku",
+      "off": "Matias Fernandez-Pardo"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Tim Payne",
+      "off": "Michael Boxall"
+    },
+    {
+      "minute": 64,
+      "type": "sub",
+      "team": "h",
+      "player": "Joe Bell",
+      "off": "Callum McCowatt"
+    },
+    {
+      "minute": 66,
+      "type": "goal",
+      "team": "a",
+      "player": "Kevin De Bruyne",
+      "assist": ""
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,65 +265,65 @@
     "donuts": [
       [
         "xG",
-        0.01,
-        1.71
+        0.09,
+        2.71
       ],
       [
         "Držení %",
-        38,
-        62
+        42,
+        58
       ],
       [
         "Na branku",
-        0,
-        4
+        1,
+        7
       ],
       [
         "Přesnost %",
-        84,
-        89
+        82,
+        87
       ],
       [
         "Rohy",
-        1,
-        4
+        3,
+        7
       ],
       [
         "Fauly",
-        4,
-        1
+        6,
+        5
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        1,
-        16
+        3,
+        26
       ],
       [
         "Střely mimo",
-        1,
-        6
+        2,
+        9
       ],
       [
         "Zblokované",
-        0,
-        6
+        1,
+        10
       ],
       [
         "Střely ve vápně",
-        0,
-        13
+        1,
+        19
       ],
       [
         "Střely zvenku",
-        1,
-        3
+        3,
+        7
       ],
       [
         "Přihrávky",
-        191,
-        317
+        289,
+        406
       ],
       [
         "Ofsajdy",
@@ -263,17 +332,17 @@
       ],
       [
         "Přesné přihr.",
-        161,
-        282
+        238,
+        355
       ],
       [
         "Zákroky brankáře",
-        3,
-        0
+        4,
+        1
       ],
       [
         "Žluté karty",
-        0,
+        2,
         0
       ],
       [
@@ -284,5 +353,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T04:40:43.598Z"
+  "updatedAt": "2026-06-27T04:45:42.945Z"
 }
