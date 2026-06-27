@@ -1147,9 +1147,9 @@
     "timeUtc": "03:00:00",
     "venue": "Lumen Field",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391774",
@@ -1165,9 +1165,9 @@
     "timeUtc": "03:00:00",
     "venue": "BC Place",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391776",
