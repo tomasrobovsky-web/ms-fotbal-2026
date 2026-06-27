@@ -1,6 +1,14 @@
 {
   "id": "2391779",
-  "events": [],
+  "events": [
+    {
+      "minute": 31,
+      "type": "goal",
+      "team": "h",
+      "player": "Petar Sučić",
+      "assist": "Mateo Kovačić"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -196,17 +204,17 @@
     "donuts": [
       [
         "xG",
-        0.18,
+        0.21,
         0
       ],
       [
         "Držení %",
-        46,
-        54
+        48,
+        52
       ],
       [
         "Na branku",
-        0,
+        2,
         0
       ],
       [
@@ -222,13 +230,13 @@
       [
         "Fauly",
         1,
-        4
+        5
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        2,
+        4,
         0
       ],
       [
@@ -243,18 +251,18 @@
       ],
       [
         "Střely ve vápně",
-        1,
+        2,
         0
       ],
       [
         "Střely zvenku",
-        1,
+        2,
         0
       ],
       [
         "Přihrávky",
-        156,
-        184
+        177,
+        196
       ],
       [
         "Ofsajdy",
@@ -263,13 +271,13 @@
       ],
       [
         "Přesné přihr.",
-        147,
-        169
+        167,
+        180
       ],
       [
         "Zákroky brankáře",
         0,
-        0
+        1
       ],
       [
         "Žluté karty",
@@ -284,5 +292,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T21:35:41.122Z"
+  "updatedAt": "2026-06-27T21:45:41.566Z"
 }
