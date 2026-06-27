@@ -7,6 +7,54 @@
       "team": "h",
       "player": "Petar Sučić",
       "assist": "Mateo Kovačić"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Jonas Adjetey",
+      "off": "Kojo Peprah Oppong"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "a",
+      "player": "Elisha Owusu",
+      "off": "Abdul Fatawu"
+    },
+    {
+      "minute": 66,
+      "type": "sub",
+      "team": "h",
+      "player": "Ante Budimir",
+      "off": "Igor Matanović"
+    },
+    {
+      "minute": 68,
+      "type": "yellow",
+      "team": "h",
+      "player": "Ivan Perišić"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "a",
+      "player": "Jordan Ayew",
+      "off": "Brandon Thomas-Asante"
+    },
+    {
+      "minute": 71,
+      "type": "sub",
+      "team": "a",
+      "player": "Kamaldeen Sulemana",
+      "off": "Ernest Nuamah"
+    },
+    {
+      "minute": 73,
+      "type": "goal",
+      "team": "a",
+      "player": "Derrick Luckassen",
+      "assist": "Ernest Nuamah"
     }
   ],
   "reds": {},
@@ -205,12 +253,12 @@
       [
         "xG",
         0.28,
-        0.02
+        0.05
       ],
       [
         "Držení %",
-        54,
-        46
+        51,
+        49
       ],
       [
         "Na branku",
@@ -219,35 +267,35 @@
       ],
       [
         "Přesnost %",
-        94,
-        92
+        92,
+        91
       ],
       [
         "Rohy",
         0,
-        0
+        1
       ],
       [
         "Fauly",
-        2,
-        7
+        4,
+        9
       ]
     ],
     "bars": [
       [
         "Střely celkem",
         5,
-        1
+        3
       ],
       [
         "Střely mimo",
         2,
-        1
+        2
       ],
       [
         "Zblokované",
         1,
-        0
+        1
       ],
       [
         "Střely ve vápně",
@@ -257,22 +305,22 @@
       [
         "Střely zvenku",
         3,
-        0
+        2
       ],
       [
         "Přihrávky",
-        298,
-        257
+        376,
+        362
       ],
       [
         "Ofsajdy",
         0,
-        0
+        1
       ],
       [
         "Přesné přihr.",
-        280,
-        237
+        346,
+        331
       ],
       [
         "Zákroky brankáře",
@@ -292,5 +340,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T21:55:34.869Z"
+  "updatedAt": "2026-06-27T22:35:35.067Z"
 }
