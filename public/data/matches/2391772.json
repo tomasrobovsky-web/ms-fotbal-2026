@@ -1,0 +1,198 @@
+{
+  "id": "2391772",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Deroy Duarte",
+          "num": 14,
+          "pos": "MF",
+          "club": "Ludogorets Razgrad",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0sfigd1700769748.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/35cw6l1752946925.png"
+        },
+        {
+          "name": "Willy Semedo",
+          "num": 17,
+          "pos": "FW",
+          "club": "Omonia Nicosia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/58xrid1779197428.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/nmd7vt1779579017.png"
+        },
+        {
+          "name": "Jamiro Monteiro",
+          "num": 10,
+          "pos": "MF",
+          "club": "PEC Zwolle",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2uh5az1764539734.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png"
+        },
+        {
+          "name": "Kevin Pina",
+          "num": 6,
+          "pos": "DF",
+          "club": "Krasnodar",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/utdzem1705487819.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/srxryu1473452272.png"
+        },
+        {
+          "name": "Ryan Mendes",
+          "num": 20,
+          "pos": "FW",
+          "club": "Kocaelispor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/owa7n21705487718.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/f6erki1626445224.png"
+        },
+        {
+          "name": "Vozinha",
+          "num": 1,
+          "pos": "GK",
+          "club": "_Free Agent Soccer",
+          "photo": "https://www.thesportsdb.com/images/media/player/cutout/2n8loj1781913909.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/36mhgu1570297397.png"
+        },
+        {
+          "name": "Pico",
+          "num": 4,
+          "pos": "DF",
+          "club": "Shamrock Rovers",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/73sp9f1705487377.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/u1zowj1491504381.png"
+        },
+        {
+          "name": "João Paulo",
+          "num": 8,
+          "pos": "DF",
+          "club": "FCSB",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hpvvx91705487578.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/123g021759420850.png"
+        },
+        {
+          "name": "Wagner Pina",
+          "num": 24,
+          "pos": "DF",
+          "club": "Trabzonspor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9rfm5e1779195483.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png"
+        },
+        {
+          "name": "Diney",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al Bataeh",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kh64f51779202283.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/7zftaj1718211067.png"
+        },
+        {
+          "name": "Dailon Livramento",
+          "num": 19,
+          "pos": "FW",
+          "club": "Casa Pia",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zb6vte1741897417.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/d8ugsc1678717133.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Abdulelah Al-Amri",
+          "num": 4,
+          "pos": "DF",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/klvwbe1668714347.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Saud Abdulhamid",
+          "num": 12,
+          "pos": "DF",
+          "club": "Lens",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/37g75w1766004681.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png"
+        },
+        {
+          "name": "Nasser Al-Dawsari",
+          "num": 6,
+          "pos": "MF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t059e71750671684.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Salem Al-Dawsari",
+          "num": 10,
+          "pos": "FW",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qcr7z31750679699.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Mohamed Kanno",
+          "num": 23,
+          "pos": "MF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rd52j51750753527.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Firas Al-Buraikan",
+          "num": 9,
+          "pos": "FW",
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/16sp4v1777237767.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+        },
+        {
+          "name": "Hassan Al-Tambakti",
+          "num": 5,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b4i61r1750671923.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Mohammed Al-Owais",
+          "num": 21,
+          "pos": "GK",
+          "club": "Al-Ula",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lmzvcf1668851261.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9px2xb1755453358.png"
+        },
+        {
+          "name": "Abdullah Al-Khaibari",
+          "num": 15,
+          "pos": "DF",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7c3wb31676217985.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Sultan Mandash",
+          "num": 20,
+          "pos": "FW",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/7rs7681780331044.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Nawaf Boushal",
+          "num": 13,
+          "pos": "DF",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pswagw1779438917.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-27T00:05:43.758Z"
+}

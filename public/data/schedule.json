@@ -1129,9 +1129,9 @@
     "timeUtc": "00:00:00",
     "venue": "NRG Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391773",
@@ -1183,9 +1183,9 @@
     "timeUtc": "00:00:00",
     "venue": "Estadio Akron",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391778",

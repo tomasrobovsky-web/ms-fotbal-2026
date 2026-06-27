@@ -459,9 +459,17 @@
     "name": "Shamrock Rovers",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/u1zowj1491504381.png"
   },
+  "133981": {
+    "name": "Ludogorets Razgrad",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/35cw6l1752946925.png"
+  },
   "133985": {
     "name": "Dynamo Moscow",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/0p67e71535789184.png"
+  },
+  "133986": {
+    "name": "Omonia Nicosia",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/nmd7vt1779579017.png"
   },
   "133987": {
     "name": "Crvena Zvezda",
@@ -474,6 +482,10 @@
   "134001": {
     "name": "Young Boys",
     "logo": "https://r2.thesportsdb.com/images/media/team/badge/9mxdoo1534784569.png"
+  },
+  "134005": {
+    "name": "FCSB",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/123g021759420850.png"
   },
   "134007": {
     "name": "Sparta Prague",
