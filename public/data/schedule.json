@@ -1201,9 +1201,9 @@
     "timeUtc": "23:30:00",
     "venue": "Hard Rock Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391779",
@@ -1255,9 +1255,9 @@
     "timeUtc": "23:30:00",
     "venue": "Mercedes-Benz Stadium",
     "round": 3,
-    "status": "NS",
-    "homeScore": null,
-    "awayScore": null
+    "status": "1H",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "2391777",

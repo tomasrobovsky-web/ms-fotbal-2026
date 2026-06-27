@@ -1,0 +1,198 @@
+{
+  "id": "2391778",
+  "events": [],
+  "reds": {},
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "James Rodríguez",
+          "num": 10,
+          "pos": "MF",
+          "club": "Minnesota United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/2604ez1778161086.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png"
+        },
+        {
+          "name": "Jhon Córdoba",
+          "num": 9,
+          "pos": "FW",
+          "club": "Krasnodar",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/6g14e01691161946.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/srxryu1473452272.png"
+        },
+        {
+          "name": "Santiago Arias",
+          "num": 4,
+          "pos": "DF",
+          "club": "Independiente",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/8989q21763831492.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+        },
+        {
+          "name": "Davinson Sánchez",
+          "num": 23,
+          "pos": "DF",
+          "club": "Galatasaray",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fwqgth1769178122.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "name": "Jefferson Lerma",
+          "num": 16,
+          "pos": "DF",
+          "club": "Crystal Palace",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/5h7eyz1772141174.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        },
+        {
+          "name": "Luis Díaz",
+          "num": 7,
+          "pos": "FW",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/emmcyf1756408968.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Jhon Lucumí",
+          "num": 3,
+          "pos": "DF",
+          "club": "Bologna",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kifz5o1758896707.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png"
+        },
+        {
+          "name": "Camilo Vargas",
+          "num": 12,
+          "pos": "GK",
+          "club": "Atlas",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ej38x01648634661.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/svvyvw1473541813.png"
+        },
+        {
+          "name": "Deiver Machado",
+          "num": 22,
+          "pos": "DF",
+          "club": "Nantes",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lgl06t1765877830.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png"
+        },
+        {
+          "name": "Jhon Arias",
+          "num": 11,
+          "pos": "FW",
+          "club": "Palmeiras",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z3xhar1777628018.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        },
+        {
+          "name": "Gustavo Puerta",
+          "num": 14,
+          "pos": "MF",
+          "club": "Racing de Santander",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/o2v48u1779828408.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Cristiano Ronaldo",
+          "num": 7,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/a19jje1761592498.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Rúben Neves",
+          "num": 21,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/86rcde1750272409.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "João Cancelo",
+          "num": 20,
+          "pos": "DF",
+          "club": "Al-Hilal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zqjhte1771260324.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png"
+        },
+        {
+          "name": "Rúben Dias",
+          "num": 3,
+          "pos": "DF",
+          "club": "Manchester City",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g3psnr1769183713.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "num": 8,
+          "pos": "MF",
+          "club": "Manchester United",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jhasls1766826690.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "name": "João Félix",
+          "num": 11,
+          "pos": "FW",
+          "club": "Al-Nassr",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m8aqft1725214728.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
+        },
+        {
+          "name": "Pedro Neto",
+          "num": 18,
+          "pos": "FW",
+          "club": "Chelsea",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g63rmf1757003837.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        },
+        {
+          "name": "Vitinha",
+          "num": 23,
+          "pos": "MF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q6mw6n1766335544.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Nuno Mendes",
+          "num": 25,
+          "pos": "DF",
+          "club": "Paris SG",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zhdk3h1766335452.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "name": "Diogo Costa",
+          "num": 1,
+          "pos": "GK",
+          "club": "FC Porto",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/koetaj1724749969.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png"
+        },
+        {
+          "name": "Renato Veiga",
+          "num": 13,
+          "pos": "DF",
+          "club": "Villarreal",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rxefp81762889381.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        }
+      ],
+      "bench": []
+    }
+  },
+  "stats": null,
+  "source": "thesportsdb-v2",
+  "updatedAt": "2026-06-27T23:35:41.387Z"
+}
