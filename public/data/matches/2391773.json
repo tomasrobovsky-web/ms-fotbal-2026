@@ -1,71 +1,335 @@
 {
   "id": "2391773",
-  "events": [],
+  "events": [
+    {
+      "minute": 5,
+      "type": "goal",
+      "team": "h",
+      "player": "Mahmoud Abdelmohsen Hassan",
+      "assist": ""
+    },
+    {
+      "minute": 11,
+      "type": "goal",
+      "team": "a",
+      "player": "Mehdi Taremi",
+      "assist": "Mehdi Taremi"
+    },
+    {
+      "minute": 14,
+      "type": "goal",
+      "team": "a",
+      "player": "Ramin Rezaeian",
+      "assist": ""
+    },
+    {
+      "minute": 14,
+      "type": "sub",
+      "team": "h",
+      "player": "Mohamed Abdelmonem",
+      "off": "Yasser Ibrahim"
+    },
+    {
+      "minute": 19,
+      "type": "yellow",
+      "team": "a",
+      "player": "Hossein Kanaanizadegan"
+    },
+    {
+      "minute": 20,
+      "type": "yellow",
+      "team": "h",
+      "player": "Mahmoud Abdelmohsen Hassan"
+    },
+    {
+      "minute": 42,
+      "type": "yellow",
+      "team": "h",
+      "player": "Yasser Ibrahim"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Emam Ashour",
+      "off": "Omar Marmoush"
+    },
+    {
+      "minute": 46,
+      "type": "sub",
+      "team": "h",
+      "player": "Mahmoud Abdelmohsen Hassan",
+      "off": "Marwan Attia"
+    },
+    {
+      "minute": 57,
+      "type": "sub",
+      "team": "h",
+      "player": "Mohamed Salah",
+      "off": "Zizo"
+    },
+    {
+      "minute": 67,
+      "type": "sub",
+      "team": "a",
+      "player": "Saman Ghoddos",
+      "off": "Shahriar Moghanlou"
+    }
+  ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "5-2-3",
+      "xi": [
+        {
+          "name": "Mohamed Salah",
+          "num": 10,
+          "pos": "FW",
+          "club": "Liverpool",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3blc581757088735.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "name": "Trézéguet",
+          "num": 7,
+          "pos": "FW",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kd5p321750397912.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Mohamed Hany",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oie0ki1750398278.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Ramy Rabia",
+          "num": 5,
+          "pos": "DF",
+          "club": "Al Ain",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zcxga31750752688.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0w2bk51747334688.png"
+        },
+        {
+          "name": "Ahmed Fatouh",
+          "num": 13,
+          "pos": "DF",
+          "club": "Zamalek",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fgb6gv1780140478.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tgekj81580930027.png"
+        },
+        {
+          "name": "Mohamed Abdelmonem",
+          "num": 6,
+          "pos": "DF",
+          "club": "Nice",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/v3aiug1766319519.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png"
+        },
+        {
+          "name": "Emam Ashour",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/jk038w1750398132.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Mostafa Shobeir",
+          "num": 23,
+          "pos": "GK",
+          "club": "Al Ahly",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/q0pq101750398287.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/x8753q1751421890.png"
+        },
+        {
+          "name": "Mohanad Lasheen",
+          "num": 17,
+          "pos": "DF",
+          "club": "Pyramids",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/uj0spw1780140931.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png"
+        },
+        {
+          "name": "Mostafa Ziko",
+          "num": 11,
+          "pos": "FW",
+          "club": "Pyramids",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xjk0l51780142121.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png"
+        },
+        {
+          "name": "Mahmoud Abdelmohsen Hassan",
+          "num": 21,
+          "pos": "MF",
+          "club": "Pyramids FC",
+          "photo": null,
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "7-1-2",
+      "xi": [
+        {
+          "name": "Saman Ghoddos",
+          "num": 14,
+          "pos": "MF",
+          "club": "Ittihad Kalba",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9r84g11694113587.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwjc661718210928.png"
+        },
+        {
+          "name": "Mehdi Taremi",
+          "num": 9,
+          "pos": "FW",
+          "club": "Olympiacos",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/9dhm7l1772033412.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png"
+        },
+        {
+          "name": "Saeid Ezatolahi",
+          "num": 6,
+          "pos": "DF",
+          "club": "Shabab Al-Ahli Dubai",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qcewmg1702646602.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/k21gkm1617893374.png"
+        },
+        {
+          "name": "Alireza Beiranvand",
+          "num": 1,
+          "pos": "GK",
+          "club": "Tractor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/t0vpyd1668778733.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/url13x1722468959.png"
+        },
+        {
+          "name": "Milad Mohammadi",
+          "num": 5,
+          "pos": "DF",
+          "club": "Persepolis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/mvpqij1668785747.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tzqvmg1725936631.png"
+        },
+        {
+          "name": "Hossein Kanaanizadegan",
+          "num": 13,
+          "pos": "DF",
+          "club": "Persepolis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/kffsom1668782969.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tzqvmg1725936631.png"
+        },
+        {
+          "name": "Shojae Khalilzadeh",
+          "num": 4,
+          "pos": "DF",
+          "club": "Tractor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/d9mh0o1668783872.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/url13x1722468959.png"
+        },
+        {
+          "name": "Ramin Rezaeian",
+          "num": 23,
+          "pos": "DF",
+          "club": "Foolad Khuzestan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yiz0x31668787055.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijxpe21582291802.png"
+        },
+        {
+          "name": "Ali Nemati",
+          "num": 19,
+          "pos": "DF",
+          "club": "Foolad Khuzestan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xmn58u1780432078.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijxpe21582291802.png"
+        },
+        {
+          "name": "Mohammad Mohebi",
+          "num": 8,
+          "pos": "FW",
+          "club": "Rostov",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rj8nr51780432044.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/yysryx1473452299.png"
+        },
+        {
+          "name": "Mohammad Ghorbani",
+          "num": 21,
+          "pos": "DF",
+          "club": "Al Wahda",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/fgpy9j1780431922.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/99xc7w1578858847.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
         "xG",
-        0.31,
-        1.18
+        0.67,
+        1.27
       ],
       [
         "Držení %",
-        62,
-        38
+        64,
+        36
       ],
       [
         "Na branku",
-        2,
+        3,
         3
       ],
       [
         "Přesnost %",
         88,
-        75
+        74
       ],
       [
         "Rohy",
-        4,
+        7,
         0
       ],
       [
         "Fauly",
-        6,
-        8
+        8,
+        12
       ]
     ],
     "bars": [
       [
         "Střely celkem",
-        8,
-        6
+        12,
+        8
       ],
       [
         "Střely mimo",
-        3,
-        3
+        4,
+        5
       ],
       [
         "Zblokované",
-        3,
+        5,
         0
       ],
       [
         "Střely ve vápně",
-        3,
+        7,
         6
       ],
       [
         "Střely zvenku",
         5,
-        0
+        2
       ],
       [
         "Přihrávky",
-        288,
-        179
+        432,
+        247
       ],
       [
         "Ofsajdy",
@@ -74,13 +338,13 @@
       ],
       [
         "Přesné přihr.",
-        253,
-        134
+        380,
+        182
       ],
       [
         "Zákroky brankáře",
         2,
-        1
+        2
       ],
       [
         "Žluté karty",
@@ -95,5 +359,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-27T04:10:41.321Z"
+  "updatedAt": "2026-06-27T04:40:40.425Z"
 }
