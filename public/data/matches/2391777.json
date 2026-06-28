@@ -114,13 +114,202 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "5-3-2",
+      "xi": [
+        {
+          "name": "Riyad Mahrez",
+          "num": 7,
+          "pos": "FW",
+          "club": "Al-Ahli",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/g0ay2p1771662753.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+        },
+        {
+          "name": "Nabil Bentaleb",
+          "num": 19,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ryrkw41766077386.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Aïssa Mandi",
+          "num": 2,
+          "pos": "DF",
+          "club": "Lille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/u0lyro1766078291.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png"
+        },
+        {
+          "name": "Houssem Aouar",
+          "num": 8,
+          "pos": "MF",
+          "club": "Al-Ittihad",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hm39tt1681230801.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png"
+        },
+        {
+          "name": "Amine Gouiri",
+          "num": 9,
+          "pos": "FW",
+          "club": "Marseille",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/74eam91766152411.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png"
+        },
+        {
+          "name": "Ramy Bensebaini",
+          "num": 21,
+          "pos": "DF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/z5sfyp1756326052.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Jaouen Hadjam",
+          "num": 13,
+          "pos": "DF",
+          "club": "Young Boys",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/rsozw71681388411.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/9mxdoo1534784569.png"
+        },
+        {
+          "name": "Farès Chaïbi",
+          "num": 10,
+          "pos": "MF",
+          "club": "Eintracht Frankfurt",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/736ole1762287487.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png"
+        },
+        {
+          "name": "Ibrahim Maza",
+          "num": 22,
+          "pos": "MF",
+          "club": "Bayer Leverkusen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pp1m6o1756315346.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+        },
+        {
+          "name": "Rafik Belghali",
+          "num": 17,
+          "pos": "DF",
+          "club": "Hellas Verona",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zj4a661759162161.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png"
+        },
+        {
+          "name": "Oussama Benbot",
+          "num": 16,
+          "pos": "GK",
+          "club": "USM Alger",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/414kg81780303205.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8tf8my1776275531.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "6-3-1",
+      "xi": [
+        {
+          "name": "Marko Arnautović",
+          "num": 7,
+          "pos": "FW",
+          "club": "Crvena Zvezda",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/gnkzom1697979946.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/osgmbz1781157114.png"
+        },
+        {
+          "name": "David Alaba",
+          "num": 8,
+          "pos": "DF",
+          "club": "Real Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/zxblp31733653341.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "name": "Philipp Lienhart",
+          "num": 15,
+          "pos": "DF",
+          "club": "Freiburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/3scndj1763328973.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png"
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "num": 9,
+          "pos": "MF",
+          "club": "Borussia Dortmund",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/m0if0e1756326525.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "name": "Konrad Laimer",
+          "num": 20,
+          "pos": "DF",
+          "club": "Bayern Munich",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/dzukrz1756409157.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "name": "Stefan Posch",
+          "num": 5,
+          "pos": "DF",
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1swesw1775205659.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        },
+        {
+          "name": "Phillipp Mwene",
+          "num": 16,
+          "pos": "DF",
+          "club": "Mainz",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/wa4bx81763554145.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        },
+        {
+          "name": "Xaver Schlager",
+          "num": 4,
+          "pos": "MF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/1bvq9r1763561361.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        },
+        {
+          "name": "Alexander Schlager",
+          "num": 1,
+          "pos": "GK",
+          "club": "Red Bull Salzburg",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ib5u2k1769721863.png",
+          "clubLogo": "https://www.thesportsdb.com/images/media/team/badge/nc2cua1781541639.png"
+        },
+        {
+          "name": "Romano Schmid",
+          "num": 18,
+          "pos": "MF",
+          "club": "Werder Bremen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/pc39yd1763666231.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+        },
+        {
+          "name": "Nicolas Seiwald",
+          "num": 6,
+          "pos": "DF",
+          "club": "RB Leipzig",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/h7mvys1763561377.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
         "xG",
-        1.59,
-        1.18
+        1.62,
+        1.44
       ],
       [
         "Držení %",
@@ -130,7 +319,7 @@
       [
         "Na branku",
         5,
-        2
+        3
       ],
       [
         "Přesnost %",
@@ -152,7 +341,7 @@
       [
         "Střely celkem",
         12,
-        9
+        10
       ],
       [
         "Střely mimo",
@@ -167,7 +356,7 @@
       [
         "Střely ve vápně",
         6,
-        5
+        6
       ],
       [
         "Střely zvenku",
@@ -176,8 +365,8 @@
       ],
       [
         "Přihrávky",
-        754,
-        396
+        755,
+        397
       ],
       [
         "Ofsajdy",
@@ -186,8 +375,8 @@
       ],
       [
         "Přesné přihr.",
-        705,
-        344
+        706,
+        346
       ],
       [
         "Zákroky brankáře",
@@ -207,5 +396,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-28T06:25:38.037Z"
+  "updatedAt": "2026-06-28T07:45:43.671Z"
 }
