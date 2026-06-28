@@ -1,6 +1,142 @@
 {
   "id": "2461120",
-  "events": [],
+  "events": [
+    {
+      "minute": 10,
+      "type": "goal",
+      "team": "a",
+      "player": "Eldor Shomurodov",
+      "assist": "Akmal Mozgovoy"
+    },
+    {
+      "minute": 17,
+      "type": "goal",
+      "team": "h",
+      "player": "Nathanaël Mbuku",
+      "assist": ""
+    },
+    {
+      "minute": 21,
+      "type": "yellow",
+      "team": "h",
+      "player": "Noah Sadiki"
+    },
+    {
+      "minute": 43,
+      "type": "yellow",
+      "team": "a",
+      "player": "Abdukodir Khusanov"
+    },
+    {
+      "minute": 45,
+      "type": "yellow",
+      "team": "h",
+      "player": "Nathanaël Mbuku"
+    },
+    {
+      "minute": 48,
+      "type": "yellow",
+      "team": "a",
+      "player": "Sherzod Nasrullaev"
+    },
+    {
+      "minute": 51,
+      "type": "sub",
+      "team": "h",
+      "player": "Cédric Bakambu",
+      "off": "Fiston Mayele"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "a",
+      "player": "Otabek Shukurov",
+      "off": "Odiljon Hamrobekov"
+    },
+    {
+      "minute": 59,
+      "type": "sub",
+      "team": "a",
+      "player": "Dostonbek Khamdamov",
+      "off": "Azizjon Ganiev"
+    },
+    {
+      "minute": 62,
+      "type": "yellow",
+      "team": "h",
+      "player": "Samuel Moutoussamy"
+    },
+    {
+      "minute": 68,
+      "type": "goal",
+      "team": "h",
+      "player": "Yoane Wissa",
+      "assist": ""
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "h",
+      "player": "Brian Cipenga",
+      "off": "Theo Bongonda"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "h",
+      "player": "Samuel Moutoussamy",
+      "off": "Ngal'ayel Mukau"
+    },
+    {
+      "minute": 72,
+      "type": "sub",
+      "team": "h",
+      "player": "Nathanaël Mbuku",
+      "off": "Meschak Elia"
+    },
+    {
+      "minute": 73,
+      "type": "sub",
+      "team": "a",
+      "player": "Abbosbek Fayzullaev",
+      "off": "Oston Urunov"
+    },
+    {
+      "minute": 78,
+      "type": "goal",
+      "team": "h",
+      "player": "Fiston Mayele",
+      "assist": ""
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "a",
+      "player": "Jakhongir Urozov",
+      "off": "Igor Sergeev"
+    },
+    {
+      "minute": 82,
+      "type": "sub",
+      "team": "a",
+      "player": "Akmal Mozgovoy",
+      "off": "Jamshid Iskanderov"
+    },
+    {
+      "minute": 83,
+      "type": "sub",
+      "team": "h",
+      "player": "Arthur Masuaku",
+      "off": "Joris Kayembe"
+    },
+    {
+      "minute": 90,
+      "type": "goal",
+      "team": "h",
+      "player": "Yoane Wissa",
+      "assist": "Meschak Elia"
+    }
+  ],
   "reds": {},
   "lineups": {
     "home": {
@@ -284,5 +420,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-28T01:45:43.311Z"
+  "updatedAt": "2026-06-28T06:30:55.474Z"
 }
