@@ -119,7 +119,196 @@
     }
   ],
   "reds": {},
-  "lineups": null,
+  "lineups": {
+    "home": {
+      "form": "6-1-3",
+      "xi": [
+        {
+          "name": "Ali Olwan",
+          "num": 9,
+          "pos": "FW",
+          "club": "Al-Sailiya",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ifvtit1781097232.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/4u34lv1751841223.png"
+        },
+        {
+          "name": "Ehsan Haddad",
+          "num": 23,
+          "pos": "DF",
+          "club": "Al-Hussein Irbid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/qrmode1781097131.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijbwwm1753204799.png"
+        },
+        {
+          "name": "Nizar Al-Rashdan",
+          "num": 21,
+          "pos": "DF",
+          "club": "Qatar SC",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/tj6p131781096962.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3c07ob1774579037.png"
+        },
+        {
+          "name": "Yazeed Abulaila",
+          "num": 1,
+          "pos": "GK",
+          "club": "Al-Hussein Irbid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oczaal1781096826.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ijbwwm1753204799.png"
+        },
+        {
+          "name": "Yazan Al-Arab",
+          "num": 5,
+          "pos": "DF",
+          "club": "FC Seoul",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/xtrjp31781096853.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/31z1zf1579473186.png"
+        },
+        {
+          "name": "Noor Al-Rawabdeh",
+          "num": 8,
+          "pos": "MF",
+          "club": "Selangor",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lp7dfm1781096983.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/uhcda31583335092.png"
+        },
+        {
+          "name": "Abdallah Nasib",
+          "num": 3,
+          "pos": "DF",
+          "club": "Al-Zawraa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/lub7jy1781097184.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png"
+        },
+        {
+          "name": "Mohannad Abu Taha",
+          "num": 20,
+          "pos": "DF",
+          "club": "Al-Quwa Al-Jawiya",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/b12kaf1781097264.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/oyq9801617889653.png"
+        },
+        {
+          "name": "Ali Azaizeh",
+          "num": 24,
+          "pos": "FW",
+          "club": "Al-Shabab",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/cluxfa1781097078.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/zbums21755192520.png"
+        },
+        {
+          "name": "Odeh Al-Fakhouri",
+          "num": 11,
+          "pos": "FW",
+          "club": "Pyramids",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/r7agx51781096923.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png"
+        },
+        {
+          "name": "Husam Abu Dahab",
+          "num": 4,
+          "pos": "DF",
+          "club": "Al-Faisaly Amman",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/0himt81781097114.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ja0udy1753205043.png"
+        }
+      ],
+      "bench": []
+    },
+    "away": {
+      "form": "4-3-3",
+      "xi": [
+        {
+          "name": "Emiliano Martinez",
+          "num": 23,
+          "pos": "GK",
+          "club": "Aston Villa",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ffr5xx1756984715.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "name": "Leandro Paredes",
+          "num": 5,
+          "pos": "DF",
+          "club": "Boca Juniors",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/chsspk1763384490.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png"
+        },
+        {
+          "name": "Nicolás Otamendi",
+          "num": 19,
+          "pos": "DF",
+          "club": "Benfica",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ifxn6x1632995975.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png"
+        },
+        {
+          "name": "Giovani Lo Celso",
+          "num": 11,
+          "pos": "MF",
+          "club": "Real Betis",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/yge8gq1762602923.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "num": 22,
+          "pos": "FW",
+          "club": "Inter Milan",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/vwxq811759408924.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "name": "Nicolás Tagliafico",
+          "num": 3,
+          "pos": "DF",
+          "club": "Lyon",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/4z43fy1766146600.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png"
+        },
+        {
+          "name": "Exequiel Palacios",
+          "num": 14,
+          "pos": "MF",
+          "club": "Bayer Leverkusen",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/oby41y1756316369.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+        },
+        {
+          "name": "Marcos Senesi",
+          "num": 2,
+          "pos": "DF",
+          "club": "Tottenham Hotspur",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/ve65ug1757018745.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        },
+        {
+          "name": "Julián Álvarez",
+          "num": 9,
+          "pos": "FW",
+          "club": "Atlético Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/91pla41762288186.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "name": "Nico Paz",
+          "num": 18,
+          "pos": "MF",
+          "club": "Como",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/hfv6uz1764278372.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
+        },
+        {
+          "name": "Giuliano Simeone",
+          "num": 17,
+          "pos": "FW",
+          "club": "Atlético Madrid",
+          "photo": "https://r2.thesportsdb.com/images/media/player/cutout/j97npy1762288635.png",
+          "clubLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        }
+      ],
+      "bench": []
+    }
+  },
   "stats": {
     "donuts": [
       [
@@ -212,5 +401,5 @@
     ]
   },
   "source": "thesportsdb-v2",
-  "updatedAt": "2026-06-28T06:25:40.415Z"
+  "updatedAt": "2026-06-28T07:50:46.526Z"
 }
