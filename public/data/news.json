@@ -163,8 +163,8 @@
   },
   {
     "id": "n1b32in2",
-    "title": "PŘEHLEDNĚ PAVOUK PLAY OFF: Maroko v osmifinále MS narazí na Kanadu, postup slaví i Paraguay a Brazílie",
-    "description": "Čeští fotbalisté na MS 2026 žádnou výraznou stopu nezanechali, patří mezi celky, jejichž účast se omezila jen na základní skupinu. Na šampionátu, který hostí společně USA, Mexiko a Kanada, už se zrodilo i první velké překvapení play off, když hned v prvním kole skončilo Německo. Na seznamu osmifinalistů zatím figurují Paraguay, Brazílie, Maroko a Kanada.",
+    "title": "PŘEHLEDNĚ PAVOUK PLAY OFF: Norsko vyzve Brazílií, Maroko v osmifinále MS čeká Kanada. Postup slaví i Paraguay",
+    "description": "Čeští fotbalisté na MS 2026 žádnou výraznou stopu nezanechali, patří mezi celky, jejichž účast se omezila jen na základní skupinu. Na šampionátu, který hostí společně USA, Mexiko a Kanada, už se zrodilo i první velké překvapení play off, když hned v úvodním kole skončilo Německo. Na seznamu osmifinalistů zatím figurují Norsko, Brazílie, Maroko, Kanada a Paraguay..",
     "url": "https://www.sport.cz/clanek/fotbal-ms-postupova-matematika-cesi-musi-zdolat-mexiko-jinak-na-turnaji-patrne-konci-5483301",
     "source": "Sport.cz",
     "imageUrl": null,
@@ -187,15 +187,6 @@
     "source": "Sport.cz",
     "imageUrl": null,
     "publishedAt": "2026-06-30T12:54:00.000Z"
-  },
-  {
-    "id": "n1gpugy9",
-    "title": "Zákrokem při penaltě uhranul svět. Brankář Maroka je hrdinou",
-    "description": "Předvedl zákrok, kterým uhranul svět. A Maroko jím hodně popostrčil přes Nizozemsko do osmifinále mistrovství světa ve fotbale po penaltovém rozstřelu. Brankář afrického celku Jasín Bunú je po čtyřech letech opět hrdinou. „S ním v bráně jsme si věřili, že penalty vyhrajeme,“ uvedl marocký kapitán Ašraf Hakimí po utkání, které skončilo i po prodloužení 1:1, a africký zástupce pak lépe zvládl rozstřel (3:2).",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-zakrokem-pri-penalte-uhranul-svet-brankar-maroka-je-hrdinou-5493886",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-30T12:09:01.000Z"
   },
   {
     "id": "nupnj8u",
@@ -235,8 +226,8 @@
   },
   {
     "id": "n7q24md",
-    "title": "FOTBAL ONLINE: Haaland udeřil! Norové si v závěru berou vedení a míří do osmifinále MS",
-    "description": "Šanci probojovat se vůbec poprvé mezi šestnáctku nejlepších týmů na fotbalovém mistrovství světa má výběr Pobřeží slonoviny, který od 19:00 hraje první kolo play off proti Norsku (zatím 1:2). To má odpočatou takřka kompletní základní jedenáctku včetně hvězdného kanonýra Erlinga Haalanda. Sport.cz přiblíží vývoj duelu v tradiční textové online reportáži.",
+    "title": "Norská euforie! Haaland vystřelil osmifinále, Pobřeží slonoviny letí domů",
+    "description": "Vůbec to nebyl jeho zápas, elitního snajpra Erlinga Haalanda už jsme snad všichni viděli hrát lépe. Jenže norský fotbalista zase věděl, kam si má stoupnout, aby rozhodl. Norové v prvním kole play off mistrovství světa vyzráli na Pobřeží slonoviny, výhru 2:1 trefil pět minut před koncem řádné hrací doby právě Haaland. A teď se spolu s kolegy může těšit na osmifinále s Brazílií.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-pobrezi-slonoviny-ceka-souboj-s-norskem-odpocaty-haaland-hodla-radit-5493572",
     "source": "Sport.cz",
     "imageUrl": null,
@@ -358,5 +349,14 @@
     "source": "Nova Sport",
     "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
     "publishedAt": "2026-06-29T23:31:00.000Z"
+  },
+  {
+    "id": "nxyeo2v",
+    "title": "Soutěž k MS ve fotbale – 30. června",
+    "description": "Máte rádi FOTBAL a chcete si ještě zasoutěžit? Odpovězte správně na uvedenou otázku a vyhrajte.",
+    "url": "https://sport.ceskatelevize.cz/clanek/fotbal/soutez-k-ms-ve-fotbale-30-cervna-157652",
+    "source": "ČT sport",
+    "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/MDQwOTc5MGRkNDliZTdmMm_IJrS5j8nQyoQ59-Wj1c5btEVQTvGDzZAvCt-Y9KMfZWDJIA_bH-NnZyMuGBy5ZwobcwK3VgQUoGnTaj22OhekV6vMG1X6JwpZWkhkijREXLvTTHqnUu22ghEOWZdnVbOK2NIOejGxUq5qKoq-pUDW7lDR3ROAHLXctFbq8o0H.jpg?width=360",
+    "publishedAt": "2026-06-29T22:00:00.000Z"
   }
 ]
