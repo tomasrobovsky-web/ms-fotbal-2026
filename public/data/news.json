@@ -216,15 +216,6 @@
     "publishedAt": "2026-06-30T22:00:00.000Z"
   },
   {
-    "id": "nxfmt02",
-    "title": "Kokosy na sněhu, změna k ničemu, nešťastná česká vyjádření. Krejčí komentuje trenérské osudy na MS",
-    "description": "Odvolání v průběhu turnaje, výhružky smrtí, silný tlak po krachu velmocí či krásné příběhy na lavičkách malých zemí. A taky český konec. Mistrovství světa ve fotbale nabízí různé osudy trenérů. Sport.cz oslovil zkušeného českého kouče Karla Krejčího, který v minulosti vedl Plzeň nebo českou jednadvacítku, aby některé z nich okomentoval.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-kokosy-na-snehu-zmena-k-nicemu-nestastna-ceska-vyjadreni-krejci-komentuje-trenerske-osudy-na-ms-5494125",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-06-30T19:40:47.000Z"
-  },
-  {
     "id": "nk7hzt",
     "title": "Pobřeží slonoviny - Norsko 1:2. Vesluje se dál! Haaland dojal otce a dohání Messiho",
     "description": "Dlouho se schovával, často bez povšimnutí pochodoval na ofsajd lajně. Erling Haaland (25) v klíčovém momentu ukázal extratřídu a Norsku zařídil postup do osmifinále mistrovství světa. Proti Pobřeží slonoviny vstřelil v 86. minutě rozhodující branku na 2:1. Program MS ve fotbale ZDE>>>",
@@ -358,5 +349,14 @@
     "source": "Eurofotbal",
     "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/AVysqrBE-2u8RavIn.jpg",
     "publishedAt": "2026-06-30T11:11:00.000Z"
+  },
+  {
+    "id": "n1fvrdqi",
+    "title": "Smutná zpráva v portugalské reprezentaci. Tým truchlí před duelem s Chorvatskem",
+    "description": "Ve věku 69 let zemřel Manuel Ribeiro de Carvalho, otec Ricarda Carvalha, bývalého skvělého obránce a nyní člena trenérského štábu portugalské reprezentace. Portugalci se o tragické zprávě dozvěděli během přípravy na play-off a okamžitě reagovali minutou ticha i emotivním gestem přímo na tréninku. Na záběrech z kempu bylo vidět, jak se hráči i realizační tým shromáždili uprostřed hřiště, drželi se kolem ramen a vzdali hold zesnulému. Kapitán Cristiano Ronaldo Carvalha objal a snažil se ho v těžké chvíli podpořit. Cristiano Ronaldo a consolar Ricardo Carvalho, que acabou de perder o pai. 🤍 pic.twitter.com/FjGXwNOP7v — Goncalodias17 (@goncalo_diass17) June 30, 2026 Portugalská fotbalová federace zároveň vyjádřila oficiální soustrast a solidaritu s rodinou a také uvedla, že tým stojí při svém asistentovi. Carvalho by měl podle informací listu A Bola v nejbližší době odcestovat do Portugalska, aby se zúčastnil rodinných záležitostí a pohřbu. Portugalsko čeká ve vyřazovací fázi světového šampionátu duel s Chorvatskem, který můžete sledovat na Oneplay. Související obsah 03:29 30. 6. 2026 Jiří Průša J. PRŮŠA",
+    "url": "https://tn.nova.cz/sport/clanek/651323-smutna-zprava-v-portugalske-reprezentaci-tym-truchli-pred-duelem-s-chorvatskem",
+    "source": "Nova Sport",
+    "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
+    "publishedAt": "2026-06-30T11:07:00.000Z"
   }
 ]
