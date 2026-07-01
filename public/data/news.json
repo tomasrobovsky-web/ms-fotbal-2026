@@ -1,5 +1,14 @@
 [
   {
+    "id": "n2yv6ir",
+    "title": "MS 2026 ON-LINE: Kane poslal Anglii do osmifinále, velký kolaps Senegalu",
+    "description": "První duel středečního večera zvládla v atraktivním souboji Anglie. Proti Kongu se však nadřela, dokonce prohrávala už od 7. minuty, jenže poté úřadoval Harry Kane. Nejprve v 75. minutě srovnal a o 11 minut později rozhodl, čímž zaznamenal na šampionátu už pátý gól. Postupuje dále i Belgie, která proti Senegalu ještě v 85. minutě prohrávala 0:2, fantastický finiš a proměněná penalta v závěru prodloužení ale rozhodla o její výhře 3:2.",
+    "url": "https://tn.nova.cz/sport/clanek/649884-ms-2026-on-line-kane-poslal-anglii-do-osmifinale-senegal-zkolaboval",
+    "source": "Nova Sport",
+    "imageUrl": null,
+    "publishedAt": "2026-07-01T22:50:00.000Z"
+  },
+  {
     "id": "noqrs4a",
     "title": "ONLINE: Belgie - Senegal 2:2. Velký comeback Evropanů! Dva góly v závěru, prodlužuje se",
     "description": "Poslední útok na velký úspěch pro členy zlaté generace? Belgie v prvním kole play off mistrovství světa hraje se Senegalem. Evropský celek i přes dvě remízy dokázal ovládnout skupinu G, když na její závěr deklasoval Nový Zéland 5:1. Také Senegal si na závěr skupiny zastřílel, když zdolal Irák 5:0, nicméně postupoval až jako jeden z osmi týmů na třetích místech. Jak dopadne vzájemný duel ve vyřazovací části? Zápas se hraje v Seattlu a po dramatické koncovce se rozhodne až v prodloužení, sledujte ONLINE přenos na webu iSport. Pavouk MS ve fotbale 2026 >>>",
@@ -16,15 +25,6 @@
     "source": "ČT sport",
     "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/MDQwOTc5MGRkNDliZTdmMm_IJrS5j8nQyoQ59-Wj1c5btEVQTvGDzZAvCt-Y9KMfZWDJIA_bH-NnZyMuGBy5ZwobcwK3VgQUoGnTaj22OhekV6vMG1X6JwpZWkhkijREXLvTTHqnUu22ghEOWZdnVbOK2NIOejGxUq5qKoq-pUDW7lDR3ROAHLXctFbq8o0H.jpg?width=360",
     "publishedAt": "2026-07-01T22:00:00.000Z"
-  },
-  {
-    "id": "n2yv6ir",
-    "title": "MS 2026 ON-LINE: Kane poslal Anglii do osmifinále, Senegal zkolaboval",
-    "description": "První duel středečního večera zvládla v atraktivním souboji Anglie. Proti Kongu se však nadřela, dokonce prohrávala už od 7. minuty, jenže poté úřadoval Harry Kane. Nejprve v 75. minutě srovnal a o 11 minut později rozhodl, čímž zaznamenal na šampionátu už pátý gól. Od 22:00 je pak na programu duel mezi Belgií a Senegalem a dlouho to vypadalo na výhru Senegalu, Belgie však během tří minut v závěru srovnala na 2:2.",
-    "url": "https://tn.nova.cz/sport/clanek/649884-ms-2026-on-line-kane-poslal-anglii-do-osmifinale-senegal-zkolaboval",
-    "source": "Nova Sport",
-    "imageUrl": null,
-    "publishedAt": "2026-07-01T21:52:00.000Z"
   },
   {
     "id": "nu17ls2",
@@ -100,8 +100,8 @@
   },
   {
     "id": "n1sjilg3",
-    "title": "Belgie – Senegal 3:2. Kane dvěma góly otočil zápas s Kongem a zařídil Anglii postup",
-    "description": "Anglie otočila na světovém šampionátu zápas s Demokratickou republikou Kongo, vítězství 2:1 jí zařídil v poslední čtvrthodině hry dvěma góly Harry Kane, čímž se zlepšil na pět vstřelených branek na turnaji. Odpověděl tak na vedoucí gól Briana Cipengy ze sedmé minuty. V osmifinále narazí Anglie na pořadatelské Mexiko. Středeční program dále nabízí duel Belgie se Senegalem, jenž poslal do vedení Habib Diarra. Na 2:0 pro Afričany zvýšil Ismaila Sarr, poté ale výsledek otočili Romelu Lukaku a dvakrát Youri Tielemans.",
+    "title": "Kane otočil zápas s Kongem a zařídil Anglii postup. Belgie dotáhla obrat proti Senegalu v prodloužení",
+    "description": "Anglie otočila na světovém šampionátu zápas s Demokratickou republikou Kongo, vítězství 2:1 jí zařídil v poslední čtvrthodině hry dvěma góly Harry Kane, čímž se zlepšil na pět vstřelených branek na turnaji. Odpověděl tak na vedoucí gól Briana Cipengy ze sedmé minuty. V dalším kole narazí Anglie na pořadatelské Mexiko. Do osmifinále postoupila také Belgie, která obrátila souboj se Senegalem, když vyhrála 3:2 po prodloužení.",
     "url": "https://sport.ceskatelevize.cz/clanek/fotbal/favorite-z-anglie-bojuji-o-postup-s-prekvapenim-turnaje-kongem-157722",
     "source": "ČT sport",
     "imageUrl": "https://fs2-sport.ceskatelevize.cz/image/ZmQ0OTNmOWMyYjBlMGU5ZJoxXL0ZGXmiGhASkhAUJ-5MohrCnh9nk64AKDqQ-U-699eYYk7swS3SlO7rAirtkGO7TDQjCKAewIYY1-5uPQbxJ3bmVnW4ATFo7_6zhCihev7U1tBVHnALRGyoU0v8vif8fCsQoENt81MUY7eJEfwJHTw6gnGF90KCnZbDHg61.JPG?width=360",
@@ -154,8 +154,8 @@
   },
   {
     "id": "nbzlyi1",
-    "title": "FOTBAL ONLINE: Belgie vstala z popela a na konci prodloužení dokonala z penalty obrat!",
-    "description": "Mistrovství světa ve fotbale nabízí další zajímavý souboj, v prvním kole play off na sebe narazily Belgie a Senegal (zatím 3:2). Utkání se právě prodlužuje a Sport.cz vám z něj přináší tradiční podrobnou online reportáž.",
+    "title": "Belgie předvedla proti Senegalu neskutečný obrat, v prodloužení rozhodla z penalty a postupuje",
+    "description": "Uff, to byl zápas jako víno! Belgie v prvním kole vyřazovací fáze mistrovství světa ve fotbale po grandiózním obratu udolala Senegal 3:2 po prodloužení. Přitom ještě pět minut před koncem normální hrací doby prohrávala o dvě branky. Neskutečně se do utkání vrátila a v prodloužení rozhodla z penalty. V osmifinále se střetne s vítězem nočního duelu mezi USA a Bosnou a Hercegovinou. Byl to historický večer, Senegal závěr totálně nezvládl.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-senegal-se-pokusi-na-ms-zaskocit-belgii-5495374",
     "source": "Sport.cz",
     "imageUrl": null,
