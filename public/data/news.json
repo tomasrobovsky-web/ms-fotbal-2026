@@ -180,15 +180,6 @@
     "publishedAt": "2026-07-01T15:15:00.000Z"
   },
   {
-    "id": "nmbj4fo",
-    "title": "Spojené státy si hravě poradily s bezzubou Bosnou",
-    "description": "Fotbalisté Spojených států amerických dovršili postup všech tří pořadatelů mistrovství světa. V prvním kole play off hravě zdolali 2:0 neškodnou Bosnu. Přičemž druhou branku vstřelili v početním oslabení. V osmifinále čeká na USA tým Belgie.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-domaci-usa-vstupuje-do-vyrazovaci-faze-nocnim-zapasem-proti-bosne-5495532",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-01T15:09:10.000Z"
-  },
-  {
     "id": "n1mv8zxg",
     "title": "Jsme talentovaný tým, vyhlíží kvalifikaci Kárník",
     "description": "James Kárník má za sebou velmi pestrou sezonu, během níž okusil litevskou, mongolskou i španělskou ligu. Právě exotické angažmá mu nepovolilo účastnit se letošních duelů se Slovinskem. Na další okno kvalifikace na mistrovství světa proti Švédsku a Estonsku je ale česko-kanadský pivot již připravený. Přímé přenosy obou utkání sledujte živě na ČT sport a ČT sport Plus.",
@@ -358,5 +349,14 @@
     "source": "Sport.cz",
     "imageUrl": null,
     "publishedAt": "2026-06-19T14:40:12.000Z"
+  },
+  {
+    "id": "n5gxiyn",
+    "title": "KVÍZ: Co víte o největším fotbalovém turnaji světa?",
+    "description": "Po čtyřech letech se vrací největší fotbalový svátek. Ve Spojených státech, Kanadě a Mexiku se rozhodne o novém mistrovi světa. Využijte této příležitosti a vyzkoušejte si krátký kvíz o historii a zajímavostech turnaje na webu Sport.cz.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-kviz-startuje-ms-ve-fotbale-co-vite-o-nejvetsim-fotbalovem-turnaji-sveta-5475933",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-06-10T12:04:59.000Z"
   }
 ]
