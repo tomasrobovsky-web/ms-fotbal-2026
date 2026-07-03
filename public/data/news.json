@@ -47,7 +47,7 @@
   {
     "id": "n868zxp",
     "title": "Favorité v nejistotě. FIFA zvažuje přesun několika osmifinále",
-    "description": "Osmifinálový zápas fotbalového mistrovství světa mezi Mexikem a Anglií může změnit čas výkopu. Podle zahraničních médií se kvůli riziku bouřek řeší přesun utkání o šest hodin dříve. Podobná nejistota provází i duel Brazílie s Norskem, kde má být problémem horko.",
+    "description": "Obavy z počasí se začínají výrazně promítat do programu vyřazovací fáze fotbalového mistrovství světa. Kvůli riziku bouřek se podle zahraničních médií řeší časový posun atraktivního osmifinále mezi Mexikem a Anglií. Podobná nejistota provází i duel Brazílie s Norskem, kde má být problémem horko.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-favorit-v-nejistote-fifa-zvazuje-presun-jednoho-z-osmifinale-ms-5498337",
     "source": "Sport.cz",
     "imageUrl": null,
@@ -133,15 +133,6 @@
     "source": "Sport.cz",
     "imageUrl": null,
     "publishedAt": "2026-07-03T14:03:34.000Z"
-  },
-  {
-    "id": "nok7hb",
-    "title": "Messi versus zázrak MS. Šampioni z Argentiny hrají o osmifinále s Kapverdami",
-    "description": "Má to být jasná záležitost. Fotbalisté Kapverd už ale na mistrovství světa šokovali postupem ze skupiny a nyní se trpaslík chce pokusit o další pohádkový úspěch. V úvodním kole vyřazovací fáze turnaje v noci z pátka na sobotu vyzve v Miami Argentinu, kterou za zlatou obhajobou táhne nestárnoucí kapitán Lionel Messi. Utkání má výkop přesně o půlnoci českého času, podrobnou textovou online reportáž nabízí web Sport.cz.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-messi-versus-zazrak-ms-sampioni-z-argentiny-hraji-o-osmifinale-s-kapverdami-5497758",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-03T14:00:33.000Z"
   },
   {
     "id": "nsupr1x",
@@ -358,5 +349,14 @@
     "source": "Nova Sport",
     "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
     "publishedAt": "2026-07-02T13:29:00.000Z"
+  },
+  {
+    "id": "n1b32in2",
+    "title": "PŘEHLEDNĚ PAVOUK PLAY OFF: Mezi sedmičkou evropských osmifinalistů MS nejsou obhájci bronzu. Také druhý postup africké země šel přes penalty",
+    "description": "Čeští fotbalisté na MS 2026 žádnou výraznou stopu nezanechali, patří mezi celky, jejichž účast se omezila jen na základní skupinu. Na šampionátu, který hostí společně USA, Mexiko a Kanada, už se zrodilo i velké překvapení play off, když hned v úvodním kole skončili Němci. Ze hry jsou i minule třetí Chorvati. Na seznamu osmifinalistů zbývá obsadit už jen dvě volná políčka, postoupily Norsko, Brazílie, Maroko, Kanada, Francie, Paraguay, Španělsko, Portugalsko, Anglie, Mexiko, USA, Belgie, Egypt a Švýcarsko.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-postupova-matematika-cesi-musi-zdolat-mexiko-jinak-na-turnaji-patrne-konci-5483301",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-07-02T12:03:00.000Z"
   }
 ]
