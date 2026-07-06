@@ -252,15 +252,6 @@
     "publishedAt": "2026-07-06T05:07:00.000Z"
   },
   {
-    "id": "n17g0mcu",
-    "title": "Norsko zachvátila euforie. Po skalpu giganta věří v obrovskou senzaci",
-    "description": "Norsko se propadlo do totální euforie. Výhra 2:1 nad Brazílií v osmifinále mistrovství světa ve fotbale celou severskou zemi pořádně rozhicovala, například jen v Oslu vyšlo do ulic slavit historický postup sto tisíc lidí. A teď z tohoto království zní: „Můžeme vyhrát mistrovství světa!“",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-norsko-slavi-a-sni-muzeme-vyhrat-mistrovstvi-sveta-5500497",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-06T03:23:38.000Z"
-  },
-  {
     "id": "nzw5i90",
     "title": "Pavouk MS ve fotbale 2026: druhá známá dvojice pro čtvrtfinále. Jaké šlágry nabízí play off?",
     "description": "Fotbalové mistrovství světa má za sebou kompletní 1. kolo play off a v plném proudu už je i osmifinále. Šlágrem bude souboj Portugalska se Španělskem, který může znamenat konec nadějí na vysněnou trofej pro Cristiana Ronalda. A známe už i první dvě dvojice ve čtvrtfinále. Maroko se představí proti Francii a Norsko vyzve Anglii. Češi vypadli už ve skupině, finálovou bitvu uvidíme 19. července. Kompletního průvodce MS naleznete ZDE >>>",
@@ -358,5 +349,14 @@
     "source": "Nova Sport",
     "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
     "publishedAt": "2026-07-05T17:40:00.000Z"
+  },
+  {
+    "id": "ngaplge",
+    "title": "PŘEHLEDNĚ PAVOUK MS: Zkáza celků z amerického kontinentu, ve hře zůstávají už jen tři",
+    "description": "Fotbalové mistrovství světa vstoupilo už do druhého kola play off, v němž zatím prožívají zkázu celky z amerického kontinentu. Po vyřazení Kanady, Paraguaye, Brazílie i Mexika zůstávají ve hře už jen tři. Už ale známe složení dvou čtvrtfinálových zápasů. Obhájce stříbra Francie se utká s Marokem a Norové, kteří jsou mezi elitní osmičkou MS poprvé v historii, nastoupí proti Anglii.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-2026-pavouk-play-off-rozpis-program-5496299",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-07-05T16:20:03.000Z"
   }
 ]
