@@ -225,15 +225,6 @@
     "publishedAt": "2026-07-06T05:07:00.000Z"
   },
   {
-    "id": "ne88orh",
-    "title": "Historická blamáž, trápení nebere konce. Brazilci jsou po vyřazení pod palbou: Noční můra a katastrofa!",
-    "description": "Poprvé od roku 1990 budou chybět ve čtvrtfinále fotbalového mistrovství světa, a to se v Brazílii rozhodně nepřejde jen tak. Ihned po senzačním vyřazení s Norskem (1:2) se začala množit nemalá kritika. Vždyť Kanárci budou na titul z mundialu čekat nejdéle ve své historii.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-historicka-blamaz-trapeni-nebere-konce-brazilci-to-po-vyrazeni-schytavaji-nocni-mura-a-katastrofa-5500583",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-06T04:12:50.000Z"
-  },
-  {
     "id": "nelsfd4",
     "title": "Hořká dohra anglického postupu! Vypadá to hodně špatně, smutnil trenér",
     "description": "Football's Coming Home nebo Wonderwall. Dvě obří hitovky spojené s anglickým fotbalem provázely oslavy Albionu po výhře 3:2 nad Mexikem a s ní spojeném postupu do čtvrtfinále mistrovství světa. Hlavním hrdinou sice tentokrát nebyl Harry Kane, přesto se při oslavách pořádně rozezpíval. Výsledek? Přišel o hlas a při pozápasovém rozhovoru vyloženě trpěl. A nebyl jediný, kdo bujaré oslavy odnesl.",
@@ -358,5 +349,14 @@
     "source": "Nova Sport",
     "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
     "publishedAt": "2026-07-05T17:40:00.000Z"
+  },
+  {
+    "id": "ngaplge",
+    "title": "PŘEHLEDNĚ PAVOUK MS: Zkáza celků z amerického kontinentu, ve hře zůstávají už jen tři",
+    "description": "Fotbalové mistrovství světa vstoupilo už do druhého kola play off, v němž zatím prožívají zkázu celky z amerického kontinentu. Po vyřazení Kanady, Paraguaye, Brazílie i Mexika zůstávají ve hře už jen tři. Už ale známe složení dvou čtvrtfinálových zápasů. Obhájce stříbra Francie se utká s Marokem a Norové, kteří jsou mezi elitní osmičkou MS poprvé v historii, nastoupí proti Anglii.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-2026-pavouk-play-off-rozpis-program-5496299",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-07-05T16:20:03.000Z"
   }
 ]
