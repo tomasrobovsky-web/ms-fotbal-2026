@@ -15,7 +15,7 @@
     "goalDiff": 6,
     "points": 9,
     "form": "LWWWW",
-    "updatedAt": "2026-07-07 10:00:11"
+    "updatedAt": "2026-07-08 10:00:02"
   },
   {
     "rank": 1,
@@ -33,7 +33,7 @@
     "goalDiff": 4,
     "points": 6,
     "form": "LWLWW",
-    "updatedAt": "2026-07-07 10:00:11"
+    "updatedAt": "2026-07-08 10:00:02"
   },
   {
     "rank": 1,
@@ -51,7 +51,7 @@
     "goalDiff": 6,
     "points": 7,
     "form": "LWWWD",
-    "updatedAt": "2026-07-07 10:00:11"
+    "updatedAt": "2026-07-08 10:00:02"
   },
   {
     "rank": 1,
@@ -68,8 +68,8 @@
     "goalsAgainst": 3,
     "goalDiff": 4,
     "points": 7,
-    "form": "WWWD",
-    "updatedAt": "2026-07-07 10:00:11"
+    "form": "WWWWD",
+    "updatedAt": "2026-07-08 10:00:02"
   },
   {
     "rank": 1,
@@ -87,6 +87,6 @@
     "goalDiff": 6,
     "points": 6,
     "form": "LLWW",
-    "updatedAt": "2026-07-07 10:00:11"
+    "updatedAt": "2026-07-08 10:00:02"
   }
 ]
