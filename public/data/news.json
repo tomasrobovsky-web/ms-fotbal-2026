@@ -108,15 +108,6 @@
     "publishedAt": "2026-07-10T14:30:00.000Z"
   },
   {
-    "id": "nun08o5",
-    "title": "Dospívající dívka zaplatila za oslavy postupu do semifinále MS životem",
-    "description": "Francouzští fotbalisté na mistrovství světa prosvištěli jako první mezi nejlepší čtyři týmy. Slavilo se po celé zemi galského kohouta. Euforii ale tlumí smrt mladé fanynky. Z postupu nadšená sedmnáctiletá dívka nastoupila na zadní plošinu nákladního vozidla. Když se vůz rozjel, spadla z něj a dostala se pod jeho kola.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-dospivajici-divka-zaplatila-za-oslavy-postupu-do-semifinale-ms-zivotem-5503320",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-10T14:12:47.000Z"
-  },
-  {
     "id": "n1fbza9k",
     "title": "Přípravy na ligu ONLINE: Hradec i s Daridou porazil třetí tým dánské ligy, vyhrál i Zlín",
     "description": "Souběžně s mistrovství světa ve fotbale běží přípravy na novou sezonu v české Chance Lize. Její nový ročník odstartuje 25. července. Sledujeme novinky ohledně přípravy všech týmů ONLINE na iSport.cz.",
@@ -154,7 +145,7 @@
   },
   {
     "id": "n1mpq777",
-    "title": "FOTBAL ONLINE: Belgie hraje ve čtvrtfinále MS se Španěly, které neporazila 40 let",
+    "title": "FOTBAL ONLINE: Španělé se pozvolna dostávají do zajímavých šancí",
     "description": "Neoblíbeného soupeře potkávají fotbalisté Belgie v pátečním čtvrtfinále mistrovství světa. Nad Španělskem totiž vyhráli naposledy před 40 lety - v roce 1986 ve stejné fázi MS, navíc až po penaltovém rozstřelu. Zápas na stadionu v Los Angeles začal ve 21 hodin českého času, Sport.cz z utkání přináší online reportáž. Stav je 0:0.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-2026-ctvrtfinale-spanelsko-belgie-online-5503305",
     "source": "Sport.cz",
@@ -358,5 +349,14 @@
     "source": "Nova Sport",
     "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/d817e474-a212-410d-8be5-fa9d1c91b0cf",
     "publishedAt": "2026-07-09T12:44:00.000Z"
+  },
+  {
+    "id": "n1ps08q",
+    "title": "Od zlaté marocké dvacítky až do čtvrtfinále MS. Ouahbi umlčel všechny pochybovače",
+    "description": "Před několika lety mu ještě jako studentovi prvního ročníku na učitele tělesné výchovy řekli, že na kariéru pedagoga nemá potřebné předpoklady. Mohamed Ouahbi (49) se však nenechal zastrašit. Dnes je trenérem úspěšné generace Maroka, která ve čtvrtfinále MS 2026 vyzve silnou Francii.",
+    "url": "https://www.eurofotbal.cz/clanky/od-zlate-marocke-dvacitky-az-do-ctvrtfinale-ms-ouahbi-umlcel-vsechny-pochybovace-832691/",
+    "source": "Eurofotbal",
+    "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/AJJabpCG-WScvtHFq.jpg",
+    "publishedAt": "2026-07-09T12:13:00.000Z"
   }
 ]
