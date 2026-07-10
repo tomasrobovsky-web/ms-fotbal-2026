@@ -90,15 +90,6 @@
     "publishedAt": "2026-07-10T16:16:00.000Z"
   },
   {
-    "id": "n1wvmpz4",
-    "title": "ANALÝZA: Pálí jako u Verdunu. Francouzi překonávají obrany i vlastní slavné generace",
-    "description": "Nejsilnější a nejnašlapanější tým v historii? Na takové hodnocení je zatím brzy. Francie však na fotbalovém mistrovství světa budí hrůzu v soupeřích a obdiv u fanoušků. Sílu Les Bleus na šampionátu podtrhl čtvrteční hladký postup 2:0 přes Maroko do semifinále. Tým trenéra Didiera Deschampse ale i v porovnání s předchozími ročníky kraluje. To potvrzují data, která přibližuje analýza na Sport.cz.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-analyza-pali-jako-u-verdunu-francouzi-prekonavaji-obrany-i-vlastni-slavne-generace-5503340",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-10T16:09:49.000Z"
-  },
-  {
     "id": "n13j9oo5",
     "title": "Portugalce dovede na MS 2030 zkušený trenér Jesus",
     "description": "Portugalskou fotbalovou reprezentaci bude nově trénovat zkušený Jorge Jesus. Dosavadní kouč kapitána Cristiana Ronalda v saúdskoarabském an-Nasru dostal podle médií čtyřletou smlouvu. Bývalý profesionální fotbalista Jesus zahájil trenérskou kariéru v roce 1990. Vedl mimo jiné lisabonské velkokluby Benficu a Sporting, turecké Fenerbahce a brazilské Flamengo.",
@@ -286,5 +277,14 @@
     "source": "Sport.cz",
     "imageUrl": null,
     "publishedAt": "2026-07-08T12:33:55.000Z"
+  },
+  {
+    "id": "ncyuubx",
+    "title": "MS 2026: Program play off fotbalového šampionátu v USA, Kanadě a Mexiku",
+    "description": "Fotbalovým vrcholem roku 2026 je bezesporu světový šampionát, který se koná od 11. června do 19. července v USA, Kanadě a v Mexiku. A nechybí u toho ani česká reprezentace. Přečtěte si program mistrovství světa ve fotbale 2026 na Sport.cz.",
+    "url": "https://www.sport.cz/clanek/fotbal-ms-mistrovstvi-sveta-2026-usa-kanada-mexiko-program-tabulky-skupiny-cesko-5429712",
+    "source": "Sport.cz",
+    "imageUrl": null,
+    "publishedAt": "2026-06-29T03:09:00.000Z"
   }
 ]
