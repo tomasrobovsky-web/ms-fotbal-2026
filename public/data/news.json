@@ -1,5 +1,23 @@
 [
   {
+    "id": "n1q88q34",
+    "title": "MS 2026 ON-LINE: Deset gólů v zápase o třetí místo. Mbappé pod palbou kritiky",
+    "description": "Bronzovými medailisty mistrovství světa se stávají fotbalisté Anglie. Po famózní přestřelce porazili Francii 6:4 a berou cenný kov na světovém šampionátu po 60 letech. Pro trenéra Didiera Deschampse je to tak hořké loučení s francouzskou reprezentací. Ten navíc přiznal, že chtěl o půli vystřídat hned osm hráčů. A kapitán Kylian Mbappé se ocitl pod palbou kritiky po situaci v poločase.",
+    "url": "https://tn.nova.cz/sport/clanek/649884-ms-2026-on-line-deset-golu-v-zapase-o-treti-misto-saka-zazaril-hattrickem",
+    "source": "Nova Sport",
+    "imageUrl": null,
+    "publishedAt": "2026-07-19T08:50:00.000Z"
+  },
+  {
+    "id": "n1conlos",
+    "title": "Dokonalé finále MS: Jak Španělsko inspiruje celý svět a proč může vyhrát Argentina",
+    "description": "BLOG PHILIPPA LAHMA | Dvě země v současnosti dodávají fotbalu mocný mezinárodní impuls. Španělsko představuje vůdčí fotbalovou kulturu, která šíří svůj vliv z Evropy do celého světa. Také Argentina ovšem disponuje osobitou identitou, která formuje jihoamerický kontinent. Mistrovství světa proto vrcholí dokonalým finále. Pavouk MS ve fotbale 2026 >>>",
+    "url": "https://isport.blesk.cz/clanek/muj-isport-blogy-redaktori-philipp-lahm/477779/dokonale-finale-ms-jak-spanelsko-inspiruje-cely-svet-a-proc-muze-vyhrat-argentina.html",
+    "source": "iSport",
+    "imageUrl": "https://1884403144.rsc.cdn77.org/foto/sport-fotbal-argentina-spanelsko/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSkvaW1n/9913525.jpg?v=0&st=m4ZQc8NU-wh5zVVEsuxGVhUHya2AYs6yLQvFJUABCq4&ts=1600812000&e=0",
+    "publishedAt": "2026-07-19T08:25:00.000Z"
+  },
+  {
     "id": "nx901ld",
     "title": "Mistr světa ve fotbale dostane k trofeji ještě miliardovou prémii od FIFA",
     "description": "Fotbaloví mistři světa dnes večer dostanou vedle vysněné zlaté trofeje také rekordní odměnu od mezinárodní federace FIFA. Vítěz finálového souboje mezi Španělskem a Argentinou získá 50 milionů dolarů (1,06 miliardy korun), poražený tým obdrží 33 milionů dolarů (699 milionů korun).",
@@ -19,7 +37,7 @@
   },
   {
     "id": "n1udt2h2",
-    "title": "Konec úspěšné éry. Trenér Francie se loučí po čtrnácti letech, plakal a poslal vzkaz nástupci",
+    "title": "Slzy na rozloučenou. Deschamps po čtrnácti letech končí jako trenér Francie, poslal vzkaz svému nástupci",
     "description": "Při své derniéře nejprve hodně trpěl, poté žil nadějí na velkolepý obrat. A když se otočka nepovedla a skousával porážku a zklamání, dokázal vyloudit i úsměv na tváři. Byl dojatý. Čtrnáctiletá éra trenéra Didiera Deschampse na lavičce fotbalové reprezentace Francie skončila porážkou v zápase o bronz na mistrovství světa prohrou 4:6 s Anglií. I tak odchází sedmapadesátiletý kouč jako král.",
     "url": "https://www.sport.cz/clanek/fotbal-ms-konec-uspesne-ery-trener-francie-se-loucil-po-ctrnacti-letech-plakal-a-poslal-vzkaz-nastupci-5506055",
     "source": "Sport.cz",
@@ -142,15 +160,6 @@
     "source": "iSport",
     "imageUrl": "https://1884403144.rsc.cdn77.org/foto/fotbal-play-off-ms-ve-fotbale/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSkvaW1n/9888237.jpg?v=0&st=D2AWsa2XrPYLICVi8tX8w0lSfVvPxhQkgubGJcUX4FQ&ts=1600812000&e=0",
     "publishedAt": "2026-07-18T23:25:00.000Z"
-  },
-  {
-    "id": "n1q88q34",
-    "title": "MS 2026 ON-LINE: Deset gólů v zápase o třetí místo. Saka zazářil hattrickem",
-    "description": "Bronzovými medailisty mistrovství světa se stávají fotbalisté Anglie. Po famózní přestřelce porazili Francii 6:4 a berou cenný kov na světovém šampionátu po 60 letech.",
-    "url": "https://tn.nova.cz/sport/clanek/649884-ms-2026-on-line-deset-golu-v-zapase-o-treti-misto-saka-zazaril-hattrickem",
-    "source": "Nova Sport",
-    "imageUrl": null,
-    "publishedAt": "2026-07-18T23:15:00.000Z"
   },
   {
     "id": "nhqutw2",
@@ -349,14 +358,5 @@
     "source": "iSport",
     "imageUrl": "https://1884403144.rsc.cdn77.org/foto/anglie/MzMweDE4MC9jZW50ZXIvdG9wL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSk6Zm9jYWwoNTUxeDQyOjc1NngzMjMpL2ltZw/9902775.jpg?v=0&st=-PlFUIEax9KRCNhi2pIRKw1quzQDRK_6GA9g5GQ3ri8&ts=1600812000&e=0",
     "publishedAt": "2026-07-18T09:30:00.000Z"
-  },
-  {
-    "id": "nrgody2",
-    "title": "Volby ve FIFA bez dramatu: Infantino má předem jistou podporu přes 200 zemí",
-    "description": "Infantino vede Mezinárodní fotbalovou federaci od roku 2016 a uchází se o své čtvrté období v čele organizace. Případní protikandidáti mají čas na podání oficiální přihlášky do 18. listopadu, žádné velké jméno ze světa fotbalu však zatím zájem o tuto pozici neprojevilo. Vše tak nasvědčuje tomu, že stávající šéf nebude mít ve volbách žádného vážného soupeře. Drtivá většina fotbalových asociací se za Infantina postavila, ačkoliv několik evropských federací, včetně Německa, s oficiálním vyjádřením podpory stále váhá. V zákulisí se sice objevují hlasy, které poukazují na to, že FIFA vyvíjí na členské státy tlak, aby Infantinovu kandidaturu stvrdily předem, na celkovém výsledku to ale nic nezmění. Související obsah 18. 7. 2026 Matyáš Adam M. ADAM Současného šéfa FIFA neoslabila ani kritika za jeho jednostranná rozhodnutí nebo blízké vazby na amerického prezidenta Donalda Trumpa. Ty se naplno řešily během mistrovství světa v souvislosti s kontroverzním zrušením trestu pro amerického útočníka Folarina Baloguna. Pro březnový kongres má Infantino dostatek hlasů a jeho znovuzvolení je prakticky jisté.",
-    "url": "https://tn.nova.cz/sport/clanek/652643-volby-ve-fifa-bez-dramatu-infantino-ma-predem-jistou-podporu-pres-200-zemi",
-    "source": "Nova Sport",
-    "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
-    "publishedAt": "2026-07-18T08:51:00.000Z"
   }
 ]
