@@ -243,15 +243,6 @@
     "publishedAt": "2026-07-20T13:09:59.000Z"
   },
   {
-    "id": "n7abqpy",
-    "title": "Český brankář popisuje pobláznění v zemi mistrů světa. Fotbal tady a u nás? Nejde srovnávat, říká",
-    "description": "Jen několik kilometrů od bytu, kde bydlí, probíhá obrovská party. Český fotbalový brankář Jiří Letáček, jenž působí v Getafe, přihlíží oslavám Španělska po triumfu na mistrovství světa z první řady. Největší zážitek mu během šampionátu připravili spoluhráči, když společně na soustředění sledovali semifinále s Francií. „Cítil jsem se jako na stadionu,“ popisuje sedmadvacetiletý Letáček.",
-    "url": "https://www.sport.cz/clanek/fotbal-ms-zazitek-na-cely-zivot-cesky-golman-ze-spanelska-vypravi-o-triumfu-novych-mistru-sveta-5506514",
-    "source": "Sport.cz",
-    "imageUrl": null,
-    "publishedAt": "2026-07-20T13:02:53.000Z"
-  },
-  {
     "id": "n14vwogf",
     "title": "Darida: V nároďáku jsem už jednou skončil, návrat se týkal jen baráže a MS",
     "description": "Vladimír Darida nepřímo oznámil konec v reprezentaci. Jeho letošní návrat do národního týmu po pěti letech se podle jeho slov týkal pouze baráže a následného mistrovství světa, nešlo o dlouhodobou pomoc. Ohlašovat jasné ukončení reprezentační kariéry pětatřicetiletý záložník Hradce Králové nechtěl vzhledem k tomu, že už tak jednou učinil.",
@@ -358,5 +349,14 @@
     "source": "Nova Sport",
     "imageUrl": "https://nova-ott-images-tn.ssl.cdn.cra.cz/r236x131/0269da1a-405f-4897-b1c3-29791cafc991",
     "publishedAt": "2026-07-20T08:13:00.000Z"
+  },
+  {
+    "id": "n1yfk57a",
+    "title": "Šampionát měl nejvyšší gólový průměr od roku 1970. Nejvíce přispěly Anglie s Francií",
+    "description": "Uplynulé mistrovství světa ve fotbale bylo nejgólovějším za posledních 56 let. Na turnaji v Severní Americe padalo v průměru 2,96 branky na zápas, což je nejvíce od šampionátu v roce 1970. Tehdy v Mexiku činil průměr téměř tři góly na utkání.",
+    "url": "https://www.eurofotbal.cz/clanky/sampionat-mel-nejvyssi-golovy-prumer-od-roku-1970-nejvice-prispely-anglie-s-francii-834149/",
+    "source": "Eurofotbal",
+    "imageUrl": "https://www.eurofotbal.cz/res/img/articles/top/voCIkBsQ-ObcWCced.jpg",
+    "publishedAt": "2026-07-20T07:44:00.000Z"
   }
 ]
