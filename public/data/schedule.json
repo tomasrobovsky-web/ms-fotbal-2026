@@ -1294,5 +1294,23 @@
     "status": "FT",
     "homeScore": 1,
     "awayScore": 3
+  },
+  {
+    "id": "2533360",
+    "name": "France vs England",
+    "homeTeam": "France",
+    "awayTeam": "England",
+    "homeTeamId": "133913",
+    "awayTeamId": "133914",
+    "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png",
+    "group": null,
+    "date": "2026-07-18",
+    "timeUtc": "21:00:00",
+    "venue": "Hard Rock Stadium",
+    "round": 3,
+    "status": "FT",
+    "homeScore": 4,
+    "awayScore": 6
   }
 ]
