@@ -1,13 +1,13 @@
 {
-  "lastInit": "2026-10-01T15:35:41.075Z",
+  "lastInit": "2026-10-01T15:40:46.063Z",
   "teamsCount": 48,
   "matchesCount": 72,
   "standingsCount": 5,
   "squadsCount": 48,
-  "workerLastTick": "2026-10-01T15:35:53.675Z",
+  "workerLastTick": "2026-10-01T15:40:58.085Z",
   "lastNewsSync": "2026-06-12T23:05:59.324Z",
   "newsCount": 40,
   "workerMode": "QUIET",
-  "lastBackfill": "2026-10-01T15:35:53.675Z",
+  "lastBackfill": "2026-10-01T15:40:58.084Z",
   "detailsCount": 72
 }
